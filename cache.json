@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 11:30",
+  "updated_at": "11.10.2026 11:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,23 +39,6 @@
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "11:11",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 57
-    },
-    {
-      "dt": 1791706500.0,
-      "time_scheduled": "10:15",
       "time_estimated": "10:44",
       "flight_no": "GQ890",
       "airline": "Sky Express",
@@ -86,6 +69,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791706500.0,
+      "time_scheduled": "10:15",
+      "time_estimated": "11:11",
+      "flight_no": "UD437",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 57
     },
     {
       "dt": 1791707100.0,
@@ -294,7 +294,7 @@
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:36",
+      "time_estimated": "11:33",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -304,9 +304,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 27
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 24
     },
     {
       "dt": 1791710400.0,
@@ -339,7 +339,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 23
     },
     {
@@ -430,7 +430,7 @@
     {
       "dt": 1791711600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:37",
+      "time_estimated": "11:31",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -440,8 +440,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -481,7 +481,7 @@
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:58",
+      "time_estimated": "12:06",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -492,8 +492,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 8
+      "status_text": "Vorhafen verlassen",
+      "delay": 17
     },
     {
       "dt": 1791712200.0,
@@ -509,7 +509,7 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -526,7 +526,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -542,8 +542,8 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 5
     },
     {
@@ -600,7 +600,7 @@
     {
       "dt": 1791714000.0,
       "time_scheduled": "12:20",
-      "time_estimated": "13:14",
+      "time_estimated": "13:08",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -612,7 +612,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 55
+      "delay": 49
     },
     {
       "dt": 1791714300.0,
@@ -736,7 +736,7 @@
     {
       "dt": 1791714900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "13:58",
+      "time_estimated": "14:18",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -748,7 +748,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 84
+      "delay": 104
     },
     {
       "dt": 1791715500.0,
@@ -1246,7 +1246,7 @@
     {
       "dt": 1791721500.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:25",
+      "time_estimated": "14:33",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1258,7 +1258,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1791721800.0,
@@ -1365,7 +1365,7 @@
     {
       "dt": 1791723900.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:05",
+      "time_estimated": "14:58",
       "flight_no": "XQ280",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1376,7 +1376,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1610,6 +1610,23 @@
       "country": "Libanon",
       "type": "Charter",
       "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791729300.0,
+      "time_scheduled": "16:35",
+      "time_estimated": "16:35",
+      "flight_no": "XQ288",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
