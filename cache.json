@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 07:55",
+  "updated_at": "11.10.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -73,7 +73,7 @@
     {
       "dt": 1791697200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:57",
+      "time_estimated": "07:54",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -83,9 +83,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 18
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 15
     },
     {
       "dt": 1791698400.0,
@@ -175,7 +175,7 @@
     {
       "dt": 1791701100.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:52",
+      "time_estimated": "08:57",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -186,8 +186,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 8
+      "status_text": "Vorhafen verlassen",
+      "delay": 13
     },
     {
       "dt": 1791701100.0,
@@ -430,7 +430,7 @@
     {
       "dt": 1791704100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:29",
+      "time_estimated": "09:34",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -441,7 +441,7 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -464,7 +464,7 @@
     {
       "dt": 1791705000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:46",
+      "time_estimated": "09:38",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -475,7 +475,7 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -498,7 +498,7 @@
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "11:06",
+      "time_estimated": "11:16",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -509,8 +509,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 52
+      "status_text": "Vorhafen verlassen",
+      "delay": 61
     },
     {
       "dt": 1791706500.0,
@@ -685,14 +685,14 @@
     {
       "dt": 1791709200.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:59",
+      "time_estimated": "10:58",
       "flight_no": "4M772",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
       "country": "Türkei",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "C",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -855,7 +855,7 @@
     {
       "dt": 1791711600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "12:04",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -867,7 +867,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 24
     },
     {
       "dt": 1791711600.0,
@@ -1242,6 +1242,23 @@
       "status": "scheduled",
       "status_text": "",
       "delay": 0
+    },
+    {
+      "dt": 1791715800.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:58",
+      "flight_no": "EW9793",
+      "airline": "Eurowings",
+      "city": "Bukarest-Otopeni",
+      "country": "Rumänien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 8
     }
   ]
 }
