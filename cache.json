@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 16:15",
+  "updated_at": "11.10.2026 16:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 51
-    },
-    {
-      "dt": 1791719400.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "14:20",
-      "flight_no": "AF1506",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 30
     },
     {
       "dt": 1791719700.0,
@@ -139,23 +122,6 @@
       "delay": 33
     },
     {
-      "dt": 1791720300.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:15",
-      "flight_no": "XQ958",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 11
-    },
-    {
       "dt": 1791720600.0,
       "time_scheduled": "14:10",
       "time_estimated": "14:39",
@@ -171,23 +137,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 30
-    },
-    {
-      "dt": 1791720600.0,
-      "time_scheduled": "14:10",
-      "time_estimated": "14:17",
-      "flight_no": "EW9815",
-      "airline": "Eurowings",
-      "city": "Catania (Sizilien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 8
     },
     {
       "dt": 1791720900.0,
@@ -423,8 +372,8 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 65
     },
     {
@@ -542,8 +491,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 24
     },
     {
@@ -566,7 +515,7 @@
     {
       "dt": 1791729300.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:35",
+      "time_estimated": "16:40",
       "flight_no": "XQ288",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -578,7 +527,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1791730200.0,
@@ -685,7 +634,7 @@
     {
       "dt": 1791731700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:14",
+      "time_estimated": "17:24",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -697,7 +646,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1791732000.0,
@@ -1263,7 +1212,7 @@
     {
       "dt": 1791738900.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:15",
+      "time_estimated": "19:21",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -1275,7 +1224,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1791738900.0,
@@ -1690,6 +1639,40 @@
       "time_scheduled": "21:05",
       "time_estimated": "21:05",
       "flight_no": "EW6894",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791745500.0,
+      "time_scheduled": "21:05",
+      "time_estimated": "21:17",
+      "flight_no": "X37102",
+      "airline": "Tuifly",
+      "city": "Boa Vista (Kapverden)",
+      "country": "Kapverdische Inseln",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "delay": 12
+    },
+    {
+      "dt": 1791746400.0,
+      "time_scheduled": "21:20",
+      "time_estimated": "21:20",
+      "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
