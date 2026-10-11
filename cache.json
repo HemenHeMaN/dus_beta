@@ -1,41 +1,7 @@
 {
-  "updated_at": "11.10.2026 13:10",
+  "updated_at": "11.10.2026 13:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791706500.0,
-      "time_scheduled": "10:15",
-      "time_estimated": "11:11",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 57
-    },
-    {
-      "dt": 1791709200.0,
-      "time_scheduled": "11:00",
-      "time_estimated": "11:13",
-      "flight_no": "DE1827",
-      "airline": "Condor",
-      "city": "Olbia (Sardinien)",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 14
-    },
     {
       "dt": 1791709500.0,
       "time_scheduled": "11:05",
@@ -430,23 +396,6 @@
     {
       "dt": 1791714600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:11",
-      "flight_no": "XC104",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791714600.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:22",
       "flight_no": "X32815",
       "airline": "Tuifly",
@@ -457,6 +406,23 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791714600.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:11",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -611,7 +577,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 32
     },
     {
@@ -634,7 +600,7 @@
     {
       "dt": 1791717300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:26",
+      "time_estimated": "13:24",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -646,7 +612,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1791717300.0,
@@ -668,7 +634,7 @@
     {
       "dt": 1791717900.0,
       "time_scheduled": "13:25",
-      "time_estimated": "13:18",
+      "time_estimated": "13:12",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -678,8 +644,8 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -702,7 +668,7 @@
     {
       "dt": 1791718200.0,
       "time_scheduled": "13:30",
-      "time_estimated": "15:21",
+      "time_estimated": "15:31",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -713,8 +679,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 112
+      "status_text": "Vorhafen verlassen",
+      "delay": 121
     },
     {
       "dt": 1791719100.0,
@@ -787,7 +753,7 @@
     {
       "dt": 1791719400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:46",
+      "time_estimated": "14:27",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -799,12 +765,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 56
+      "delay": 37
     },
     {
       "dt": 1791719700.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:11",
+      "time_estimated": "14:17",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -816,7 +782,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 17
+      "delay": 23
     },
     {
       "dt": 1791719700.0,
@@ -991,7 +957,7 @@
     {
       "dt": 1791720900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:46",
+      "time_estimated": "14:54",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1003,7 +969,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 31
+      "delay": 39
     },
     {
       "dt": 1791721500.0,
@@ -1815,6 +1781,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791735300.0,
+      "time_scheduled": "18:15",
+      "time_estimated": "18:15",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
