@@ -1,24 +1,7 @@
 {
-  "updated_at": "11.10.2026 10:20",
+  "updated_at": "11.10.2026 10:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791700800.0,
-      "time_scheduled": "08:40",
-      "time_estimated": "08:22",
-      "flight_no": "EY133",
-      "airline": "Etihad Airways",
-      "city": "Abu Dhabi",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791700800.0,
       "time_scheduled": "08:40",
@@ -413,7 +396,7 @@
     {
       "dt": 1791707100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:23",
+      "time_estimated": "10:30",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -425,7 +408,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1791707400.0,
@@ -634,7 +617,7 @@
     {
       "dt": 1791710400.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:26",
+      "time_estimated": "11:42",
       "flight_no": "EW9831",
       "airline": "Eurowings",
       "city": "Florenz",
@@ -646,7 +629,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 7
+      "delay": 23
     },
     {
       "dt": 1791711000.0,
@@ -691,9 +674,9 @@
       "city": "Tivat",
       "country": "Montenegro",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -804,7 +787,7 @@
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:46",
+      "time_estimated": "12:23",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -816,7 +799,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 34
     },
     {
       "dt": 1791712200.0,
@@ -894,11 +877,11 @@
       "airline": "Eurowings",
       "city": "Tirana",
       "country": "Albanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 11
@@ -923,7 +906,7 @@
     {
       "dt": 1791714000.0,
       "time_scheduled": "12:20",
-      "time_estimated": "13:14",
+      "time_estimated": "13:15",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -935,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 55
+      "delay": 56
     },
     {
       "dt": 1791714300.0,
@@ -997,10 +980,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -1025,7 +1008,7 @@
     {
       "dt": 1791714900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:26",
+      "time_estimated": "12:45",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1036,8 +1019,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 11
     },
     {
       "dt": 1791714900.0,
@@ -1144,7 +1127,7 @@
     {
       "dt": 1791716700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:47",
+      "time_estimated": "13:24",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -1156,7 +1139,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 42
+      "delay": 19
     },
     {
       "dt": 1791716700.0,
@@ -1178,7 +1161,7 @@
     {
       "dt": 1791717000.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:09",
+      "time_estimated": "13:06",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -1189,7 +1172,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
