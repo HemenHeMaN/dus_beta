@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 14:35",
+  "updated_at": "11.10.2026 14:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -69,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 99
-    },
-    {
-      "dt": 1791714900.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "12:40",
-      "flight_no": "EW9655",
-      "airline": "Eurowings",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 5
     },
     {
       "dt": 1791715500.0,
@@ -192,23 +175,6 @@
     {
       "dt": 1791717300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:20",
-      "flight_no": "BM560",
-      "airline": "Medsky Airways",
-      "city": "Tripolis-Mitiga",
-      "country": "Libyen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 6
-    },
-    {
-      "dt": 1791717300.0,
-      "time_scheduled": "13:15",
       "time_estimated": "13:15",
       "flight_no": "BA920",
       "airline": "British Airways",
@@ -222,6 +188,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 1
+    },
+    {
+      "dt": 1791717300.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "13:20",
+      "flight_no": "BM560",
+      "airline": "Medsky Airways",
+      "city": "Tripolis-Mitiga",
+      "country": "Libyen",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 6
     },
     {
       "dt": 1791717900.0,
@@ -277,7 +260,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:47",
+      "time_estimated": "14:53",
       "flight_no": "EW9627",
       "airline": "Eurowings",
       "city": "Zakynthos",
@@ -288,8 +271,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 63
+      "status_text": "im Anflug",
+      "delay": 68
     },
     {
       "dt": 1791719100.0,
@@ -311,7 +294,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:38",
+      "time_estimated": "14:35",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -321,9 +304,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 54
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 51
     },
     {
       "dt": 1791719400.0,
@@ -447,7 +430,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:41",
+      "time_estimated": "14:38",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -457,9 +440,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 37
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 33
     },
     {
       "dt": 1791720300.0,
@@ -481,7 +464,7 @@
     {
       "dt": 1791720600.0,
       "time_scheduled": "14:10",
-      "time_estimated": "14:43",
+      "time_estimated": "14:39",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -491,9 +474,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 33
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 30
     },
     {
       "dt": 1791720600.0,
@@ -560,7 +543,7 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 38
     },
     {
@@ -708,10 +691,10 @@
       "city": "Zonguldak",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -1025,19 +1008,19 @@
     {
       "dt": 1791731100.0,
       "time_scheduled": "17:05",
-      "time_estimated": "18:34",
+      "time_estimated": "18:32",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
       "country": "Ägypten",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "C",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 90
+      "delay": 88
     },
     {
       "dt": 1791731400.0,
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791733500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "17:39",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -1812,6 +1795,40 @@
       "airline": "Austrian Airlines",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791740400.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:40",
+      "flight_no": "JU362",
+      "airline": "Air Serbia",
+      "city": "Belgrad",
+      "country": "Serbien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791740400.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:40",
+      "flight_no": "LH2026",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
