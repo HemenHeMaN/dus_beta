@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 22:00",
+  "updated_at": "11.10.2026 22:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -294,7 +294,7 @@
     {
       "dt": 1791747600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "23:11",
+      "time_estimated": "23:05",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -306,12 +306,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 91
+      "delay": 86
     },
     {
       "dt": 1791747600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "22:45",
+      "time_estimated": "22:50",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -323,7 +323,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 66
+      "delay": 71
     },
     {
       "dt": 1791747600.0,
@@ -441,7 +441,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 26
     },
     {
@@ -458,7 +458,7 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 20
     },
     {
@@ -481,7 +481,7 @@
     {
       "dt": 1791748500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "23:29",
+      "time_estimated": "23:36",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -493,7 +493,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 94
+      "delay": 101
     },
     {
       "dt": 1791748500.0,
@@ -515,7 +515,7 @@
     {
       "dt": 1791748800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:04",
+      "time_estimated": "22:02",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -525,9 +525,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 2
     },
     {
       "dt": 1791748800.0,
@@ -695,14 +695,14 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 11
     },
     {
       "dt": 1791749400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:07",
+      "time_estimated": "22:04",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -712,31 +712,31 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
       "dt": 1791749700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:24",
+      "time_estimated": "22:22",
       "flight_no": "EW9245",
       "airline": "Eurowings",
       "city": "Kopenhagen",
       "country": "Dänemark",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 10
+      "delay": 8
     },
     {
       "dt": 1791749700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:03",
+      "time_estimated": "22:08",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -763,8 +763,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -831,8 +831,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -895,12 +895,12 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "4",
+      "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
