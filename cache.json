@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 17:05",
+  "updated_at": "11.10.2026 17:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -33,25 +33,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 154
-    },
-    {
-      "dt": 1791724200.0,
-      "time_scheduled": "15:10",
-      "time_estimated": "15:06",
-      "flight_no": "XQ1328",
-      "airline": "Sun Express",
-      "city": "Zonguldak",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791724500.0,
@@ -277,7 +260,7 @@
     {
       "dt": 1791730200.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:18",
+      "time_estimated": "17:09",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -287,9 +270,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 29
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 20
     },
     {
       "dt": 1791730500.0,
@@ -317,9 +300,9 @@
       "city": "Zürich",
       "country": "Schweiz",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -406,26 +389,26 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
       "dt": 1791732300.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:35",
+      "time_estimated": "17:22",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 10
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 0
     },
     {
       "dt": 1791732300.0,
@@ -498,7 +481,7 @@
     {
       "dt": 1791733500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "18:05",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -510,7 +493,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 21
     },
     {
       "dt": 1791733500.0,
@@ -611,8 +594,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 12
+      "status_text": "Vorhafen verlassen",
+      "delay": 11
     },
     {
       "dt": 1791734100.0,
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791741000.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:49",
+      "time_estimated": "19:50",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1224,7 +1207,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791741600.0,
@@ -1304,7 +1287,7 @@
       "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1865,7 +1848,7 @@
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1880,6 +1863,40 @@
       "airline": "Lufthansa",
       "city": "Frankfurt",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791749400.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9847",
+      "airline": "Eurowings",
+      "city": "Mailand-Linate",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791749400.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "SK629",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
