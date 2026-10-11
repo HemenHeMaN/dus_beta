@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 21:20",
+  "updated_at": "11.10.2026 21:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,23 +100,6 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791739800.0,
-      "time_scheduled": "19:30",
-      "time_estimated": "19:22",
-      "flight_no": "XQ180",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -294,7 +277,7 @@
     {
       "dt": 1791743400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:21",
+      "time_estimated": "21:20",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -304,9 +287,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 52
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 50
     },
     {
       "dt": 1791744000.0,
@@ -390,7 +373,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 52
     },
     {
@@ -481,7 +464,7 @@
     {
       "dt": 1791747000.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:44",
+      "time_estimated": "21:50",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -493,7 +476,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 15
+      "delay": 20
     },
     {
       "dt": 1791747300.0,
@@ -577,7 +560,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 6
     },
     {
@@ -591,10 +574,10 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 3
     },
     {
@@ -610,8 +593,8 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 6
     },
     {
@@ -719,7 +702,7 @@
     {
       "dt": 1791748500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "23:06",
+      "time_estimated": "23:29",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -731,7 +714,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 71
+      "delay": 94
     },
     {
       "dt": 1791748500.0,
@@ -746,8 +729,8 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -1138,7 +1121,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1201,9 +1184,9 @@
       "city": "Hurghada",
       "country": "Ägypten",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
