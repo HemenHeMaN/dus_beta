@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 08:55",
+  "updated_at": "11.10.2026 09:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -243,7 +243,7 @@
     {
       "dt": 1791702300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:09",
+      "time_estimated": "08:59",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -253,9 +253,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791702600.0,
@@ -271,7 +271,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -287,8 +287,8 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -328,7 +328,7 @@
     {
       "dt": 1791703800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:27",
+      "time_estimated": "09:22",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -549,7 +549,7 @@
     {
       "dt": 1791708300.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:34",
+      "time_estimated": "10:43",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -560,7 +560,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -719,7 +719,7 @@
     {
       "dt": 1791711000.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:53",
+      "time_estimated": "11:54",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -731,12 +731,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 24
+      "delay": 25
     },
     {
       "dt": 1791711000.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:47",
+      "time_estimated": "11:50",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -748,7 +748,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 18
+      "delay": 21
     },
     {
       "dt": 1791711300.0,
@@ -804,7 +804,7 @@
     {
       "dt": 1791711600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:08",
+      "time_estimated": "11:58",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -816,7 +816,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 28
+      "delay": 19
     },
     {
       "dt": 1791711600.0,
@@ -838,7 +838,7 @@
     {
       "dt": 1791711900.0,
       "time_scheduled": "11:45",
-      "time_estimated": "12:00",
+      "time_estimated": "11:56",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -850,7 +850,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 15
+      "delay": 12
     },
     {
       "dt": 1791712200.0,
@@ -940,7 +940,7 @@
     {
       "dt": 1791712500.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:55",
+      "time_estimated": "12:03",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -952,7 +952,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1791712800.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1791713400.0,
       "time_scheduled": "12:10",
-      "time_estimated": "11:47",
+      "time_estimated": "11:48",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1331,6 +1331,23 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
+      "time_estimated": "13:58",
+      "flight_no": "QR085",
+      "airline": "Qatar Airways",
+      "city": "Doha",
+      "country": "Katar",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "delay": 13
+    },
+    {
+      "dt": 1791719100.0,
+      "time_scheduled": "13:45",
       "time_estimated": "13:45",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
@@ -1403,6 +1420,23 @@
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791720000.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:00",
+      "flight_no": "DE1623",
+      "airline": "Condor",
+      "city": "Rhodos",
       "country": "Griechenland",
       "type": "Charter",
       "type_source": "Airline",
