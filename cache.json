@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 15:25",
+  "updated_at": "11.10.2026 15:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,7 +39,7 @@
     {
       "dt": 1791718200.0,
       "time_scheduled": "13:30",
-      "time_estimated": "15:37",
+      "time_estimated": "15:27",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -49,9 +49,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 128
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 117
     },
     {
       "dt": 1791718200.0,
@@ -226,23 +226,6 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:15",
-      "flight_no": "XQ958",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 11
-    },
-    {
-      "dt": 1791720300.0,
-      "time_scheduled": "14:05",
       "time_estimated": "14:41",
       "flight_no": "EW9579",
       "airline": "Eurowings",
@@ -273,6 +256,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 33
+    },
+    {
+      "dt": 1791720300.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:15",
+      "flight_no": "XQ958",
+      "airline": "Sun Express",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 11
     },
     {
       "dt": 1791720600.0,
@@ -576,8 +576,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 11
     },
     {
@@ -600,7 +600,7 @@
     {
       "dt": 1791726300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:29",
+      "time_estimated": "15:25",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -610,8 +610,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -656,13 +656,13 @@
       "airline": "Air Cairo",
       "city": "Hurghada",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -1093,7 +1093,7 @@
     {
       "dt": 1791734100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:16",
+      "time_estimated": "18:08",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -1105,12 +1105,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 22
+      "delay": 13
     },
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:43",
+      "time_estimated": "18:45",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1122,7 +1122,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 43
+      "delay": 46
     },
     {
       "dt": 1791734400.0,
@@ -1246,7 +1246,7 @@
     {
       "dt": 1791736200.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:39",
+      "time_estimated": "18:38",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1331,7 +1331,7 @@
     {
       "dt": 1791737700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:29",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1671,7 +1671,7 @@
     {
       "dt": 1791740700.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:39",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
@@ -1682,7 +1682,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
