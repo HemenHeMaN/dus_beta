@@ -1,24 +1,7 @@
 {
-  "updated_at": "11.10.2026 16:10",
+  "updated_at": "11.10.2026 16:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791714900.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "14:14",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 99
-    },
     {
       "dt": 1791718200.0,
       "time_scheduled": "13:30",
@@ -222,23 +205,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 31
-    },
-    {
-      "dt": 1791720900.0,
-      "time_scheduled": "14:15",
-      "time_estimated": "14:12",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791721500.0,
@@ -481,7 +447,7 @@
     {
       "dt": 1791726600.0,
       "time_scheduled": "15:50",
-      "time_estimated": "16:14",
+      "time_estimated": "16:11",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -491,14 +457,14 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 25
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 22
     },
     {
       "dt": 1791726600.0,
       "time_scheduled": "15:50",
-      "time_estimated": "16:17",
+      "time_estimated": "16:14",
       "flight_no": "EW5497",
       "airline": "Eurowings",
       "city": "Antalya",
@@ -508,9 +474,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 28
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 24
     },
     {
       "dt": 1791726600.0,
@@ -560,7 +526,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 27
     },
     {
@@ -583,7 +549,7 @@
     {
       "dt": 1791728100.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:29",
+      "time_estimated": "16:24",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -595,7 +561,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 14
+      "delay": 9
     },
     {
       "dt": 1791729300.0,
@@ -872,7 +838,7 @@
     {
       "dt": 1791733500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:39",
+      "time_estimated": "17:40",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -883,7 +849,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -940,7 +906,7 @@
     {
       "dt": 1791733800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "17:51",
+      "time_estimated": "17:59",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -952,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 10
     },
     {
       "dt": 1791734100.0,
@@ -1246,7 +1212,7 @@
     {
       "dt": 1791738600.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:19",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1258,12 +1224,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1791738900.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:15",
+      "time_estimated": "19:18",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1275,7 +1241,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1791738900.0,
@@ -1450,7 +1416,7 @@
     {
       "dt": 1791739800.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:17",
+      "time_estimated": "19:15",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
