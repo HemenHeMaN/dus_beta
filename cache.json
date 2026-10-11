@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 11:15",
+  "updated_at": "11.10.2026 11:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 4
-    },
-    {
-      "dt": 1791703800.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:18",
-      "flight_no": "SK1629",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791703800.0,
@@ -430,7 +413,7 @@
     {
       "dt": 1791711000.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:44",
+      "time_estimated": "11:34",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -440,9 +423,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 15
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 5
     },
     {
       "dt": 1791711300.0,
@@ -515,7 +498,7 @@
     {
       "dt": 1791711600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:44",
+      "time_estimated": "11:37",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -525,9 +508,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 5
+      "status": "active",
+      "status_text": "im Anflug",
+      "delay": 0
     },
     {
       "dt": 1791711900.0,
@@ -583,7 +566,7 @@
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:51",
+      "time_estimated": "11:43",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -595,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1791712200.0,
@@ -906,19 +889,19 @@
     {
       "dt": 1791716700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:52",
+      "time_estimated": "13:54",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
       "country": "Malta",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 47
+      "delay": 49
     },
     {
       "dt": 1791716700.0,
@@ -957,7 +940,7 @@
     {
       "dt": 1791717300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:15",
+      "time_estimated": "13:10",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -969,7 +952,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791717300.0,
@@ -1076,7 +1059,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:28",
+      "time_estimated": "14:22",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1088,7 +1071,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 43
+      "delay": 37
     },
     {
       "dt": 1791719400.0,
@@ -1178,7 +1161,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:05",
+      "time_estimated": "14:20",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1190,12 +1173,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:17",
+      "time_estimated": "14:23",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1207,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 13
+      "delay": 19
     },
     {
       "dt": 1791720300.0,
@@ -1229,7 +1212,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:15",
+      "time_estimated": "14:12",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1240,8 +1223,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 10
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791720600.0,
@@ -1348,7 +1331,7 @@
     {
       "dt": 1791721800.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:30",
+      "time_estimated": "14:58",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1360,7 +1343,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 29
     },
     {
       "dt": 1791722100.0,
