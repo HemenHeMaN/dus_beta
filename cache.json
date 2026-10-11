@@ -1,41 +1,7 @@
 {
-  "updated_at": "11.10.2026 11:05",
+  "updated_at": "11.10.2026 11:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791702300.0,
-      "time_scheduled": "09:05",
-      "time_estimated": "09:05",
-      "flight_no": "TK1523",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
-    },
-    {
-      "dt": 1791702600.0,
-      "time_scheduled": "09:10",
-      "time_estimated": "09:08",
-      "flight_no": "KM352",
-      "airline": "KM Malta Airlines",
-      "city": "Malta",
-      "country": "Malta",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791702900.0,
       "time_scheduled": "09:15",
@@ -362,7 +328,7 @@
     {
       "dt": 1791709200.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:14",
+      "time_estimated": "11:13",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -374,7 +340,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 14
+      "delay": 13
     },
     {
       "dt": 1791709200.0,
@@ -413,7 +379,7 @@
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:17",
+      "time_estimated": "11:09",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -423,9 +389,9 @@
       "terminal": "B",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 8
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791709800.0,
@@ -923,7 +889,7 @@
     {
       "dt": 1791715500.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:41",
+      "time_estimated": "12:42",
       "flight_no": "DE1149",
       "airline": "Condor",
       "city": "Zakynthos",
@@ -974,7 +940,7 @@
     {
       "dt": 1791716700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:34",
+      "time_estimated": "13:52",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -985,8 +951,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 29
+      "status_text": "Vorhafen verlassen",
+      "delay": 47
     },
     {
       "dt": 1791716700.0,
@@ -1161,7 +1127,7 @@
     {
       "dt": 1791719400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:52",
+      "time_estimated": "13:57",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1172,13 +1138,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 7
     },
     {
       "dt": 1791719400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
+      "time_estimated": "14:10",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1190,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1791719700.0,
@@ -1382,7 +1348,7 @@
     {
       "dt": 1791720900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:13",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1713,6 +1679,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791727800.0,
+      "time_scheduled": "16:10",
+      "time_estimated": "16:10",
+      "flight_no": "EW9559",
+      "airline": "Eurowings",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
