@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 20:05",
+  "updated_at": "11.10.2026 20:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 86
-    },
-    {
-      "dt": 1791733200.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "18:07",
-      "flight_no": "OS165",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 28
     },
     {
       "dt": 1791733500.0,
@@ -695,8 +678,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 10
     },
     {
@@ -1178,7 +1161,7 @@
     {
       "dt": 1791748800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:01",
+      "time_estimated": "22:04",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1190,7 +1173,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 4
     },
     {
       "dt": 1791748800.0,
@@ -1280,7 +1263,7 @@
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:57",
+      "time_estimated": "21:52",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1297,7 +1280,7 @@
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:32",
+      "time_estimated": "22:28",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1308,13 +1291,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 28
+      "status_text": "Vorhafen verlassen",
+      "delay": 24
     },
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:57",
+      "time_estimated": "22:17",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1326,7 +1309,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1791749100.0,
@@ -1348,7 +1331,7 @@
     {
       "dt": 1791749400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:23",
+      "time_estimated": "22:28",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1360,7 +1343,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 14
+      "delay": 19
     },
     {
       "dt": 1791749400.0,
@@ -1433,7 +1416,7 @@
     {
       "dt": 1791750000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "23:22",
+      "time_estimated": "23:05",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1445,7 +1428,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 63
+      "delay": 46
     },
     {
       "dt": 1791750000.0,
@@ -1501,7 +1484,7 @@
     {
       "dt": 1791750300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:26",
+      "time_estimated": "22:18",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1513,7 +1496,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1791750300.0,
