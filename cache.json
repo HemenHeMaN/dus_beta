@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 10:45",
+  "updated_at": "11.10.2026 10:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -362,7 +362,7 @@
     {
       "dt": 1791708300.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:50",
+      "time_estimated": "10:46",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -372,9 +372,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 6
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791708600.0,
@@ -389,14 +389,14 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
       "dt": 1791708900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:54",
+      "time_estimated": "10:50",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -406,8 +406,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -492,7 +492,7 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -804,7 +804,7 @@
     {
       "dt": 1791714000.0,
       "time_scheduled": "12:20",
-      "time_estimated": "13:15",
+      "time_estimated": "13:20",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -816,7 +816,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 56
+      "delay": 61
     },
     {
       "dt": 1791714300.0,
@@ -855,7 +855,7 @@
     {
       "dt": 1791714600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "13:06",
+      "time_estimated": "13:04",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -866,8 +866,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 36
+      "status_text": "Vorhafen verlassen",
+      "delay": 34
     },
     {
       "dt": 1791714600.0,
@@ -889,7 +889,7 @@
     {
       "dt": 1791714600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:25",
+      "time_estimated": "12:30",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -901,7 +901,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791714900.0,
@@ -1042,7 +1042,7 @@
     {
       "dt": 1791716700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:14",
+      "time_estimated": "13:33",
       "flight_no": "EW9685",
       "airline": "Eurowings",
       "city": "Kavala",
@@ -1054,7 +1054,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 10
+      "delay": 29
     },
     {
       "dt": 1791717000.0,
@@ -1178,7 +1178,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:58",
+      "time_estimated": "14:02",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -1190,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 13
+      "delay": 17
     },
     {
       "dt": 1791719100.0,
@@ -1263,7 +1263,7 @@
     {
       "dt": 1791719700.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "14:08",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -1274,13 +1274,13 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 13
     },
     {
       "dt": 1791720000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:11",
+      "time_estimated": "14:07",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -1291,8 +1291,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 12
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791720300.0,
@@ -1348,7 +1348,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:21",
+      "time_estimated": "14:15",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1360,7 +1360,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 10
     },
     {
       "dt": 1791720600.0,
@@ -1693,6 +1693,40 @@
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791726600.0,
+      "time_scheduled": "15:50",
+      "time_estimated": "15:50",
+      "flight_no": "EW9613",
+      "airline": "Eurowings",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791726600.0,
+      "time_scheduled": "15:50",
+      "time_estimated": "15:50",
+      "flight_no": "SM2980",
+      "airline": "Air Cairo",
+      "city": "Hurghada",
+      "country": "Ägypten",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
