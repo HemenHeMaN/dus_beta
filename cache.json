@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 19:25",
+  "updated_at": "11.10.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,40 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 86
-    },
-    {
-      "dt": 1791731400.0,
-      "time_scheduled": "17:10",
-      "time_estimated": "17:30",
-      "flight_no": "EW9461",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 20
-    },
-    {
-      "dt": 1791731700.0,
-      "time_scheduled": "17:15",
-      "time_estimated": "17:26",
-      "flight_no": "EW9087",
-      "airline": "Eurowings",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 11
     },
     {
       "dt": 1791733200.0,
@@ -311,7 +277,7 @@
     {
       "dt": 1791735300.0,
       "time_scheduled": "18:15",
-      "time_estimated": "19:30",
+      "time_estimated": "19:26",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -321,9 +287,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 76
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 71
     },
     {
       "dt": 1791735600.0,
@@ -622,13 +588,13 @@
       "airline": "Aegean Airlines",
       "city": "Athen",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 35
     },
     {
@@ -685,7 +651,7 @@
     {
       "dt": 1791739800.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:37",
+      "time_estimated": "19:28",
       "flight_no": "EW9527",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -695,9 +661,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 7
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791739800.0,
@@ -742,12 +708,12 @@
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 6
     },
     {
@@ -797,8 +763,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -814,8 +780,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -952,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 109
+      "delay": 110
     },
     {
       "dt": 1791744300.0,
@@ -991,7 +957,7 @@
     {
       "dt": 1791744900.0,
       "time_scheduled": "20:55",
-      "time_estimated": "21:44",
+      "time_estimated": "21:45",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -1002,8 +968,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 50
+      "status_text": "Vorhafen verlassen",
+      "delay": 51
     },
     {
       "dt": 1791745200.0,
@@ -1076,7 +1042,7 @@
     {
       "dt": 1791746400.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:58",
+      "time_estimated": "22:01",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1088,12 +1054,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 39
+      "delay": 42
     },
     {
       "dt": 1791747000.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:44",
+      "time_estimated": "21:38",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1105,12 +1071,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 15
+      "delay": 9
     },
     {
       "dt": 1791747300.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:46",
+      "time_estimated": "21:42",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1121,8 +1087,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 11
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791747600.0,
@@ -1484,7 +1450,7 @@
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:05",
+      "time_estimated": "22:34",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1496,7 +1462,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 29
     },
     {
       "dt": 1791749100.0,
@@ -1671,7 +1637,7 @@
     {
       "dt": 1791750300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:25",
+      "time_estimated": "22:36",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -1683,7 +1649,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1791750300.0,
@@ -1722,7 +1688,7 @@
     {
       "dt": 1791750300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:52",
+      "time_estimated": "22:50",
       "flight_no": "X32853",
       "airline": "Tuifly",
       "city": "Funchal (Madeira)",
@@ -1734,7 +1700,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 28
+      "delay": 26
     },
     {
       "dt": 1791750300.0,
@@ -1807,7 +1773,7 @@
     {
       "dt": 1791750900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "23:00",
+      "time_estimated": "22:58",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1819,7 +1785,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 26
+      "delay": 23
     },
     {
       "dt": 1791750900.0,
