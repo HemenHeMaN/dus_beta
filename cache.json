@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 08:05",
+  "updated_at": "11.10.2026 08:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -73,7 +73,7 @@
     {
       "dt": 1791699600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:12",
+      "time_estimated": "08:06",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -83,14 +83,14 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
       "dt": 1791700200.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:17",
+      "time_estimated": "08:16",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -117,8 +117,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -277,7 +277,7 @@
     {
       "dt": 1791702300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:09",
+      "time_estimated": "09:03",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -289,7 +289,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1791702600.0,
@@ -413,7 +413,7 @@
     {
       "dt": 1791704700.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:31",
+      "time_estimated": "09:29",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -424,7 +424,7 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -668,7 +668,7 @@
     {
       "dt": 1791709500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "11:12",
       "flight_no": "X32725",
       "airline": "Tuifly",
       "city": "Trieste",
@@ -680,7 +680,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1791709800.0,
@@ -702,7 +702,7 @@
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:13",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -714,12 +714,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:23",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -731,7 +731,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1791710400.0,
@@ -1234,6 +1234,23 @@
       "airline": "Eurowings",
       "city": "Kavala",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791717000.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "EW9571",
+      "airline": "Eurowings",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
