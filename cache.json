@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 07:25",
+  "updated_at": "11.10.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -73,7 +73,7 @@
     {
       "dt": 1791697200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "08:04",
+      "time_estimated": "08:03",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -84,8 +84,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 24
+      "status_text": "Vorhafen verlassen",
+      "delay": 23
     },
     {
       "dt": 1791698400.0,
@@ -362,7 +362,7 @@
     {
       "dt": 1791703200.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:28",
+      "time_estimated": "09:29",
       "flight_no": "VL2006",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -549,7 +549,7 @@
     {
       "dt": 1791707100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:34",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -561,7 +561,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1791707400.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1791708900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:50",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -662,7 +662,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -685,7 +685,7 @@
     {
       "dt": 1791709200.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:00",
+      "time_estimated": "11:03",
       "flight_no": "4M772",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -696,8 +696,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 4
     },
     {
       "dt": 1791709500.0,
@@ -906,7 +906,7 @@
     {
       "dt": 1791711900.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "11:59",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -918,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1791712200.0,
@@ -1103,6 +1103,57 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791714600.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "EW9577",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791714600.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791714600.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "X32815",
+      "airline": "Tuifly",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
