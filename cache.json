@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 14:05",
+  "updated_at": "11.10.2026 14:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 72
-    },
-    {
-      "dt": 1791712500.0,
-      "time_scheduled": "11:55",
-      "time_estimated": "12:05",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 11
     },
     {
       "dt": 1791712800.0,
@@ -158,6 +141,23 @@
     {
       "dt": 1791714900.0,
       "time_scheduled": "12:35",
+      "time_estimated": "14:21",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "im Anflug",
+      "delay": 107
+    },
+    {
+      "dt": 1791714900.0,
+      "time_scheduled": "12:35",
       "time_estimated": "12:40",
       "flight_no": "EW9655",
       "airline": "Eurowings",
@@ -188,23 +188,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
-    },
-    {
-      "dt": 1791714900.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "14:22",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 108
     },
     {
       "dt": 1791715500.0,
@@ -430,7 +413,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:07",
+      "time_estimated": "14:06",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -440,9 +423,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 23
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 21
     },
     {
       "dt": 1791719100.0,
@@ -492,7 +475,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 32
     },
     {
@@ -576,8 +559,8 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 21
     },
     {
@@ -600,7 +583,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:18",
+      "time_estimated": "14:17",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -611,8 +594,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 14
+      "status_text": "im Anflug",
+      "delay": 13
     },
     {
       "dt": 1791720600.0,
@@ -662,13 +645,13 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 21
     },
     {
       "dt": 1791720900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:16",
+      "time_estimated": "14:15",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -680,7 +663,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791720900.0,
@@ -736,7 +719,7 @@
     {
       "dt": 1791722100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:19",
+      "time_estimated": "14:09",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -746,8 +729,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -804,7 +787,7 @@
     {
       "dt": 1791723000.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:57",
+      "time_estimated": "14:46",
       "flight_no": "BJ2972",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -816,7 +799,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1791723900.0,
@@ -1127,7 +1110,7 @@
     {
       "dt": 1791730500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "17:10",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1139,7 +1122,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1791730500.0,
@@ -1331,7 +1314,7 @@
     {
       "dt": 1791733500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "17:56",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -1343,7 +1326,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1791733500.0,
@@ -1715,6 +1698,23 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791738600.0,
+      "time_scheduled": "19:10",
+      "time_estimated": "19:10",
+      "flight_no": "IB755",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
