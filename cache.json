@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 06:15",
+  "updated_at": "11.10.2026 06:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -49,8 +49,8 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -761,6 +761,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791710400.0,
+      "time_scheduled": "11:20",
+      "time_estimated": "11:20",
+      "flight_no": "EW9831",
+      "airline": "Eurowings",
+      "city": "Florenz",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
