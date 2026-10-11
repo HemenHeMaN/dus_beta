@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 11:45",
+  "updated_at": "11.10.2026 11:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
-    },
-    {
-      "dt": 1791706500.0,
-      "time_scheduled": "10:15",
-      "time_estimated": "11:11",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 57
     },
     {
       "dt": 1791706500.0,
@@ -69,6 +52,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791706500.0,
+      "time_scheduled": "10:15",
+      "time_estimated": "11:11",
+      "flight_no": "UD437",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 57
     },
     {
       "dt": 1791707100.0,
@@ -260,23 +260,6 @@
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:33",
-      "flight_no": "BJ206",
-      "airline": "Nouvelair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 24
-    },
-    {
-      "dt": 1791709800.0,
-      "time_scheduled": "11:10",
       "time_estimated": "10:59",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
@@ -290,6 +273,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791709800.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:33",
+      "flight_no": "BJ206",
+      "airline": "Nouvelair",
+      "city": "Tunis",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 24
     },
     {
       "dt": 1791710400.0,
@@ -355,14 +355,14 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 27
     },
     {
       "dt": 1791711300.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:49",
+      "time_estimated": "11:55",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -374,7 +374,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 15
+      "delay": 21
     },
     {
       "dt": 1791711600.0,
@@ -390,13 +390,13 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 24
     },
     {
       "dt": 1791711600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:59",
+      "time_estimated": "11:47",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -406,9 +406,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 19
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 8
     },
     {
       "dt": 1791711600.0,
@@ -458,7 +458,7 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 10
     },
     {
@@ -475,13 +475,13 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 17
     },
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:48",
+      "time_estimated": "11:46",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -491,8 +491,8 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -542,8 +542,8 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 18
     },
     {
@@ -770,7 +770,7 @@
     {
       "dt": 1791715500.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:56",
+      "time_estimated": "13:03",
       "flight_no": "VL2014",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -782,7 +782,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 19
     },
     {
       "dt": 1791715800.0,
@@ -1076,7 +1076,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:21",
+      "time_estimated": "14:27",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1088,7 +1088,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 17
+      "delay": 23
     },
     {
       "dt": 1791720300.0,
@@ -1246,7 +1246,7 @@
     {
       "dt": 1791721800.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:58",
+      "time_estimated": "14:55",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1257,8 +1257,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 29
+      "status_text": "Vorhafen verlassen",
+      "delay": 26
     },
     {
       "dt": 1791722100.0,
@@ -1348,7 +1348,7 @@
     {
       "dt": 1791723900.0,
       "time_scheduled": "15:05",
-      "time_estimated": "14:58",
+      "time_estimated": "14:55",
       "flight_no": "XQ280",
       "airline": "Sun Express",
       "city": "Antalya",
