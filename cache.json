@@ -1,24 +1,7 @@
 {
-  "updated_at": "11.10.2026 17:25",
+  "updated_at": "11.10.2026 17:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791718200.0,
-      "time_scheduled": "13:30",
-      "time_estimated": "15:27",
-      "flight_no": "EW9641",
-      "airline": "Eurowings",
-      "city": "Porto",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 117
-    },
     {
       "dt": 1791722700.0,
       "time_scheduled": "14:45",
@@ -69,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 56
-    },
-    {
-      "dt": 1791726300.0,
-      "time_scheduled": "15:45",
-      "time_estimated": "15:25",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791726600.0,
@@ -311,7 +277,7 @@
     {
       "dt": 1791731400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:31",
+      "time_estimated": "17:30",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -321,14 +287,14 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 21
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 20
     },
     {
       "dt": 1791731700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:29",
+      "time_estimated": "17:26",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -338,9 +304,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 14
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 11
     },
     {
       "dt": 1791732000.0,
@@ -406,8 +372,8 @@
       "terminal": "B",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 12
     },
     {
@@ -447,7 +413,7 @@
     {
       "dt": 1791733500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:12",
+      "time_estimated": "18:06",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -459,7 +425,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 28
+      "delay": 22
     },
     {
       "dt": 1791733500.0,
@@ -492,7 +458,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -515,7 +481,7 @@
     {
       "dt": 1791733800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "17:48",
+      "time_estimated": "17:39",
       "flight_no": "EW9505",
       "airline": "Eurowings",
       "city": "Menorca",
@@ -526,7 +492,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -855,7 +821,7 @@
     {
       "dt": 1791738600.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:36",
+      "time_estimated": "20:29",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -867,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 26
+      "delay": 79
     },
     {
       "dt": 1791738900.0,
@@ -940,7 +906,7 @@
     {
       "dt": 1791739200.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:11",
+      "time_estimated": "19:04",
       "flight_no": "XQ284",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -957,7 +923,7 @@
     {
       "dt": 1791739200.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:54",
+      "time_estimated": "19:49",
       "flight_no": "A3842",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -969,7 +935,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 35
+      "delay": 29
     },
     {
       "dt": 1791739200.0,
@@ -991,7 +957,7 @@
     {
       "dt": 1791739500.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:51",
+      "time_estimated": "18:03",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1003,7 +969,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 26
+      "delay": 0
     },
     {
       "dt": 1791739500.0,
@@ -1042,7 +1008,7 @@
     {
       "dt": 1791739800.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:40",
+      "time_estimated": "19:30",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -1054,7 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1791739800.0,
@@ -1093,7 +1059,7 @@
     {
       "dt": 1791740400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:38",
+      "time_estimated": "19:42",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1105,7 +1071,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791740400.0,
@@ -1195,7 +1161,7 @@
     {
       "dt": 1791743100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:25",
+      "time_estimated": "20:41",
       "flight_no": "XR406",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1207,7 +1173,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1791743100.0,
