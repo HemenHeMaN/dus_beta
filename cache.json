@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 13:15",
+  "updated_at": "11.10.2026 13:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -396,23 +396,6 @@
     {
       "dt": 1791714600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:22",
-      "flight_no": "X32815",
-      "airline": "Tuifly",
-      "city": "Faro",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791714600.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:11",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
@@ -423,6 +406,23 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791714600.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:22",
+      "flight_no": "X32815",
+      "airline": "Tuifly",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -549,7 +549,7 @@
     {
       "dt": 1791716700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:53",
+      "time_estimated": "13:55",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -561,12 +561,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 48
+      "delay": 50
     },
     {
       "dt": 1791716700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:37",
+      "time_estimated": "13:27",
       "flight_no": "EW9685",
       "airline": "Eurowings",
       "city": "Kavala",
@@ -578,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 32
+      "delay": 22
     },
     {
       "dt": 1791717000.0,
@@ -600,7 +600,7 @@
     {
       "dt": 1791717300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:24",
+      "time_estimated": "13:15",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -610,9 +610,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 10
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791717300.0,
@@ -770,7 +770,7 @@
     {
       "dt": 1791719700.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:17",
+      "time_estimated": "14:18",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -782,7 +782,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 23
+      "delay": 24
     },
     {
       "dt": 1791719700.0,
@@ -846,7 +846,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "5",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -855,7 +855,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:40",
+      "time_estimated": "14:41",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -867,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 36
+      "delay": 37
     },
     {
       "dt": 1791720300.0,
@@ -906,7 +906,7 @@
     {
       "dt": 1791720600.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:54",
+      "time_estimated": "13:55",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1008,7 +1008,7 @@
     {
       "dt": 1791722100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:25",
+      "time_estimated": "14:22",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1016,10 +1016,10 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "dt": 1791729300.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:36",
+      "time_estimated": "16:35",
       "flight_no": "XQ288",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1360,7 +1360,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791730200.0,
@@ -1800,6 +1800,40 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791735600.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "LX1024",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791735600.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "XQ3180",
+      "airline": "Sun Express",
+      "city": "Bodrum-Milas",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
