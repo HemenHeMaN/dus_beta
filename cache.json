@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 08:35",
+  "updated_at": "11.10.2026 08:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -134,8 +134,8 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 13
     },
     {
@@ -151,8 +151,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -209,7 +209,7 @@
     {
       "dt": 1791702000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:05",
+      "time_estimated": "08:59",
       "flight_no": "PC5677",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -219,14 +219,14 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 6
+      "status": "active",
+      "status_text": "im Anflug",
+      "delay": 0
     },
     {
       "dt": 1791702000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:38",
+      "time_estimated": "08:36",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -236,8 +236,8 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -430,7 +430,7 @@
     {
       "dt": 1791705600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:08",
+      "time_estimated": "10:09",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -442,12 +442,12 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 8
+      "delay": 9
     },
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:53",
+      "time_estimated": "10:47",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -459,7 +459,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 38
+      "delay": 33
     },
     {
       "dt": 1791706500.0,
@@ -515,7 +515,7 @@
     {
       "dt": 1791707400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:28",
+      "time_estimated": "10:18",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -651,7 +651,7 @@
     {
       "dt": 1791709500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:11",
+      "time_estimated": "11:21",
       "flight_no": "X32725",
       "airline": "Tuifly",
       "city": "Trieste",
@@ -663,7 +663,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 6
+      "delay": 16
     },
     {
       "dt": 1791709800.0,
@@ -821,7 +821,7 @@
     {
       "dt": 1791711600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "12:08",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -833,7 +833,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 28
     },
     {
       "dt": 1791711600.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1791712800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "11:47",
       "flight_no": "EW9917",
       "airline": "Eurowings",
       "city": "Tirana",
