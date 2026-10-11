@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 12:20",
+  "updated_at": "11.10.2026 12:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -396,23 +396,6 @@
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
-      "flight_no": "A3840",
-      "airline": "Aegean Airlines",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
-    },
-    {
-      "dt": 1791712200.0,
-      "time_scheduled": "11:50",
       "time_estimated": "11:46",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
@@ -443,6 +426,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791712200.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791712500.0,
@@ -583,7 +583,7 @@
     {
       "dt": 1791714600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:25",
+      "time_estimated": "12:22",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -593,8 +593,8 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -617,7 +617,7 @@
     {
       "dt": 1791714900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:43",
+      "time_estimated": "12:37",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -629,7 +629,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 8
+      "delay": 2
     },
     {
       "dt": 1791714900.0,
@@ -662,7 +662,7 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -770,7 +770,7 @@
     {
       "dt": 1791717300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:21",
+      "time_estimated": "13:23",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -781,8 +781,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 7
+      "status_text": "Vorhafen verlassen",
+      "delay": 9
     },
     {
       "dt": 1791717300.0,
@@ -991,7 +991,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:44",
+      "time_estimated": "14:43",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1002,8 +1002,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 40
+      "status_text": "Vorhafen verlassen",
+      "delay": 39
     },
     {
       "dt": 1791720300.0,
@@ -1229,7 +1229,7 @@
     {
       "dt": 1791722700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:45",
+      "time_estimated": "17:10",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1240,8 +1240,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 146
     },
     {
       "dt": 1791723000.0,
@@ -1501,7 +1501,7 @@
     {
       "dt": 1791728100.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:15",
+      "time_estimated": "16:40",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -1513,7 +1513,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1791729300.0,
@@ -1641,6 +1641,40 @@
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791732300.0,
+      "time_scheduled": "17:25",
+      "time_estimated": "17:25",
+      "flight_no": "EW9845",
+      "airline": "Eurowings",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791732300.0,
+      "time_scheduled": "17:25",
+      "time_estimated": "17:25",
+      "flight_no": "PC5305",
+      "airline": "Pegasus Airlines",
+      "city": "Izmir",
       "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
