@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 17:50",
+  "updated_at": "11.10.2026 17:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -355,8 +355,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 36
     },
     {
@@ -373,7 +373,7 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 22
     },
     {
@@ -481,7 +481,7 @@
     {
       "dt": 1791734100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:00",
+      "time_estimated": "17:51",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -491,9 +491,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791734400.0,
@@ -532,7 +532,7 @@
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:59",
+      "time_estimated": "17:55",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -542,8 +542,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -559,8 +559,8 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 15
     },
     {
@@ -600,7 +600,7 @@
     {
       "dt": 1791735600.0,
       "time_scheduled": "18:20",
-      "time_estimated": "17:58",
+      "time_estimated": "18:06",
       "flight_no": "XQ3180",
       "airline": "Sun Express",
       "city": "Bodrum-Milas",
@@ -634,7 +634,7 @@
     {
       "dt": 1791736200.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:38",
+      "time_estimated": "18:32",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -646,12 +646,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1791736800.0,
       "time_scheduled": "18:40",
-      "time_estimated": "19:06",
+      "time_estimated": "19:04",
       "flight_no": "EW9587",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -663,7 +663,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 27
+      "delay": 25
     },
     {
       "dt": 1791736800.0,
@@ -679,7 +679,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 1
     },
     {
@@ -889,7 +889,7 @@
     {
       "dt": 1791739200.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:56",
+      "time_estimated": "19:54",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -901,7 +901,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 37
+      "delay": 35
     },
     {
       "dt": 1791739500.0,
@@ -1025,7 +1025,7 @@
     {
       "dt": 1791740400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:41",
+      "time_estimated": "19:43",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -1037,7 +1037,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1791740700.0,
@@ -1161,7 +1161,7 @@
     {
       "dt": 1791743400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:20",
+      "time_estimated": "21:16",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1173,7 +1173,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 50
+      "delay": 47
     },
     {
       "dt": 1791744000.0,
