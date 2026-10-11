@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 16:50",
+  "updated_at": "11.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,40 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 117
-    },
-    {
-      "dt": 1791719100.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "14:50",
-      "flight_no": "EW9627",
-      "airline": "Eurowings",
-      "city": "Zakynthos",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 66
-    },
-    {
-      "dt": 1791721800.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:54",
-      "flight_no": "EW9671",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 24
     },
     {
       "dt": 1791722700.0,
@@ -345,7 +311,7 @@
     {
       "dt": 1791730200.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:13",
+      "time_estimated": "17:18",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -355,9 +321,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 23
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 29
     },
     {
       "dt": 1791730500.0,
@@ -515,7 +481,7 @@
     {
       "dt": 1791733200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:48",
+      "time_estimated": "18:00",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -527,7 +493,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 9
+      "delay": 21
     },
     {
       "dt": 1791733200.0,
@@ -549,7 +515,7 @@
     {
       "dt": 1791733200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "18:20",
+      "time_estimated": "18:16",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -560,8 +526,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 40
+      "status_text": "Vorhafen verlassen",
+      "delay": 36
     },
     {
       "dt": 1791733500.0,
@@ -974,7 +940,7 @@
     {
       "dt": 1791738600.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:25",
+      "time_estimated": "19:37",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -986,7 +952,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 15
+      "delay": 27
     },
     {
       "dt": 1791738900.0,
@@ -1297,7 +1263,7 @@
     {
       "dt": 1791741600.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "19:58",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1514,23 +1480,6 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 12
-    },
-    {
-      "dt": 1791746400.0,
-      "time_scheduled": "21:20",
-      "time_estimated": "21:20",
-      "flight_no": "EW9589",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "delay": 0
     },
     {
       "dt": 1791747000.0,
@@ -1766,6 +1715,40 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791748500.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791748500.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "DE1613",
+      "airline": "Condor",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
