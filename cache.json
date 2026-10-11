@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 18:10",
+  "updated_at": "11.10.2026 18:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,40 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 56
-    },
-    {
-      "dt": 1791726600.0,
-      "time_scheduled": "15:50",
-      "time_estimated": "16:11",
-      "flight_no": "EW9613",
-      "airline": "Eurowings",
-      "city": "Korfu",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 22
-    },
-    {
-      "dt": 1791726600.0,
-      "time_scheduled": "15:50",
-      "time_estimated": "16:14",
-      "flight_no": "EW5497",
-      "airline": "Eurowings",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 24
     },
     {
       "dt": 1791727800.0,
@@ -219,8 +185,8 @@
       "terminal": "A",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 88
     },
     {
@@ -389,8 +355,8 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 49
     },
     {
@@ -413,7 +379,7 @@
     {
       "dt": 1791733500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:12",
+      "time_estimated": "18:10",
       "flight_no": "EW9817",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -423,9 +389,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 27
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 26
     },
     {
       "dt": 1791733800.0,
@@ -447,7 +413,7 @@
     {
       "dt": 1791733800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:27",
+      "time_estimated": "18:20",
       "flight_no": "EW5703",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -459,7 +425,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 37
+      "delay": 30
     },
     {
       "dt": 1791733800.0,
@@ -498,24 +464,24 @@
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "19:09",
+      "time_estimated": "19:12",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 69
+      "delay": 72
     },
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:18",
+      "time_estimated": "18:13",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -525,9 +491,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 18
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 14
     },
     {
       "dt": 1791734400.0,
@@ -549,7 +515,7 @@
     {
       "dt": 1791735000.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:27",
+      "time_estimated": "18:12",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -559,9 +525,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 17
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 3
     },
     {
       "dt": 1791735300.0,
@@ -617,19 +583,19 @@
     {
       "dt": 1791736200.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:54",
+      "time_estimated": "18:55",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 25
+      "delay": 26
     },
     {
       "dt": 1791736200.0,
@@ -657,9 +623,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -673,11 +639,11 @@
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
       "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 2
@@ -685,19 +651,19 @@
     {
       "dt": 1791737100.0,
       "time_scheduled": "18:45",
-      "time_estimated": "18:59",
+      "time_estimated": "19:00",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 15
+      "delay": 16
     },
     {
       "dt": 1791737700.0,
@@ -708,9 +674,9 @@
       "city": "Warschau",
       "country": "Polen",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -725,10 +691,10 @@
       "city": "Ankara-Esenboğa",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -742,9 +708,9 @@
       "city": "Hurghada",
       "country": "Ägypten",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -792,11 +758,11 @@
       "airline": "Turkish Airlines",
       "city": "Istanbul",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -809,11 +775,11 @@
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -826,11 +792,11 @@
       "airline": "Sky Alps",
       "city": "Bozen",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -838,7 +804,7 @@
     {
       "dt": 1791738900.0,
       "time_scheduled": "19:15",
-      "time_estimated": "18:47",
+      "time_estimated": "18:49",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -861,9 +827,9 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -929,9 +895,9 @@
       "city": "Diyarbakir",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -980,10 +946,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -1161,7 +1127,7 @@
     {
       "dt": 1791743400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:20",
+      "time_estimated": "21:21",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1172,13 +1138,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 51
+      "status_text": "Vorhafen verlassen",
+      "delay": 52
     },
     {
       "dt": 1791744000.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:43",
+      "time_estimated": "20:42",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -1190,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1791744300.0,
@@ -1212,7 +1178,7 @@
     {
       "dt": 1791744300.0,
       "time_scheduled": "20:45",
-      "time_estimated": "21:27",
+      "time_estimated": "21:18",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1224,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 42
+      "delay": 33
     },
     {
       "dt": 1791744900.0,
@@ -1314,7 +1280,7 @@
     {
       "dt": 1791745500.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:17",
+      "time_estimated": "21:13",
       "flight_no": "X37102",
       "airline": "Tuifly",
       "city": "Boa Vista (Kapverden)",
@@ -1326,7 +1292,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 12
+      "delay": 8
     },
     {
       "dt": 1791746400.0,
@@ -1903,7 +1869,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
