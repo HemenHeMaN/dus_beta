@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 15:45",
+  "updated_at": "11.10.2026 15:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 99
-    },
-    {
-      "dt": 1791716700.0,
-      "time_scheduled": "13:05",
-      "time_estimated": "13:48",
-      "flight_no": "EW9691",
-      "airline": "Eurowings",
-      "city": "Malta",
-      "country": "Malta",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 43
     },
     {
       "dt": 1791718200.0,
@@ -515,23 +498,6 @@
     {
       "dt": 1791724500.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:01",
-      "flight_no": "DY1150",
-      "airline": "Norwegian",
-      "city": "Oslo - Gardermoen",
-      "country": "Norwegen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791724500.0,
-      "time_scheduled": "15:15",
       "time_estimated": "15:20",
       "flight_no": "EW8042",
       "airline": "Eurowings",
@@ -545,6 +511,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 5
+    },
+    {
+      "dt": 1791724500.0,
+      "time_scheduled": "15:15",
+      "time_estimated": "15:01",
+      "flight_no": "DY1150",
+      "airline": "Norwegian",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791725700.0,
@@ -651,7 +634,7 @@
     {
       "dt": 1791727200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:58",
+      "time_estimated": "15:47",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -661,8 +644,8 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -821,7 +804,7 @@
     {
       "dt": 1791731400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:21",
+      "time_estimated": "17:11",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -833,7 +816,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 2
     },
     {
       "dt": 1791731700.0,
@@ -1042,7 +1025,7 @@
     {
       "dt": 1791733800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:08",
+      "time_estimated": "18:18",
       "flight_no": "EW5703",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -1054,7 +1037,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 19
+      "delay": 29
     },
     {
       "dt": 1791733800.0,
@@ -1127,7 +1110,7 @@
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:56",
+      "time_estimated": "17:59",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1138,13 +1121,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
       "dt": 1791735000.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:12",
+      "time_estimated": "18:25",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -1155,8 +1138,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791735300.0,
@@ -1331,7 +1314,7 @@
     {
       "dt": 1791738000.0,
       "time_scheduled": "19:00",
-      "time_estimated": "19:12",
+      "time_estimated": "19:07",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -1343,7 +1326,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 12
+      "delay": 7
     },
     {
       "dt": 1791738300.0,
@@ -1569,7 +1552,7 @@
     {
       "dt": 1791739800.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:30",
+      "time_estimated": "19:17",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1580,7 +1563,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
