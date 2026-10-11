@@ -1,24 +1,7 @@
 {
-  "updated_at": "11.10.2026 11:10",
+  "updated_at": "11.10.2026 11:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791702900.0,
-      "time_scheduled": "09:15",
-      "time_estimated": "09:12",
-      "flight_no": "EW9773",
-      "airline": "Eurowings",
-      "city": "Prag",
-      "country": "Tschechien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791703200.0,
       "time_scheduled": "09:20",
@@ -35,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 4
-    },
-    {
-      "dt": 1791703500.0,
-      "time_scheduled": "09:25",
-      "time_estimated": "09:15",
-      "flight_no": "XR404",
-      "airline": "Corendon Airlines Europe",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791703800.0,
@@ -175,6 +141,23 @@
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
+      "time_estimated": "11:11",
+      "flight_no": "UD437",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 57
+    },
+    {
+      "dt": 1791706500.0,
+      "time_scheduled": "10:15",
       "time_estimated": "09:59",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
@@ -188,23 +171,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
-    },
-    {
-      "dt": 1791706500.0,
-      "time_scheduled": "10:15",
-      "time_estimated": "11:18",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 63
     },
     {
       "dt": 1791707100.0,
@@ -226,23 +192,6 @@
     {
       "dt": 1791707400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:04",
-      "flight_no": "EW9463",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791707400.0,
-      "time_scheduled": "10:30",
       "time_estimated": "10:12",
       "flight_no": "4M711",
       "airline": "Mavi Gök Aviation",
@@ -252,6 +201,23 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "1/-/2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791707400.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:04",
+      "flight_no": "EW9463",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -338,9 +304,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 13
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 14
     },
     {
       "dt": 1791709200.0,
@@ -413,7 +379,7 @@
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:37",
+      "time_estimated": "11:31",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -423,9 +389,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 28
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 22
     },
     {
       "dt": 1791710400.0,
@@ -747,7 +713,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 55
     },
     {
@@ -1110,7 +1076,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:30",
+      "time_estimated": "14:28",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1121,8 +1087,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 46
+      "status_text": "Vorhafen verlassen",
+      "delay": 43
     },
     {
       "dt": 1791719400.0,
@@ -1698,6 +1664,23 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791728100.0,
+      "time_scheduled": "16:15",
+      "time_estimated": "16:15",
+      "flight_no": "DE869",
+      "airline": "Condor",
+      "city": "Beirut",
+      "country": "Libanon",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
