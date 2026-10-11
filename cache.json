@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 08:10",
+  "updated_at": "11.10.2026 08:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -134,8 +134,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -311,7 +311,7 @@
     {
       "dt": 1791702900.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:10",
+      "time_estimated": "09:13",
       "flight_no": "EW9773",
       "airline": "Eurowings",
       "city": "Prag",
@@ -322,7 +322,7 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -362,7 +362,7 @@
     {
       "dt": 1791703800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:26",
+      "time_estimated": "09:25",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -464,7 +464,7 @@
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "11:16",
+      "time_estimated": "11:00",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -476,7 +476,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 61
+      "delay": 46
     },
     {
       "dt": 1791706500.0,
@@ -498,7 +498,7 @@
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "11:15",
+      "time_estimated": "11:18",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -510,12 +510,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 61
+      "delay": 63
     },
     {
       "dt": 1791707100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:31",
+      "time_estimated": "10:29",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -526,8 +526,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 7
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791707400.0,
@@ -577,7 +577,7 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -719,7 +719,7 @@
     {
       "dt": 1791709800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:23",
+      "time_estimated": "11:15",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -731,7 +731,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 13
+      "delay": 5
     },
     {
       "dt": 1791710400.0,
@@ -1254,6 +1254,40 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791717300.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "13:15",
+      "flight_no": "BA920",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791717300.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "13:15",
+      "flight_no": "BM560",
+      "airline": "Medsky Airways",
+      "city": "Tripolis-Mitiga",
+      "country": "Libyen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
