@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 07:40",
+  "updated_at": "11.10.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -73,7 +73,7 @@
     {
       "dt": 1791697200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "08:03",
+      "time_estimated": "07:57",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -84,8 +84,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 23
+      "status_text": "im Anflug",
+      "delay": 18
     },
     {
       "dt": 1791698400.0,
@@ -101,13 +101,13 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
       "dt": 1791699600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:13",
+      "time_estimated": "08:12",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -124,7 +124,7 @@
     {
       "dt": 1791700200.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:16",
+      "time_estimated": "08:17",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -498,7 +498,7 @@
     {
       "dt": 1791706500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "10:57",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -510,7 +510,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 42
     },
     {
       "dt": 1791706500.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1791708900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:50",
+      "time_estimated": "10:48",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -685,7 +685,7 @@
     {
       "dt": 1791709200.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:58",
+      "time_estimated": "10:57",
       "flight_no": "4M772",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1176,13 +1176,47 @@
       "delay": 0
     },
     {
-      "dt": 1791714900.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "12:35",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
+      "dt": 1791715500.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791715500.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "DE1149",
+      "airline": "Condor",
+      "city": "Zakynthos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791715500.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "VL2014",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
