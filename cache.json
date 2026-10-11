@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 21:15",
+  "updated_at": "11.10.2026 21:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 71
-    },
-    {
-      "dt": 1791738300.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "19:19",
-      "flight_no": "IV8222",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 15
     },
     {
       "dt": 1791738600.0,
@@ -117,23 +100,6 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791739800.0,
-      "time_scheduled": "19:30",
-      "time_estimated": "19:17",
-      "flight_no": "EZY8649",
-      "airline": "Easy Jet",
-      "city": "London-Gatwick",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -423,8 +389,8 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 52
     },
     {
@@ -464,7 +430,7 @@
     {
       "dt": 1791745500.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:19",
+      "time_estimated": "21:15",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -474,9 +440,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 15
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 10
     },
     {
       "dt": 1791745500.0,
@@ -549,7 +515,7 @@
     {
       "dt": 1791747600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:57",
+      "time_estimated": "21:58",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -561,7 +527,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 18
+      "delay": 19
     },
     {
       "dt": 1791747600.0,
@@ -610,8 +576,8 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 6
     },
     {
@@ -651,7 +617,7 @@
     {
       "dt": 1791747900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:01",
+      "time_estimated": "21:57",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -663,7 +629,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1791748200.0,
@@ -695,8 +661,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -804,7 +770,7 @@
     {
       "dt": 1791748800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:51",
+      "time_estimated": "21:53",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -889,7 +855,7 @@
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:49",
+      "time_estimated": "21:50",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -923,7 +889,7 @@
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:57",
+      "time_estimated": "23:04",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -934,8 +900,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 52
+      "status_text": "Vorhafen verlassen",
+      "delay": 59
     },
     {
       "dt": 1791749100.0,
