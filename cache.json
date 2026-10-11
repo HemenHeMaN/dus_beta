@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 20:15",
+  "updated_at": "11.10.2026 20:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -37,23 +37,6 @@
       "delay": 44
     },
     {
-      "dt": 1791733800.0,
-      "time_scheduled": "17:50",
-      "time_estimated": "18:16",
-      "flight_no": "EW5703",
-      "airline": "Eurowings",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 26
-    },
-    {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
       "time_estimated": "18:57",
@@ -86,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 71
-    },
-    {
-      "dt": 1791735600.0,
-      "time_scheduled": "18:20",
-      "time_estimated": "18:20",
-      "flight_no": "LX1024",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "delay": 0
     },
     {
       "dt": 1791736200.0,
@@ -622,13 +588,13 @@
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 10
     },
     {
@@ -838,7 +804,7 @@
     {
       "dt": 1791747000.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:45",
+      "time_estimated": "21:44",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -850,7 +816,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 15
     },
     {
       "dt": 1791747300.0,
@@ -872,7 +838,7 @@
     {
       "dt": 1791747600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "22:03",
+      "time_estimated": "21:57",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -884,12 +850,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 24
+      "delay": 18
     },
     {
       "dt": 1791747600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:58",
+      "time_estimated": "23:42",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -901,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 18
+      "delay": 122
     },
     {
       "dt": 1791747600.0,
@@ -1178,7 +1144,7 @@
     {
       "dt": 1791748800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:53",
+      "time_estimated": "21:52",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1189,7 +1155,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1212,7 +1178,7 @@
     {
       "dt": 1791749100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:52",
+      "time_estimated": "21:49",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1223,7 +1189,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1501,7 +1467,7 @@
     {
       "dt": 1791750300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:38",
+      "time_estimated": "22:39",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1512,8 +1478,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 14
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791750900.0,
