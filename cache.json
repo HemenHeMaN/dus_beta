@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 12:15",
+  "updated_at": "11.10.2026 12:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 1
-    },
-    {
-      "dt": 1791707400.0,
-      "time_scheduled": "10:30",
-      "time_estimated": "10:18",
-      "flight_no": "AY1393",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791708300.0,
@@ -158,7 +141,7 @@
     {
       "dt": 1791709500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "12:23",
+      "time_estimated": "12:17",
       "flight_no": "X32725",
       "airline": "Tuifly",
       "city": "Trieste",
@@ -168,9 +151,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 79
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 72
     },
     {
       "dt": 1791709800.0,
@@ -560,7 +543,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 13
     },
     {
@@ -645,7 +628,7 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 8
     },
     {
@@ -678,8 +661,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -719,7 +702,7 @@
     {
       "dt": 1791715800.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:10",
+      "time_estimated": "13:09",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -731,7 +714,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 21
+      "delay": 20
     },
     {
       "dt": 1791716700.0,
@@ -906,7 +889,7 @@
     {
       "dt": 1791719100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:27",
+      "time_estimated": "14:32",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -918,7 +901,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 42
+      "delay": 48
     },
     {
       "dt": 1791719400.0,
@@ -940,7 +923,7 @@
     {
       "dt": 1791719400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:11",
+      "time_estimated": "14:05",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -952,7 +935,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 21
+      "delay": 15
     },
     {
       "dt": 1791719700.0,
@@ -1025,7 +1008,7 @@
     {
       "dt": 1791720300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:30",
+      "time_estimated": "14:25",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1037,7 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 26
+      "delay": 20
     },
     {
       "dt": 1791720300.0,
@@ -1399,7 +1382,7 @@
     {
       "dt": 1791726300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "15:20",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1645,6 +1628,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791732000.0,
+      "time_scheduled": "17:20",
+      "time_estimated": "17:20",
+      "flight_no": "TK1527",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
