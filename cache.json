@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 15:10",
+  "updated_at": "11.10.2026 15:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -88,40 +88,6 @@
       "delay": 6
     },
     {
-      "dt": 1791717900.0,
-      "time_scheduled": "13:25",
-      "time_estimated": "13:12",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791718200.0,
-      "time_scheduled": "13:30",
-      "time_estimated": "15:32",
-      "flight_no": "EW9641",
-      "airline": "Eurowings",
-      "city": "Porto",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 122
-    },
-    {
       "dt": 1791718200.0,
       "time_scheduled": "13:30",
       "time_estimated": "13:38",
@@ -137,6 +103,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 9
+    },
+    {
+      "dt": 1791718200.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "15:32",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 122
     },
     {
       "dt": 1791719100.0,
@@ -617,7 +600,7 @@
     {
       "dt": 1791724500.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:23",
+      "time_estimated": "15:25",
       "flight_no": "EW8042",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -629,7 +612,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 9
+      "delay": 11
     },
     {
       "dt": 1791725700.0,
@@ -678,8 +661,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -736,7 +719,7 @@
     {
       "dt": 1791727200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:56",
+      "time_estimated": "15:58",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -855,7 +838,7 @@
     {
       "dt": 1791730500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:25",
+      "time_estimated": "17:21",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -867,7 +850,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 30
+      "delay": 26
     },
     {
       "dt": 1791730500.0,
@@ -906,7 +889,7 @@
     {
       "dt": 1791731400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:07",
+      "time_estimated": "16:57",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1127,7 +1110,7 @@
     {
       "dt": 1791733800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:21",
+      "time_estimated": "18:08",
       "flight_no": "EW5703",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -1139,7 +1122,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 32
+      "delay": 19
     },
     {
       "dt": 1791733800.0,
@@ -1161,7 +1144,7 @@
     {
       "dt": 1791734100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:55",
+      "time_estimated": "18:16",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -1173,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 22
     },
     {
       "dt": 1791734400.0,
@@ -1195,7 +1178,7 @@
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:20",
+      "time_estimated": "18:17",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1207,7 +1190,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 21
+      "delay": 17
     },
     {
       "dt": 1791734400.0,
