@@ -1,5 +1,5 @@
 {
-  "updated_at": "11.10.2026 09:25",
+  "updated_at": "11.10.2026 09:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -362,7 +362,7 @@
     {
       "dt": 1791704100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:34",
+      "time_estimated": "09:27",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -372,8 +372,8 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -407,13 +407,13 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
       "dt": 1791705600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:10",
+      "time_estimated": "10:08",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -424,8 +424,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 10
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791706500.0,
@@ -736,7 +736,7 @@
     {
       "dt": 1791711000.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:46",
+      "time_estimated": "11:44",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -747,8 +747,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 17
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791711300.0,
@@ -855,7 +855,7 @@
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:01",
+      "time_estimated": "12:24",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -867,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 35
     },
     {
       "dt": 1791712200.0,
@@ -906,7 +906,7 @@
     {
       "dt": 1791712200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:49",
+      "time_estimated": "11:54",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -918,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791712200.0,
@@ -1025,7 +1025,7 @@
     {
       "dt": 1791714300.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:20",
+      "time_estimated": "12:25",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1037,7 +1037,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791714600.0,
@@ -1110,7 +1110,7 @@
     {
       "dt": 1791714900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:35",
+      "time_estimated": "12:34",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1535,6 +1535,23 @@
     {
       "dt": 1791720600.0,
       "time_scheduled": "14:10",
+      "time_estimated": "14:26",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 16
+    },
+    {
+      "dt": 1791720600.0,
+      "time_scheduled": "14:10",
       "time_estimated": "14:10",
       "flight_no": "XQ186",
       "airline": "Sun Express",
@@ -1611,6 +1628,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791721800.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:30",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
