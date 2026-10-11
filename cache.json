@@ -1,24 +1,7 @@
 {
-  "updated_at": "11.10.2026 20:30",
+  "updated_at": "11.10.2026 20:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791731100.0,
-      "time_scheduled": "17:05",
-      "time_estimated": "18:30",
-      "flight_no": "EW9989",
-      "airline": "Eurowings",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 86
-    },
     {
       "dt": 1791734400.0,
       "time_scheduled": "18:00",
@@ -69,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 14
-    },
-    {
-      "dt": 1791736200.0,
-      "time_scheduled": "18:30",
-      "time_estimated": "18:32",
-      "flight_no": "XC106",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 3
     },
     {
       "dt": 1791736800.0,
@@ -549,7 +515,7 @@
     {
       "dt": 1791743100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:46",
+      "time_estimated": "20:51",
       "flight_no": "XR406",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -559,9 +525,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 21
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 26
     },
     {
       "dt": 1791743100.0,
@@ -623,12 +589,12 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 11
     },
     {
@@ -673,13 +639,13 @@
       "airline": "Eurowings",
       "city": "Krakau",
       "country": "Polen",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -1059,7 +1025,7 @@
     {
       "dt": 1791748800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:04",
+      "time_estimated": "22:13",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1071,7 +1037,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 4
+      "delay": 13
     },
     {
       "dt": 1791748800.0,
@@ -1229,7 +1195,7 @@
     {
       "dt": 1791749400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:28",
+      "time_estimated": "22:12",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1241,7 +1207,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 19
+      "delay": 2
     },
     {
       "dt": 1791749400.0,
