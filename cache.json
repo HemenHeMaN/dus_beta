@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 16:35",
+  "updated_at": "12.10.2026 16:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -447,7 +447,7 @@
     {
       "dt": 1791816300.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:55",
+      "time_estimated": "16:45",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -459,7 +459,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 11
+      "delay": 1
     },
     {
       "dt": 1791816600.0,
@@ -474,8 +474,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 15
     },
     {
@@ -492,13 +492,13 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 5
     },
     {
       "dt": 1791816900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:42",
+      "time_estimated": "16:38",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -508,8 +508,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -617,7 +617,7 @@
     {
       "dt": 1791819000.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:35",
+      "time_estimated": "17:42",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -629,7 +629,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 12
     },
     {
       "dt": 1791819600.0,
@@ -770,7 +770,7 @@
     {
       "dt": 1791820500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:11",
+      "time_estimated": "18:16",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -782,7 +782,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 21
     },
     {
       "dt": 1791820800.0,
@@ -1246,7 +1246,7 @@
     {
       "dt": 1791826800.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:41",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -1258,12 +1258,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791827100.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:38",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1280,7 +1280,7 @@
     {
       "dt": 1791827100.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:43",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1681,6 +1681,57 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791834000.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "EW5519",
+      "airline": "Eurowings",
+      "city": "Monastir",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791834000.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "TK1529",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791834000.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "DE1757",
+      "airline": "Condor",
+      "city": "Samos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
