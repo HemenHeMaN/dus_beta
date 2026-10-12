@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:55",
+  "updated_at": "12.10.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -209,7 +209,7 @@
     {
       "dt": 1791785700.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:00",
+      "time_estimated": "07:59",
       "flight_no": "EW4200",
       "airline": "Eurowings",
       "city": "Prag",
@@ -219,8 +219,8 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -566,7 +566,7 @@
     {
       "dt": 1791789600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:56",
+      "time_estimated": "09:48",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -578,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 37
+      "delay": 29
     },
     {
       "dt": 1791790200.0,
@@ -1397,6 +1397,23 @@
       "delay": 0
     },
     {
+      "dt": 1791799500.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:56",
+      "flight_no": "EW9577",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 51
+    },
+    {
       "dt": 1791799800.0,
       "time_scheduled": "12:10",
       "time_estimated": "12:10",
@@ -1590,6 +1607,23 @@
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791802800.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "DE1849",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
       "type_source": "Airline",
