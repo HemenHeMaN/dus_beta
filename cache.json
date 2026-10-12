@@ -1,11 +1,11 @@
 {
-  "updated_at": "12.10.2026 06:05",
+  "updated_at": "12.10.2026 06:10",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1791777900.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:07",
+      "time_estimated": "06:06",
       "flight_no": "XC266",
       "airline": "Corendon Airlines",
       "city": "Kayseri",
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 3
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791778200.0,
@@ -481,7 +481,7 @@
     {
       "dt": 1791788700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:08",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -493,7 +493,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791788700.0,
@@ -1120,6 +1120,23 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791796200.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "IB1319",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
