@@ -1,24 +1,7 @@
 {
-  "updated_at": "12.10.2026 22:35",
+  "updated_at": "12.10.2026 22:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791826200.0,
-      "time_scheduled": "19:30",
-      "time_estimated": "20:38",
-      "flight_no": "EW9591",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 68
-    },
     {
       "dt": 1791829800.0,
       "time_scheduled": "20:30",
@@ -52,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 18
-    },
-    {
-      "dt": 1791830400.0,
-      "time_scheduled": "20:40",
-      "time_estimated": "20:40",
-      "flight_no": "LH2030",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791830700.0,
@@ -202,9 +168,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 86
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 85
     },
     {
       "dt": 1791832800.0,
@@ -260,23 +226,6 @@
     {
       "dt": 1791833700.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:01",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 27
-    },
-    {
-      "dt": 1791833700.0,
-      "time_scheduled": "21:35",
       "time_estimated": "21:44",
       "flight_no": "EW9593",
       "airline": "Eurowings",
@@ -290,6 +239,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 9
+    },
+    {
+      "dt": 1791833700.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "22:01",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 27
     },
     {
       "dt": 1791834000.0,
@@ -396,23 +362,6 @@
     {
       "dt": 1791834600.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:18",
-      "flight_no": "EW9775",
-      "airline": "Eurowings",
-      "city": "Prag",
-      "country": "Tschechien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 29
-    },
-    {
-      "dt": 1791834600.0,
-      "time_scheduled": "21:50",
       "time_estimated": "21:46",
       "flight_no": "AF1106",
       "airline": "Air France",
@@ -426,6 +375,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791834600.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "22:18",
+      "flight_no": "EW9775",
+      "airline": "Eurowings",
+      "city": "Prag",
+      "country": "Tschechien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 29
     },
     {
       "dt": 1791834900.0,
@@ -447,23 +413,6 @@
     {
       "dt": 1791834900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:08",
-      "flight_no": "EW9887",
-      "airline": "Eurowings",
-      "city": "Rom-Fiumicino",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 14
-    },
-    {
-      "dt": 1791834900.0,
-      "time_scheduled": "21:55",
       "time_estimated": "21:59",
       "flight_no": "LH078",
       "airline": "Lufthansa",
@@ -479,21 +428,21 @@
       "delay": 5
     },
     {
-      "dt": 1791835200.0,
-      "time_scheduled": "22:00",
-      "time_estimated": "22:20",
-      "flight_no": "EW9469",
+      "dt": 1791834900.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "22:08",
+      "flight_no": "EW9887",
       "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
+      "terminal": "B",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
-      "delay": 20
+      "delay": 14
     },
     {
       "dt": 1791835200.0,
@@ -511,6 +460,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 7
+    },
+    {
+      "dt": 1791835200.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:20",
+      "flight_no": "EW9469",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 20
     },
     {
       "dt": 1791835200.0,
@@ -566,6 +532,23 @@
     {
       "dt": 1791835800.0,
       "time_scheduled": "22:10",
+      "time_estimated": "21:56",
+      "flight_no": "EW9847",
+      "airline": "Eurowings",
+      "city": "Mailand-Linate",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791835800.0,
+      "time_scheduled": "22:10",
       "time_estimated": "22:15",
       "flight_no": "EW9445",
       "airline": "Eurowings",
@@ -596,23 +579,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 25
-    },
-    {
-      "dt": 1791835800.0,
-      "time_scheduled": "22:10",
-      "time_estimated": "21:56",
-      "flight_no": "EW9847",
-      "airline": "Eurowings",
-      "city": "Mailand-Linate",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791835800.0,
@@ -668,19 +634,19 @@
     {
       "dt": 1791836400.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:56",
+      "time_estimated": "22:38",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 36
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 19
     },
     {
       "dt": 1791836400.0,
@@ -695,8 +661,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 35
     },
     {
@@ -713,7 +679,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 28
     },
     {
@@ -753,19 +719,19 @@
     {
       "dt": 1791836700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:41",
+      "time_estimated": "22:36",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
       "country": "Niederlande",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 17
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 12
     },
     {
       "dt": 1791836700.0,
@@ -899,8 +865,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 32
     },
     {
@@ -934,7 +900,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -974,7 +940,7 @@
     {
       "dt": 1791838200.0,
       "time_scheduled": "22:50",
-      "time_estimated": "22:38",
+      "time_estimated": "22:44",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
