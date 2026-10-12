@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:30",
+  "updated_at": "12.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -135,7 +135,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 9
     },
     {
@@ -260,7 +260,7 @@
     {
       "dt": 1791786600.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:08",
+      "time_estimated": "08:10",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -362,7 +362,7 @@
     {
       "dt": 1791787800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:52",
+      "time_estimated": "08:51",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -373,8 +373,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 1
     },
     {
       "dt": 1791788100.0,
@@ -906,7 +906,7 @@
     {
       "dt": 1791793500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:35",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -918,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1791793500.0,
@@ -1443,6 +1443,40 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791801300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791801300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "EW9539",
+      "airline": "Eurowings",
+      "city": "Valencia",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
