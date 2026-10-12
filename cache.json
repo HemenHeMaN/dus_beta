@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:10",
+  "updated_at": "12.10.2026 07:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -124,7 +124,7 @@
     {
       "dt": 1791783600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:47",
+      "time_estimated": "07:48",
       "flight_no": "LH2000",
       "airline": "Lufthansa",
       "city": "München",
@@ -136,7 +136,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 8
+      "delay": 9
     },
     {
       "dt": 1791783600.0,
@@ -151,8 +151,8 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -243,7 +243,7 @@
     {
       "dt": 1791786600.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:36",
+      "time_estimated": "08:41",
       "flight_no": "PC5305",
       "airline": "Pegasus Airlines",
       "city": "Izmir",
@@ -255,7 +255,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 6
+      "delay": 12
     },
     {
       "dt": 1791786600.0,
@@ -481,7 +481,7 @@
     {
       "dt": 1791788700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:22",
+      "time_estimated": "09:08",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -493,7 +493,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 17
+      "delay": 4
     },
     {
       "dt": 1791788700.0,
@@ -753,7 +753,7 @@
     {
       "dt": 1791791700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "10:14",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -765,7 +765,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1791791700.0,
@@ -821,7 +821,7 @@
     {
       "dt": 1791792600.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:02",
+      "time_estimated": "10:12",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -833,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791792900.0,
@@ -957,7 +957,7 @@
     {
       "dt": 1791793800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:18",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1059,7 +1059,7 @@
     {
       "dt": 1791795300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:34",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1070,7 +1070,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1424,6 +1424,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791800100.0,
+      "time_scheduled": "12:15",
+      "time_estimated": "12:15",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
