@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 09:15",
+  "updated_at": "12.10.2026 09:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -226,23 +226,6 @@
     {
       "dt": 1791787200.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:37",
-      "flight_no": "AF1306",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791787200.0,
-      "time_scheduled": "08:40",
       "time_estimated": "08:32",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
@@ -253,6 +236,23 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791787200.0,
+      "time_scheduled": "08:40",
+      "time_estimated": "08:37",
+      "flight_no": "AF1306",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -474,8 +474,8 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 17
     },
     {
@@ -492,7 +492,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 13
     },
     {
@@ -668,7 +668,7 @@
     {
       "dt": 1791791700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:27",
+      "time_estimated": "10:36",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -680,12 +680,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 32
+      "delay": 41
     },
     {
       "dt": 1791791700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:02",
+      "time_estimated": "10:01",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -696,8 +696,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 7
+      "status_text": "Vorhafen verlassen",
+      "delay": 6
     },
     {
       "dt": 1791791700.0,
@@ -719,7 +719,7 @@
     {
       "dt": 1791792300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:20",
+      "time_estimated": "10:22",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -730,8 +730,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 15
+      "status_text": "Vorhafen verlassen",
+      "delay": 17
     },
     {
       "dt": 1791792600.0,
@@ -832,7 +832,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 2
     },
     {
@@ -1093,7 +1093,7 @@
     {
       "dt": 1791797400.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:51",
+      "time_estimated": "11:58",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1105,7 +1105,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 21
+      "delay": 28
     },
     {
       "dt": 1791797400.0,
@@ -1144,7 +1144,7 @@
     {
       "dt": 1791798000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:53",
+      "time_estimated": "11:50",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1155,8 +1155,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 13
+      "status_text": "Vorhafen verlassen",
+      "delay": 10
     },
     {
       "dt": 1791798000.0,
@@ -1178,7 +1178,7 @@
     {
       "dt": 1791798000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:05",
+      "time_estimated": "12:01",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1190,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 26
+      "delay": 22
     },
     {
       "dt": 1791798300.0,
@@ -1280,7 +1280,7 @@
     {
       "dt": 1791798900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:29",
+      "time_estimated": "12:18",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1292,7 +1292,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 34
+      "delay": 23
     },
     {
       "dt": 1791799500.0,
@@ -1951,6 +1951,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791807600.0,
+      "time_scheduled": "14:20",
+      "time_estimated": "14:20",
+      "flight_no": "NE720",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
