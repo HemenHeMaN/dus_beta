@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 20:25",
+  "updated_at": "12.10.2026 20:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,8 +15,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 161
     },
     {
@@ -305,7 +305,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 77
     },
     {
@@ -549,7 +549,7 @@
     {
       "dt": 1791830100.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:29",
+      "time_estimated": "20:27",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -559,8 +559,8 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -583,7 +583,7 @@
     {
       "dt": 1791830400.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:49",
+      "time_estimated": "20:43",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -594,8 +594,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 10
+      "status_text": "im Anflug",
+      "delay": 3
     },
     {
       "dt": 1791830700.0,
@@ -685,7 +685,7 @@
     {
       "dt": 1791831900.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:49",
+      "time_estimated": "21:40",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -697,7 +697,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 44
+      "delay": 35
     },
     {
       "dt": 1791831900.0,
@@ -719,7 +719,7 @@
     {
       "dt": 1791832500.0,
       "time_scheduled": "21:15",
-      "time_estimated": "22:45",
+      "time_estimated": "22:51",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -730,8 +730,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 90
+      "status_text": "Vorhafen verlassen",
+      "delay": 96
     },
     {
       "dt": 1791832800.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1791834900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:00",
+      "time_estimated": "22:03",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -986,7 +986,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 6
+      "delay": 9
     },
     {
       "dt": 1791834900.0,
@@ -1008,7 +1008,7 @@
     {
       "dt": 1791835200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:02",
+      "time_estimated": "22:00",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1019,13 +1019,13 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 0
     },
     {
       "dt": 1791835200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:20",
+      "time_estimated": "22:33",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1037,12 +1037,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 21
+      "delay": 34
     },
     {
       "dt": 1791835200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:05",
+      "time_estimated": "22:04",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1053,8 +1053,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 6
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791835500.0,
@@ -1093,7 +1093,7 @@
     {
       "dt": 1791835800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:11",
+      "time_estimated": "22:03",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1105,7 +1105,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1791835800.0,
