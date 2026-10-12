@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 21:50",
+  "updated_at": "12.10.2026 21:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -82,23 +82,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791829500.0,
-      "time_scheduled": "20:25",
-      "time_estimated": "19:53",
-      "flight_no": "DY1150",
-      "airline": "Norwegian",
-      "city": "Oslo - Gardermoen",
-      "country": "Norwegen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -214,13 +197,13 @@
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
       "country": "Zypern",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 76
     },
     {
@@ -260,23 +243,6 @@
     {
       "dt": 1791831600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:34",
-      "flight_no": "BA924",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 34
-    },
-    {
-      "dt": 1791831600.0,
-      "time_scheduled": "21:00",
       "time_estimated": "20:46",
       "flight_no": "EW9765",
       "airline": "Eurowings",
@@ -292,21 +258,21 @@
       "delay": 0
     },
     {
-      "dt": 1791831900.0,
-      "time_scheduled": "21:05",
-      "time_estimated": "21:22",
-      "flight_no": "EW9365",
-      "airline": "Eurowings",
-      "city": "Edinburgh",
+      "dt": 1791831600.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:34",
+      "flight_no": "BA924",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "17",
+      "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
-      "delay": 17
+      "delay": 34
     },
     {
       "dt": 1791831900.0,
@@ -324,6 +290,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 19
+    },
+    {
+      "dt": 1791831900.0,
+      "time_scheduled": "21:05",
+      "time_estimated": "21:22",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 17
     },
     {
       "dt": 1791832500.0,
@@ -424,13 +407,13 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 30
     },
     {
       "dt": 1791834000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:58",
+      "time_estimated": "21:53",
       "flight_no": "EW5519",
       "airline": "Eurowings",
       "city": "Monastir",
@@ -440,9 +423,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 18
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 13
     },
     {
       "dt": 1791834000.0,
@@ -457,14 +440,14 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 26
     },
     {
       "dt": 1791834000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:53",
+      "time_estimated": "21:51",
       "flight_no": "DE1757",
       "airline": "Condor",
       "city": "Samos",
@@ -474,14 +457,14 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 14
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 12
     },
     {
       "dt": 1791834300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:56",
+      "time_estimated": "21:50",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -491,9 +474,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 12
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 5
     },
     {
       "dt": 1791834300.0,
@@ -566,7 +549,7 @@
     {
       "dt": 1791834900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:16",
+      "time_estimated": "22:21",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -578,7 +561,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 21
+      "delay": 26
     },
     {
       "dt": 1791834900.0,
@@ -622,11 +605,11 @@
       "airline": "Eurowings",
       "city": "Budapest",
       "country": "Ungarn",
-      "type": "Charter",
+      "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "Im Anflug",
       "delay": 0
@@ -729,8 +712,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 3
     },
     {
@@ -780,8 +763,8 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -797,8 +780,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -889,7 +872,7 @@
     {
       "dt": 1791836700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:42",
+      "time_estimated": "22:40",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -901,7 +884,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 17
+      "delay": 15
     },
     {
       "dt": 1791836700.0,
@@ -934,7 +917,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
