@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 14:25",
+  "updated_at": "12.10.2026 14:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -103,23 +103,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 45
-    },
-    {
-      "dt": 1791801300.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "12:25",
-      "flight_no": "PC1001",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791801300.0,
@@ -481,7 +464,7 @@
     {
       "dt": 1791805800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:55",
+      "time_estimated": "14:48",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -491,9 +474,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 66
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 59
     },
     {
       "dt": 1791805800.0,
@@ -566,7 +549,7 @@
     {
       "dt": 1791806700.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:36",
+      "time_estimated": "14:30",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -576,9 +559,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 31
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 25
     },
     {
       "dt": 1791807000.0,
@@ -600,7 +583,7 @@
     {
       "dt": 1791807000.0,
       "time_scheduled": "14:10",
-      "time_estimated": "14:28",
+      "time_estimated": "14:26",
       "flight_no": "XQ3180",
       "airline": "Sun Express",
       "city": "Bodrum-Milas",
@@ -610,9 +593,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 19
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 17
     },
     {
       "dt": 1791807300.0,
@@ -719,7 +702,7 @@
     {
       "dt": 1791808500.0,
       "time_scheduled": "14:35",
-      "time_estimated": "15:34",
+      "time_estimated": "15:29",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -730,8 +713,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 59
+      "status_text": "Vorhafen verlassen",
+      "delay": 54
     },
     {
       "dt": 1791808800.0,
@@ -787,7 +770,7 @@
     {
       "dt": 1791809100.0,
       "time_scheduled": "14:45",
-      "time_estimated": "15:03",
+      "time_estimated": "15:04",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -799,7 +782,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 19
+      "delay": 20
     },
     {
       "dt": 1791809100.0,
@@ -810,12 +793,12 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -838,7 +821,7 @@
     {
       "dt": 1791809700.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:06",
+      "time_estimated": "15:07",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -850,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1791810300.0,
@@ -872,7 +855,7 @@
     {
       "dt": 1791810300.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:05",
+      "time_estimated": "15:06",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -884,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791810600.0,
@@ -1025,7 +1008,7 @@
     {
       "dt": 1791813600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:24",
+      "time_estimated": "16:17",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1037,7 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 25
+      "delay": 18
     },
     {
       "dt": 1791813900.0,
@@ -1127,7 +1110,7 @@
     {
       "dt": 1791816600.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:06",
+      "time_estimated": "17:05",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1138,8 +1121,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 16
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791816900.0,
@@ -1195,7 +1178,7 @@
     {
       "dt": 1791817800.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:38",
+      "time_estimated": "17:51",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1207,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 28
+      "delay": 41
     },
     {
       "dt": 1791817800.0,
@@ -1817,6 +1800,40 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791826200.0,
+      "time_scheduled": "19:30",
+      "time_estimated": "19:30",
+      "flight_no": "EW9591",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791826200.0,
+      "time_scheduled": "19:30",
+      "time_estimated": "19:30",
+      "flight_no": "XQ180",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
