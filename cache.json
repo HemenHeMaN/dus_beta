@@ -1,24 +1,7 @@
 {
-  "updated_at": "12.10.2026 08:40",
+  "updated_at": "12.10.2026 08:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791780300.0,
-      "time_scheduled": "06:45",
-      "time_estimated": "06:44",
-      "flight_no": "XQ1350",
-      "airline": "Sun Express",
-      "city": "Samsun",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791780600.0,
       "time_scheduled": "06:50",
@@ -236,8 +219,8 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 3
     },
     {
@@ -305,7 +288,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 1
     },
     {
@@ -355,8 +338,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -372,8 +355,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -498,7 +481,7 @@
     {
       "dt": 1791789600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:37",
+      "time_estimated": "09:41",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -510,12 +493,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 18
+      "delay": 22
     },
     {
       "dt": 1791790200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:36",
+      "time_estimated": "09:30",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -527,7 +510,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1791790200.0,
@@ -583,7 +566,7 @@
     {
       "dt": 1791790800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:39",
+      "time_estimated": "09:40",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -595,12 +578,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791790800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:51",
+      "time_estimated": "09:49",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -611,8 +594,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 11
+      "status_text": "Vorhafen verlassen",
+      "delay": 9
     },
     {
       "dt": 1791791100.0,
@@ -719,7 +702,7 @@
     {
       "dt": 1791791700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:52",
+      "time_estimated": "10:02",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -730,8 +713,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791792300.0,
@@ -1042,7 +1025,7 @@
     {
       "dt": 1791795900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:31",
+      "time_estimated": "11:28",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1054,12 +1037,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 27
+      "delay": 24
     },
     {
       "dt": 1791796200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:13",
+      "time_estimated": "11:17",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1071,7 +1054,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1791796800.0,
@@ -1093,7 +1076,7 @@
     {
       "dt": 1791797100.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:25",
+      "time_estimated": "11:46",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -1105,12 +1088,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1791797400.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:30",
+      "time_estimated": "11:51",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1122,7 +1105,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1791797400.0,
@@ -1314,7 +1297,7 @@
     {
       "dt": 1791799500.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:05",
+      "time_estimated": "11:44",
       "flight_no": "EW9739",
       "airline": "Eurowings",
       "city": "Tallinn",
@@ -1751,6 +1734,23 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791805500.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:40",
+      "flight_no": "QR085",
+      "airline": "Qatar Airways",
+      "city": "Doha",
+      "country": "Katar",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     }
   ]
