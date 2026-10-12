@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 10:01",
+  "updated_at": "12.10.2026 10:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -209,23 +209,6 @@
     {
       "dt": 1791788400.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:55",
-      "flight_no": "XQ188",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791788400.0,
-      "time_scheduled": "09:00",
       "time_estimated": "08:40",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
@@ -236,6 +219,23 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791788400.0,
+      "time_scheduled": "09:00",
+      "time_estimated": "08:55",
+      "flight_no": "XQ188",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -379,23 +379,6 @@
     {
       "dt": 1791790200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:20",
-      "flight_no": "PC1007",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791790200.0,
-      "time_scheduled": "09:30",
       "time_estimated": "09:22",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
@@ -406,6 +389,23 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791790200.0,
+      "time_scheduled": "09:30",
+      "time_estimated": "09:20",
+      "flight_no": "PC1007",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -447,23 +447,6 @@
     {
       "dt": 1791790800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:37",
-      "flight_no": "LH2006",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791790800.0,
-      "time_scheduled": "09:40",
       "time_estimated": "09:33",
       "flight_no": "EW9041",
       "airline": "Eurowings",
@@ -474,6 +457,23 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791790800.0,
+      "time_scheduled": "09:40",
+      "time_estimated": "09:37",
+      "flight_no": "LH2006",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -593,14 +593,14 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 8
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 7
     },
     {
       "dt": 1791792300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:11",
+      "time_estimated": "10:19",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -612,7 +612,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 6
+      "delay": 14
     },
     {
       "dt": 1791792600.0,
@@ -627,8 +627,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 12
     },
     {
@@ -695,8 +695,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 1
     },
     {
@@ -764,7 +764,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -787,7 +787,7 @@
     {
       "dt": 1791794100.0,
       "time_scheduled": "10:35",
-      "time_estimated": "11:31",
+      "time_estimated": "11:32",
       "flight_no": "EW9743",
       "airline": "Eurowings",
       "city": "Genf",
@@ -799,7 +799,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 57
+      "delay": 58
     },
     {
       "dt": 1791794700.0,
@@ -872,7 +872,7 @@
     {
       "dt": 1791795600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:47",
+      "time_estimated": "10:48",
       "flight_no": "4M195",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1161,7 +1161,7 @@
     {
       "dt": 1791798900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:42",
+      "time_estimated": "12:55",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1173,7 +1173,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 47
+      "delay": 60
     },
     {
       "dt": 1791799500.0,
@@ -1399,7 +1399,7 @@
     {
       "dt": 1791802200.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:50",
+      "time_estimated": "13:07",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1411,7 +1411,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1791802200.0,
@@ -1484,7 +1484,7 @@
     {
       "dt": 1791803100.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:05",
+      "time_estimated": "13:08",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -1496,7 +1496,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791804300.0,
@@ -2033,6 +2033,23 @@
       "airline": "Air Cairo",
       "city": "Hurghada",
       "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791810300.0,
+      "time_scheduled": "15:05",
+      "time_estimated": "15:05",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
