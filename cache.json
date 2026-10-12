@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 13:15",
+  "updated_at": "12.10.2026 13:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 93
-    },
-    {
-      "dt": 1791794100.0,
-      "time_scheduled": "10:35",
-      "time_estimated": "11:19",
-      "flight_no": "EW9743",
-      "airline": "Eurowings",
-      "city": "Genf",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 45
     },
     {
       "dt": 1791794700.0,
@@ -69,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 33
-    },
-    {
-      "dt": 1791795900.0,
-      "time_scheduled": "11:05",
-      "time_estimated": "11:15",
-      "flight_no": "DE1011",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 11
     },
     {
       "dt": 1791796800.0,
@@ -611,13 +577,13 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 32
     },
     {
       "dt": 1791802800.0,
       "time_scheduled": "13:00",
-      "time_estimated": "13:41",
+      "time_estimated": "13:30",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -627,9 +593,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 41
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 31
     },
     {
       "dt": 1791803100.0,
@@ -855,7 +821,7 @@
     {
       "dt": 1791806100.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:10",
+      "time_estimated": "14:16",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -867,7 +833,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 21
     },
     {
       "dt": 1791806700.0,
@@ -1093,7 +1059,7 @@
     {
       "dt": 1791808800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:34",
+      "time_estimated": "14:29",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1110,7 +1076,7 @@
     {
       "dt": 1791808800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "15:01",
+      "time_estimated": "15:04",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -1121,8 +1087,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 21
+      "status_text": "Vorhafen verlassen",
+      "delay": 24
     },
     {
       "dt": 1791809100.0,
@@ -1280,7 +1246,7 @@
     {
       "dt": 1791810900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "16:14",
+      "time_estimated": "16:28",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1292,7 +1258,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 59
+      "delay": 73
     },
     {
       "dt": 1791812700.0,
@@ -1883,6 +1849,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791822000.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "LX1024",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
