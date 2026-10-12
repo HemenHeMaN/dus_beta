@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 21:25",
+  "updated_at": "12.10.2026 21:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -65,23 +65,6 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791827100.0,
-      "time_scheduled": "19:45",
-      "time_estimated": "19:28",
-      "flight_no": "EW4676",
-      "airline": "Eurowings",
-      "city": "Stockholm-Arlanda",
-      "country": "Schweden",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -345,23 +328,6 @@
     {
       "dt": 1791831600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:40",
-      "flight_no": "BA924",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 41
-    },
-    {
-      "dt": 1791831600.0,
-      "time_scheduled": "21:00",
       "time_estimated": "20:46",
       "flight_no": "EW9765",
       "airline": "Eurowings",
@@ -375,6 +341,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791831600.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:37",
+      "flight_no": "BA924",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "active",
+      "status_text": "im Anflug",
+      "delay": 38
     },
     {
       "dt": 1791831900.0,
@@ -447,7 +430,7 @@
     {
       "dt": 1791833100.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:44",
+      "time_estimated": "21:34",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -459,12 +442,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 20
+      "delay": 10
     },
     {
       "dt": 1791833100.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:29",
+      "time_estimated": "21:36",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -476,7 +459,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 4
+      "delay": 12
     },
     {
       "dt": 1791833700.0,
@@ -515,7 +498,7 @@
     {
       "dt": 1791834000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:55",
+      "time_estimated": "21:47",
       "flight_no": "EW5519",
       "airline": "Eurowings",
       "city": "Monastir",
@@ -527,7 +510,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 15
+      "delay": 7
     },
     {
       "dt": 1791834000.0,
@@ -594,7 +577,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -668,7 +651,7 @@
     {
       "dt": 1791834900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:11",
+      "time_estimated": "22:08",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -679,8 +662,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 17
+      "status_text": "Vorhafen verlassen",
+      "delay": 14
     },
     {
       "dt": 1791834900.0,
@@ -736,7 +719,7 @@
     {
       "dt": 1791835200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:01",
+      "time_estimated": "22:03",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -748,7 +731,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1791835500.0,
@@ -778,7 +761,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "3",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1008,7 +991,7 @@
     {
       "dt": 1791836700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:11",
+      "time_estimated": "22:05",
       "flight_no": "EW9335",
       "airline": "Eurowings",
       "city": "Birmingham",
