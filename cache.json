@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 17:40",
+  "updated_at": "12.10.2026 17:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -137,23 +137,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 24
-    },
-    {
-      "dt": 1791812700.0,
-      "time_scheduled": "15:45",
-      "time_estimated": "15:43",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791813600.0,
@@ -379,7 +362,7 @@
     {
       "dt": 1791818100.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:46",
+      "time_estimated": "17:41",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -389,9 +372,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 31
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 27
     },
     {
       "dt": 1791818400.0,
@@ -457,8 +440,8 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 25
     },
     {
@@ -491,8 +474,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 27
     },
     {
@@ -543,7 +526,7 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 23
     },
     {
@@ -593,8 +576,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 12
     },
     {
@@ -770,7 +753,7 @@
     {
       "dt": 1791823200.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:56",
+      "time_estimated": "18:54",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -782,12 +765,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1791823200.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:40",
+      "time_estimated": "18:39",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -798,7 +781,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -991,7 +974,7 @@
     {
       "dt": 1791826200.0,
       "time_scheduled": "19:30",
-      "time_estimated": "20:44",
+      "time_estimated": "20:45",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1003,7 +986,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 74
+      "delay": 75
     },
     {
       "dt": 1791826200.0,
@@ -1093,7 +1076,7 @@
     {
       "dt": 1791827100.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:43",
+      "time_estimated": "19:41",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791829800.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:14",
+      "time_estimated": "21:02",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1223,8 +1206,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 44
+      "status_text": "Vorhafen verlassen",
+      "delay": 32
     },
     {
       "dt": 1791829800.0,
@@ -1263,7 +1246,7 @@
     {
       "dt": 1791830400.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:40",
+      "time_estimated": "20:47",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -1275,7 +1258,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1791830400.0,
@@ -2096,6 +2079,23 @@
     {
       "dt": 1791837300.0,
       "time_scheduled": "22:35",
+      "time_estimated": "22:41",
+      "flight_no": "DE069",
+      "airline": "Condor",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "delay": 7
+    },
+    {
+      "dt": 1791837300.0,
+      "time_scheduled": "22:35",
       "time_estimated": "22:35",
       "flight_no": "DE1429",
       "airline": "Condor",
@@ -2138,6 +2138,40 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791837900.0,
+      "time_scheduled": "22:45",
+      "time_estimated": "22:45",
+      "flight_no": "X34573",
+      "airline": "Tuifly",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791837900.0,
+      "time_scheduled": "22:45",
+      "time_estimated": "22:45",
+      "flight_no": "DE139",
+      "airline": "Condor",
+      "city": "Agadir",
+      "country": "Marokko",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
