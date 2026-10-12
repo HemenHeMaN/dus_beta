@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 20:30",
+  "updated_at": "12.10.2026 20:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,7 +16,7 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 161
     },
     {
@@ -56,7 +56,7 @@
     {
       "dt": 1791823200.0,
       "time_scheduled": "18:40",
-      "time_estimated": "20:47",
+      "time_estimated": "20:32",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -66,9 +66,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 127
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 113
     },
     {
       "dt": 1791823200.0,
@@ -86,23 +86,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 8
-    },
-    {
-      "dt": 1791823200.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:34",
-      "flight_no": "AF1006",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791824100.0,
@@ -661,8 +644,8 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 4
     },
     {
@@ -923,7 +906,7 @@
     {
       "dt": 1791834600.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:48",
+      "time_estimated": "21:46",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1025,7 +1008,7 @@
     {
       "dt": 1791835200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:33",
+      "time_estimated": "22:26",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1037,7 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 34
+      "delay": 27
     },
     {
       "dt": 1791835200.0,
@@ -1093,7 +1076,7 @@
     {
       "dt": 1791835800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:03",
+      "time_estimated": "22:01",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1161,7 +1144,7 @@
     {
       "dt": 1791836100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:05",
+      "time_estimated": "22:10",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791836400.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:53",
+      "time_estimated": "22:54",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -1223,8 +1206,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 34
+      "status_text": "Vorhafen verlassen",
+      "delay": 35
     },
     {
       "dt": 1791836400.0,
@@ -1257,8 +1240,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 4
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791836700.0,
