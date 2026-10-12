@@ -1033,7 +1033,7 @@ function renderFlights(flights) {
 
         const isGuess = f.type_source === 'Airline' || f.type_source === 'Flugtyp';
         const guessMark = isGuess ? ' ?' : '';
-        const guessTitle = isGuess ? ' title="Vorläufig, Ausgang noch nicht vergeben"' : '';
+        const guessTitle = isGuess ? ' title="Vorläufig, Art noch nicht sicher"' : '';
 
         const est = f.time_estimated;
         const hasEst = est && est !== f.time_scheduled;
@@ -1083,7 +1083,7 @@ function renderFlights(flights) {
                 <div class="main-info">
                     <div class="city-name">${f.city}${countryHtml}</div>
                     <div class="gate-info">
-                        <span class="${badgeClass}"${guessTitle}>${esc(cleanGate(f.gate))}${cleanGate(f.gate) !== EMPTY_MARK ? guessMark : ''}</span>
+                        <span class="${badgeClass}">${esc(cleanGate(f.gate))}</span>
                     </div>
                 </div>
                 ${iconHtml}
@@ -1094,7 +1094,7 @@ function renderFlights(flights) {
                     <div><strong>Flug-Nr.:</strong> ${f.flight_no}</div>
                     <div><strong>Airline:</strong> ${f.airline}</div>
                     <div><strong>Von:</strong> ${fromText}</div>
-                    <div><strong>Typ:</strong> ${f.type}</div>
+                    <div${guessTitle}><strong>Typ:</strong> ${f.type}${guessMark}</div>
                     <div><strong>Status:</strong> ${statusText}</div>
                     ${beltHtml}
                 </div>
@@ -1225,8 +1225,8 @@ function renderBoard(flights) {
             <div class="tf-flight">${esc(f.flight_no)}<small>${esc(f.airline)}</small></div>
             <div class="tf-city">${esc(f.city)}${countryHtml}</div>
             <div class="tf-time">${esc(zeit)}</div>
-            <div class="tf-exit">${esc(gateText)}${gateText !== EMPTY_MARK && isGuess ? ' ?' : ''}<small>Band ${esc(beltText)}</small></div>
-            <div class="tf-kind">${esc(f.type)}</div>
+            <div class="tf-exit">${esc(gateText)}<small>Band ${esc(beltText)}</small></div>
+            <div class="tf-kind"${isGuess ? ' title="Vorläufig, Art noch nicht sicher"' : ''}>${esc(f.type)}${isGuess ? ' ?' : ''}</div>
             <div class="tf-status"><span class="tf-dot"></span><span>${st.label}${!isCancelled && f.delay > 0 ? '<span class="tf-delay">+' + esc(f.delay) + ' Min.</span>' : ''}</span></div>
         `;
         body.appendChild(row);
