@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 09:25",
+  "updated_at": "12.10.2026 09:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 2
-    },
-    {
-      "dt": 1791783600.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:30",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791783900.0,
@@ -464,7 +447,7 @@
     {
       "dt": 1791789300.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:31",
+      "time_estimated": "09:28",
       "flight_no": "EW9029",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -474,14 +457,14 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 17
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 14
     },
     {
       "dt": 1791789600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:33",
+      "time_estimated": "09:26",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -491,9 +474,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 13
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 6
     },
     {
       "dt": 1791790200.0,
@@ -583,7 +566,7 @@
     {
       "dt": 1791790800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:49",
+      "time_estimated": "09:43",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -594,8 +577,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 9
+      "status_text": "im Anflug",
+      "delay": 3
     },
     {
       "dt": 1791791100.0,
@@ -628,7 +611,7 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
@@ -685,7 +668,7 @@
     {
       "dt": 1791791700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:01",
+      "time_estimated": "09:53",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -697,7 +680,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1791791700.0,
@@ -753,7 +736,7 @@
     {
       "dt": 1791792900.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:36",
+      "time_estimated": "10:46",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -765,7 +748,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 22
+      "delay": 32
     },
     {
       "dt": 1791793200.0,
@@ -838,7 +821,7 @@
     {
       "dt": 1791793500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "12:11",
+      "time_estimated": "11:59",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -850,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 107
+      "delay": 95
     },
     {
       "dt": 1791793800.0,
@@ -1178,7 +1161,7 @@
     {
       "dt": 1791798000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:01",
+      "time_estimated": "11:54",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1189,8 +1172,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 22
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791798300.0,
@@ -1365,7 +1348,7 @@
     {
       "dt": 1791800700.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:25",
+      "time_estimated": "12:37",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1377,7 +1360,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1791801000.0,
@@ -1999,6 +1982,23 @@
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
       "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791808200.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:30",
+      "flight_no": "LH074",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
