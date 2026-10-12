@@ -227,6 +227,30 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
 .btn-landing.active { background: var(--filter-active-landing); color: #fff; }
 .btn-landed.active { background: var(--filter-active-landed); color: #fff; }
 
+/* --- Zähler: Noch landende Flüge --- */
+.remain-box {
+    display: none; align-items: center; justify-content: space-between; gap: 10px;
+    margin-bottom: 10px; padding: 10px 14px; border-radius: 8px;
+    background: var(--card-bg); border: 1px solid var(--border-color);
+    border-left: 6px solid var(--filter-active-landing);
+    font-weight: 700; font-size: 0.95rem;
+}
+.remain-box.show { display: flex; }
+.remain-box .remain-num {
+    font-size: 1.5rem; color: var(--heading-color); font-variant-numeric: tabular-nums;
+}
+.tf-remain {
+    display: none; align-items: baseline; gap: 8px; text-align: right;
+    font-family: var(--tf-display); text-transform: uppercase; letter-spacing: .08em;
+    color: var(--tf-dim); font-size: .95rem; line-height: 1;
+}
+.tf-remain.show { display: flex; }
+.tf-remain b {
+    font-family: var(--tf-data); font-size: 1.6rem; color: var(--tf-flap-text);
+    background: var(--tf-flap); padding: 3px 8px; border-radius: 2px;
+    font-variant-numeric: tabular-nums;
+}
+
 /* Flugkarten (Design 1) */
 .flight-card {
     border-radius: 8px; padding: 12px; margin-bottom: 10px;
@@ -275,7 +299,7 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
     transition: background .6s ease, color .3s ease;
 }
 .tf-header {
-    display: flex; align-items: flex-end; justify-content: space-between;
+    display: flex; align-items: flex-end; justify-content: space-between; gap: 10px;
     padding-bottom: 12px; border-bottom: 2px solid var(--tf-amber);
 }
 .tf-title {
@@ -537,6 +561,10 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
 
 <!-- ANSICHT 1: Klassische Detail-Karten -->
 <div id="view1" class="view-section active-view">
+    <div class="remain-box" id="remainBox1">
+        <span id="remainLabel1">Noch zu landen</span>
+        <span class="remain-num" id="remainNum1">0</span>
+    </div>
     <div id="flightList">
         <div class="no-flights">Flüge werden geladen...</div>
     </div>
@@ -545,6 +573,12 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
 <!-- ANSICHT 3: Flughafentafel -->
 <div id="view3" class="view-section">
     <div class="tf-board">
+        <div class="tf-header">
+            <h2 class="tf-title">Ankünfte</h2>
+            <div class="tf-remain" id="remainBox3">
+                <span id="remainLabel3">Noch zu landen</span><b id="remainNum3">0</b>
+            </div>
+        </div>
         <div class="tf-head tf-row" aria-hidden="true">
             <div>Flug</div><div>Von</div><div>Erwartet</div><div>Ausgang</div><div>Art</div><div>Status</div>
         </div>
@@ -917,10 +951,49 @@ function getFilteredList() {
     return [...list].sort((a, b) => (expected(a) - expected(b)) || ((a.dt || 0) - (b.dt || 0)));
 }
 
+/* ---------- Zähler: Wie viele Flüge landen noch? ---------- */
+// Zählt nur Flüge, die noch landen werden (nicht gelandet, nicht annulliert/umgeleitet/Störung).
+// Ignoriert Suchtext und die Menü-Option "Gelandete ausblenden".
+function isStillLanding(f) {
+    const s = String(f.status).toLowerCase();
+    return s !== 'landed' && s !== 'cancelled' && s !== 'diverted' && s !== 'incident';
+}
+
+function updateRemaining() {
+    let list = allFlights.filter(isStillLanding);
+    let label = 'Noch zu landen';
+
+    if (currentFilter === 'Linie') {
+        list = list.filter(f => f.type === 'Linie');
+        label = 'Noch zu landen (Linie)';
+    } else if (currentFilter === 'Charter') {
+        list = list.filter(f => f.type === 'Charter');
+        label = 'Noch zu landen (Charter)';
+    } else if (currentFilter === 'landing') {
+        list = list.filter(f => {
+            const s = String(f.status).toLowerCase();
+            return s === 'active' || s === 'en-route';
+        });
+        label = 'Gerade im Anflug';
+    } else if (currentFilter === 'all') {
+        label = 'Noch zu landen (Alle)';
+    }
+
+    const show = currentFilter !== 'landed';
+    [1, 3].forEach(n => {
+        const box = document.getElementById('remainBox' + n);
+        if (!box) return;
+        box.classList.toggle('show', show);
+        document.getElementById('remainLabel' + n).textContent = label;
+        document.getElementById('remainNum' + n).textContent = list.length;
+    });
+}
+
 function applyFilter() {
     const filtered = getFilteredList();
     renderFlights(filtered);
     renderBoard(filtered);
+    updateRemaining();
 }
 
 /* ---------- Rendering Ansicht 1 (Detail-Karten) ---------- */
