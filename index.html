@@ -1082,7 +1082,7 @@ function renderFlights(flights) {
                 <div class="main-info">
                     <div class="city-name">${f.city}${countryHtml}</div>
                     <div class="gate-info">
-                        <span class="${badgeClass}"${guessTitle}>${f.gate}${guessMark}</span>
+                        <span class="${badgeClass}"${guessTitle}>${esc(cleanGate(f.gate))}${cleanGate(f.gate) !== EMPTY_MARK ? guessMark : ''}</span>
                     </div>
                 </div>
                 ${iconHtml}
@@ -1144,6 +1144,15 @@ function liveStatus(f) {
     return 'scheduled';
 }
 
+/* ---------- Ausgang bereinigen: "[ Charter ]" / "[ Linie ]" entfernen ---------- */
+function cleanGate(g) {
+    let t = String(g == null ? '' : g);
+    t = t.replace(/[\[\(\uFF3B\u3010][^\]\)\uFF3D\u3011]*[\]\)\uFF3D\u3011]/g, ' ');  // alles in Klammern
+    t = t.replace(/\b(charter|linie)\b/gi, ' ');                                          // lose Wörter
+    t = t.replace(/[\[\]\(\)]/g, ' ').replace(/\s+/g, ' ').trim();                        // Reste
+    return t || EMPTY_MARK;
+}
+
 /* ---------- Rendering Ansicht 3 (Flughafentafel) ---------- */
 function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -1195,7 +1204,7 @@ function renderBoard(flights) {
         const isGuess = f.type_source === 'Airline' || f.type_source === 'Flugtyp';
 
         // Ausgang ohne "[ Charter ]" / "[ Linie ]"; leer -> ------
-        const gateText = String(f.gate == null ? '' : f.gate).replace(/\s*\[[^\]]*\]\s*/g, ' ').trim() || EMPTY_MARK;
+        const gateText = cleanGate(f.gate);
         const beltText = String(f.baggage == null ? '' : f.baggage).trim() || EMPTY_MARK;
 
         const cc = getFlagCode(f.country);
