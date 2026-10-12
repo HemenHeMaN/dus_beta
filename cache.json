@@ -1,24 +1,7 @@
 {
-  "updated_at": "12.10.2026 12:20",
+  "updated_at": "12.10.2026 12:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791791100.0,
-      "time_scheduled": "09:45",
-      "time_estimated": "10:22",
-      "flight_no": "EW9713",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 37
-    },
     {
       "dt": 1791791700.0,
       "time_scheduled": "09:55",
@@ -515,23 +498,6 @@
     {
       "dt": 1791799500.0,
       "time_scheduled": "12:05",
-      "time_estimated": "13:05",
-      "flight_no": "EW9577",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 60
-    },
-    {
-      "dt": 1791799500.0,
-      "time_scheduled": "12:05",
       "time_estimated": "11:36",
       "flight_no": "EW9739",
       "airline": "Eurowings",
@@ -545,6 +511,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791799500.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "13:05",
+      "flight_no": "EW9577",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "delay": 60
     },
     {
       "dt": 1791799800.0,
@@ -594,7 +577,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 17
     },
     {
@@ -634,7 +617,7 @@
     {
       "dt": 1791801300.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:34",
+      "time_estimated": "12:29",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -695,8 +678,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 5
     },
     {
@@ -712,8 +695,8 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -730,7 +713,7 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -872,7 +855,7 @@
     {
       "dt": 1791804600.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:24",
+      "time_estimated": "13:49",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -884,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1791804600.0,
@@ -1059,7 +1042,7 @@
     {
       "dt": 1791806700.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:02",
+      "time_estimated": "14:08",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1071,7 +1054,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791806700.0,
@@ -1195,7 +1178,7 @@
     {
       "dt": 1791807900.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:27",
+      "time_estimated": "14:30",
       "flight_no": "VY1894",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1206,8 +1189,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791807900.0,
@@ -1518,7 +1501,7 @@
     {
       "dt": 1791812700.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "15:28",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1761,6 +1744,23 @@
       "airline": "Tunisair",
       "city": "Tunis",
       "country": "Tunesien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791818700.0,
+      "time_scheduled": "17:25",
+      "time_estimated": "17:25",
+      "flight_no": "TK1527",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
