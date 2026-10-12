@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 17:15",
+  "updated_at": "12.10.2026 17:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -54,23 +54,6 @@
       "delay": 78
     },
     {
-      "dt": 1791808500.0,
-      "time_scheduled": "14:35",
-      "time_estimated": "15:19",
-      "flight_no": "EW9465",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 45
-    },
-    {
       "dt": 1791810300.0,
       "time_scheduled": "15:05",
       "time_estimated": "16:00",
@@ -86,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 56
-    },
-    {
-      "dt": 1791810900.0,
-      "time_scheduled": "15:15",
-      "time_estimated": "15:15",
-      "flight_no": "EW9339",
-      "airline": "Eurowings",
-      "city": "Newcastle",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
     },
     {
       "dt": 1791810900.0,
@@ -379,7 +345,7 @@
     {
       "dt": 1791817800.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:58",
+      "time_estimated": "17:56",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -391,7 +357,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 49
+      "delay": 47
     },
     {
       "dt": 1791817800.0,
@@ -474,8 +440,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 18
     },
     {
@@ -508,8 +474,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 4
     },
     {
@@ -549,7 +515,7 @@
     {
       "dt": 1791819600.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:52",
+      "time_estimated": "17:51",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -561,7 +527,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 13
+      "delay": 12
     },
     {
       "dt": 1791819600.0,
@@ -593,8 +559,8 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -617,7 +583,7 @@
     {
       "dt": 1791820500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:16",
+      "time_estimated": "18:20",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -629,7 +595,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 21
+      "delay": 25
     },
     {
       "dt": 1791820800.0,
@@ -1637,6 +1603,23 @@
     {
       "dt": 1791834600.0,
       "time_scheduled": "21:50",
+      "time_estimated": "22:19",
+      "flight_no": "EW9601",
+      "airline": "Eurowings",
+      "city": "Funchal (Madeira)",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 29
+    },
+    {
+      "dt": 1791834600.0,
+      "time_scheduled": "21:50",
       "time_estimated": "21:50",
       "flight_no": "AF1106",
       "airline": "Air France",
@@ -1667,6 +1650,23 @@
       "status": "scheduled",
       "status_text": "",
       "delay": 0
+    },
+    {
+      "dt": 1791834900.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "22:20",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 25
     },
     {
       "dt": 1791834900.0,
@@ -1868,6 +1868,91 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791836400.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "EW9345",
+      "airline": "Eurowings",
+      "city": "Manchester",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791836400.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "IB1325",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791836400.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "EW9793",
+      "airline": "Eurowings",
+      "city": "Bukarest-Otopeni",
+      "country": "Rumänien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791836400.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "DE1685",
+      "airline": "Condor",
+      "city": "Larnaca (Zypern)",
+      "country": "Zypern",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791836400.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "EW9519",
+      "airline": "Eurowings",
+      "city": "Bilbao",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
