@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:05",
+  "updated_at": "12.10.2026 07:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -141,7 +141,7 @@
     {
       "dt": 1791783600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:38",
+      "time_estimated": "07:35",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -498,7 +498,7 @@
     {
       "dt": 1791788700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:18",
+      "time_estimated": "09:19",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -509,8 +509,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 14
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791789000.0,
@@ -804,7 +804,7 @@
     {
       "dt": 1791792300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:11",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -816,7 +816,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1791792600.0,
@@ -838,7 +838,7 @@
     {
       "dt": 1791792900.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "10:11",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1093,7 +1093,7 @@
     {
       "dt": 1791795600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:00",
+      "time_estimated": "10:33",
       "flight_no": "4M148",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1104,7 +1104,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1407,6 +1407,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791799800.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
