@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 16:51",
+  "updated_at": "12.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -133,23 +133,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791810600.0,
-      "time_scheduled": "15:10",
-      "time_estimated": "14:52",
-      "flight_no": "XQ1348",
-      "airline": "Sun Express",
-      "city": "Balikesir / Edremit",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -396,7 +379,7 @@
     {
       "dt": 1791816900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:59",
+      "time_estimated": "16:51",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -406,9 +389,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791816900.0,
@@ -441,7 +424,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 10
     },
     {
@@ -549,7 +532,7 @@
     {
       "dt": 1791819600.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:42",
+      "time_estimated": "17:57",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -561,7 +544,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 3
+      "delay": 18
     },
     {
       "dt": 1791819600.0,
@@ -872,7 +855,7 @@
     {
       "dt": 1791823200.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:52",
+      "time_estimated": "18:56",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -884,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1791823200.0,
@@ -1076,7 +1059,7 @@
     {
       "dt": 1791825600.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:21",
+      "time_estimated": "19:23",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1088,7 +1071,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1791826200.0,
@@ -1144,7 +1127,7 @@
     {
       "dt": 1791826800.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:55",
+      "time_estimated": "19:53",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1156,7 +1139,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 15
+      "delay": 13
     },
     {
       "dt": 1791826800.0,
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791827100.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:49",
+      "time_estimated": "19:44",
       "flight_no": "A3542",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1224,7 +1207,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1791827400.0,
@@ -1246,7 +1229,7 @@
     {
       "dt": 1791828000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "19:59",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1710,6 +1693,40 @@
       "airline": "Eurowings",
       "city": "Prag",
       "country": "Tschechien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791834900.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "LH078",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791834900.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9887",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
