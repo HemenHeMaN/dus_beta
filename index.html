@@ -353,6 +353,7 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
 }
 .tf-row.cancelled .tf-time { opacity: .6; text-decoration: line-through; }
 .tf-exit { font-weight: 700; font-size: .85rem; overflow-wrap: anywhere; }
+.tf-exit small { display: block; font-weight: 400; font-size: .62rem; color: var(--tf-dim); letter-spacing: .02em; margin-top: 2px; }
 .tf-kind { font-size: .68rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
 .tf-status {
     display: flex; align-items: center; gap: 8px; font-size: .68rem; font-weight: 700;
@@ -603,6 +604,7 @@ const VIEW_KEY = 'dus_active_view';
 const FLAG_KEY = 'dus_flag_mode';
 const FILTER_KEY = 'dus_active_filter';
 const TF_FENSTER = 90;
+const EMPTY_MARK = '------';        // Platzhalter, wenn Ausgang/Band noch nicht festgelegt
 const LANDED_STEPS = [5, 10, 15];   // Reihenfolge beim Tippen im Menü
 const LANDED_KEY = 'dus_landed_count';
 const SHOWLANDED_KEY = 'dus_show_landed';
@@ -1192,6 +1194,10 @@ function renderBoard(flights) {
         const zeit = f.time_estimated || f.time_scheduled || '';
         const isGuess = f.type_source === 'Airline' || f.type_source === 'Flugtyp';
 
+        // Ausgang ohne "[ Charter ]" / "[ Linie ]"; leer -> ------
+        const gateText = String(f.gate == null ? '' : f.gate).replace(/\s*\[[^\]]*\]\s*/g, ' ').trim() || EMPTY_MARK;
+        const beltText = String(f.baggage == null ? '' : f.baggage).trim() || EMPTY_MARK;
+
         const cc = getFlagCode(f.country);
         const flagUrl = `https://flagcdn.com/${cc}.svg`;
 
@@ -1209,7 +1215,7 @@ function renderBoard(flights) {
             <div class="tf-flight">${esc(f.flight_no)}<small>${esc(f.airline)}</small></div>
             <div class="tf-city">${esc(f.city)}${countryHtml}</div>
             <div class="tf-time">${esc(zeit)}</div>
-            <div class="tf-exit">${esc(f.gate)}${isGuess ? ' ?' : ''}</div>
+            <div class="tf-exit">${esc(gateText)}${gateText !== EMPTY_MARK && isGuess ? ' ?' : ''}<small>Band ${esc(beltText)}</small></div>
             <div class="tf-kind">${esc(f.type)}</div>
             <div class="tf-status"><span class="tf-dot"></span><span>${st.label}${!isCancelled && f.delay > 0 ? '<span class="tf-delay">+' + esc(f.delay) + ' Min.</span>' : ''}</span></div>
         `;
