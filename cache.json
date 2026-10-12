@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:25",
+  "updated_at": "12.10.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -101,7 +101,7 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 49
     },
     {
@@ -134,14 +134,14 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 9
     },
     {
       "dt": 1791783600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:35",
+      "time_estimated": "07:30",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -151,8 +151,8 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -169,7 +169,7 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -209,7 +209,7 @@
     {
       "dt": 1791785700.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:00",
+      "time_estimated": "08:01",
       "flight_no": "EW4200",
       "airline": "Eurowings",
       "city": "Prag",
@@ -311,7 +311,7 @@
     {
       "dt": 1791787200.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:36",
+      "time_estimated": "08:39",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -566,7 +566,7 @@
     {
       "dt": 1791789600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:22",
+      "time_estimated": "09:56",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -578,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 3
+      "delay": 37
     },
     {
       "dt": 1791790200.0,
@@ -872,7 +872,7 @@
     {
       "dt": 1791793200.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:20",
+      "time_estimated": "10:42",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -884,7 +884,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1791793200.0,
@@ -1059,7 +1059,7 @@
     {
       "dt": 1791795300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:34",
+      "time_estimated": "10:33",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1076,7 +1076,7 @@
     {
       "dt": 1791795600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:53",
+      "time_estimated": "10:48",
       "flight_no": "4M195",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1093,7 +1093,7 @@
     {
       "dt": 1791795600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:33",
+      "time_estimated": "10:31",
       "flight_no": "4M148",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1426,6 +1426,23 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791801000.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
