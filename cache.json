@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:40",
+  "updated_at": "12.10.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -124,7 +124,7 @@
     {
       "dt": 1791783600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:48",
+      "time_estimated": "07:42",
       "flight_no": "LH2000",
       "airline": "Lufthansa",
       "city": "München",
@@ -134,9 +134,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 9
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 2
     },
     {
       "dt": 1791783600.0,
@@ -219,8 +219,8 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -277,7 +277,7 @@
     {
       "dt": 1791786900.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:24",
+      "time_estimated": "08:25",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -311,7 +311,7 @@
     {
       "dt": 1791787200.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:39",
+      "time_estimated": "08:38",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -322,7 +322,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -617,7 +617,7 @@
     {
       "dt": 1791790500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:22",
+      "time_estimated": "09:45",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -629,7 +629,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1791790500.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1791790800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:51",
+      "time_estimated": "09:39",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -663,7 +663,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 0
     },
     {
       "dt": 1791790800.0,
@@ -872,7 +872,7 @@
     {
       "dt": 1791793200.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:42",
+      "time_estimated": "10:34",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -884,7 +884,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 23
+      "delay": 14
     },
     {
       "dt": 1791793200.0,
@@ -923,19 +923,19 @@
     {
       "dt": 1791793500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "11:57",
+      "time_estimated": "11:58",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 92
+      "delay": 93
     },
     {
       "dt": 1791793800.0,
@@ -957,7 +957,7 @@
     {
       "dt": 1791793800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:18",
+      "time_estimated": "10:17",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1025,7 +1025,7 @@
     {
       "dt": 1791795000.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:50",
+      "time_estimated": "10:45",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1042,7 +1042,7 @@
     {
       "dt": 1791795300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "11:31",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1054,7 +1054,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 36
     },
     {
       "dt": 1791795300.0,
@@ -1076,7 +1076,7 @@
     {
       "dt": 1791795600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:48",
+      "time_estimated": "10:47",
       "flight_no": "4M195",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1365,7 +1365,7 @@
     {
       "dt": 1791798900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:55",
+      "time_estimated": "12:29",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1377,7 +1377,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 34
     },
     {
       "dt": 1791799500.0,
@@ -1526,6 +1526,23 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791801900.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
