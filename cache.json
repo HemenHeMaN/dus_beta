@@ -1,11 +1,11 @@
 {
-  "updated_at": "12.10.2026 20:40",
+  "updated_at": "12.10.2026 20:45",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1791818400.0,
       "time_scheduled": "17:20",
-      "time_estimated": "20:01",
+      "time_estimated": "20:42",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 161
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 202
     },
     {
       "dt": 1791821700.0,
@@ -219,23 +219,6 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791825300.0,
-      "time_scheduled": "19:15",
-      "time_estimated": "18:43",
-      "flight_no": "EK057",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -617,7 +600,7 @@
     {
       "dt": 1791831600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:04",
+      "time_estimated": "20:51",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -629,12 +612,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1791831600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:41",
+      "time_estimated": "21:40",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -645,13 +628,13 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 42
+      "status_text": "Vorhafen verlassen",
+      "delay": 41
     },
     {
       "dt": 1791831900.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:37",
+      "time_estimated": "21:34",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -662,8 +645,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 32
+      "status_text": "Vorhafen verlassen",
+      "delay": 29
     },
     {
       "dt": 1791831900.0,
@@ -1110,7 +1093,7 @@
     {
       "dt": 1791835800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:04",
+      "time_estimated": "21:57",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
