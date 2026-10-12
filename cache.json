@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 20:45",
+  "updated_at": "12.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -54,40 +54,6 @@
       "delay": 113
     },
     {
-      "dt": 1791823200.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:47",
-      "flight_no": "LX1026",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 8
-    },
-    {
-      "dt": 1791824100.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:49",
-      "flight_no": "LO407",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
       "dt": 1791824100.0,
       "time_scheduled": "18:55",
       "time_estimated": "18:56",
@@ -103,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 2
-    },
-    {
-      "dt": 1791824100.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:45",
-      "flight_no": "XQ280",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791824100.0,
@@ -474,8 +423,8 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 35
     },
     {
@@ -526,7 +475,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 21
     },
     {
@@ -593,14 +542,14 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 17
     },
     {
       "dt": 1791831600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:51",
+      "time_estimated": "20:46",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -610,8 +559,8 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
