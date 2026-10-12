@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 08:20",
+  "updated_at": "12.10.2026 08:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -175,7 +175,7 @@
     {
       "dt": 1791786300.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:32",
+      "time_estimated": "08:20",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -185,9 +185,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 7
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791786600.0,
@@ -271,7 +271,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -288,7 +288,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -338,14 +338,14 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
       "dt": 1791788100.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:42",
+      "time_estimated": "08:48",
       "flight_no": "XQ968",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -372,8 +372,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -406,8 +406,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -498,7 +498,7 @@
     {
       "dt": 1791789300.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:14",
+      "time_estimated": "09:31",
       "flight_no": "EW9029",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -510,7 +510,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1791789600.0,
@@ -520,11 +520,11 @@
       "airline": "Eurowings",
       "city": "Hamburg",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 18
@@ -537,11 +537,11 @@
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
       "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
@@ -566,7 +566,7 @@
     {
       "dt": 1791790500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:45",
+      "time_estimated": "09:59",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -577,8 +577,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 10
+      "status_text": "Vorhafen verlassen",
+      "delay": 24
     },
     {
       "dt": 1791790500.0,
@@ -605,11 +605,11 @@
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
@@ -623,9 +623,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -651,7 +651,7 @@
     {
       "dt": 1791791100.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:32",
+      "time_estimated": "09:42",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -725,9 +725,9 @@
       "city": "Frankfurt",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -928,11 +928,11 @@
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -1030,11 +1030,11 @@
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Flugtyp",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -1047,11 +1047,11 @@
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -1076,7 +1076,7 @@
     {
       "dt": 1791796200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:16",
+      "time_estimated": "11:18",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1088,7 +1088,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1791796800.0,
@@ -1485,23 +1485,6 @@
       "dt": 1791801600.0,
       "time_scheduled": "12:40",
       "time_estimated": "12:40",
-      "flight_no": "EW9869",
-      "airline": "Eurowings",
-      "city": "Cagliari (Sardinien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "delay": 0
-    },
-    {
-      "dt": 1791801600.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "12:40",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -1628,6 +1611,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791804300.0,
+      "time_scheduled": "13:25",
+      "time_estimated": "13:25",
+      "flight_no": "BA920",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
