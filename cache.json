@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 17:03",
+  "updated_at": "12.10.2026 17:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -362,7 +362,7 @@
     {
       "dt": 1791816900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:05",
+      "time_estimated": "17:03",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -372,9 +372,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 10
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 9
     },
     {
       "dt": 1791817800.0,
@@ -668,7 +668,7 @@
     {
       "dt": 1791821100.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:30",
+      "time_estimated": "18:31",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -679,8 +679,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 26
+      "status_text": "Vorhafen verlassen",
+      "delay": 27
     },
     {
       "dt": 1791821100.0,
@@ -923,7 +923,7 @@
     {
       "dt": 1791825000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:13",
+      "time_estimated": "19:14",
       "flight_no": "IB1323",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -934,8 +934,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 4
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791825000.0,
@@ -1744,6 +1744,40 @@
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
       "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791835500.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9631",
+      "airline": "Eurowings",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791835500.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9245",
+      "airline": "Eurowings",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
