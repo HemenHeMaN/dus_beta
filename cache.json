@@ -1,24 +1,7 @@
 {
-  "updated_at": "12.10.2026 12:35",
+  "updated_at": "12.10.2026 12:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791792900.0,
-      "time_scheduled": "10:15",
-      "time_estimated": "10:38",
-      "flight_no": "EW9243",
-      "airline": "Eurowings",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 24
-    },
     {
       "dt": 1791793200.0,
       "time_scheduled": "10:20",
@@ -137,23 +120,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 12
-    },
-    {
-      "dt": 1791795600.0,
-      "time_scheduled": "11:00",
-      "time_estimated": "10:36",
-      "flight_no": "4M195",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791795900.0,
@@ -457,8 +423,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 60
     },
     {
@@ -600,7 +566,7 @@
     {
       "dt": 1791801600.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:45",
+      "time_estimated": "12:38",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -610,9 +576,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791801600.0,
@@ -627,8 +593,8 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -678,8 +644,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 15
     },
     {
@@ -695,8 +661,8 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 4
     },
     {
@@ -746,8 +712,8 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -780,14 +746,14 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
       "dt": 1791804600.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:49",
+      "time_estimated": "13:57",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -798,8 +764,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 19
+      "status_text": "Vorhafen verlassen",
+      "delay": 27
     },
     {
       "dt": 1791804600.0,
@@ -940,7 +906,7 @@
     {
       "dt": 1791805800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:47",
+      "time_estimated": "13:48",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1365,7 +1331,7 @@
     {
       "dt": 1791810900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:37",
+      "time_estimated": "15:40",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -1377,7 +1343,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 22
+      "delay": 25
     },
     {
       "dt": 1791810900.0,
@@ -1727,6 +1693,108 @@
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791819600.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "KL1803",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791819600.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "LH2020",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791819600.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "EW9581",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791819600.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "OS165",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791819600.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "XR404",
+      "airline": "Corendon Airlines Europe",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791819600.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "BJ2022",
+      "airline": "Nouvelair",
+      "city": "Djerba",
+      "country": "Tunesien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
