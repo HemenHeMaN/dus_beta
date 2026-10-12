@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 10:45",
+  "updated_at": "12.10.2026 10:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,23 +20,6 @@
       "delay": 237
     },
     {
-      "dt": 1791787500.0,
-      "time_scheduled": "08:45",
-      "time_estimated": "08:46",
-      "flight_no": "JU360",
-      "airline": "Air Serbia",
-      "city": "Belgrad",
-      "country": "Serbien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
-    },
-    {
       "dt": 1791787800.0,
       "time_scheduled": "08:50",
       "time_estimated": "08:52",
@@ -52,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 3
-    },
-    {
-      "dt": 1791788100.0,
-      "time_scheduled": "08:55",
-      "time_estimated": "08:48",
-      "flight_no": "XQ968",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791788400.0,
@@ -554,11 +520,11 @@
       "airline": "Eurowings",
       "city": "Mailand-Linate",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 95
@@ -617,7 +583,7 @@
     {
       "dt": 1791794100.0,
       "time_scheduled": "10:35",
-      "time_estimated": "11:35",
+      "time_estimated": "11:27",
       "flight_no": "EW9743",
       "airline": "Eurowings",
       "city": "Genf",
@@ -629,7 +595,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 61
+      "delay": 52
     },
     {
       "dt": 1791794700.0,
@@ -736,7 +702,7 @@
     {
       "dt": 1791795900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:26",
+      "time_estimated": "11:27",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -748,7 +714,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 22
+      "delay": 23
     },
     {
       "dt": 1791796200.0,
@@ -795,8 +761,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 3
@@ -894,11 +860,11 @@
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 15
@@ -1025,7 +991,7 @@
     {
       "dt": 1791799500.0,
       "time_scheduled": "12:05",
-      "time_estimated": "13:20",
+      "time_estimated": "13:15",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1036,8 +1002,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 75
+      "status_text": "Vorhafen verlassen",
+      "delay": 70
     },
     {
       "dt": 1791799800.0,
@@ -1121,7 +1087,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 46
     },
     {
@@ -1280,7 +1246,7 @@
     {
       "dt": 1791802800.0,
       "time_scheduled": "13:00",
-      "time_estimated": "13:23",
+      "time_estimated": "13:30",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1292,7 +1258,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 23
+      "delay": 30
     },
     {
       "dt": 1791802800.0,
@@ -1382,7 +1348,7 @@
     {
       "dt": 1791804600.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:49",
+      "time_estimated": "13:51",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1394,7 +1360,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 19
+      "delay": 22
     },
     {
       "dt": 1791804600.0,
@@ -1501,7 +1467,7 @@
     {
       "dt": 1791805800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
+      "time_estimated": "14:26",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -1513,7 +1479,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 36
     },
     {
       "dt": 1791805800.0,
@@ -1535,7 +1501,7 @@
     {
       "dt": 1791806100.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "13:53",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1671,7 +1637,7 @@
     {
       "dt": 1791807600.0,
       "time_scheduled": "14:20",
-      "time_estimated": "15:43",
+      "time_estimated": "15:49",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1683,7 +1649,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 84
+      "delay": 90
     },
     {
       "dt": 1791807900.0,
@@ -1841,7 +1807,7 @@
     {
       "dt": 1791809400.0,
       "time_scheduled": "14:50",
-      "time_estimated": "15:01",
+      "time_estimated": "14:55",
       "flight_no": "SM2982",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1853,7 +1819,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1791809700.0,
