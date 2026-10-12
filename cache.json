@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 06:00",
+  "updated_at": "12.10.2026 06:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,7 +22,7 @@
     {
       "dt": 1791778200.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:07",
+      "time_estimated": "06:03",
       "flight_no": "XC110",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -32,8 +32,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -56,7 +56,7 @@
     {
       "dt": 1791779400.0,
       "time_scheduled": "06:30",
-      "time_estimated": "06:17",
+      "time_estimated": "06:18",
       "flight_no": "XQ1320",
       "airline": "Sun Express",
       "city": "Kayseri",
@@ -67,7 +67,7 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -192,7 +192,7 @@
     {
       "dt": 1791785400.0,
       "time_scheduled": "08:10",
-      "time_estimated": "07:55",
+      "time_estimated": "07:56",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1101,6 +1101,23 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791795900.0,
+      "time_scheduled": "11:05",
+      "time_estimated": "11:05",
+      "flight_no": "DE1011",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
