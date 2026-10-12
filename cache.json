@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 07:00",
+  "updated_at": "12.10.2026 07:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -90,7 +90,7 @@
     {
       "dt": 1791780600.0,
       "time_scheduled": "06:50",
-      "time_estimated": "07:37",
+      "time_estimated": "07:39",
       "flight_no": "XQ1340",
       "airline": "Sun Express",
       "city": "Trabzon",
@@ -102,7 +102,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 47
+      "delay": 49
     },
     {
       "dt": 1791781500.0,
@@ -158,7 +158,7 @@
     {
       "dt": 1791783900.0,
       "time_scheduled": "07:45",
-      "time_estimated": "07:49",
+      "time_estimated": "07:48",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -169,8 +169,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 4
+      "status_text": "Vorhafen verlassen",
+      "delay": 3
     },
     {
       "dt": 1791784800.0,
@@ -186,7 +186,7 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -220,7 +220,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -277,7 +277,7 @@
     {
       "dt": 1791786900.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:32",
+      "time_estimated": "08:26",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -379,18 +379,18 @@
     {
       "dt": 1791788100.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:52",
+      "time_estimated": "08:44",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
       "country": "Schweden",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -436,10 +436,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -503,11 +503,11 @@
       "airline": "Vueling",
       "city": "Barcelona",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 14
@@ -521,9 +521,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -554,11 +554,11 @@
       "airline": "Eurowings",
       "city": "Dresden",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
@@ -889,7 +889,7 @@
     {
       "dt": 1791793200.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:22",
+      "time_estimated": "10:21",
       "flight_no": "XQ288",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -901,7 +901,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 2
+      "delay": 1
     },
     {
       "dt": 1791793500.0,
@@ -1373,6 +1373,40 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791799500.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:05",
+      "flight_no": "EW9739",
+      "airline": "Eurowings",
+      "city": "Tallinn",
+      "country": "Estland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791799500.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:05",
+      "flight_no": "EW9577",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
