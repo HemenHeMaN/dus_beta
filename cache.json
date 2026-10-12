@@ -1,5 +1,5 @@
 {
-  "updated_at": "12.10.2026 05:40",
+  "updated_at": "12.10.2026 05:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -192,7 +192,7 @@
     {
       "dt": 1791785400.0,
       "time_scheduled": "08:10",
-      "time_estimated": "08:00",
+      "time_estimated": "07:54",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -226,7 +226,7 @@
     {
       "dt": 1791786300.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:25",
+      "time_estimated": "08:32",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -238,7 +238,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 7
     },
     {
       "dt": 1791786600.0,
@@ -311,7 +311,7 @@
     {
       "dt": 1791787200.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:40",
+      "time_estimated": "08:45",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -323,7 +323,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1791787200.0,
@@ -345,7 +345,7 @@
     {
       "dt": 1791787500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:45",
+      "time_estimated": "08:49",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -357,12 +357,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791787800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:45",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -396,7 +396,7 @@
     {
       "dt": 1791788100.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:41",
+      "time_estimated": "08:42",
       "flight_no": "XQ968",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -407,7 +407,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -430,7 +430,7 @@
     {
       "dt": 1791788400.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:56",
+      "time_estimated": "08:55",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -532,7 +532,7 @@
     {
       "dt": 1791789000.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:10",
+      "time_estimated": "08:58",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -543,7 +543,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -996,6 +996,23 @@
       "airline": "Eurowings",
       "city": "Genf",
       "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791794700.0,
+      "time_scheduled": "10:45",
+      "time_estimated": "10:45",
+      "flight_no": "EW9751",
+      "airline": "Eurowings",
+      "city": "Wien",
+      "country": "Österreich",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
