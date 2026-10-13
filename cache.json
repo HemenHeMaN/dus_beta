@@ -1,41 +1,7 @@
 {
-  "updated_at": "13.10.2026 08:00",
+  "updated_at": "13.10.2026 08:05",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791864300.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:05",
-      "flight_no": "EW9899",
-      "airline": "Eurowings",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791864300.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:01",
-      "flight_no": "DE3785",
-      "airline": "Condor",
-      "city": "New York-John F. Kennedy",
-      "country": "Vereinigte Staaten",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791864900.0,
       "time_scheduled": "06:15",
@@ -202,8 +168,8 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 6
     },
     {
@@ -481,7 +447,7 @@
     {
       "dt": 1791876600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:37",
+      "time_estimated": "09:38",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -493,7 +459,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1791876600.0,
@@ -532,7 +498,7 @@
     {
       "dt": 1791876900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:28",
+      "time_estimated": "09:34",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -543,7 +509,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -566,7 +532,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "10:06",
+      "time_estimated": "09:57",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -578,7 +544,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 21
+      "delay": 12
     },
     {
       "dt": 1791877500.0,
@@ -770,7 +736,7 @@
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:57",
+      "time_estimated": "10:50",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -782,7 +748,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 32
+      "delay": 26
     },
     {
       "dt": 1791879900.0,
@@ -1421,6 +1387,57 @@
       "airline": "Eurowings",
       "city": "Malaga",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791889500.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "EW9043",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791889500.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "EW9665",
+      "airline": "Eurowings",
+      "city": "Preveza-Aktion",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791889500.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "SK816",
+      "airline": "Scandinavian Airlines",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
