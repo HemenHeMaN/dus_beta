@@ -1,11 +1,11 @@
 {
-  "updated_at": "13.10.2026 19:45",
+  "updated_at": "13.10.2026 19:50",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1791904200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "19:49",
+      "time_estimated": "19:45",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -15,9 +15,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 159
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 155
     },
     {
       "dt": 1791906000.0,
@@ -35,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 13
-    },
-    {
-      "dt": 1791906300.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "17:47",
-      "flight_no": "EW9585",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 3
     },
     {
       "dt": 1791906900.0,
@@ -719,7 +702,7 @@
     {
       "dt": 1791916800.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:54",
+      "time_estimated": "20:55",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -731,7 +714,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 14
+      "delay": 15
     },
     {
       "dt": 1791916800.0,
@@ -770,7 +753,7 @@
     {
       "dt": 1791917400.0,
       "time_scheduled": "20:50",
-      "time_estimated": "20:46",
+      "time_estimated": "20:50",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -782,7 +765,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791917400.0,
@@ -821,7 +804,7 @@
     {
       "dt": 1791918000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:08",
+      "time_estimated": "21:07",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -833,12 +816,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1791918000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:55",
+      "time_estimated": "20:52",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -849,13 +832,13 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
       "dt": 1791918900.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:26",
+      "time_estimated": "21:25",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -867,7 +850,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 10
     },
     {
       "dt": 1791919200.0,
@@ -923,7 +906,7 @@
     {
       "dt": 1791919800.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:45",
+      "time_estimated": "21:47",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -935,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 18
     },
     {
       "dt": 1791919800.0,
@@ -1161,7 +1144,7 @@
     {
       "dt": 1791921300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:54",
+      "time_estimated": "22:48",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -1173,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 59
+      "delay": 53
     },
     {
       "dt": 1791921300.0,
@@ -1280,7 +1263,7 @@
     {
       "dt": 1791921900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:16",
+      "time_estimated": "23:07",
       "flight_no": "EW9569",
       "airline": "Eurowings",
       "city": "Sevilla",
@@ -1292,7 +1275,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 63
     },
     {
       "dt": 1791921900.0,
@@ -1331,7 +1314,7 @@
     {
       "dt": 1791922200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:23",
+      "time_estimated": "22:04",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1343,7 +1326,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 14
+      "delay": 0
     },
     {
       "dt": 1791922200.0,
@@ -1382,7 +1365,7 @@
     {
       "dt": 1791922500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:19",
+      "time_estimated": "22:22",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1393,8 +1376,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 4
+      "status_text": "Vorhafen verlassen",
+      "delay": 7
     },
     {
       "dt": 1791922500.0,
@@ -1416,7 +1399,7 @@
     {
       "dt": 1791922800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:07",
+      "time_estimated": "22:21",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1428,7 +1411,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791922800.0,
@@ -1637,7 +1620,7 @@
     {
       "dt": 1791924300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:48",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1649,7 +1632,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791924300.0,
