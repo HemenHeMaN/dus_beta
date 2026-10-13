@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 16:50",
+  "updated_at": "13.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791891000.0,
-      "time_scheduled": "13:30",
-      "time_estimated": "14:50",
-      "flight_no": "NE728",
-      "airline": "Nesma Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 81
-    },
     {
       "dt": 1791894900.0,
       "time_scheduled": "14:35",
@@ -69,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 20
-    },
-    {
-      "dt": 1791896400.0,
-      "time_scheduled": "15:00",
-      "time_estimated": "14:53",
-      "flight_no": "IB753",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791897000.0,
@@ -321,8 +287,8 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 62
     },
     {
@@ -338,8 +304,8 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 50
     },
     {
@@ -441,7 +407,7 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 8
     },
     {
@@ -464,7 +430,7 @@
     {
       "dt": 1791904200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:05",
+      "time_estimated": "17:18",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -476,12 +442,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1791904500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:27",
+      "time_estimated": "17:25",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -493,7 +459,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1791904800.0,
@@ -532,19 +498,19 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:47",
+      "time_estimated": "17:45",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 8
+      "delay": 6
     },
     {
       "dt": 1791906000.0,
@@ -804,7 +770,7 @@
     {
       "dt": 1791908400.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:18",
+      "time_estimated": "18:17",
       "flight_no": "XQ3180",
       "airline": "Sun Express",
       "city": "Bodrum-Milas",
@@ -1229,7 +1195,7 @@
     {
       "dt": 1791914400.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "19:57",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1698,6 +1664,74 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791921300.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9631",
+      "airline": "Eurowings",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791921300.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9717",
+      "airline": "Eurowings",
+      "city": "Salzburg",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791921300.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9571",
+      "airline": "Eurowings",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791921300.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "X34763",
+      "airline": "Tuifly",
+      "city": "Patras / Araxos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
