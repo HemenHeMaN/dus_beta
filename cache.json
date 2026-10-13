@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 18:05",
+  "updated_at": "13.10.2026 18:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -209,23 +209,6 @@
     {
       "dt": 1791904800.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:21",
-      "flight_no": "PC5011",
-      "airline": "Pegasus Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
-    },
-    {
-      "dt": 1791904800.0,
-      "time_scheduled": "17:20",
       "time_estimated": "17:17",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
@@ -239,6 +222,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791904800.0,
+      "time_scheduled": "17:20",
+      "time_estimated": "17:21",
+      "flight_no": "PC5011",
+      "airline": "Pegasus Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791906000.0,
@@ -413,7 +413,7 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:11",
+      "time_estimated": "18:09",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -423,9 +423,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 6
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 5
     },
     {
       "dt": 1791907500.0,
@@ -464,7 +464,7 @@
     {
       "dt": 1791907800.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:15",
+      "time_estimated": "18:07",
       "flight_no": "BJ2344",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -474,9 +474,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791908100.0,
@@ -526,13 +526,13 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
       "dt": 1791909000.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:35",
+      "time_estimated": "18:28",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -542,9 +542,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 5
+      "status": "active",
+      "status_text": "im Anflug",
+      "delay": 0
     },
     {
       "dt": 1791909000.0,
@@ -627,8 +627,8 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -889,7 +889,7 @@
     {
       "dt": 1791913200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:41",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -901,7 +901,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791913500.0,
@@ -940,7 +940,7 @@
     {
       "dt": 1791914400.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:58",
+      "time_estimated": "19:55",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1008,7 +1008,7 @@
     {
       "dt": 1791916500.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:50",
+      "time_estimated": "20:51",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1020,7 +1020,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1791916800.0,
@@ -1127,7 +1127,7 @@
     {
       "dt": 1791918000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:00",
+      "time_estimated": "21:13",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1139,7 +1139,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1791918000.0,
@@ -1287,7 +1287,7 @@
       "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
