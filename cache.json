@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 09:25",
+  "updated_at": "13.10.2026 09:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -328,7 +328,7 @@
     {
       "dt": 1791876300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:35",
+      "time_estimated": "09:28",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -338,9 +338,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 10
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 4
     },
     {
       "dt": 1791876300.0,
@@ -389,8 +389,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 24
     },
     {
@@ -413,7 +413,7 @@
     {
       "dt": 1791876900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:29",
+      "time_estimated": "09:30",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -423,8 +423,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -481,7 +481,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:29",
+      "time_estimated": "09:25",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -491,8 +491,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -515,7 +515,7 @@
     {
       "dt": 1791878100.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:34",
+      "time_estimated": "09:26",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -525,8 +525,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -679,7 +679,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 1
     },
     {
@@ -719,7 +719,7 @@
     {
       "dt": 1791880200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "09:56",
+      "time_estimated": "09:50",
       "flight_no": "4M211",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -729,8 +729,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -787,7 +787,7 @@
     {
       "dt": 1791881100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "11:08",
+      "time_estimated": "10:59",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -799,7 +799,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 24
+      "delay": 15
     },
     {
       "dt": 1791881400.0,
@@ -906,7 +906,7 @@
     {
       "dt": 1791883800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:46",
+      "time_estimated": "11:45",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -918,12 +918,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 15
     },
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:54",
+      "time_estimated": "12:03",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -935,7 +935,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 14
+      "delay": 23
     },
     {
       "dt": 1791884400.0,
@@ -1008,7 +1008,7 @@
     {
       "dt": 1791884700.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:50",
+      "time_estimated": "11:49",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -1020,7 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1791885000.0,
@@ -1178,7 +1178,7 @@
     {
       "dt": 1791887400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:32",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1190,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791887400.0,
@@ -1212,7 +1212,7 @@
     {
       "dt": 1791887400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:36",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -1224,7 +1224,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1791887700.0,
@@ -1798,6 +1798,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791894600.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:30",
+      "flight_no": "LH074",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
