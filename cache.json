@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 16:10",
+  "updated_at": "13.10.2026 16:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -54,23 +54,6 @@
       "delay": 19
     },
     {
-      "dt": 1791893700.0,
-      "time_scheduled": "14:15",
-      "time_estimated": "14:11",
-      "flight_no": "EW8044",
-      "airline": "Eurowings",
-      "city": "Berlin-Brandenburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
       "dt": 1791894000.0,
       "time_scheduled": "14:20",
       "time_estimated": "14:39",
@@ -86,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 20
-    },
-    {
-      "dt": 1791894300.0,
-      "time_scheduled": "14:25",
-      "time_estimated": "14:13",
-      "flight_no": "VY1894",
-      "airline": "Vueling",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791894600.0,
@@ -440,8 +406,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 27
     },
     {
@@ -542,8 +508,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -634,7 +600,7 @@
     {
       "dt": 1791904500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:34",
+      "time_estimated": "17:28",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -646,7 +612,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1791904800.0,
@@ -702,7 +668,7 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:33",
+      "time_estimated": "17:44",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -714,7 +680,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791906000.0,
@@ -736,7 +702,7 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:37",
+      "time_estimated": "17:35",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -747,7 +713,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -872,7 +838,7 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:07",
+      "time_estimated": "18:05",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -884,7 +850,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1791907500.0,
@@ -1076,7 +1042,7 @@
     {
       "dt": 1791909900.0,
       "time_scheduled": "18:45",
-      "time_estimated": "19:15",
+      "time_estimated": "19:17",
       "flight_no": "BM562",
       "airline": "Medsky Airways",
       "city": "Benghazi",
@@ -1088,12 +1054,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 30
+      "delay": 33
     },
     {
       "dt": 1791910500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:52",
+      "time_estimated": "18:58",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1105,7 +1071,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1791910500.0,
@@ -1144,7 +1110,7 @@
     {
       "dt": 1791911400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:20",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1156,7 +1122,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1791911400.0,
@@ -1195,7 +1161,7 @@
     {
       "dt": 1791911700.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:04",
+      "time_estimated": "19:02",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1206,7 +1172,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1246,7 +1212,7 @@
     {
       "dt": 1791912000.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:20",
+      "time_estimated": "19:13",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1577,6 +1543,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791918900.0,
+      "time_scheduled": "21:15",
+      "time_estimated": "21:15",
+      "flight_no": "EW9039",
+      "airline": "Eurowings",
+      "city": "Hamburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
