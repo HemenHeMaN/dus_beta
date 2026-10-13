@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 21:10",
+  "updated_at": "13.10.2026 21:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791904200.0,
-      "time_scheduled": "17:10",
-      "time_estimated": "19:45",
-      "flight_no": "EW9581",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 155
-    },
     {
       "dt": 1791909900.0,
       "time_scheduled": "18:45",
@@ -52,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 9
-    },
-    {
-      "dt": 1791912000.0,
-      "time_scheduled": "19:20",
-      "time_estimated": "19:12",
-      "flight_no": "BT233",
-      "airline": "Air Baltic",
-      "city": "Riga",
-      "country": "Lettland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791912300.0,
@@ -491,8 +457,8 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 4
     },
     {
@@ -526,7 +492,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -600,7 +566,7 @@
     {
       "dt": 1791920700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:11",
+      "time_estimated": "22:03",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -612,12 +578,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 26
+      "delay": 19
     },
     {
       "dt": 1791920700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:51",
+      "time_estimated": "21:52",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -628,8 +594,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 7
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791921000.0,
@@ -736,7 +702,7 @@
     {
       "dt": 1791921300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:37",
+      "time_estimated": "21:31",
       "flight_no": "X34763",
       "airline": "Tuifly",
       "city": "Patras / Araxos",
@@ -746,14 +712,14 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
       "dt": 1791921600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:47",
+      "time_estimated": "21:48",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -780,8 +746,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -991,7 +957,7 @@
     {
       "dt": 1791922800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:25",
+      "time_estimated": "22:20",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1003,7 +969,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1791922800.0,
