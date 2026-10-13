@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 07:25",
+  "updated_at": "13.10.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -135,7 +135,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -192,7 +192,7 @@
     {
       "dt": 1791872100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:21",
+      "time_estimated": "08:20",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -203,8 +203,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 6
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791872100.0,
@@ -243,7 +243,7 @@
     {
       "dt": 1791873600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:58",
+      "time_estimated": "09:08",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -255,7 +255,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 18
+      "delay": 28
     },
     {
       "dt": 1791873600.0,
@@ -311,7 +311,7 @@
     {
       "dt": 1791874200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:49",
+      "time_estimated": "08:47",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -322,7 +322,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -736,7 +736,7 @@
     {
       "dt": 1791879600.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:20",
+      "time_estimated": "10:34",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -748,12 +748,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:19",
+      "time_estimated": "10:34",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -765,7 +765,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1791879900.0,
@@ -804,7 +804,7 @@
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:32",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -816,7 +816,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1791880200.0,
@@ -872,7 +872,7 @@
     {
       "dt": 1791880500.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:35",
+      "time_estimated": "10:42",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -883,8 +883,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 7
     },
     {
       "dt": 1791881100.0,
@@ -957,7 +957,7 @@
     {
       "dt": 1791882000.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:32",
+      "time_estimated": "10:30",
       "flight_no": "4M296",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1290,6 +1290,57 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791887400.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791887400.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791887400.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "DE1781",
+      "airline": "Condor",
+      "city": "Preveza-Aktion",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
