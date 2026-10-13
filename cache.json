@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 15:45",
+  "updated_at": "13.10.2026 15:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 10
-    },
-    {
-      "dt": 1791892200.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:46",
-      "flight_no": "X34589",
-      "airline": "Tuifly",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791892200.0,
@@ -103,23 +86,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 3
-    },
-    {
-      "dt": 1791892500.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "13:49",
-      "flight_no": "X34105",
-      "airline": "Tuifly",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791893100.0,
@@ -559,14 +525,14 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 18
     },
     {
       "dt": 1791900000.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:03",
+      "time_estimated": "15:58",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -578,7 +544,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1791900300.0,
@@ -617,7 +583,7 @@
     {
       "dt": 1791900300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:03",
+      "time_estimated": "16:08",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -627,9 +593,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 0
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 3
     },
     {
       "dt": 1791900900.0,
@@ -940,7 +906,7 @@
     {
       "dt": 1791906300.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:04",
+      "time_estimated": "18:02",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -951,8 +917,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 19
+      "status_text": "Vorhafen verlassen",
+      "delay": 17
     },
     {
       "dt": 1791906300.0,
@@ -1019,7 +985,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1212,7 +1178,7 @@
     {
       "dt": 1791909600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:32",
+      "time_estimated": "18:48",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1224,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1791909600.0,
@@ -1280,7 +1246,7 @@
     {
       "dt": 1791910500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:51",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1450,7 +1416,7 @@
     {
       "dt": 1791912300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:30",
+      "time_estimated": "19:24",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1462,7 +1428,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1791912600.0,
@@ -1659,6 +1625,23 @@
       "airline": "Eurowings",
       "city": "Warschau",
       "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791917400.0,
+      "time_scheduled": "20:50",
+      "time_estimated": "20:50",
+      "flight_no": "EW9049",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
