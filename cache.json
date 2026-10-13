@@ -1,41 +1,7 @@
 {
-  "updated_at": "13.10.2026 21:15",
+  "updated_at": "13.10.2026 21:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791909900.0,
-      "time_scheduled": "18:45",
-      "time_estimated": "19:15",
-      "flight_no": "BM562",
-      "airline": "Medsky Airways",
-      "city": "Benghazi",
-      "country": "Libyen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 31
-    },
-    {
-      "dt": 1791911400.0,
-      "time_scheduled": "19:10",
-      "time_estimated": "19:18",
-      "flight_no": "LX1026",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 9
-    },
     {
       "dt": 1791912300.0,
       "time_scheduled": "19:25",
@@ -243,23 +209,6 @@
     {
       "dt": 1791916800.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:48",
-      "flight_no": "LH2030",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 8
-    },
-    {
-      "dt": 1791916800.0,
-      "time_scheduled": "20:40",
       "time_estimated": "20:57",
       "flight_no": "EW9533",
       "airline": "Eurowings",
@@ -273,6 +222,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 17
+    },
+    {
+      "dt": 1791916800.0,
+      "time_scheduled": "20:40",
+      "time_estimated": "20:48",
+      "flight_no": "LH2030",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 8
     },
     {
       "dt": 1791917100.0,
@@ -294,6 +260,23 @@
     {
       "dt": 1791917400.0,
       "time_scheduled": "20:50",
+      "time_estimated": "21:52",
+      "flight_no": "EW9677",
+      "airline": "Eurowings",
+      "city": "Chania (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "delay": 62
+    },
+    {
+      "dt": 1791917400.0,
+      "time_scheduled": "20:50",
       "time_estimated": "20:50",
       "flight_no": "EW9049",
       "airline": "Eurowings",
@@ -309,23 +292,6 @@
       "delay": 1
     },
     {
-      "dt": 1791917400.0,
-      "time_scheduled": "20:50",
-      "time_estimated": "21:51",
-      "flight_no": "EW9677",
-      "airline": "Eurowings",
-      "city": "Chania (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 61
-    },
-    {
       "dt": 1791918000.0,
       "time_scheduled": "21:00",
       "time_estimated": "21:34",
@@ -338,8 +304,8 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 34
     },
     {
@@ -389,8 +355,8 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 23
     },
     {
@@ -440,8 +406,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 10
     },
     {
@@ -458,7 +424,7 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 4
     },
     {
@@ -540,10 +506,10 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -583,7 +549,7 @@
     {
       "dt": 1791920700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:52",
+      "time_estimated": "21:44",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -595,7 +561,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1791921000.0,
@@ -736,7 +702,7 @@
     {
       "dt": 1791921600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:44",
+      "time_estimated": "21:32",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -747,7 +713,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -826,11 +792,11 @@
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 9
@@ -889,7 +855,7 @@
     {
       "dt": 1791922500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:17",
+      "time_estimated": "22:26",
       "flight_no": "EW9335",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -900,8 +866,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 11
     },
     {
       "dt": 1791922500.0,
@@ -957,7 +923,7 @@
     {
       "dt": 1791922800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:20",
+      "time_estimated": "22:14",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -969,7 +935,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791922800.0,
@@ -1116,10 +1082,10 @@
       "city": "Hurghada",
       "country": "Ägypten",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 17
