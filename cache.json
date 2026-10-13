@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 15:35",
+  "updated_at": "13.10.2026 15:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -37,23 +37,6 @@
       "delay": 81
     },
     {
-      "dt": 1791891000.0,
-      "time_scheduled": "13:30",
-      "time_estimated": "13:36",
-      "flight_no": "DE1621",
-      "airline": "Condor",
-      "city": "Kos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 7
-    },
-    {
       "dt": 1791891900.0,
       "time_scheduled": "13:45",
       "time_estimated": "13:42",
@@ -69,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
-    },
-    {
-      "dt": 1791892200.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:59",
-      "flight_no": "DE1849",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 10
     },
     {
       "dt": 1791892200.0,
@@ -120,6 +86,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 5
+    },
+    {
+      "dt": 1791892200.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:59",
+      "flight_no": "DE1849",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 10
     },
     {
       "dt": 1791892500.0,
@@ -627,8 +610,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 4
     },
     {
@@ -644,8 +627,8 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 4
     },
     {
@@ -1093,7 +1076,7 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:01",
+      "time_estimated": "18:02",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1280,7 +1263,7 @@
     {
       "dt": 1791909600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:40",
+      "time_estimated": "18:39",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1314,7 +1297,7 @@
     {
       "dt": 1791910500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:52",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1325,7 +1308,7 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1681,6 +1664,40 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791916800.0,
+      "time_scheduled": "20:40",
+      "time_estimated": "20:40",
+      "flight_no": "LH2030",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791916800.0,
+      "time_scheduled": "20:40",
+      "time_estimated": "20:40",
+      "flight_no": "EW9533",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
