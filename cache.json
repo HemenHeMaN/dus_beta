@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 07:00",
+  "updated_at": "13.10.2026 07:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -113,9 +113,9 @@
       "city": "Graz",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -124,7 +124,7 @@
     {
       "dt": 1791870000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:44",
+      "time_estimated": "07:41",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -136,7 +136,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 2
     },
     {
       "dt": 1791870600.0,
@@ -180,11 +180,11 @@
       "airline": "Finnair",
       "city": "Helsinki",
       "country": "Finnland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -277,7 +277,7 @@
     {
       "dt": 1791873600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:38",
+      "time_estimated": "08:32",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -328,7 +328,7 @@
     {
       "dt": 1791874500.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:50",
+      "time_estimated": "08:33",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -396,7 +396,7 @@
     {
       "dt": 1791875100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:00",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -408,12 +408,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791875100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:04",
+      "time_estimated": "09:05",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -424,7 +424,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -481,7 +481,7 @@
     {
       "dt": 1791876600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:29",
+      "time_estimated": "09:37",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -493,7 +493,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1791876600.0,
@@ -617,7 +617,7 @@
     {
       "dt": 1791878100.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "10:03",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -629,7 +629,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1791878100.0,
@@ -719,7 +719,7 @@
     {
       "dt": 1791879300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:12",
+      "time_estimated": "10:09",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -957,7 +957,7 @@
     {
       "dt": 1791882000.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:00",
+      "time_estimated": "10:32",
       "flight_no": "4M296",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -968,7 +968,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1205,6 +1205,23 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791885900.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:05",
+      "flight_no": "X34429",
+      "airline": "Tuifly",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
