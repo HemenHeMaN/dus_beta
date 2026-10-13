@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 06:45",
+  "updated_at": "13.10.2026 06:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -90,7 +90,7 @@
     {
       "dt": 1791868200.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:51",
+      "time_estimated": "06:48",
       "flight_no": "XQ1350",
       "airline": "Sun Express",
       "city": "Samsun",
@@ -100,8 +100,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -124,7 +124,7 @@
     {
       "dt": 1791870000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:57",
+      "time_estimated": "07:44",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -136,7 +136,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 18
+      "delay": 5
     },
     {
       "dt": 1791870600.0,
@@ -209,7 +209,7 @@
     {
       "dt": 1791872100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:06",
+      "time_estimated": "08:09",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -220,7 +220,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -311,7 +311,7 @@
     {
       "dt": 1791874200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:47",
+      "time_estimated": "08:51",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -323,7 +323,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791874500.0,
@@ -583,7 +583,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:45",
+      "time_estimated": "09:50",
       "flight_no": "EW9029",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -595,7 +595,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1791877500.0,
@@ -634,7 +634,7 @@
     {
       "dt": 1791878100.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "09:53",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1135,6 +1135,57 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791885000.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "KL1799",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791885000.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791885000.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "LH2012",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
