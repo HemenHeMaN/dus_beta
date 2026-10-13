@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 08:20",
+  "updated_at": "13.10.2026 08:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -219,8 +219,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
@@ -237,7 +237,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -345,7 +345,7 @@
     {
       "dt": 1791875100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "10:20",
+      "time_estimated": "10:14",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -357,7 +357,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 75
+      "delay": 69
     },
     {
       "dt": 1791875100.0,
@@ -402,9 +402,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -472,7 +472,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -685,7 +685,7 @@
     {
       "dt": 1791879600.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:36",
+      "time_estimated": "10:35",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -697,7 +697,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 17
+      "delay": 16
     },
     {
       "dt": 1791879900.0,
@@ -719,7 +719,7 @@
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:50",
+      "time_estimated": "10:48",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -731,12 +731,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 26
+      "delay": 24
     },
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:35",
+      "time_estimated": "10:34",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -748,7 +748,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1791879900.0,
@@ -804,7 +804,7 @@
     {
       "dt": 1791880200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:09",
+      "time_estimated": "10:08",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -911,11 +911,11 @@
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -923,7 +923,7 @@
     {
       "dt": 1791882600.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:31",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -935,7 +935,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 22
     },
     {
       "dt": 1791882600.0,
