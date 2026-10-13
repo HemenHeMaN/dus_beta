@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 10:45",
+  "updated_at": "13.10.2026 10:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,40 +20,6 @@
       "delay": 72
     },
     {
-      "dt": 1791873600.0,
-      "time_scheduled": "08:40",
-      "time_estimated": "08:48",
-      "flight_no": "LH2004",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 9
-    },
-    {
-      "dt": 1791874800.0,
-      "time_scheduled": "09:00",
-      "time_estimated": "08:47",
-      "flight_no": "PC5001",
-      "airline": "Pegasus Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
       "dt": 1791874800.0,
       "time_scheduled": "09:00",
       "time_estimated": "08:54",
@@ -65,23 +31,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791874800.0,
-      "time_scheduled": "09:00",
-      "time_estimated": "08:50",
-      "flight_no": "XQ188",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -100,8 +49,8 @@
       "terminal": "A",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 87
     },
     {
@@ -600,7 +549,7 @@
     {
       "dt": 1791881100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:59",
+      "time_estimated": "11:00",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -611,13 +560,13 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 14
+      "status_text": "im Anflug",
+      "delay": 15
     },
     {
       "dt": 1791881400.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:54",
+      "time_estimated": "10:47",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -627,9 +576,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791881700.0,
@@ -678,8 +627,8 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 1
     },
     {
@@ -695,8 +644,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -872,7 +821,7 @@
     {
       "dt": 1791885000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:51",
+      "time_estimated": "11:47",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -883,8 +832,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 0
     },
     {
       "dt": 1791885300.0,
@@ -1229,7 +1178,7 @@
     {
       "dt": 1791890400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:26",
+      "time_estimated": "13:28",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1240,8 +1189,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 7
+      "status_text": "Vorhafen verlassen",
+      "delay": 9
     },
     {
       "dt": 1791890700.0,
@@ -1365,7 +1314,7 @@
     {
       "dt": 1791892200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:54",
+      "time_estimated": "13:56",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -1377,7 +1326,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 5
+      "delay": 7
     },
     {
       "dt": 1791892200.0,
@@ -1501,7 +1450,7 @@
     {
       "dt": 1791893400.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:56",
+      "time_estimated": "13:54",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
