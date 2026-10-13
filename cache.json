@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 08:40",
+  "updated_at": "13.10.2026 08:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -158,7 +158,7 @@
     {
       "dt": 1791873600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:49",
+      "time_estimated": "08:44",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -168,9 +168,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 9
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 5
     },
     {
       "dt": 1791873600.0,
@@ -243,7 +243,7 @@
     {
       "dt": 1791874200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:47",
+      "time_estimated": "08:42",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -253,8 +253,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -305,7 +305,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -322,7 +322,7 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -464,7 +464,7 @@
     {
       "dt": 1791876900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:34",
+      "time_estimated": "09:28",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -515,7 +515,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:50",
+      "time_estimated": "10:01",
       "flight_no": "EW9029",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -527,7 +527,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 6
+      "delay": 17
     },
     {
       "dt": 1791877500.0,
@@ -1008,7 +1008,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "12:04",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1020,7 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1791884400.0,
@@ -1562,6 +1562,23 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791891900.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "EW9639",
+      "airline": "Eurowings",
+      "city": "Samos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
