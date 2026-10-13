@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 09:05",
+  "updated_at": "13.10.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -328,7 +328,7 @@
     {
       "dt": 1791875100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:09",
+      "time_estimated": "09:06",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -338,9 +338,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 5
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791876300.0,
@@ -373,7 +373,7 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -389,8 +389,8 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 1
     },
     {
@@ -430,7 +430,7 @@
     {
       "dt": 1791876900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:28",
+      "time_estimated": "09:29",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -464,7 +464,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:56",
+      "time_estimated": "09:59",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -475,8 +475,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 11
+      "status_text": "Vorhafen verlassen",
+      "delay": 14
     },
     {
       "dt": 1791877500.0,
@@ -508,8 +508,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -542,14 +542,14 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
       "dt": 1791878400.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:04",
+      "time_estimated": "10:03",
       "flight_no": "EW9083",
       "airline": "Eurowings",
       "city": "München",
@@ -560,8 +560,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 5
+      "status_text": "Vorhafen verlassen",
+      "delay": 4
     },
     {
       "dt": 1791878700.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:17",
+      "time_estimated": "10:16",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -668,7 +668,7 @@
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:48",
+      "time_estimated": "10:43",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -680,12 +680,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 24
+      "delay": 18
     },
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:34",
+      "time_estimated": "10:23",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -697,7 +697,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1791879900.0,
@@ -957,7 +957,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:33",
+      "time_estimated": "11:30",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1093,7 +1093,7 @@
     {
       "dt": 1791885300.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:05",
+      "time_estimated": "12:10",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1105,7 +1105,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 16
     },
     {
       "dt": 1791885900.0,
@@ -1675,6 +1675,23 @@
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791893400.0,
+      "time_scheduled": "14:10",
+      "time_estimated": "14:10",
+      "flight_no": "XQ186",
+      "airline": "Sun Express",
+      "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Airline",
