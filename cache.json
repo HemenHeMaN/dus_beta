@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 13:10",
+  "updated_at": "13.10.2026 13:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -430,7 +430,7 @@
     {
       "dt": 1791889500.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:17",
+      "time_estimated": "13:11",
       "flight_no": "EW9043",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -440,9 +440,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 12
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 7
     },
     {
       "dt": 1791889500.0,
@@ -566,7 +566,7 @@
     {
       "dt": 1791891000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:47",
+      "time_estimated": "14:54",
       "flight_no": "NE728",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -578,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 77
+      "delay": 85
     },
     {
       "dt": 1791891000.0,
@@ -676,8 +676,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 8
@@ -724,11 +724,11 @@
       "airline": "Eurowings",
       "city": "Athen",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 25
@@ -736,7 +736,7 @@
     {
       "dt": 1791892500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:09",
+      "time_estimated": "14:02",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -748,7 +748,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 15
+      "delay": 8
     },
     {
       "dt": 1791892500.0,
@@ -761,7 +761,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -770,7 +770,7 @@
     {
       "dt": 1791893100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:14",
+      "time_estimated": "14:13",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -781,8 +781,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 9
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791893100.0,
@@ -812,7 +812,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "17",
+      "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -866,7 +866,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -957,7 +957,7 @@
     {
       "dt": 1791894900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:29",
+      "time_estimated": "14:31",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -968,7 +968,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1016,7 +1016,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "19",
+      "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1229,7 +1229,7 @@
     {
       "dt": 1791900300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:17",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -1241,7 +1241,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1791900300.0,
@@ -1729,6 +1729,23 @@
       "country": "Tunesien",
       "type": "Charter",
       "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791908100.0,
+      "time_scheduled": "18:15",
+      "time_estimated": "18:15",
+      "flight_no": "XQ282",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
