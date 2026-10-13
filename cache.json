@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 13:05",
+  "updated_at": "13.10.2026 13:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -543,7 +543,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -560,7 +560,7 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -610,8 +610,8 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 1
     },
     {
@@ -685,7 +685,7 @@
     {
       "dt": 1791892200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:56",
+      "time_estimated": "13:57",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -696,8 +696,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 7
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791892200.0,
@@ -872,7 +872,7 @@
     {
       "dt": 1791893700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:10",
+      "time_estimated": "14:08",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -923,7 +923,7 @@
     {
       "dt": 1791894600.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:36",
+      "time_estimated": "14:40",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -935,12 +935,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1791894900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:59",
+      "time_estimated": "15:05",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -952,7 +952,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 24
+      "delay": 30
     },
     {
       "dt": 1791894900.0,
@@ -1127,7 +1127,7 @@
     {
       "dt": 1791898500.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:39",
+      "time_estimated": "15:42",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -1138,8 +1138,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 4
+      "status_text": "Vorhafen verlassen",
+      "delay": 8
     },
     {
       "dt": 1791899100.0,
@@ -1715,6 +1715,23 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791907800.0,
+      "time_scheduled": "18:10",
+      "time_estimated": "18:10",
+      "flight_no": "BJ2344",
+      "airline": "Nouvelair",
+      "city": "Djerba",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
