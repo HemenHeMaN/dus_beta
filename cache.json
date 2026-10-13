@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 19:25",
+  "updated_at": "13.10.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,8 +15,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 165
     },
     {
@@ -69,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 13
-    },
-    {
-      "dt": 1791906000.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "17:30",
-      "flight_no": "OS165",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791906300.0,
@@ -617,7 +600,7 @@
     {
       "dt": 1791912300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:28",
+      "time_estimated": "19:27",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -627,9 +610,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 4
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 2
     },
     {
       "dt": 1791912600.0,
@@ -645,7 +628,7 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 9
     },
     {
@@ -1263,7 +1246,7 @@
     {
       "dt": 1791921300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:31",
+      "time_estimated": "21:37",
       "flight_no": "X34763",
       "airline": "Tuifly",
       "city": "Patras / Araxos",
@@ -1518,7 +1501,7 @@
     {
       "dt": 1791922800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:20",
+      "time_estimated": "22:33",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1530,7 +1513,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1791922800.0,
@@ -1705,7 +1688,7 @@
     {
       "dt": 1791924300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:42",
+      "time_estimated": "22:40",
       "flight_no": "X32119",
       "airline": "Tuifly",
       "city": "Teneriffa Süd",
