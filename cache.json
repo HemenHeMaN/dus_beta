@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 21:00",
+  "updated_at": "13.10.2026 21:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 155
-    },
-    {
-      "dt": 1791909600.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "19:03",
-      "flight_no": "SK627",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 23
     },
     {
       "dt": 1791909900.0,
@@ -90,23 +73,6 @@
     {
       "dt": 1791911700.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:00",
-      "flight_no": "EW4204",
-      "airline": "Eurowings",
-      "city": "Prag",
-      "country": "Tschechien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791911700.0,
-      "time_scheduled": "19:15",
       "time_estimated": "19:07",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
@@ -117,23 +83,6 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791911700.0,
-      "time_scheduled": "19:15",
-      "time_estimated": "19:05",
-      "flight_no": "EK057",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -270,8 +219,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 73
     },
     {
@@ -525,14 +474,14 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 12
     },
     {
       "dt": 1791919500.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:17",
+      "time_estimated": "21:19",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -651,7 +600,7 @@
     {
       "dt": 1791920400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:34",
+      "time_estimated": "21:35",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1297,7 +1246,7 @@
     {
       "dt": 1791924300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:04",
+      "time_estimated": "22:58",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -1309,7 +1258,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 19
+      "delay": 14
     }
   ]
 }
