@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 17:20",
+  "updated_at": "13.10.2026 17:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 10
-    },
-    {
-      "dt": 1791897900.0,
-      "time_scheduled": "15:25",
-      "time_estimated": "15:24",
-      "flight_no": "LH2016",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791898500.0,
@@ -277,7 +260,7 @@
     {
       "dt": 1791903300.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:24",
+      "time_estimated": "17:23",
       "flight_no": "EW9545",
       "airline": "Eurowings",
       "city": "La Palma",
@@ -287,8 +270,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 29
     },
     {
@@ -389,9 +372,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 2
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791904800.0,
@@ -424,13 +407,13 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:38",
+      "time_estimated": "17:32",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -441,7 +424,7 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -491,8 +474,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 2
     },
     {
@@ -532,7 +515,7 @@
     {
       "dt": 1791906900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:09",
+      "time_estimated": "18:10",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -543,8 +526,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 14
+      "status_text": "Vorhafen verlassen",
+      "delay": 15
     },
     {
       "dt": 1791907200.0,
@@ -838,7 +821,7 @@
     {
       "dt": 1791910500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:01",
+      "time_estimated": "19:00",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -849,8 +832,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 6
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791910500.0,
@@ -1093,19 +1076,19 @@
     {
       "dt": 1791913800.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:52",
+      "time_estimated": "20:50",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 62
+      "delay": 60
     },
     {
       "dt": 1791914400.0,
@@ -1263,19 +1246,19 @@
     {
       "dt": 1791917400.0,
       "time_scheduled": "20:50",
-      "time_estimated": "21:40",
+      "time_estimated": "21:38",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
       "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 50
+      "delay": 48
     },
     {
       "dt": 1791918000.0,
@@ -1304,7 +1287,7 @@
       "country": "Schweiz",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1548,6 +1531,23 @@
       "status": "scheduled",
       "status_text": "",
       "delay": 0
+    },
+    {
+      "dt": 1791921000.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "22:21",
+      "flight_no": "EW9691",
+      "airline": "Eurowings",
+      "city": "Malta",
+      "country": "Malta",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 31
     },
     {
       "dt": 1791921000.0,
@@ -1897,6 +1897,57 @@
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791923100.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "22:25",
+      "flight_no": "EW9539",
+      "airline": "Eurowings",
+      "city": "Valencia",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791923100.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "22:25",
+      "flight_no": "KL1805",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791923100.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "22:25",
+      "flight_no": "LH2034",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
