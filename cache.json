@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 17:25",
+  "updated_at": "13.10.2026 17:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791897600.0,
-      "time_scheduled": "15:20",
-      "time_estimated": "15:30",
-      "flight_no": "EZY8649",
-      "airline": "Easy Jet",
-      "city": "London-Gatwick",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 10
-    },
     {
       "dt": 1791898500.0,
       "time_scheduled": "15:35",
@@ -71,23 +54,6 @@
       "delay": 0
     },
     {
-      "dt": 1791899400.0,
-      "time_scheduled": "15:50",
-      "time_estimated": "15:27",
-      "flight_no": "SM2980",
-      "airline": "Air Cairo",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
       "dt": 1791899700.0,
       "time_scheduled": "15:55",
       "time_estimated": "16:01",
@@ -117,23 +83,6 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791900300.0,
-      "time_scheduled": "16:05",
-      "time_estimated": "16:03",
-      "flight_no": "DE869",
-      "airline": "Condor",
-      "city": "Beirut",
-      "country": "Libanon",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -171,6 +120,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 23
+    },
+    {
+      "dt": 1791900300.0,
+      "time_scheduled": "16:05",
+      "time_estimated": "16:03",
+      "flight_no": "DE869",
+      "airline": "Condor",
+      "city": "Beirut",
+      "country": "Libanon",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791900900.0,
@@ -413,7 +379,7 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:32",
+      "time_estimated": "17:53",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -425,7 +391,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1791906000.0,
@@ -475,7 +441,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
@@ -508,8 +474,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 9
     },
     {
@@ -521,9 +487,9 @@
       "city": "Frankfurt",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -572,9 +538,9 @@
       "city": "Neapel",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -600,7 +566,7 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:51",
+      "time_estimated": "18:52",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -611,8 +577,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 47
+      "status_text": "Vorhafen verlassen",
+      "delay": 48
     },
     {
       "dt": 1791907800.0,
@@ -657,9 +623,9 @@
       "city": "Zürich",
       "country": "Schweiz",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1025,7 +991,7 @@
     {
       "dt": 1791913200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:51",
+      "time_estimated": "19:49",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1037,7 +1003,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1791913200.0,
@@ -1110,7 +1076,7 @@
     {
       "dt": 1791915000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:00",
+      "time_estimated": "20:01",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1144,7 +1110,7 @@
     {
       "dt": 1791916500.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:35",
+      "time_estimated": "20:33",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1531,6 +1497,23 @@
       "status": "scheduled",
       "status_text": "",
       "delay": 0
+    },
+    {
+      "dt": 1791921000.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "22:30",
+      "flight_no": "EW9603",
+      "airline": "Eurowings",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 40
     },
     {
       "dt": 1791921000.0,
@@ -1951,6 +1934,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791923400.0,
+      "time_scheduled": "22:30",
+      "time_estimated": "22:30",
+      "flight_no": "EW9679",
+      "airline": "Eurowings",
+      "city": "Karpathos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
