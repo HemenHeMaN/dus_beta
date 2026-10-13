@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 06:40",
+  "updated_at": "13.10.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -509,7 +509,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 8
     },
     {
@@ -566,7 +566,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:39",
+      "time_estimated": "09:50",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -578,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1791877500.0,
@@ -1103,6 +1103,40 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791884700.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791884700.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "BQ1952",
+      "airline": "Sky Alps",
+      "city": "Bozen",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
