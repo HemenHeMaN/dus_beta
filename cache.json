@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 15:25",
+  "updated_at": "13.10.2026 15:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -54,23 +54,6 @@
       "delay": 7
     },
     {
-      "dt": 1791891300.0,
-      "time_scheduled": "13:35",
-      "time_estimated": "13:26",
-      "flight_no": "EW9641",
-      "airline": "Eurowings",
-      "city": "Porto",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
       "dt": 1791891900.0,
       "time_scheduled": "13:45",
       "time_estimated": "13:42",
@@ -86,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
-    },
-    {
-      "dt": 1791892200.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:59",
-      "flight_no": "DE1849",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 10
     },
     {
       "dt": 1791892200.0,
@@ -154,6 +120,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 5
+    },
+    {
+      "dt": 1791892200.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:59",
+      "flight_no": "DE1849",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 10
     },
     {
       "dt": 1791892500.0,
@@ -532,7 +515,7 @@
     {
       "dt": 1791897600.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:32",
+      "time_estimated": "15:30",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -542,9 +525,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 12
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 10
     },
     {
       "dt": 1791897900.0,
@@ -577,7 +560,7 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 9
     },
     {
@@ -600,7 +583,7 @@
     {
       "dt": 1791899100.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:32",
+      "time_estimated": "15:40",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -617,7 +600,7 @@
     {
       "dt": 1791899400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:32",
+      "time_estimated": "15:27",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -627,14 +610,14 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
       "dt": 1791899700.0,
       "time_scheduled": "15:55",
-      "time_estimated": "16:12",
+      "time_estimated": "16:13",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
@@ -646,7 +629,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 17
+      "delay": 18
     },
     {
       "dt": 1791900000.0,
@@ -702,7 +685,7 @@
     {
       "dt": 1791900300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:02",
+      "time_estimated": "16:03",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -770,7 +753,7 @@
     {
       "dt": 1791902700.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:45",
+      "time_estimated": "16:46",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -781,8 +764,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 1
+      "status_text": "Vorhafen verlassen",
+      "delay": 2
     },
     {
       "dt": 1791903000.0,
@@ -952,7 +935,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1791906000.0,
@@ -1144,7 +1127,7 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:05",
+      "time_estimated": "18:33",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -1156,7 +1139,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 28
     },
     {
       "dt": 1791907800.0,
@@ -1246,7 +1229,7 @@
     {
       "dt": 1791909000.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:37",
+      "time_estimated": "18:43",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -1258,7 +1241,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 8
+      "delay": 14
     },
     {
       "dt": 1791909300.0,
@@ -1297,7 +1280,7 @@
     {
       "dt": 1791909600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:40",
+      "time_estimated": "18:32",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
