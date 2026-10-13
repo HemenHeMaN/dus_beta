@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 08:30",
+  "updated_at": "13.10.2026 08:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -185,8 +185,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 9
     },
     {
@@ -202,14 +202,14 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 14
     },
     {
       "dt": 1791873600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:41",
+      "time_estimated": "08:34",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -219,9 +219,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 2
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791873600.0,
@@ -243,7 +243,7 @@
     {
       "dt": 1791874200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:35",
+      "time_estimated": "08:31",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -253,8 +253,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -271,7 +271,7 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -304,8 +304,8 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -338,8 +338,8 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -396,7 +396,7 @@
     {
       "dt": 1791876300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:39",
+      "time_estimated": "09:35",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -407,8 +407,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 14
+      "status_text": "Vorhafen verlassen",
+      "delay": 10
     },
     {
       "dt": 1791876300.0,
@@ -1484,7 +1484,7 @@
     {
       "dt": 1791890400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:20",
+      "time_estimated": "13:27",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1496,7 +1496,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1791890700.0,
@@ -1545,6 +1545,23 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791891300.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:34",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
