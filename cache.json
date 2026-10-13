@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 07:20",
+  "updated_at": "13.10.2026 07:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -107,7 +107,7 @@
     {
       "dt": 1791869100.0,
       "time_scheduled": "07:25",
-      "time_estimated": "07:28",
+      "time_estimated": "07:23",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -117,9 +117,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 3
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791870000.0,
@@ -134,8 +134,8 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 3
     },
     {
@@ -158,7 +158,7 @@
     {
       "dt": 1791871800.0,
       "time_scheduled": "08:10",
-      "time_estimated": "07:58",
+      "time_estimated": "07:59",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -192,7 +192,7 @@
     {
       "dt": 1791872100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:20",
+      "time_estimated": "08:21",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -204,7 +204,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1791872100.0,
@@ -447,7 +447,7 @@
     {
       "dt": 1791876300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:29",
+      "time_estimated": "09:34",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -459,7 +459,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 4
+      "delay": 9
     },
     {
       "dt": 1791876300.0,
@@ -821,7 +821,7 @@
     {
       "dt": 1791880200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:27",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1273,6 +1273,23 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791887100.0,
+      "time_scheduled": "12:25",
+      "time_estimated": "12:25",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
