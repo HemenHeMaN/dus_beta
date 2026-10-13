@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 19:35",
+  "updated_at": "13.10.2026 19:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,23 +22,6 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:36",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791906000.0,
-      "time_scheduled": "17:40",
       "time_estimated": "17:52",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
@@ -52,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 13
-    },
-    {
-      "dt": 1791906300.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "17:38",
-      "flight_no": "EW9519",
-      "airline": "Eurowings",
-      "city": "Bilbao",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791906300.0,
@@ -617,7 +583,7 @@
     {
       "dt": 1791913200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:42",
+      "time_estimated": "19:36",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -627,9 +593,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 2
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791913200.0,
@@ -889,7 +855,7 @@
     {
       "dt": 1791918000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:01",
+      "time_estimated": "20:55",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -901,12 +867,12 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791918900.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:37",
+      "time_estimated": "21:26",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -918,7 +884,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 22
+      "delay": 11
     },
     {
       "dt": 1791919200.0,
@@ -1127,7 +1093,7 @@
     {
       "dt": 1791921000.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:40",
+      "time_estimated": "22:45",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1139,12 +1105,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 50
+      "delay": 55
     },
     {
       "dt": 1791921000.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:18",
+      "time_estimated": "22:28",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -1156,7 +1122,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 28
+      "delay": 38
     },
     {
       "dt": 1791921000.0,
@@ -1365,7 +1331,7 @@
     {
       "dt": 1791922200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:18",
+      "time_estimated": "22:05",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1377,12 +1343,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1791922200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:24",
+      "time_estimated": "22:23",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1586,7 +1552,7 @@
     {
       "dt": 1791923700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:55",
+      "time_estimated": "22:54",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1654,7 +1620,7 @@
     {
       "dt": 1791924000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:40",
+      "time_estimated": "22:56",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1665,8 +1631,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 16
     },
     {
       "dt": 1791924300.0,
@@ -1705,7 +1671,7 @@
     {
       "dt": 1791924300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "23:03",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -1716,8 +1682,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 19
     }
   ]
 }
