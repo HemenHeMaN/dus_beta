@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 09:35",
+  "updated_at": "13.10.2026 09:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791870000.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:36",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791870600.0,
       "time_scheduled": "07:50",
@@ -464,7 +447,7 @@
     {
       "dt": 1791877500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:55",
+      "time_estimated": "10:01",
       "flight_no": "EW9029",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -475,8 +458,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 11
+      "status_text": "im Anflug",
+      "delay": 17
     },
     {
       "dt": 1791877500.0,
@@ -509,7 +492,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -559,8 +542,8 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -588,11 +571,11 @@
       "airline": "Middle East Airlines",
       "city": "Beirut",
       "country": "Libanon",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 13
@@ -605,11 +588,11 @@
       "airline": "UR Airlines",
       "city": "Erbil",
       "country": "Irak",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -651,7 +634,7 @@
     {
       "dt": 1791879900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:43",
+      "time_estimated": "10:45",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -662,8 +645,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 18
+      "status_text": "Vorhafen verlassen",
+      "delay": 20
     },
     {
       "dt": 1791879900.0,
@@ -691,10 +674,10 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 4
@@ -923,7 +906,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:03",
+      "time_estimated": "11:51",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -935,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 23
+      "delay": 11
     },
     {
       "dt": 1791884400.0,
@@ -974,7 +957,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:53",
+      "time_estimated": "11:52",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -985,8 +968,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 13
+      "status_text": "Vorhafen verlassen",
+      "delay": 12
     },
     {
       "dt": 1791884700.0,
@@ -1161,7 +1144,7 @@
     {
       "dt": 1791887100.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:35",
+      "time_estimated": "12:42",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1173,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 18
     },
     {
       "dt": 1791887400.0,
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791887400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:36",
+      "time_estimated": "12:32",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -1224,7 +1207,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 6
+      "delay": 2
     },
     {
       "dt": 1791887700.0,
@@ -1258,7 +1241,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1791888000.0,
@@ -1399,7 +1382,7 @@
     {
       "dt": 1791890100.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:15",
+      "time_estimated": "13:05",
       "flight_no": "XQ286",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1410,7 +1393,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1846,6 +1829,23 @@
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791895200.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
