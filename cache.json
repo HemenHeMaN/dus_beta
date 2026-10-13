@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 14:45",
+  "updated_at": "13.10.2026 14:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791886500.0,
-      "time_scheduled": "12:15",
-      "time_estimated": "12:45",
-      "flight_no": "EW5703",
-      "airline": "Eurowings",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 30
-    },
     {
       "dt": 1791888000.0,
       "time_scheduled": "12:40",
@@ -35,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 23
-    },
-    {
-      "dt": 1791888300.0,
-      "time_scheduled": "12:45",
-      "time_estimated": "12:48",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 4
     },
     {
       "dt": 1791888900.0,
@@ -379,23 +345,6 @@
     {
       "dt": 1791892500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:49",
-      "flight_no": "X34105",
-      "airline": "Tuifly",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791892500.0,
-      "time_scheduled": "13:55",
       "time_estimated": "13:57",
       "flight_no": "KL1801",
       "airline": "KLM",
@@ -409,6 +358,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 3
+    },
+    {
+      "dt": 1791892500.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:49",
+      "flight_no": "X34105",
+      "airline": "Tuifly",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791893100.0,
@@ -593,8 +559,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 41
     },
     {
@@ -678,8 +644,8 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 16
     },
     {
@@ -730,7 +696,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -889,7 +855,7 @@
     {
       "dt": 1791900300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:32",
+      "time_estimated": "16:31",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -901,7 +867,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 27
+      "delay": 26
     },
     {
       "dt": 1791900300.0,
@@ -957,7 +923,7 @@
     {
       "dt": 1791901800.0,
       "time_scheduled": "16:30",
-      "time_estimated": "17:30",
+      "time_estimated": "16:47",
       "flight_no": "LH2018",
       "airline": "Lufthansa",
       "city": "München",
@@ -969,7 +935,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 61
+      "delay": 17
     },
     {
       "dt": 1791902700.0,
@@ -1042,7 +1008,7 @@
     {
       "dt": 1791903900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:15",
+      "time_estimated": "17:18",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1054,24 +1020,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 10
-    },
-    {
-      "dt": 1791904200.0,
-      "time_scheduled": "17:10",
-      "time_estimated": "19:28",
-      "flight_no": "EW9581",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "delay": 138
+      "delay": 13
     },
     {
       "dt": 1791904200.0,
@@ -1280,7 +1229,7 @@
     {
       "dt": 1791907200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:57",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1297,7 +1246,7 @@
     {
       "dt": 1791907200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:52",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1382,7 +1331,7 @@
     {
       "dt": 1791908100.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:15",
+      "time_estimated": "18:17",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1393,8 +1342,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 3
     },
     {
       "dt": 1791908400.0,
@@ -1450,7 +1399,7 @@
     {
       "dt": 1791909000.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:38",
+      "time_estimated": "18:37",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -1462,7 +1411,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1791909300.0,
@@ -1688,7 +1637,7 @@
     {
       "dt": 1791912000.0,
       "time_scheduled": "19:20",
-      "time_estimated": "18:39",
+      "time_estimated": "18:38",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
@@ -1815,6 +1764,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791913800.0,
+      "time_scheduled": "19:50",
+      "time_estimated": "19:50",
+      "flight_no": "EW9591",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
