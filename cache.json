@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 16:20",
+  "updated_at": "13.10.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 20
-    },
-    {
-      "dt": 1791894600.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:21",
-      "flight_no": "LH074",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791894900.0,
@@ -492,7 +475,7 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -634,19 +617,19 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:52",
+      "time_estimated": "17:54",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 13
+      "delay": 15
     },
     {
       "dt": 1791906000.0,
@@ -668,7 +651,7 @@
     {
       "dt": 1791906000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:47",
+      "time_estimated": "17:57",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -680,7 +663,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 8
+      "delay": 17
     },
     {
       "dt": 1791906000.0,
@@ -702,19 +685,19 @@
     {
       "dt": 1791906300.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:48",
+      "time_estimated": "17:46",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 4
+      "delay": 2
     },
     {
       "dt": 1791906300.0,
@@ -821,7 +804,7 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:04",
+      "time_estimated": "18:09",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -833,24 +816,24 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "19:08",
+      "time_estimated": "19:10",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 63
+      "delay": 65
     },
     {
       "dt": 1791907800.0,
@@ -923,7 +906,7 @@
     {
       "dt": 1791909000.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:34",
+      "time_estimated": "18:28",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -935,7 +918,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1791909000.0,
@@ -1246,7 +1229,7 @@
     {
       "dt": 1791912600.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:39",
+      "time_estimated": "19:33",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1258,7 +1241,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1791913200.0,
@@ -1562,6 +1545,40 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791919500.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791919500.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
