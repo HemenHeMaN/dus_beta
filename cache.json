@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 11:10",
+  "updated_at": "13.10.2026 11:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -86,23 +86,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 10
-    },
-    {
-      "dt": 1791876600.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:12",
-      "flight_no": "SK1629",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791876900.0,
@@ -593,8 +576,8 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 10
     },
     {
@@ -634,7 +617,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:29",
+      "time_estimated": "11:28",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -861,9 +844,9 @@
       "city": "Lissabon",
       "country": "Portugal",
       "type": "Linie",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "A",
-      "baggage": "1",
+      "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1008,7 +991,7 @@
     {
       "dt": 1791889500.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:16",
+      "time_estimated": "13:10",
       "flight_no": "EW9043",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1020,7 +1003,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1791889500.0,
@@ -1042,7 +1025,7 @@
     {
       "dt": 1791889500.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:04",
+      "time_estimated": "13:01",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -1297,7 +1280,7 @@
     {
       "dt": 1791892500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:15",
+      "time_estimated": "14:22",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1309,7 +1292,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 20
+      "delay": 28
     },
     {
       "dt": 1791892500.0,
@@ -1433,7 +1416,7 @@
     {
       "dt": 1791893700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:16",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -1445,7 +1428,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791893700.0,
@@ -1467,7 +1450,7 @@
     {
       "dt": 1791894000.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:42",
+      "time_estimated": "14:36",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1479,12 +1462,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 23
+      "delay": 17
     },
     {
       "dt": 1791894300.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:25",
+      "time_estimated": "14:13",
       "flight_no": "VY1894",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1834,6 +1817,23 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791900900.0,
+      "time_scheduled": "16:15",
+      "time_estimated": "16:15",
+      "flight_no": "EW9579",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
