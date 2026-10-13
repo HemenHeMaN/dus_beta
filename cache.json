@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 07:10",
+  "updated_at": "13.10.2026 07:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -124,7 +124,7 @@
     {
       "dt": 1791870000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:41",
+      "time_estimated": "07:42",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -135,8 +135,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 3
     },
     {
       "dt": 1791870600.0,
@@ -192,7 +192,7 @@
     {
       "dt": 1791872100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:11",
+      "time_estimated": "08:20",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -204,7 +204,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1791872100.0,
@@ -294,7 +294,7 @@
     {
       "dt": 1791874200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:29",
+      "time_estimated": "08:36",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -311,7 +311,7 @@
     {
       "dt": 1791874200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:51",
+      "time_estimated": "08:49",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -323,7 +323,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791874500.0,
@@ -396,7 +396,7 @@
     {
       "dt": 1791875100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:00",
+      "time_estimated": "09:06",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -408,7 +408,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791875100.0,
@@ -702,7 +702,7 @@
     {
       "dt": 1791879300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:29",
+      "time_estimated": "10:27",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -714,7 +714,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 14
+      "delay": 13
     },
     {
       "dt": 1791879300.0,
@@ -855,7 +855,7 @@
     {
       "dt": 1791880200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:15",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1234,6 +1234,23 @@
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791886500.0,
+      "time_scheduled": "12:15",
+      "time_estimated": "12:15",
+      "flight_no": "EW5703",
+      "airline": "Eurowings",
+      "city": "Pristina",
+      "country": "Kosovo",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
