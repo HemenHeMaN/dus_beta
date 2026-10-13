@@ -1,11 +1,11 @@
 {
-  "updated_at": "13.10.2026 06:00",
+  "updated_at": "13.10.2026 06:05",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1791864300.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:07",
+      "time_estimated": "06:05",
       "flight_no": "EW9899",
       "airline": "Eurowings",
       "city": "Tunis",
@@ -15,14 +15,14 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 2
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791864300.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:06",
+      "time_estimated": "06:01",
       "flight_no": "DE3785",
       "airline": "Condor",
       "city": "New York-John F. Kennedy",
@@ -32,14 +32,14 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 1
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791864900.0,
       "time_scheduled": "06:15",
-      "time_estimated": "06:15",
+      "time_estimated": "06:17",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -51,7 +51,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791865800.0,
@@ -107,7 +107,7 @@
     {
       "dt": 1791869100.0,
       "time_scheduled": "07:25",
-      "time_estimated": "07:28",
+      "time_estimated": "07:27",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -118,8 +118,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 3
+      "status_text": "Vorhafen verlassen",
+      "delay": 2
     },
     {
       "dt": 1791870000.0,
@@ -408,7 +408,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791875100.0,
@@ -464,7 +464,7 @@
     {
       "dt": 1791876300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:29",
+      "time_estimated": "09:23",
       "flight_no": "XR418",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -476,7 +476,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1791876600.0,
