@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 11:40",
+  "updated_at": "13.10.2026 11:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -260,23 +260,6 @@
     {
       "dt": 1791880200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "09:42",
-      "flight_no": "4M211",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791880200.0,
-      "time_scheduled": "10:30",
       "time_estimated": "10:06",
       "flight_no": "AY1393",
       "airline": "Finnair",
@@ -498,7 +481,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:55",
+      "time_estimated": "11:48",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -510,12 +493,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 16
+      "delay": 8
     },
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:50",
+      "time_estimated": "11:41",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -525,9 +508,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 11
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791884700.0,
@@ -583,7 +566,7 @@
     {
       "dt": 1791885000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:11",
+      "time_estimated": "12:02",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -593,14 +576,14 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 21
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 12
     },
     {
       "dt": 1791885000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:47",
+      "time_estimated": "11:43",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -610,14 +593,14 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
       "dt": 1791885300.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:07",
+      "time_estimated": "11:58",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -627,9 +610,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 13
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 3
     },
     {
       "dt": 1791885900.0,
@@ -804,7 +787,7 @@
     {
       "dt": 1791888000.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:58",
+      "time_estimated": "13:08",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -816,7 +799,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 18
+      "delay": 28
     },
     {
       "dt": 1791888300.0,
@@ -1161,7 +1144,7 @@
     {
       "dt": 1791892500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:10",
+      "time_estimated": "14:02",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1173,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 16
+      "delay": 8
     },
     {
       "dt": 1791892500.0,
@@ -1744,6 +1727,23 @@
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791902700.0,
+      "time_scheduled": "16:45",
+      "time_estimated": "16:45",
+      "flight_no": "EW9753",
+      "airline": "Eurowings",
+      "city": "Wien",
+      "country": "Österreich",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
