@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 18:40",
+  "updated_at": "13.10.2026 18:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 39
-    },
-    {
-      "dt": 1791901800.0,
-      "time_scheduled": "16:30",
-      "time_estimated": "16:42",
-      "flight_no": "LH2018",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 12
     },
     {
       "dt": 1791902700.0,
@@ -396,23 +379,6 @@
     {
       "dt": 1791907500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:04",
-      "flight_no": "BA922",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791907500.0,
-      "time_scheduled": "18:05",
       "time_estimated": "18:35",
       "flight_no": "EW9823",
       "airline": "Eurowings",
@@ -426,6 +392,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 31
+    },
+    {
+      "dt": 1791907500.0,
+      "time_scheduled": "18:05",
+      "time_estimated": "18:04",
+      "flight_no": "BA922",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791907800.0,
@@ -543,7 +526,7 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 20
     },
     {
@@ -566,7 +549,7 @@
     {
       "dt": 1791909600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "19:01",
+      "time_estimated": "19:06",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -578,7 +561,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 21
+      "delay": 27
     },
     {
       "dt": 1791909600.0,
@@ -628,7 +611,7 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 3
     },
     {
@@ -644,8 +627,8 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 5
     },
     {
@@ -712,8 +695,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -753,7 +736,7 @@
     {
       "dt": 1791912000.0,
       "time_scheduled": "19:20",
-      "time_estimated": "18:46",
+      "time_estimated": "18:44",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
@@ -763,8 +746,8 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -1280,7 +1263,7 @@
     {
       "dt": 1791920400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:21",
+      "time_estimated": "21:34",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1291,13 +1274,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
       "dt": 1791920400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:59",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1309,7 +1292,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1791920700.0,
@@ -1399,7 +1382,7 @@
     {
       "dt": 1791921300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:09",
+      "time_estimated": "22:05",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -1411,7 +1394,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 14
+      "delay": 10
     },
     {
       "dt": 1791921300.0,
@@ -1892,7 +1875,7 @@
     {
       "dt": 1791924300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:42",
       "flight_no": "X32119",
       "airline": "Tuifly",
       "city": "Teneriffa Süd",
@@ -1903,7 +1886,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
