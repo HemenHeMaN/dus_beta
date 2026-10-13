@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 18:30",
+  "updated_at": "13.10.2026 18:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -69,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 1
-    },
-    {
-      "dt": 1791903000.0,
-      "time_scheduled": "16:50",
-      "time_estimated": "16:31",
-      "flight_no": "TP542",
-      "airline": "TAP Portugal",
-      "city": "Lissabon",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791903300.0,
@@ -294,23 +277,6 @@
     {
       "dt": 1791906300.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:47",
-      "flight_no": "EW9585",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 3
-    },
-    {
-      "dt": 1791906300.0,
-      "time_scheduled": "17:45",
       "time_estimated": "17:38",
       "flight_no": "EW9519",
       "airline": "Eurowings",
@@ -324,6 +290,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791906300.0,
+      "time_scheduled": "17:45",
+      "time_estimated": "17:47",
+      "flight_no": "EW9585",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 3
     },
     {
       "dt": 1791906300.0,
@@ -566,7 +549,7 @@
     {
       "dt": 1791909600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:41",
+      "time_estimated": "18:32",
       "flight_no": "LH2022",
       "airline": "Lufthansa",
       "city": "München",
@@ -576,9 +559,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 1
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791909600.0,
@@ -678,8 +661,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -781,7 +764,7 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -809,11 +792,11 @@
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 11
@@ -974,7 +957,7 @@
     {
       "dt": 1791916500.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:33",
+      "time_estimated": "20:36",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -986,7 +969,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1791916500.0,
@@ -1008,7 +991,7 @@
     {
       "dt": 1791916800.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:42",
+      "time_estimated": "20:54",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -1020,7 +1003,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 14
     },
     {
       "dt": 1791916800.0,
@@ -1076,7 +1059,7 @@
     {
       "dt": 1791917400.0,
       "time_scheduled": "20:50",
-      "time_estimated": "21:38",
+      "time_estimated": "21:47",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
@@ -1088,7 +1071,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 48
+      "delay": 57
     },
     {
       "dt": 1791918000.0,
@@ -1246,7 +1229,7 @@
     {
       "dt": 1791920100.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:35",
+      "time_estimated": "21:38",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -1258,7 +1241,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1791920400.0,
