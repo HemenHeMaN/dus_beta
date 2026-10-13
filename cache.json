@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 13:30",
+  "updated_at": "13.10.2026 13:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -83,40 +83,6 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791884700.0,
-      "time_scheduled": "11:45",
-      "time_estimated": "11:31",
-      "flight_no": "BQ1952",
-      "airline": "Sky Alps",
-      "city": "Bozen",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791885000.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:33",
-      "flight_no": "KL1799",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -458,7 +424,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 38
     },
     {
@@ -617,7 +583,7 @@
     {
       "dt": 1791892200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:35",
+      "time_estimated": "13:33",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -627,8 +593,8 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -644,8 +610,8 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 8
     },
     {
@@ -702,7 +668,7 @@
     {
       "dt": 1791892500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:02",
+      "time_estimated": "14:07",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -713,8 +679,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 8
+      "status_text": "Vorhafen verlassen",
+      "delay": 12
     },
     {
       "dt": 1791892500.0,
@@ -940,7 +906,7 @@
     {
       "dt": 1791895200.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:31",
+      "time_estimated": "14:35",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -951,13 +917,13 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
       "dt": 1791895500.0,
       "time_scheduled": "14:45",
-      "time_estimated": "15:02",
+      "time_estimated": "15:03",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -968,8 +934,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 18
+      "status_text": "Vorhafen verlassen",
+      "delay": 19
     },
     {
       "dt": 1791895500.0,
@@ -1212,7 +1178,7 @@
     {
       "dt": 1791900300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:40",
+      "time_estimated": "16:37",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -1224,7 +1190,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 36
+      "delay": 33
     },
     {
       "dt": 1791900300.0,
@@ -1246,7 +1212,7 @@
     {
       "dt": 1791900900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:15",
+      "time_estimated": "16:37",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1258,7 +1224,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 22
     },
     {
       "dt": 1791901800.0,
@@ -1783,6 +1749,23 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791909300.0,
+      "time_scheduled": "18:35",
+      "time_estimated": "18:35",
+      "flight_no": "EW9669",
+      "airline": "Eurowings",
+      "city": "Kalamata",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
