@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 22:10",
+  "updated_at": "13.10.2026 22:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791913500.0,
-      "time_scheduled": "19:45",
-      "time_estimated": "20:11",
-      "flight_no": "EW4676",
-      "airline": "Eurowings",
-      "city": "Stockholm-Arlanda",
-      "country": "Schweden",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 27
-    },
     {
       "dt": 1791913800.0,
       "time_scheduled": "19:50",
@@ -396,23 +379,6 @@
     {
       "dt": 1791920700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:49",
-      "flight_no": "EW9089",
-      "airline": "Eurowings",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 4
-    },
-    {
-      "dt": 1791920700.0,
-      "time_scheduled": "21:45",
       "time_estimated": "21:40",
       "flight_no": "LH078",
       "airline": "Lufthansa",
@@ -426,6 +392,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
+    },
+    {
+      "dt": 1791920700.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:49",
+      "flight_no": "EW9089",
+      "airline": "Eurowings",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 4
     },
     {
       "dt": 1791921000.0,
@@ -525,8 +508,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 43
     },
     {
@@ -542,40 +525,6 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791921600.0,
-      "time_scheduled": "22:00",
-      "time_estimated": "21:46",
-      "flight_no": "EW9785",
-      "airline": "Eurowings",
-      "city": "Budapest",
-      "country": "Ungarn",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791921600.0,
-      "time_scheduled": "22:00",
-      "time_estimated": "21:54",
-      "flight_no": "LO405",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -600,6 +549,23 @@
     {
       "dt": 1791921600.0,
       "time_scheduled": "22:00",
+      "time_estimated": "21:46",
+      "flight_no": "EW9785",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
+      "dt": 1791921600.0,
+      "time_scheduled": "22:00",
       "time_estimated": "21:27",
       "flight_no": "EW9469",
       "airline": "Eurowings",
@@ -615,9 +581,26 @@
       "delay": 0
     },
     {
+      "dt": 1791921600.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "21:54",
+      "flight_no": "LO405",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
+    },
+    {
       "dt": 1791921900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:21",
+      "time_estimated": "22:13",
       "flight_no": "EW9855",
       "airline": "Eurowings",
       "city": "Brindisi",
@@ -627,9 +610,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 16
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 8
     },
     {
       "dt": 1791921900.0,
@@ -719,7 +702,7 @@
     {
       "dt": 1791922500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:19",
+      "time_estimated": "22:15",
       "flight_no": "EW9335",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -729,9 +712,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 4
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791922500.0,
@@ -747,7 +730,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 7
     },
     {
@@ -763,14 +746,14 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 22
     },
     {
       "dt": 1791922800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:13",
+      "time_estimated": "22:20",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -787,7 +770,7 @@
     {
       "dt": 1791922800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:37",
+      "time_estimated": "22:11",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -797,9 +780,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 17
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791922800.0,
@@ -838,7 +821,7 @@
     {
       "dt": 1791923100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:16",
+      "time_estimated": "22:36",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -850,7 +833,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1791923100.0,
@@ -866,7 +849,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
@@ -882,8 +865,8 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -906,7 +889,7 @@
     {
       "dt": 1791923700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:39",
+      "time_estimated": "22:34",
       "flight_no": "X32853",
       "airline": "Tuifly",
       "city": "Funchal (Madeira)",
@@ -916,9 +899,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "delay": 4
+      "status": "active",
+      "status_text": "Im Anflug",
+      "delay": 0
     },
     {
       "dt": 1791923700.0,
