@@ -1,24 +1,7 @@
 {
-  "updated_at": "13.10.2026 09:20",
+  "updated_at": "13.10.2026 09:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1791869100.0,
-      "time_scheduled": "07:25",
-      "time_estimated": "07:23",
-      "flight_no": "EW9725",
-      "airline": "Eurowings",
-      "city": "Graz",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
     {
       "dt": 1791870000.0,
       "time_scheduled": "07:40",
@@ -379,7 +362,7 @@
     {
       "dt": 1791876600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:31",
+      "time_estimated": "09:22",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -389,9 +372,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 1
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791876600.0,
@@ -458,7 +441,7 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
@@ -472,7 +455,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "11",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -489,7 +472,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -566,7 +549,7 @@
     {
       "dt": 1791878700.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:07",
+      "time_estimated": "10:01",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -578,7 +561,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1791878700.0,
@@ -761,7 +744,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "12",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -906,7 +889,7 @@
     {
       "dt": 1791883800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:42",
+      "time_estimated": "11:41",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -917,8 +900,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 12
+      "status_text": "Vorhafen verlassen",
+      "delay": 11
     },
     {
       "dt": 1791883800.0,
@@ -991,7 +974,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:52",
+      "time_estimated": "11:53",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1003,12 +986,12 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1791884700.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:50",
+      "time_estimated": "11:49",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1020,7 +1003,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1791884700.0,
@@ -1161,7 +1144,7 @@
     {
       "dt": 1791886800.0,
       "time_scheduled": "12:20",
-      "time_estimated": "12:20",
+      "time_estimated": "12:25",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -1173,7 +1156,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1791887100.0,
@@ -1190,7 +1173,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791887400.0,
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791887400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:28",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1798,6 +1781,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791894300.0,
+      "time_scheduled": "14:25",
+      "time_estimated": "14:25",
+      "flight_no": "VY1894",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
