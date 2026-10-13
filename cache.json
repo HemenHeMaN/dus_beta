@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 11:25",
+  "updated_at": "13.10.2026 11:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,23 +20,6 @@
       "delay": 87
     },
     {
-      "dt": 1791876300.0,
-      "time_scheduled": "09:25",
-      "time_estimated": "09:28",
-      "flight_no": "LH2006",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 4
-    },
-    {
       "dt": 1791876600.0,
       "time_scheduled": "09:30",
       "time_estimated": "09:40",
@@ -52,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 10
-    },
-    {
-      "dt": 1791876900.0,
-      "time_scheduled": "09:35",
-      "time_estimated": "09:30",
-      "flight_no": "LO403",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791876900.0,
@@ -134,23 +100,6 @@
       "terminal": "A",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791878100.0,
-      "time_scheduled": "09:55",
-      "time_estimated": "09:26",
-      "flight_no": "BA918",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -515,7 +464,7 @@
     {
       "dt": 1791883800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:40",
+      "time_estimated": "11:28",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -525,14 +474,14 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 10
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791883800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "12:27",
+      "time_estimated": "12:30",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -543,8 +492,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 57
+      "status_text": "Vorhafen verlassen",
+      "delay": 60
     },
     {
       "dt": 1791884400.0,
@@ -611,7 +560,7 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 5
     },
     {
@@ -628,7 +577,7 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -651,7 +600,7 @@
     {
       "dt": 1791885000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:34",
+      "time_estimated": "11:54",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -663,7 +612,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1791885000.0,
@@ -974,7 +923,7 @@
     {
       "dt": 1791889500.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:01",
+      "time_estimated": "13:06",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -985,13 +934,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 1
     },
     {
       "dt": 1791889800.0,
       "time_scheduled": "13:10",
-      "time_estimated": "14:05",
+      "time_estimated": "13:45",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1003,7 +952,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 55
+      "delay": 35
     },
     {
       "dt": 1791889800.0,
@@ -1076,7 +1025,7 @@
     {
       "dt": 1791891000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:44",
+      "time_estimated": "14:48",
       "flight_no": "NE728",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1088,7 +1037,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 75
+      "delay": 78
     },
     {
       "dt": 1791891000.0,
@@ -1246,7 +1195,7 @@
     {
       "dt": 1791892500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:59",
+      "time_estimated": "14:10",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1258,7 +1207,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 16
     },
     {
       "dt": 1791892500.0,
@@ -1331,7 +1280,7 @@
     {
       "dt": 1791893700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:37",
+      "time_estimated": "14:40",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -1343,7 +1292,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 22
+      "delay": 26
     },
     {
       "dt": 1791893700.0,
@@ -1399,7 +1348,7 @@
     {
       "dt": 1791894000.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:36",
+      "time_estimated": "14:40",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1410,8 +1359,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 17
+      "status_text": "Vorhafen verlassen",
+      "delay": 21
     },
     {
       "dt": 1791894300.0,
@@ -1450,7 +1399,7 @@
     {
       "dt": 1791894900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:35",
+      "time_estimated": "14:32",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1778,6 +1727,40 @@
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791901800.0,
+      "time_scheduled": "16:30",
+      "time_estimated": "16:30",
+      "flight_no": "EW9815",
+      "airline": "Eurowings",
+      "city": "Catania (Sizilien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791901800.0,
+      "time_scheduled": "16:30",
+      "time_estimated": "16:30",
+      "flight_no": "LH2018",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
