@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 12:25",
+  "updated_at": "13.10.2026 12:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 10
-    },
-    {
-      "dt": 1791880500.0,
-      "time_scheduled": "10:35",
-      "time_estimated": "10:29",
-      "flight_no": "GQ890",
-      "airline": "Sky Express",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791881100.0,
@@ -226,7 +209,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:37",
+      "time_estimated": "12:30",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -236,9 +219,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 58
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 50
     },
     {
       "dt": 1791884400.0,
@@ -396,7 +379,7 @@
     {
       "dt": 1791885900.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:32",
+      "time_estimated": "12:25",
       "flight_no": "X34429",
       "airline": "Tuifly",
       "city": "Korfu",
@@ -406,9 +389,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 27
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 21
     },
     {
       "dt": 1791886200.0,
@@ -440,8 +423,8 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 31
     },
     {
@@ -458,7 +441,7 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 12
     },
     {
@@ -481,7 +464,7 @@
     {
       "dt": 1791887400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:28",
+      "time_estimated": "12:27",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -491,8 +474,8 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -515,7 +498,7 @@
     {
       "dt": 1791887400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:31",
+      "time_estimated": "12:37",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -527,7 +510,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 2
+      "delay": 7
     },
     {
       "dt": 1791887700.0,
@@ -543,7 +526,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
@@ -673,11 +656,11 @@
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
       "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
+      "type": "Linie",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 38
@@ -776,9 +759,9 @@
       "city": "Kos",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "10",
+      "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -895,9 +878,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "12",
+      "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1042,7 +1025,7 @@
     {
       "dt": 1791893700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:14",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -1178,7 +1161,7 @@
     {
       "dt": 1791895500.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:51",
+      "time_estimated": "14:53",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1190,7 +1173,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 7
+      "delay": 9
     },
     {
       "dt": 1791895500.0,
@@ -1212,7 +1195,7 @@
     {
       "dt": 1791896100.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:15",
+      "time_estimated": "15:12",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -1223,8 +1206,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 20
+      "status_text": "Vorhafen verlassen",
+      "delay": 17
     },
     {
       "dt": 1791896400.0,
@@ -1297,7 +1280,7 @@
     {
       "dt": 1791897900.0,
       "time_scheduled": "15:25",
-      "time_estimated": "15:25",
+      "time_estimated": "15:28",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -1309,7 +1292,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1791898500.0,
