@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 05:50",
+  "updated_at": "13.10.2026 05:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,7 +16,7 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 11
     },
     {
@@ -175,7 +175,7 @@
     {
       "dt": 1791871800.0,
       "time_scheduled": "08:10",
-      "time_estimated": "07:50",
+      "time_estimated": "07:53",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -186,7 +186,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -931,6 +931,23 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791881700.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "10:55",
+      "flight_no": "EW9783",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
