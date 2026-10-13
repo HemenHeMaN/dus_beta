@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 15:15",
+  "updated_at": "13.10.2026 15:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,23 +35,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 1
-    },
-    {
-      "dt": 1791890700.0,
-      "time_scheduled": "13:25",
-      "time_estimated": "13:17",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791891000.0,
@@ -124,6 +107,23 @@
     {
       "dt": 1791892200.0,
       "time_scheduled": "13:50",
+      "time_estimated": "13:59",
+      "flight_no": "DE1849",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 10
+    },
+    {
+      "dt": 1791892200.0,
+      "time_scheduled": "13:50",
       "time_estimated": "13:33",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
@@ -171,23 +171,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 5
-    },
-    {
-      "dt": 1791892200.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:59",
-      "flight_no": "DE1849",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 10
     },
     {
       "dt": 1791892500.0,
@@ -532,7 +515,7 @@
     {
       "dt": 1791897000.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:20",
+      "time_estimated": "15:17",
       "flight_no": "XQ1328",
       "airline": "Sun Express",
       "city": "Zonguldak",
@@ -542,9 +525,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 10
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 7
     },
     {
       "dt": 1791897300.0,
@@ -577,13 +560,13 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 22
     },
     {
       "dt": 1791897900.0,
       "time_scheduled": "15:25",
-      "time_estimated": "15:33",
+      "time_estimated": "15:29",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -595,7 +578,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 8
+      "delay": 4
     },
     {
       "dt": 1791898500.0,
@@ -644,8 +627,8 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -662,7 +645,7 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -685,7 +668,7 @@
     {
       "dt": 1791900000.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:01",
+      "time_estimated": "16:03",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -697,7 +680,7 @@
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1791900300.0,
@@ -804,7 +787,7 @@
     {
       "dt": 1791902700.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:51",
+      "time_estimated": "16:45",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -816,7 +799,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1791903000.0,
@@ -906,7 +889,7 @@
     {
       "dt": 1791904200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:07",
+      "time_estimated": "17:02",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1195,7 +1178,7 @@
     {
       "dt": 1791907800.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:12",
+      "time_estimated": "18:15",
       "flight_no": "BJ2344",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -1206,8 +1189,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791908100.0,
@@ -1241,7 +1224,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1791908400.0,
@@ -1518,7 +1501,7 @@
     {
       "dt": 1791912000.0,
       "time_scheduled": "19:20",
-      "time_estimated": "18:38",
+      "time_estimated": "18:41",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
@@ -1569,7 +1552,7 @@
     {
       "dt": 1791912300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:30",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1580,8 +1563,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 5
     },
     {
       "dt": 1791912600.0,
