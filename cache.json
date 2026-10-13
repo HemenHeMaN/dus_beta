@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 16:30",
+  "updated_at": "13.10.2026 16:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 81
-    },
-    {
-      "dt": 1791893700.0,
-      "time_scheduled": "14:15",
-      "time_estimated": "14:33",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 19
     },
     {
       "dt": 1791894000.0,
@@ -86,23 +69,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 2
-    },
-    {
-      "dt": 1791895200.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "14:31",
-      "flight_no": "SK1621",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791895500.0,
@@ -440,14 +406,14 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 2
     },
     {
       "dt": 1791903000.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:36",
+      "time_estimated": "16:31",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -457,8 +423,8 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -1450,7 +1416,7 @@
     {
       "dt": 1791918000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:00",
+      "time_estimated": "21:32",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -1461,8 +1427,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status_text": "Vorhafen verlassen",
+      "delay": 33
     },
     {
       "dt": 1791918000.0,
@@ -1596,6 +1562,23 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791920100.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:35",
+      "flight_no": "EW9221",
+      "airline": "Eurowings",
+      "city": "Göteborg-Landvetter",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
