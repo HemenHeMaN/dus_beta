@@ -1,5 +1,5 @@
 {
-  "updated_at": "13.10.2026 08:25",
+  "updated_at": "13.10.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -183,8 +183,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 9
@@ -270,14 +270,14 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
       "dt": 1791874500.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:33",
+      "time_estimated": "08:29",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -287,8 +287,8 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -299,11 +299,11 @@
       "airline": "Pegasus Airlines",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -317,9 +317,9 @@
       "city": "Gazipaşa-Alanya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -334,9 +334,9 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -387,8 +387,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 5
@@ -396,7 +396,7 @@
     {
       "dt": 1791876300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:34",
+      "time_estimated": "09:39",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -408,7 +408,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 9
+      "delay": 14
     },
     {
       "dt": 1791876300.0,
@@ -554,11 +554,11 @@
       "airline": "Aer Lingus",
       "city": "Dublin",
       "country": "Irland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "delay": 0
@@ -583,7 +583,7 @@
     {
       "dt": 1791878100.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:49",
+      "time_estimated": "09:43",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -668,7 +668,7 @@
     {
       "dt": 1791879300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:09",
+      "time_estimated": "10:08",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -821,7 +821,7 @@
     {
       "dt": 1791880500.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:32",
+      "time_estimated": "10:38",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -833,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1791881100.0,
@@ -855,7 +855,7 @@
     {
       "dt": 1791881100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:56",
+      "time_estimated": "11:02",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -867,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 18
     },
     {
       "dt": 1791881400.0,
@@ -1008,7 +1008,7 @@
     {
       "dt": 1791884400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:31",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1494,6 +1494,57 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791890700.0,
+      "time_scheduled": "13:25",
+      "time_estimated": "13:26",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "delay": 2
+    },
+    {
+      "dt": 1791891000.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "13:30",
+      "flight_no": "NE728",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1791891000.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "13:30",
+      "flight_no": "DE1621",
+      "airline": "Condor",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
