@@ -186,6 +186,26 @@ def map_status(fl):
     return "scheduled", text
 
 
+def fetch_flight_detail(flight_no):
+    """
+    Holt die Detail-Informationen für einen einzelnen Flug von dus.com,
+    um den genauen Grund/Bemerkung (z.B. Umleitung, Folgetag) zu erfahren.
+    """
+    detail_url = f"https://www.dus.com/api/sitecore/flightapi/GetFlightDetail?flightNumber={flight_no}&lang=de"
+    try:
+        req = urllib.request.Request(detail_url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            if isinstance(data, dict) and data.get("data"):
+                d = data["data"]
+                remark = d.get("remark") or d.get("note") or (d.get("status") or {}).get("description")
+                if remark:
+                    return str(remark).strip()
+    except Exception:
+        pass
+    return None
+
+
 def airport_info(fl):
     dest = fl.get("destination") or {}
     iata = str(dest.get("iataCode") or "").upper()
@@ -281,6 +301,13 @@ def build_flights(raw, now):
 
         delay = max(0, int(round((real - sched).total_seconds() / 60)))
         status, status_text = map_status(fl)
+        
+        # Bei annullierten oder umgeleiteten Flügen Details nachladen
+        if status in ("cancelled", "diverted"):
+            detail_remark = fetch_flight_detail(flight_no)
+            if detail_remark:
+                status_text = detail_remark
+
         if status == "scheduled" and status_text:
             unknown_status.add(status_text)
 
@@ -301,7 +328,7 @@ def build_flights(raw, now):
             "gate": exit_text(fl, ftype),
             "status": status,
             "status_text": status_text,
-            "status_detail": status_text,  # Detailtext für Bemerkungen (Annulliert, Folgetag etc.)
+            "status_detail": status_text,  # Enthält jetzt den genauen Grund (z.B. Umleitung, Folgetag)
             "delay": delay,
         })
 
