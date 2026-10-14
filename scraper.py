@@ -86,6 +86,7 @@ def in_run_window(now_local):
     start = now_local.replace(hour=WINDOW_START[0], minute=WINDOW_START[1], second=0, microsecond=0)
     end = now_local.replace(hour=WINDOW_END[0], minute=WINDOW_END[1], second=0, microsecond=0)
     
+    # Wenn das End-Fenster vor dem Start liegt, geht es über Mitternacht hinweg
     if end < start:
         if now_local >= start:
             end = end + timedelta(days=1)
@@ -142,6 +143,11 @@ def terminal_letter(fl, airline):
     return str(airline.get("terminalGateArrival") or "").strip().upper()
 
 
+def remark_text(fl):
+    r = fl.get("remark") or {}
+    return str((r.get("publicRemark") or {}).get("name") or r.get("description") or "").strip()
+
+
 def classify(fl, airline_name, airline_iata):
     ex = first_int(fl.get("arrivalExit"))
     if ex is not None:
@@ -184,26 +190,6 @@ def map_status(fl):
     if not text and fl.get("actualTime"):
         return "landed", text
     return "scheduled", text
-
-
-def fetch_flight_detail(flight_no):
-    """
-    Holt die Detail-Informationen für einen einzelnen Flug von dus.com,
-    um den genauen Grund/Bemerkung (z.B. Umleitung, Folgetag) zu erfahren.
-    """
-    detail_url = f"https://www.dus.com/api/sitecore/flightapi/GetFlightDetail?flightNumber={flight_no}&lang=de"
-    try:
-        req = urllib.request.Request(detail_url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-            if isinstance(data, dict) and data.get("data"):
-                d = data["data"]
-                remark = d.get("remark") or d.get("note") or (d.get("status") or {}).get("description")
-                if remark:
-                    return str(remark).strip()
-    except Exception:
-        pass
-    return None
 
 
 def airport_info(fl):
@@ -301,18 +287,13 @@ def build_flights(raw, now):
 
         delay = max(0, int(round((real - sched).total_seconds() / 60)))
         status, status_text = map_status(fl)
-        
-        # Bei annullierten oder umgeleiteten Flügen Details nachladen
-        if status in ("cancelled", "diverted"):
-            detail_remark = fetch_flight_detail(flight_no)
-            if detail_remark:
-                status_text = detail_remark
-
         if status == "scheduled" and status_text:
             unknown_status.add(status_text)
 
         city, country = airport_info(fl)
         ftype, type_source = classify(fl, airline_name, airline_iata)
+        remark = remark_text(fl)
+        status_detail = status_text + (", " + remark if remark and status_text else remark)
         flights.append({
             "dt": sched.timestamp(),
             "time_scheduled": sched.strftime("%H:%M"),
@@ -328,7 +309,8 @@ def build_flights(raw, now):
             "gate": exit_text(fl, ftype),
             "status": status,
             "status_text": status_text,
-            "status_detail": status_text,  # Enthält jetzt den genauen Grund (z.B. Umleitung, Folgetag)
+            "status_detail": status_detail,
+            "remark": remark,
             "delay": delay,
         })
 
