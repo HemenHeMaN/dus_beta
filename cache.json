@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 16:45",
+  "updated_at": "14.10.2026 16:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -124,23 +124,6 @@
     {
       "dt": 1791985500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:38",
-      "flight_no": "X32293",
-      "airline": "Tuifly",
-      "city": "Lanzarote-Arrecife",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791985500.0,
-      "time_scheduled": "15:45",
       "time_estimated": "15:46",
       "flight_no": "VF027",
       "airline": "A Jet",
@@ -154,6 +137,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 1
+    },
+    {
+      "dt": 1791985500.0,
+      "time_scheduled": "15:45",
+      "time_estimated": "15:38",
+      "flight_no": "X32293",
+      "airline": "Tuifly",
+      "city": "Lanzarote-Arrecife",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791985800.0,
@@ -192,7 +192,7 @@
     {
       "dt": 1791986700.0,
       "time_scheduled": "16:05",
-      "time_estimated": "17:11",
+      "time_estimated": "17:06",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -204,24 +204,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 67
-    },
-    {
-      "dt": 1791986700.0,
-      "time_scheduled": "16:05",
-      "time_estimated": "15:56",
-      "flight_no": "EW9727",
-      "airline": "Eurowings",
-      "city": "Graz",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
+      "delay": 62
     },
     {
       "dt": 1791986700.0,
@@ -239,6 +222,23 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 26
+    },
+    {
+      "dt": 1791986700.0,
+      "time_scheduled": "16:05",
+      "time_estimated": "15:56",
+      "flight_no": "EW9727",
+      "airline": "Eurowings",
+      "city": "Graz",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1791986700.0,
@@ -475,7 +475,7 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -685,7 +685,7 @@
     {
       "dt": 1791992700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:53",
+      "time_estimated": "17:47",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -697,7 +697,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1791993000.0,
@@ -1314,7 +1314,7 @@
     {
       "dt": 1791999300.0,
       "time_scheduled": "19:35",
-      "time_estimated": "19:58",
+      "time_estimated": "20:00",
       "flight_no": "X36753",
       "airline": "Tuifly",
       "city": "Sharm El Sheikh",
@@ -1326,7 +1326,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 23
+      "delay": 26
     },
     {
       "dt": 1791999300.0,
@@ -1832,6 +1832,57 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792007400.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "21:50",
+      "flight_no": "EW9835",
+      "airline": "Eurowings",
+      "city": "Bologna",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792007400.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "21:50",
+      "flight_no": "EW9593",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792007400.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "21:50",
+      "flight_no": "AF1106",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
