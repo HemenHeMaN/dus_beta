@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 18:20",
+  "updated_at": "14.10.2026 18:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 22
-    },
-    {
-      "dt": 1791987900.0,
-      "time_scheduled": "16:25",
-      "time_estimated": "16:24",
-      "flight_no": "EW7066",
-      "airline": "Eurowings",
-      "city": "Hamburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791988200.0,
@@ -253,8 +236,8 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
       "delay": 86
     },
     {
@@ -589,9 +572,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -617,7 +600,7 @@
     {
       "dt": 1791994800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:29",
+      "time_estimated": "18:23",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -627,9 +610,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 9
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 3
     },
     {
       "dt": 1791995100.0,
@@ -668,7 +651,7 @@
     {
       "dt": 1791995700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:11",
+      "time_estimated": "19:05",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -680,7 +663,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 36
+      "delay": 31
     },
     {
       "dt": 1791995700.0,
@@ -725,9 +708,9 @@
       "city": "Kopenhagen",
       "country": "Dänemark",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -770,7 +753,7 @@
     {
       "dt": 1791996900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:56",
+      "time_estimated": "18:58",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -782,7 +765,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1791996900.0,
@@ -804,7 +787,7 @@
     {
       "dt": 1791997200.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:56",
+      "time_estimated": "18:57",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -838,7 +821,7 @@
     {
       "dt": 1791997500.0,
       "time_scheduled": "19:05",
-      "time_estimated": "20:18",
+      "time_estimated": "20:19",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -850,7 +833,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 73
+      "delay": 74
     },
     {
       "dt": 1791997500.0,
@@ -940,7 +923,7 @@
     {
       "dt": 1791998400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "18:58",
+      "time_estimated": "18:59",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1036,7 +1019,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1110,19 +1093,19 @@
     {
       "dt": 1791999900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:37",
+      "time_estimated": "20:23",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
       "country": "Schweden",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "delay": 0
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "delay": 38
     },
     {
       "dt": 1791999900.0,
@@ -1178,7 +1161,7 @@
     {
       "dt": 1792000800.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:24",
+      "time_estimated": "20:27",
       "flight_no": "EW9505",
       "airline": "Eurowings",
       "city": "Menorca",
@@ -1189,13 +1172,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 25
+      "status_text": "Vorhafen verlassen",
+      "delay": 28
     },
     {
       "dt": 1792001400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:27",
+      "time_estimated": "20:26",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1206,8 +1189,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 17
+      "status_text": "Vorhafen verlassen",
+      "delay": 16
     },
     {
       "dt": 1792001700.0,
@@ -1263,7 +1246,7 @@
     {
       "dt": 1792002600.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:18",
+      "time_estimated": "21:21",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1275,7 +1258,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 49
+      "delay": 52
     },
     {
       "dt": 1792002900.0,
