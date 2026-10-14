@@ -86,7 +86,6 @@ def in_run_window(now_local):
     start = now_local.replace(hour=WINDOW_START[0], minute=WINDOW_START[1], second=0, microsecond=0)
     end = now_local.replace(hour=WINDOW_END[0], minute=WINDOW_END[1], second=0, microsecond=0)
     
-    # Wenn das End-Fenster vor dem Start liegt, geht es über Mitternacht hinweg
     if end < start:
         if now_local >= start:
             end = end + timedelta(days=1)
@@ -302,6 +301,7 @@ def build_flights(raw, now):
             "gate": exit_text(fl, ftype),
             "status": status,
             "status_text": status_text,
+            "status_detail": status_text,  # Detailtext für Bemerkungen (Annulliert, Folgetag etc.)
             "delay": delay,
         })
 
