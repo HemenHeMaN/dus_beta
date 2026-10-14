@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 21:15",
+  "updated_at": "14.10.2026 21:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,23 +35,6 @@
       "status": "cancelled",
       "status_text": "annulliert",
       "delay": 225
-    },
-    {
-      "dt": 1791993900.0,
-      "time_scheduled": "18:05",
-      "time_estimated": "19:19",
-      "flight_no": "EW9671",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 74
     },
     {
       "dt": 1791997500.0,
@@ -379,7 +362,7 @@
     {
       "dt": 1792002600.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:28",
+      "time_estimated": "21:19",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -389,9 +372,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 59
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 49
     },
     {
       "dt": 1792002900.0,
@@ -543,7 +526,7 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 12
     },
     {
@@ -566,7 +549,7 @@
     {
       "dt": 1792005900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:22",
+      "time_estimated": "21:17",
       "flight_no": "X37102",
       "airline": "Tuifly",
       "city": "Boa Vista (Kapverden)",
@@ -576,8 +559,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -628,7 +611,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -661,8 +644,8 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 8
     },
     {
@@ -678,8 +661,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 1
     },
     {
@@ -719,7 +702,7 @@
     {
       "dt": 1792007400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:03",
+      "time_estimated": "22:04",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -731,7 +714,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 13
+      "delay": 14
     },
     {
       "dt": 1792007400.0,
@@ -787,7 +770,7 @@
     {
       "dt": 1792007700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:50",
+      "time_estimated": "21:51",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -821,7 +804,7 @@
     {
       "dt": 1792008000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:55",
+      "time_estimated": "21:56",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1047,11 +1030,11 @@
       "airline": "KLM",
       "city": "Amsterdam",
       "country": "Niederlande",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "delay": 0
