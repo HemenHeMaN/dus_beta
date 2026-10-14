@@ -1206,7 +1206,7 @@ function renderBoard(flights) {
             <div class="tf-time">${esc(zeit)}</div>
             <div class="tf-exit">${esc(gateText)}<small>Band ${esc(beltText)}</small></div>
             <div class="tf-kind"${isGuess ? ' title="Vorläufig, Art noch nicht sicher"' : ''}>${esc(f.type)}${isGuess ? ' ?' : ''}</div>
-            <div class="tf-status"><span class="tf-dot"></span><span>${st.label}${!isCancelled && f.delay > 0 ? '<span class="tf-delay">+' + esc(f.delay) + ' Min.</span>' : ''}</span></div>
+            <div class="tf-status"><span class="tf-dot"></span><span>${st.label}${!isCancelled && f.delay > 0 ? '<span class="tf-delay">+' + esc(f.delay) + ' Min.</span>' : ''}${isCancelled && f.remark ? '<span class="tf-delay">' + esc(f.remark) + '</span>' : ''}</span></div>
         `;
         body.appendChild(row);
     });
