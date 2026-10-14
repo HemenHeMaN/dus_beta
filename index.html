@@ -605,19 +605,18 @@ const VIEW_KEY = 'dus_active_view';
 const FLAG_KEY = 'dus_flag_mode';
 const FILTER_KEY = 'dus_active_filter';
 const TF_FENSTER = 90;
-const EMPTY_MARK = '------';        // Platzhalter, wenn Ausgang/Band noch nicht festgelegt
-const LANDED_STEPS = [5, 10, 15];   // Reihenfolge beim Tippen im Menü
+const EMPTY_MARK = '------';
+const LANDED_STEPS = [5, 10, 15];
 const LANDED_KEY = 'dus_landed_count';
 const SHOWLANDED_KEY = 'dus_show_landed';
-let showLandedInLists = true;       // Gelandete in Alle/Linie/Charter anzeigen
-let landedCount = 15;               // Anzahl der Flüge im Filter "Gelandet"
+let showLandedInLists = true;
+let landedCount = 15;
 
 let allFlights = [];
 let currentFilter = 'all';
 let currentSearch = '';
 let showFlag = true;
 
-/* ---------- Hilfsfunktion: Land zu ISO-Ländercode für FlagCDN ---------- */
 function getFlagCode(country) {
     if (!country) return 'de';
     const map = {
@@ -663,7 +662,7 @@ function getFlagCode(country) {
         'israel': 'il',
         'jordanien': 'jo', 'jordan': 'jo',
         'ukraine': 'ua',
-        'irak': 'iq', 'iraq': 'iq',
+        'irak': 'iq', 'iraq': 'iraq',
         'libanon': 'lb', 'lebanon': 'lb',
         'moldawien': 'md', 'moldova': 'md',
         'libyen': 'ly', 'libya': 'ly',
@@ -673,10 +672,9 @@ function getFlagCode(country) {
         'estland': 'ee', 'estonia': 'ee',
     };
     const key = country.toLowerCase().trim();
-    return map[key] || 'de'; // Standard-Fallback (Deutschland) falls unbekannt
+    return map[key] || 'de';
 }
 
-/* ---------- Reiter / Design Switch ---------- */
 function switchView(viewId) {
     document.querySelectorAll('.view-section').forEach(el => el.classList.remove('active-view'));
     document.querySelectorAll('.view-btn').forEach(btn => btn.classList.remove('active'));
@@ -699,7 +697,6 @@ function loadSavedView() {
     } catch (e) {}
 }
 
-/* ---------- Theme ---------- */
 const root = document.documentElement;
 const themeCb = document.getElementById('themeSwitch');
 
@@ -731,7 +728,6 @@ themeCb.addEventListener('change', function (e) {
 
 loadTheme();
 
-/* ---------- Menü (3 Striche) ---------- */
 const menuToggle = document.getElementById('menuToggle');
 const menuBox = document.getElementById('menuBox');
 
@@ -748,7 +744,6 @@ document.addEventListener('click', e => {
     setMenu(false);
 });
 
-/* ---------- Schriftgröße ---------- */
 const sizeSlider = document.getElementById('sizeSlider');
 const sizeValue = document.getElementById('sizeValue');
 const sizeReset = document.getElementById('sizeReset');
@@ -781,7 +776,6 @@ sizeReset.addEventListener('click', () => {
 
 loadFontSize();
 
-/* ---------- Flagge / Name (Tafel) ---------- */
 const segFlag = document.getElementById('segFlag');
 const segName = document.getElementById('segName');
 
@@ -795,7 +789,6 @@ function setFlagMode(flag, save) {
 segFlag.addEventListener('click', () => { setFlagMode(true, true); applyFilter(); });
 segName.addEventListener('click', () => { setFlagMode(false, true); applyFilter(); });
 
-/* ---------- Menü: Anzahl im Filter "Gelandet" (5 → 10 → 15 → 5 ...) ---------- */
 const landedBtn = document.getElementById('landedBtn');
 
 function updateLandedBtn() {
@@ -818,7 +811,6 @@ try {
 } catch (e) {}
 updateLandedBtn();
 
-/* ---------- Menü: Gelandete in Alle/Linie/Charter ein-/ausblenden ---------- */
 const segLandedOn = document.getElementById('segLandedOn');
 const segLandedOff = document.getElementById('segLandedOff');
 
@@ -833,10 +825,8 @@ segLandedOn.addEventListener('click', () => { setShowLanded(true, true); applyFi
 segLandedOff.addEventListener('click', () => { setShowLanded(false, true); applyFilter(); });
 
 try { setShowLanded(localStorage.getItem(SHOWLANDED_KEY) !== 'off', false); } catch (e) { setShowLanded(true, false); }
-
 try { setFlagMode(localStorage.getItem(FLAG_KEY) !== 'name', false); } catch (e) { setFlagMode(true, false); }
 
-/* ---------- Such-Event-Listener & Clear Button ---------- */
 const searchInput = document.getElementById('searchInput');
 const searchContainer = document.getElementById('searchContainer');
 const clearSearchBtn = document.getElementById('clearSearchBtn');
@@ -859,7 +849,6 @@ clearSearchBtn.addEventListener('click', () => {
     searchInput.focus();
 });
 
-/* ---------- Nach-oben-Button ---------- */
 const toTop = document.getElementById('toTop');
 
 function updateToTop() {
@@ -872,7 +861,6 @@ toTop.addEventListener('click', () => {
 });
 updateToTop();
 
-/* ---------- Flugdaten Laden & Filtern ---------- */
 function loadData() {
     fetch('cache.json?t=' + Date.now(), { cache: 'no-store' })
         .then(response => response.json())
@@ -913,7 +901,6 @@ function getFilteredList() {
         list = list.filter(f => f.type === currentFilter);
     }
 
-    // Gelandete in Alle / Linie / Charter ausblenden (Menü)
     if (!showLandedInLists && (currentFilter === 'all' || currentFilter === 'Linie' || currentFilter === 'Charter')) {
         list = list.filter(f => String(f.status).toLowerCase() !== 'landed');
     }
@@ -934,7 +921,6 @@ function getFilteredList() {
         });
     }
 
-    // Gelandet: die letzten N Landungen ab jetzt, später gelandete stehen unten
     if (currentFilter === 'landed') {
         const now = berlinMin();
         const ago = f => {
@@ -943,20 +929,16 @@ function getFilteredList() {
             return d;
         };
         return [...list]
-            .sort((a, b) => ago(a) - ago(b))     // jüngste zuerst, um die letzten N zu wählen
+            .sort((a, b) => ago(a) - ago(b))
             .slice(0, landedCount)
-            .sort((a, b) => ago(b) - ago(a));    // Anzeige: ältere oben, später gelandete unten
+            .sort((a, b) => ago(b) - ago(a));
     }
 
-    // Einheitlich für Detail UND Tafel: nach erwarteter Zeit sortiert
     const expected = f => timeToMinutes(f.time_estimated || f.time_scheduled);
 
     return [...list].sort((a, b) => (expected(a) - expected(b)) || ((a.dt || 0) - (b.dt || 0)));
 }
 
-/* ---------- Zähler: Wie viele Flüge landen noch? ---------- */
-// Zählt nur Flüge, die noch landen werden (nicht gelandet, nicht annulliert/umgeleitet/Störung).
-// Ignoriert Suchtext und die Menü-Option "Gelandete ausblenden".
 function isStillLanding(f) {
     const s = String(f.status).toLowerCase();
     return s !== 'landed' && s !== 'cancelled' && s !== 'diverted' && s !== 'incident';
@@ -1048,7 +1030,8 @@ function renderFlights(flights) {
 
         let statusText;
         if (isCancelled) {
-            statusText = statusMap[st] || "Annulliert";
+            // Nutzt den exakten Detailtext von der API (z.B. "annulliert, Folgetag" oder "annulliert, Umleitung nach Köln/Bonn")
+            statusText = f.status_detail ? f.status_detail : (statusMap[st] || "Annulliert");
         } else if (st === 'landed') {
             statusText = 'Gelandet' + (hasEst ? ` ${est} Uhr${diffTxt}` : '');
         } else if (st === 'active' || st === 'en-route') {
@@ -1128,7 +1111,6 @@ function filterFlights(category, event, save = true) {
     applyFilter();
 }
 
-/* ---------- Zeit-Hilfsfunktionen ---------- */
 function timeToMinutes(timeStr) {
     if (!timeStr) return 0;
     const [hours, minutes] = timeStr.split(':').map(Number);
@@ -1145,16 +1127,14 @@ function liveStatus(f) {
     return 'scheduled';
 }
 
-/* ---------- Ausgang bereinigen: "[ Charter ]" / "[ Linie ]" entfernen ---------- */
 function cleanGate(g) {
     let t = String(g == null ? '' : g);
-    t = t.replace(/[\[\(\uFF3B\u3010][^\]\)\uFF3D\u3011]*[\]\)\uFF3D\u3011]/g, ' ');  // alles in Klammern
-    t = t.replace(/\b(charter|linie)\b/gi, ' ');                                          // lose Wörter
-    t = t.replace(/[\[\]\(\)]/g, ' ').replace(/\s+/g, ' ').trim();                        // Reste
+    t = t.replace(/[\[\(\uFF3B\u3010][^\]\)\uFF3D\u3011]*[\]\)\uFF3D\u3011]/g, ' ');
+    t = t.replace(/\b(charter|linie)\b/gi, ' ');
+    t = t.replace(/[\[\(\)]/g, ' ').replace(/\s+/g, ' ').trim();
     return t || EMPTY_MARK;
 }
 
-/* ---------- Rendering Ansicht 3 (Flughafentafel) ---------- */
 function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
@@ -1204,7 +1184,6 @@ function renderBoard(flights) {
         const zeit = f.time_estimated || f.time_scheduled || '';
         const isGuess = f.type_source === 'Airline' || f.type_source === 'Flugtyp';
 
-        // Ausgang ohne "[ Charter ]" / "[ Linie ]"; leer -> ------
         const gateText = cleanGate(f.gate);
         const beltText = String(f.baggage == null ? '' : f.baggage).trim() || EMPTY_MARK;
 
@@ -1241,10 +1220,8 @@ function updateBoardBars() {
     });
 }
 
-// Initialisierung
 loadSavedView();
 
-// Gespeicherten Filter laden oder Standard ('all') nutzen
 try {
     const savedFilter = localStorage.getItem(FILTER_KEY);
     if (savedFilter) {
