@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 15:20",
+  "updated_at": "14.10.2026 15:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -389,8 +389,8 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 46
     },
     {
@@ -753,7 +753,7 @@
     {
       "dt": 1791987000.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:14",
+      "time_estimated": "16:16",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -764,8 +764,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 4
+      "status_text": "Vorhafen verlassen",
+      "delay": 6
     },
     {
       "dt": 1791987600.0,
@@ -787,7 +787,7 @@
     {
       "dt": 1791987600.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:52",
+      "time_estimated": "16:51",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -799,7 +799,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 33
+      "delay": 32
     },
     {
       "dt": 1791987900.0,
@@ -821,7 +821,7 @@
     {
       "dt": 1791988200.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:42",
+      "time_estimated": "16:38",
       "flight_no": "VL2018",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -833,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 9
     },
     {
       "dt": 1791988200.0,
@@ -855,7 +855,7 @@
     {
       "dt": 1791989100.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:56",
+      "time_estimated": "16:51",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -867,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 7
     },
     {
       "dt": 1791989400.0,
@@ -1161,7 +1161,7 @@
     {
       "dt": 1791992700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:46",
+      "time_estimated": "18:00",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1173,7 +1173,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 16
     },
     {
       "dt": 1791993000.0,
@@ -1331,7 +1331,7 @@
     {
       "dt": 1791994200.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:10",
+      "time_estimated": "18:40",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1343,7 +1343,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 30
     },
     {
       "dt": 1791994500.0,
@@ -1365,7 +1365,7 @@
     {
       "dt": 1791994800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:20",
+      "time_estimated": "18:29",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1377,7 +1377,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1791995100.0,
@@ -1875,7 +1875,7 @@
     {
       "dt": 1791999900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:28",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
@@ -1886,7 +1886,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1968,6 +1968,40 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792002300.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "20:25",
+      "flight_no": "EJU3943",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792002300.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "20:25",
+      "flight_no": "EI698",
+      "airline": "Aer Lingus",
+      "city": "Dublin",
+      "country": "Irland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
