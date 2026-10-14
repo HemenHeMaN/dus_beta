@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 22:35",
+  "updated_at": "14.10.2026 22:42",
   "source": "Dus.com",
   "flights": [
     {
@@ -57,24 +57,6 @@
       "delay": 49
     },
     {
-      "dt": 1792002900.0,
-      "time_scheduled": "20:35",
-      "time_estimated": "20:38",
-      "flight_no": "EW9503",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 3
-    },
-    {
       "dt": 1792004400.0,
       "time_scheduled": "21:00",
       "time_estimated": "20:48",
@@ -87,24 +69,6 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1792004400.0,
-      "time_scheduled": "21:00",
-      "time_estimated": "20:41",
-      "flight_no": "EW9765",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -609,9 +573,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "delay": 49
     },
     {
@@ -653,7 +617,7 @@
     {
       "dt": 1792009200.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:44",
+      "time_estimated": "22:36",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -663,10 +627,10 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "delay": 24
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "delay": 16
     },
     {
       "dt": 1792009200.0,
@@ -682,8 +646,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 32
     },
     {
@@ -771,9 +735,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 18
     },
     {
@@ -851,7 +815,7 @@
     {
       "dt": 1792010700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:42",
+      "time_estimated": "22:41",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -861,15 +825,15 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "delay": 0
     },
     {
       "dt": 1792010700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:47",
+      "time_estimated": "22:37",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
@@ -879,10 +843,10 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "delay": 3
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1792010700.0,
