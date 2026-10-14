@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 22:20",
+  "updated_at": "14.10.2026 22:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -19,24 +19,6 @@
       "status_text": "annulliert",
       "status_detail": "annulliert",
       "delay": 146
-    },
-    {
-      "dt": 1791999900.0,
-      "time_scheduled": "19:45",
-      "time_estimated": "20:23",
-      "flight_no": "EW4676",
-      "airline": "Eurowings",
-      "city": "Stockholm-Arlanda",
-      "country": "Schweden",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert",
-      "delay": 38
     },
     {
       "dt": 1792000500.0,
@@ -140,24 +122,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1792003500.0,
-      "time_scheduled": "20:45",
-      "time_estimated": "20:23",
-      "flight_no": "EW9735",
-      "airline": "Eurowings",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -599,7 +563,7 @@
     {
       "dt": 1792008300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:26",
+      "time_estimated": "22:21",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -609,10 +573,10 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "delay": 21
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "delay": 16
     },
     {
       "dt": 1792008600.0,
@@ -725,7 +689,7 @@
     {
       "dt": 1792008900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:29",
+      "time_estimated": "22:24",
       "flight_no": "EW9245",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -735,10 +699,10 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "delay": 15
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "delay": 9
     },
     {
       "dt": 1792009200.0,
@@ -879,9 +843,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "delay": 6
     },
     {
@@ -969,9 +933,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "delay": 3
     },
     {
