@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 15:40",
+  "updated_at": "14.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -18,23 +18,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 56
-    },
-    {
-      "dt": 1791975300.0,
-      "time_scheduled": "12:55",
-      "time_estimated": "13:42",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 47
     },
     {
       "dt": 1791977100.0,
@@ -509,7 +492,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 43
     },
     {
@@ -576,14 +559,14 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 12
     },
     {
       "dt": 1791986400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:11",
+      "time_estimated": "16:16",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -595,7 +578,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 11
+      "delay": 16
     },
     {
       "dt": 1791986700.0,
@@ -627,8 +610,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -753,7 +736,7 @@
     {
       "dt": 1791988200.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:42",
+      "time_estimated": "16:43",
       "flight_no": "VL2018",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -764,8 +747,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 13
+      "status_text": "Vorhafen verlassen",
+      "delay": 14
     },
     {
       "dt": 1791988200.0,
@@ -821,7 +804,7 @@
     {
       "dt": 1791989700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "16:54",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -832,7 +815,7 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1110,7 +1093,7 @@
     {
       "dt": 1791993000.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:15",
+      "time_estimated": "18:25",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1122,7 +1105,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 25
+      "delay": 35
     },
     {
       "dt": 1791993000.0,
@@ -1195,7 +1178,7 @@
     {
       "dt": 1791993600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:40",
+      "time_estimated": "17:43",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1206,7 +1189,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1671,7 +1654,7 @@
     {
       "dt": 1791999000.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:30",
+      "time_estimated": "19:10",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1682,7 +1665,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1999,6 +1982,23 @@
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792003500.0,
+      "time_scheduled": "20:45",
+      "time_estimated": "20:45",
+      "flight_no": "EW9735",
+      "airline": "Eurowings",
+      "city": "Warschau",
+      "country": "Polen",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
