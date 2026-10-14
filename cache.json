@@ -1,11 +1,11 @@
 {
-  "updated_at": "14.10.2026 20:55",
+  "updated_at": "14.10.2026 21:00",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1791991200.0,
       "time_scheduled": "17:20",
-      "time_estimated": "23:46",
+      "time_estimated": "23:36",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -16,8 +16,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 387
+      "status_text": "Vorhafen verlassen",
+      "delay": 377
     },
     {
       "dt": 1791993600.0,
@@ -88,23 +88,6 @@
       "delay": 16
     },
     {
-      "dt": 1791996900.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:55",
-      "flight_no": "XQ794",
-      "airline": "Sun Express",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
-    },
-    {
       "dt": 1791997500.0,
       "time_scheduled": "19:05",
       "time_estimated": "20:06",
@@ -120,23 +103,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 62
-    },
-    {
-      "dt": 1791997500.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "18:59",
-      "flight_no": "EW8046",
-      "airline": "Eurowings",
-      "city": "Berlin-Brandenburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791997800.0,
@@ -202,23 +168,6 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1791998400.0,
-      "time_scheduled": "19:20",
-      "time_estimated": "18:57",
-      "flight_no": "BT233",
-      "airline": "Air Baltic",
-      "city": "Riga",
-      "country": "Lettland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "delay": 0
@@ -481,7 +430,7 @@
     {
       "dt": 1792001700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:58",
+      "time_estimated": "20:55",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -491,9 +440,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 44
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 41
     },
     {
       "dt": 1792002300.0,
@@ -685,7 +634,7 @@
     {
       "dt": 1792005600.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:30",
+      "time_estimated": "21:32",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -697,12 +646,12 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 10
+      "delay": 12
     },
     {
       "dt": 1792005600.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:12",
+      "time_estimated": "21:13",
       "flight_no": "EW9023",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -713,7 +662,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -729,14 +678,14 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 1
     },
     {
       "dt": 1792005900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:35",
+      "time_estimated": "21:36",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -748,7 +697,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792005900.0,
@@ -804,7 +753,7 @@
     {
       "dt": 1792006500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:40",
+      "time_estimated": "21:42",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -816,7 +765,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1792007100.0,
@@ -951,7 +900,7 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1104,7 +1053,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1382,7 +1331,7 @@
     {
       "dt": 1792010700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:11",
+      "time_estimated": "23:05",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -1394,7 +1343,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 27
+      "delay": 21
     }
   ]
 }
