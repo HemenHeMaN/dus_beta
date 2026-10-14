@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 22:25",
+  "updated_at": "14.10.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,42 +91,6 @@
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "delay": 3
-    },
-    {
-      "dt": 1792002900.0,
-      "time_scheduled": "20:35",
-      "time_estimated": "20:26",
-      "flight_no": "EW9755",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 0
-    },
-    {
-      "dt": 1792003200.0,
-      "time_scheduled": "20:40",
-      "time_estimated": "20:28",
-      "flight_no": "LH2030",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1792004400.0,
@@ -718,8 +682,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 24
     },
     {
@@ -779,7 +743,7 @@
     {
       "dt": 1792009800.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:38",
+      "time_estimated": "22:30",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -789,10 +753,10 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "delay": 9
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1792010100.0,
@@ -844,8 +808,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 6
     },
     {
@@ -887,7 +851,7 @@
     {
       "dt": 1792010400.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:25",
+      "time_estimated": "22:27",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -897,9 +861,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "delay": 0
     },
     {
@@ -915,9 +879,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "delay": 0
     },
     {
@@ -929,13 +893,13 @@
       "city": "Gran Canaria",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 3
     },
     {
