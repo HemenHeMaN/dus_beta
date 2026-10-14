@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 17:10",
+  "updated_at": "14.10.2026 17:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -458,7 +458,7 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 23
     },
     {
@@ -515,7 +515,7 @@
     {
       "dt": 1791992400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:42",
+      "time_estimated": "17:43",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -526,8 +526,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 2
+      "status_text": "Vorhafen verlassen",
+      "delay": 4
     },
     {
       "dt": 1791992400.0,
@@ -583,7 +583,7 @@
     {
       "dt": 1791992700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:56",
+      "time_estimated": "17:52",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -595,7 +595,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 11
+      "delay": 8
     },
     {
       "dt": 1791992700.0,
@@ -628,7 +628,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 20
     },
     {
@@ -855,7 +855,7 @@
     {
       "dt": 1791994800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:25",
+      "time_estimated": "18:27",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -867,7 +867,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 5
+      "delay": 7
     },
     {
       "dt": 1791995100.0,
@@ -2048,6 +2048,40 @@
       "time_estimated": "22:10",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792008900.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:15",
+      "flight_no": "EW9335",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792008900.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:15",
+      "flight_no": "EW9245",
+      "airline": "Eurowings",
       "city": "Kopenhagen",
       "country": "Dänemark",
       "type": "Linie",
