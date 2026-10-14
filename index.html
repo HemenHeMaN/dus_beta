@@ -163,15 +163,44 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
 }
 .menu-box.active { display: flex; }
 .menu-label { display: block; font-size: 0.8rem; font-weight: bold; color: var(--update-color); margin-bottom: 6px; text-transform: uppercase; letter-spacing: .04em; }
-.size-row { display: flex; align-items: center; gap: 10px; }
+.size-row { display: flex; align-items: flex-start; gap: 10px; }
+.size-row .small-a, .size-row .big-a, .size-row .size-value { line-height: 34px; }
 .size-row .small-a { font-size: 0.8rem; font-weight: bold; }
 .size-row .big-a { font-size: 1.3rem; font-weight: bold; }
-.size-row input[type="range"] { flex: 1; min-width: 0; height: 28px; cursor: pointer; }
 .size-row .size-value { min-width: 3.2em; text-align: right; font-weight: bold; color: var(--heading-color); }
-.reset-btn {
-    background: var(--reset-btn-bg); color: var(--text-color); border: none; border-radius: 6px;
-    padding: 6px 10px; font-size: 0.8rem; font-weight: bold; cursor: pointer;
+
+/* Stufen-Schieberegler (S / M / L / XL / XXL) */
+.size-ctl { flex: 1; min-width: 0; padding: 0 14px; }
+.step-slider {
+    position: relative; height: 34px; cursor: pointer; touch-action: none;
+    -webkit-tap-highlight-color: transparent; outline: none; user-select: none;
 }
+.step-track {
+    position: absolute; left: 0; right: 0; top: 50%; height: 8px; transform: translateY(-50%);
+    border-radius: 999px; background: var(--filter-bg);
+}
+.step-fill {
+    position: absolute; left: 0; top: 0; bottom: 0; width: 25%;
+    border-radius: 999px; background: var(--size-btn-bg);
+}
+.step-dot {
+    position: absolute; top: 50%; width: 6px; height: 6px; margin: -3px 0 0 -3px;
+    border-radius: 50%; background: var(--card-bg); opacity: .8; pointer-events: none;
+}
+.step-thumb {
+    position: absolute; top: 50%; left: 25%; width: 26px; height: 26px; margin: -13px 0 0 -13px;
+    border-radius: 50%; background: #fff; border: 3px solid var(--size-btn-bg);
+    box-shadow: 0 2px 6px rgba(0,0,0,.3); pointer-events: none;
+    transition: left .15s ease;
+}
+.step-slider:focus-visible .step-thumb { box-shadow: 0 0 0 4px rgba(21,101,192,.35); }
+.step-labels { position: relative; height: 1.7rem; }
+.step-label {
+    position: absolute; top: 0; transform: translateX(-50%); min-width: 2em; padding: 4px 2px;
+    border: none; background: transparent; cursor: pointer; font-family: var(--font);
+    font-size: .8rem; font-weight: 700; color: var(--update-color); text-align: center;
+}
+.step-label.active { color: var(--heading-color); font-size: .95rem; }
 .seg { display: flex; gap: 6px; }
 .seg-btn {
     flex: 1; padding: 9px 6px; border: none; border-radius: 8px; cursor: pointer;
@@ -527,10 +556,24 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
         <span class="menu-label">Schriftgröße</span>
         <div class="size-row">
             <span class="small-a">A</span>
-            <input type="range" id="sizeSlider" min="14" max="32" step="1" value="18" aria-label="Schriftgröße">
+            <div class="size-ctl">
+                <div class="step-slider" id="stepSlider" role="slider" tabindex="0" aria-label="Schriftgröße" aria-valuemin="0" aria-valuemax="4" aria-valuenow="1">
+                    <div class="step-track">
+                        <div class="step-fill" id="stepFill"></div>
+                        <i class="step-dot" style="left:0%"></i><i class="step-dot" style="left:25%"></i><i class="step-dot" style="left:50%"></i><i class="step-dot" style="left:75%"></i><i class="step-dot" style="left:100%"></i>
+                    </div>
+                    <div class="step-thumb" id="stepThumb"></div>
+                </div>
+                <div class="step-labels">
+                    <button type="button" class="step-label" style="left:0%">S</button>
+                    <button type="button" class="step-label" style="left:25%">M</button>
+                    <button type="button" class="step-label" style="left:50%">L</button>
+                    <button type="button" class="step-label" style="left:75%">XL</button>
+                    <button type="button" class="step-label" style="left:100%">XXL</button>
+                </div>
+            </div>
             <span class="big-a">A</span>
-            <span class="size-value" id="sizeValue">18px</span>
-            <button class="reset-btn" id="sizeReset" type="button">Reset</button>
+            <span class="size-value" id="sizeValue">17px</span>
         </div>
     </div>
     <div>
@@ -612,7 +655,11 @@ h1 { color: var(--heading-color); font-size: 1.4rem; margin: 0; }
 
 <script>
 const REFRESH_MINUTES = 5;
-const DEFAULT_SIZE = 18;
+const FONT_STEPS = [
+    { label: 'S', px: 14 }, { label: 'M', px: 17 }, { label: 'L', px: 20 },
+    { label: 'XL', px: 23 }, { label: 'XXL', px: 26 }
+];
+const DEFAULT_STEP = 1;   // M (17px)
 const STORAGE_KEY = 'dus_font_size';
 const THEME_KEY = 'dus_theme';
 const VIEW_KEY = 'dus_active_view';
@@ -758,35 +805,77 @@ document.addEventListener('click', e => {
     setMenu(false);
 });
 
-const sizeSlider = document.getElementById('sizeSlider');
+const stepSlider = document.getElementById('stepSlider');
+const stepThumb = document.getElementById('stepThumb');
+const stepFill = document.getElementById('stepFill');
 const sizeValue = document.getElementById('sizeValue');
-const sizeReset = document.getElementById('sizeReset');
+const stepBtns = document.querySelectorAll('.step-label');
+let currentStep = DEFAULT_STEP;
 
-function applyFontSize(px) {
-    document.documentElement.style.setProperty('--base-font-size', px + 'px');
-    sizeSlider.value = px;
-    sizeValue.textContent = px + 'px';
+function applyStep(i, save) {
+    currentStep = Math.max(0, Math.min(FONT_STEPS.length - 1, i));
+    const s = FONT_STEPS[currentStep];
+    const pct = (currentStep / (FONT_STEPS.length - 1)) * 100;
+    document.documentElement.style.setProperty('--base-font-size', s.px + 'px');
+    stepThumb.style.left = pct + '%';
+    stepFill.style.width = pct + '%';
+    sizeValue.textContent = s.px + 'px';
+    stepSlider.setAttribute('aria-valuenow', currentStep);
+    stepSlider.setAttribute('aria-valuetext', s.label + ' (' + s.px + 'px)');
+    stepBtns.forEach((b, idx) => b.classList.toggle('active', idx === currentStep));
+    if (save) { try { localStorage.setItem(STORAGE_KEY, s.px); } catch (err) {} }
 }
 
 function loadFontSize() {
-    let saved = DEFAULT_SIZE;
+    let idx = DEFAULT_STEP;
     try {
         const v = parseInt(localStorage.getItem(STORAGE_KEY), 10);
-        if (v >= 14 && v <= 32) saved = v;
+        if (v >= 10 && v <= 40) {
+            // Gespeicherten Pixelwert der nächstliegenden Stufe zuordnen
+            let best = Infinity;
+            FONT_STEPS.forEach((s, i) => {
+                const d = Math.abs(s.px - v);
+                if (d < best) { best = d; idx = i; }
+            });
+        }
     } catch (e) {}
-    applyFontSize(saved);
+    applyStep(idx, false);
 }
 
-sizeSlider.addEventListener('input', e => {
-    const px = parseInt(e.target.value, 10);
-    applyFontSize(px);
-    try { localStorage.setItem(STORAGE_KEY, px); } catch (err) {}
+// Zieh-Logik: Geometrie beim Start einfrieren, damit die Skalierung der Schrift
+// den Regler während des Ziehens nicht verschiebt.
+let dragBox = null;
+
+function stepFromX(clientX) {
+    const w = dragBox.width || 1;
+    const p = Math.max(0, Math.min(1, (clientX - dragBox.left) / w));
+    return Math.round(p * (FONT_STEPS.length - 1));
+}
+
+stepSlider.addEventListener('pointerdown', e => {
+    e.preventDefault();
+    const r = stepSlider.getBoundingClientRect();
+    dragBox = { left: r.left, width: r.width };
+    try { stepSlider.setPointerCapture(e.pointerId); } catch (err) {}
+    applyStep(stepFromX(e.clientX), true);
 });
 
-sizeReset.addEventListener('click', () => {
-    applyFontSize(DEFAULT_SIZE);
-    try { localStorage.removeItem(STORAGE_KEY); } catch (err) {}
+stepSlider.addEventListener('pointermove', e => {
+    if (!dragBox) return;
+    const i = stepFromX(e.clientX);
+    if (i !== currentStep) applyStep(i, true);
 });
+
+function endDrag() { dragBox = null; }
+stepSlider.addEventListener('pointerup', endDrag);
+stepSlider.addEventListener('pointercancel', endDrag);
+
+stepSlider.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === 'ArrowUp') { e.preventDefault(); applyStep(currentStep + 1, true); }
+    else if (e.key === 'ArrowLeft' || e.key === 'ArrowDown') { e.preventDefault(); applyStep(currentStep - 1, true); }
+});
+
+stepBtns.forEach((b, idx) => b.addEventListener('click', () => applyStep(idx, true)));
 
 loadFontSize();
 
