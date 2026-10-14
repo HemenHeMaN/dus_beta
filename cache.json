@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 17:45",
+  "updated_at": "14.10.2026 17:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,23 +52,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 37
-    },
-    {
-      "dt": 1791985500.0,
-      "time_scheduled": "15:45",
-      "time_estimated": "15:46",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 1
     },
     {
       "dt": 1791985800.0,
@@ -154,23 +137,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 26
-    },
-    {
-      "dt": 1791986700.0,
-      "time_scheduled": "16:05",
-      "time_estimated": "15:49",
-      "flight_no": "EW9767",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791987000.0,
@@ -532,7 +498,7 @@
     {
       "dt": 1791992700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:52",
+      "time_estimated": "17:45",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -542,9 +508,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 8
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 1
     },
     {
       "dt": 1791992700.0,
@@ -576,8 +542,8 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 21
     },
     {
@@ -617,19 +583,19 @@
     {
       "dt": 1791993000.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:11",
+      "time_estimated": "18:02",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "delay": 21
+      "status_text": "im Anflug",
+      "delay": 13
     },
     {
       "dt": 1791993000.0,
@@ -645,7 +611,7 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 12
     },
     {
@@ -695,8 +661,8 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 8
     },
     {
@@ -719,7 +685,7 @@
     {
       "dt": 1791993600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:54",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -731,7 +697,7 @@
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1791993900.0,
@@ -763,8 +729,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 13
     },
     {
@@ -793,9 +759,9 @@
       "city": "Gran Canaria",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "4",
+      "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "Im Anflug",
@@ -804,7 +770,7 @@
     {
       "dt": 1791994800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:27",
+      "time_estimated": "18:28",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -816,7 +782,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1791995100.0,
@@ -855,7 +821,7 @@
     {
       "dt": 1791995700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:18",
+      "time_estimated": "19:11",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -867,7 +833,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 43
+      "delay": 36
     },
     {
       "dt": 1791995700.0,
@@ -906,7 +872,7 @@
     {
       "dt": 1791996000.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:47",
+      "time_estimated": "18:49",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -917,13 +883,13 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 8
+      "status_text": "Vorhafen verlassen",
+      "delay": 9
     },
     {
       "dt": 1791996000.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:49",
+      "time_estimated": "18:50",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1076,7 +1042,7 @@
     {
       "dt": 1791997800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:19",
+      "time_estimated": "19:24",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1088,7 +1054,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 10
+      "delay": 15
     },
     {
       "dt": 1791998100.0,
@@ -2172,23 +2138,6 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792010100.0,
-      "time_scheduled": "22:35",
-      "time_estimated": "22:35",
-      "flight_no": "DE069",
-      "airline": "Condor",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
