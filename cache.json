@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 22:15",
+  "updated_at": "14.10.2026 22:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -55,42 +55,6 @@
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "delay": 36
-    },
-    {
-      "dt": 1792000800.0,
-      "time_scheduled": "20:00",
-      "time_estimated": "20:19",
-      "flight_no": "EW9505",
-      "airline": "Eurowings",
-      "city": "Menorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 19
-    },
-    {
-      "dt": 1792001400.0,
-      "time_scheduled": "20:10",
-      "time_estimated": "20:16",
-      "flight_no": "VY1898",
-      "airline": "Vueling",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "delay": 6
     },
     {
       "dt": 1792001700.0,
@@ -789,9 +753,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "delay": 24
     },
     {
@@ -815,7 +779,7 @@
     {
       "dt": 1792009500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:37",
+      "time_estimated": "22:19",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -825,10 +789,10 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "delay": 13
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "delay": 0
     },
     {
       "dt": 1792009500.0,
@@ -862,8 +826,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 9
     },
     {
@@ -970,8 +934,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "delay": 0
     },
     {
