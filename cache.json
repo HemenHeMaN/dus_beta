@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 19:25",
+  "updated_at": "14.10.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -831,8 +831,8 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
@@ -865,8 +865,8 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 16
     },
     {
@@ -883,7 +883,7 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 7
     },
     {
@@ -923,7 +923,7 @@
     {
       "dt": 1791999900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:30",
+      "time_estimated": "19:28",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
@@ -933,14 +933,14 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
       "delay": 0
     },
     {
       "dt": 1792000500.0,
       "time_scheduled": "19:55",
-      "time_estimated": "20:50",
+      "time_estimated": "20:48",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -952,7 +952,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 55
+      "delay": 53
     },
     {
       "dt": 1792000800.0,
@@ -967,8 +967,8 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 0
     },
     {
@@ -1110,7 +1110,7 @@
     {
       "dt": 1792003200.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:36",
+      "time_estimated": "20:34",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -1144,7 +1144,7 @@
     {
       "dt": 1792004400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:02",
+      "time_estimated": "21:03",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1156,7 +1156,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792004400.0,
@@ -1274,7 +1274,7 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 10
     },
     {
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792006200.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:28",
+      "time_estimated": "21:30",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1518,7 +1518,7 @@
     {
       "dt": 1792008000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:11",
+      "time_estimated": "22:18",
       "flight_no": "EW9417",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -1530,7 +1530,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 12
+      "delay": 19
     },
     {
       "dt": 1792008000.0,
@@ -1603,7 +1603,7 @@
     {
       "dt": 1792008600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:29",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1615,7 +1615,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1792008600.0,
@@ -1654,7 +1654,7 @@
     {
       "dt": 1792008900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:29",
       "flight_no": "EW9335",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -1666,7 +1666,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1792008900.0,
@@ -1705,7 +1705,7 @@
     {
       "dt": 1792009200.0,
       "time_scheduled": "22:20",
-      "time_estimated": "23:00",
+      "time_estimated": "22:54",
       "flight_no": "X34573",
       "airline": "Tuifly",
       "city": "Kos",
@@ -1717,7 +1717,7 @@
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 40
+      "delay": 35
     },
     {
       "dt": 1792009500.0,
