@@ -1,5 +1,5 @@
 {
-  "updated_at": "14.10.2026 20:35",
+  "updated_at": "14.10.2026 20:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -103,23 +103,6 @@
       "status": "landed",
       "status_text": "gelandet",
       "delay": 29
-    },
-    {
-      "dt": 1791996000.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:38",
-      "flight_no": "SK627",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "delay": 0
     },
     {
       "dt": 1791996000.0,
@@ -610,8 +593,8 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
       "delay": 56
     },
     {
@@ -668,7 +651,7 @@
     {
       "dt": 1792002900.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:47",
+      "time_estimated": "20:38",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -678,9 +661,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "delay": 13
+      "status": "landed",
+      "status_text": "gelandet",
+      "delay": 3
     },
     {
       "dt": 1792002900.0,
@@ -747,7 +730,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
+      "status_text": "im Anflug",
       "delay": 0
     },
     {
@@ -923,7 +906,7 @@
     {
       "dt": 1792006500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:38",
+      "time_estimated": "21:40",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -935,7 +918,7 @@
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
-      "delay": 4
+      "delay": 6
     },
     {
       "dt": 1792007100.0,
@@ -1076,7 +1059,7 @@
     {
       "dt": 1792008000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:42",
+      "time_estimated": "21:39",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1087,7 +1070,7 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
+      "status_text": "Vorhafen verlassen",
       "delay": 0
     },
     {
@@ -1144,7 +1127,7 @@
     {
       "dt": 1792008300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:29",
+      "time_estimated": "22:26",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1155,8 +1138,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "delay": 24
+      "status_text": "Vorhafen verlassen",
+      "delay": 21
     },
     {
       "dt": 1792008600.0,
@@ -1467,7 +1450,7 @@
     {
       "dt": 1792010700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:36",
+      "time_estimated": "22:42",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
