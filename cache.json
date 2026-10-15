@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 15:40",
+  "updated_at": "15.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,44 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 25
-    },
-    {
-      "dt": 1792064400.0,
-      "time_scheduled": "13:40",
-      "time_estimated": "13:43",
-      "flight_no": "KK227",
-      "airline": "LEAV Aviation",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
-      "dt": 1792065000.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:40",
-      "flight_no": "X34589",
-      "airline": "Tuifly",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792065000.0,
@@ -157,25 +119,6 @@
     {
       "dt": 1792065900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:23",
-      "flight_no": "DE1849",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 18
-    },
-    {
-      "dt": 1792065900.0,
-      "time_scheduled": "14:05",
       "time_estimated": "14:08",
       "flight_no": "LX1018",
       "airline": "Swiss",
@@ -210,6 +153,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 27
+    },
+    {
+      "dt": 1792065900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:23",
+      "flight_no": "DE1849",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 18
     },
     {
       "dt": 1792066200.0,
@@ -699,9 +661,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -719,8 +681,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +718,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -784,7 +746,7 @@
     {
       "dt": 1792074300.0,
       "time_scheduled": "16:25",
-      "time_estimated": "16:23",
+      "time_estimated": "16:24",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -822,7 +784,7 @@
     {
       "dt": 1792074600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:41",
+      "time_estimated": "16:43",
       "flight_no": "LH2018",
       "airline": "Lufthansa",
       "city": "München",
@@ -833,10 +795,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 13
     },
     {
       "dt": 1792074600.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1792076100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:56",
+      "time_estimated": "16:59",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -931,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 5
     },
     {
       "dt": 1792076100.0,
@@ -974,7 +936,7 @@
     {
       "dt": 1792077000.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:13",
+      "time_estimated": "17:08",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792077000.0,
@@ -1126,7 +1088,7 @@
     {
       "dt": 1792078500.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:39",
+      "time_estimated": "17:28",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1140,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792078800.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792078800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:58",
+      "time_estimated": "17:54",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1194,10 +1156,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 14
     },
     {
       "dt": 1792078800.0,
@@ -1354,7 +1316,7 @@
     {
       "dt": 1792081200.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:43",
+      "time_estimated": "18:47",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1368,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 27
     },
     {
       "dt": 1792081200.0,
