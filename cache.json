@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 16:20",
+  "updated_at": "15.10.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 94
     },
     {
-      "dt": 1792065000.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "14:25",
-      "flight_no": "AF1506",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 35
-    },
-    {
       "dt": 1792065900.0,
       "time_scheduled": "14:05",
       "time_estimated": "14:31",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 27
-    },
-    {
-      "dt": 1792065900.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:23",
-      "flight_no": "DE1849",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 18
     },
     {
       "dt": 1792066200.0,
@@ -567,8 +529,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -662,15 +624,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
     {
       "dt": 1792074600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:30",
+      "time_estimated": "16:21",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
@@ -680,9 +642,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +708,7 @@
     {
       "dt": 1792076100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:01",
+      "time_estimated": "16:56",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -760,12 +722,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1792076100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:59",
+      "time_estimated": "17:00",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -779,7 +741,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792076400.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1792077000.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:06",
+      "time_estimated": "17:07",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -993,7 +955,7 @@
     {
       "dt": 1792078800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:41",
+      "time_estimated": "17:48",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -1004,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 9
     },
     {
       "dt": 1792078800.0,
@@ -1498,8 +1460,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1639,7 +1601,7 @@
     {
       "dt": 1792085400.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:31",
+      "time_estimated": "19:29",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1653,7 +1615,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792086000.0,
@@ -1867,7 +1829,7 @@
     {
       "dt": 1792089000.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:19",
+      "time_estimated": "20:18",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -1920,6 +1882,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792089600.0,
+      "time_scheduled": "20:40",
+      "time_estimated": "21:21",
+      "flight_no": "EW9603",
+      "airline": "Eurowings",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 41
     },
     {
       "dt": 1792089600.0,
@@ -2084,6 +2065,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792092300.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
