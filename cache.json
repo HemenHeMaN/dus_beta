@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 11:50",
+  "updated_at": "15.10.2026 11:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,25 +195,6 @@
     {
       "dt": 1792053000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "11:57",
-      "flight_no": "4M411",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1/-/2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "remark": "",
-      "delay": 87
-    },
-    {
-      "dt": 1792053000.0,
-      "time_scheduled": "10:30",
       "time_estimated": "10:22",
       "flight_no": "EW9463",
       "airline": "Eurowings",
@@ -248,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792053000.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "11:53",
+      "flight_no": "4M411",
+      "airline": "Mavi Gök Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1/-/2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 84
     },
     {
       "dt": 1792053300.0,
@@ -529,8 +529,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1792057800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:56",
+      "time_estimated": "11:51",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -661,11 +661,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1792058100.0,
@@ -681,15 +681,15 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
     {
       "dt": 1792058100.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:54",
+      "time_estimated": "12:00",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -703,7 +703,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792058700.0,
@@ -719,8 +719,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792063800.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:36",
+      "time_estimated": "13:26",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1216,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792063800.0,
@@ -1620,7 +1620,7 @@
     {
       "dt": 1792068600.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:58",
+      "time_estimated": "14:56",
       "flight_no": "SM2982",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1634,7 +1634,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 7
     },
     {
       "dt": 1792068900.0,
@@ -2103,6 +2103,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792076100.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "EW9763",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792076100.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "TP542",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
