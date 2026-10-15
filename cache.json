@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 17:10",
+  "updated_at": "15.10.2026 17:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 36
-    },
-    {
-      "dt": 1792070100.0,
-      "time_scheduled": "15:15",
-      "time_estimated": "15:12",
-      "flight_no": "EW9601",
-      "airline": "Eurowings",
-      "city": "Funchal (Madeira)",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792070400.0,
@@ -233,25 +214,6 @@
     {
       "dt": 1792073100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:32",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 28
-    },
-    {
-      "dt": 1792073100.0,
-      "time_scheduled": "16:05",
       "time_estimated": "15:55",
       "flight_no": "EW9443",
       "airline": "Eurowings",
@@ -267,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792073100.0,
+      "time_scheduled": "16:05",
+      "time_estimated": "16:32",
+      "flight_no": "EW9501",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 28
     },
     {
       "dt": 1792073700.0,
@@ -442,25 +423,6 @@
     {
       "dt": 1792076100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
-      "flight_no": "TP542",
-      "airline": "TAP Portugal",
-      "city": "Lissabon",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
-      "dt": 1792076100.0,
-      "time_scheduled": "16:55",
       "time_estimated": "16:45",
       "flight_no": "EW9763",
       "airline": "Eurowings",
@@ -476,6 +438,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792076100.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "TP542",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 1
     },
     {
       "dt": 1792076400.0,
@@ -547,9 +528,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +575,7 @@
     {
       "dt": 1792077600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:13",
+      "time_estimated": "17:12",
       "flight_no": "XQ3180",
       "airline": "Sun Express",
       "city": "Bodrum-Milas",
@@ -604,9 +585,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -632,7 +613,7 @@
     {
       "dt": 1792078200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:36",
+      "time_estimated": "17:40",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -643,10 +624,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 10
     },
     {
       "dt": 1792078500.0,
@@ -662,8 +643,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -680,9 +661,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792078800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:55",
+      "time_estimated": "17:56",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -722,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 16
     },
     {
       "dt": 1792078800.0,
@@ -737,16 +718,16 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792078800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:51",
+      "time_estimated": "17:52",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -760,7 +741,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1792079100.0,
@@ -898,7 +879,7 @@
     {
       "dt": 1792081200.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:19",
+      "time_estimated": "18:20",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -912,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792081800.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792084200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:19",
+      "time_estimated": "19:22",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1159,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 13
     },
     {
       "dt": 1792084200.0,
@@ -1289,8 +1270,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792087200.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:52",
+      "time_estimated": "19:46",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -2214,6 +2195,44 @@
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
       "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792095300.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:15",
+      "flight_no": "EW9335",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792095300.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:15",
+      "flight_no": "EW9785",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
