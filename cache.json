@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 14:40",
+  "updated_at": "15.10.2026 14:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -529,8 +529,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 42
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1792068000.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:47",
+      "time_estimated": "14:41",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -680,11 +680,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 1
     },
     {
       "dt": 1792068600.0,
@@ -700,8 +700,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -776,8 +776,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1792070100.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:22",
+      "time_estimated": "15:23",
       "flight_no": "EW9601",
       "airline": "Eurowings",
       "city": "Funchal (Madeira)",
@@ -817,12 +817,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792070400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:22",
+      "time_estimated": "15:23",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -836,12 +836,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792070400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:19",
+      "time_estimated": "15:20",
       "flight_no": "BT933",
       "airline": "Air Baltic",
       "city": "Vilnius",
@@ -879,7 +879,7 @@
     {
       "dt": 1792071600.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:43",
+      "time_estimated": "15:40",
       "flight_no": "LH2008",
       "airline": "Lufthansa",
       "city": "München",
@@ -890,10 +890,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1792071600.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792074600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:30",
+      "time_estimated": "16:40",
       "flight_no": "LH2018",
       "airline": "Lufthansa",
       "city": "München",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792074600.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792074900.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:35",
+      "time_estimated": "16:42",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792075500.0,
@@ -1468,7 +1468,7 @@
     {
       "dt": 1792078800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:46",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1482,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792078800.0,
@@ -1627,7 +1627,7 @@
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -2162,6 +2162,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792086300.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "EW4676",
+      "airline": "Eurowings",
+      "city": "Stockholm-Arlanda",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
