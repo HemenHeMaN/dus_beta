@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 13:00",
+  "updated_at": "15.10.2026 13:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -115,25 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
-    },
-    {
-      "dt": 1792055700.0,
-      "time_scheduled": "11:15",
-      "time_estimated": "11:02",
-      "flight_no": "X32405",
-      "airline": "Tuifly",
-      "city": "Menorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792056000.0,
@@ -594,7 +575,7 @@
     {
       "dt": 1792060800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "15:41",
+      "time_estimated": "15:29",
       "flight_no": "XR440",
       "airline": "Corendon Airlines Europe",
       "city": "Korfu",
@@ -605,10 +586,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 182
+      "delay": 170
     },
     {
       "dt": 1792061100.0,
@@ -624,8 +605,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 32
     },
@@ -737,9 +718,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -898,7 +879,7 @@
     {
       "dt": 1792063800.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:10",
+      "time_estimated": "14:05",
       "flight_no": "EW9527",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -912,7 +893,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 41
+      "delay": 35
     },
     {
       "dt": 1792064100.0,
@@ -1126,7 +1107,7 @@
     {
       "dt": 1792066500.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:11",
+      "time_estimated": "15:14",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -1140,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 60
     },
     {
       "dt": 1792066500.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1792072800.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "16:06",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1577,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792072800.0,
@@ -1601,7 +1582,7 @@
     {
       "dt": 1792073100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:10",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1615,12 +1596,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792073100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:15",
+      "time_estimated": "16:13",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1634,7 +1615,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1792073700.0,
@@ -1905,7 +1886,7 @@
     {
       "dt": 1792077300.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:23",
       "flight_no": "EW9559",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -1916,10 +1897,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792077300.0,
@@ -2195,6 +2176,44 @@
       "airline": "Finnair",
       "city": "Helsinki",
       "country": "Finnland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792080300.0,
+      "time_scheduled": "18:05",
+      "time_estimated": "18:05",
+      "flight_no": "EW9333",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792080300.0,
+      "time_scheduled": "18:05",
+      "time_estimated": "18:05",
+      "flight_no": "EW9823",
+      "airline": "Eurowings",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
