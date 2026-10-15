@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 20:30",
+  "updated_at": "15.10.2026 20:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,6 +81,25 @@
     {
       "dt": 1792083300.0,
       "time_scheduled": "18:55",
+      "time_estimated": "19:24",
+      "flight_no": "XQ794",
+      "airline": "Sun Express",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 30
+    },
+    {
+      "dt": 1792083300.0,
+      "time_scheduled": "18:55",
       "time_estimated": "19:14",
       "flight_no": "EW8046",
       "airline": "Eurowings",
@@ -115,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1792083300.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "19:24",
-      "flight_no": "XQ794",
-      "airline": "Sun Express",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 30
     },
     {
       "dt": 1792083600.0,
@@ -423,25 +423,6 @@
     {
       "dt": 1792086000.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:34",
-      "flight_no": "LH2026",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792086000.0,
-      "time_scheduled": "19:40",
       "time_estimated": "20:59",
       "flight_no": "DE1613",
       "airline": "Condor",
@@ -457,6 +438,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 79
+    },
+    {
+      "dt": 1792086000.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:34",
+      "flight_no": "LH2026",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792086300.0,
@@ -499,25 +499,6 @@
     {
       "dt": 1792087200.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:39",
-      "flight_no": "EW9467",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792087200.0,
-      "time_scheduled": "20:00",
       "time_estimated": "19:30",
       "flight_no": "X32323",
       "airline": "Tuifly",
@@ -528,6 +509,25 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792087200.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "19:39",
+      "flight_no": "EW9467",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -556,7 +556,7 @@
     {
       "dt": 1792087800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:38",
+      "time_estimated": "20:31",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -566,11 +566,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 28
+      "delay": 21
     },
     {
       "dt": 1792088400.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792088700.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:32",
+      "time_estimated": "20:38",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -627,7 +627,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1792089000.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792089300.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:35",
+      "time_estimated": "20:33",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -680,9 +680,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -757,8 +757,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
