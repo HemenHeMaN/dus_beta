@@ -1,26 +1,7 @@
 {
-  "updated_at": "15.10.2026 20:40",
+  "updated_at": "15.10.2026 20:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792080000.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "18:43",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 44
-    },
     {
       "dt": 1792081200.0,
       "time_scheduled": "18:20",
@@ -433,9 +414,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 79
     },
@@ -585,9 +566,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1792090500.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:45",
+      "time_estimated": "20:44",
       "flight_no": "DE1149",
       "airline": "Condor",
       "city": "Zakynthos",
@@ -756,9 +737,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1792090800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:17",
+      "time_estimated": "21:12",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 12
     },
     {
       "dt": 1792091400.0,
@@ -898,7 +879,7 @@
     {
       "dt": 1792092600.0,
       "time_scheduled": "21:30",
-      "time_estimated": "22:01",
+      "time_estimated": "22:12",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -912,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 32
+      "delay": 43
     },
     {
       "dt": 1792092600.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792094400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:56",
+      "time_estimated": "21:54",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792095000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:06",
+      "time_estimated": "22:07",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1297,7 +1278,7 @@
     {
       "dt": 1792095000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:04",
+      "time_estimated": "21:59",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
