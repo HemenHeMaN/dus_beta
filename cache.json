@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 22:25",
+  "updated_at": "15.10.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -79,25 +79,6 @@
       "delay": 38
     },
     {
-      "dt": 1792088400.0,
-      "time_scheduled": "20:20",
-      "time_estimated": "20:26",
-      "flight_no": "EW9717",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
-    },
-    {
       "dt": 1792088700.0,
       "time_scheduled": "20:25",
       "time_estimated": "20:35",
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 68
-    },
-    {
-      "dt": 1792089600.0,
-      "time_scheduled": "20:40",
-      "time_estimated": "20:28",
-      "flight_no": "LH2030",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792090500.0,
@@ -680,16 +642,16 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 39
     },
     {
       "dt": 1792095000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "00:11",
+      "time_estimated": "00:12",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -703,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 122
+      "delay": 123
     },
     {
       "dt": 1792095000.0,
@@ -851,16 +813,16 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 24
     },
     {
       "dt": 1792095600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:25",
+      "time_estimated": "22:27",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -870,11 +832,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 7
     },
     {
       "dt": 1792095900.0,
@@ -962,7 +924,7 @@
       "country": "Frankreich",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -974,7 +936,7 @@
     {
       "dt": 1792096200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:37",
+      "time_estimated": "22:28",
       "flight_no": "X32119",
       "airline": "Tuifly",
       "city": "Teneriffa Süd",
@@ -984,11 +946,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792096500.0,
@@ -1042,8 +1004,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -1060,9 +1022,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
