@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 20:20",
+  "updated_at": "15.10.2026 20:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 45
     },
     {
-      "dt": 1792081800.0,
-      "time_scheduled": "18:30",
-      "time_estimated": "18:24",
-      "flight_no": "XC106",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792082100.0,
       "time_scheduled": "18:35",
       "time_estimated": "18:45",
@@ -77,44 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
-    },
-    {
-      "dt": 1792082100.0,
-      "time_scheduled": "18:35",
-      "time_estimated": "18:20",
-      "flight_no": "EW9959",
-      "airline": "Eurowings",
-      "city": "Split",
-      "country": "Kroatien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792082400.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:22",
-      "flight_no": "LH2022",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792082400.0,
@@ -157,6 +100,25 @@
     {
       "dt": 1792083300.0,
       "time_scheduled": "18:55",
+      "time_estimated": "19:24",
+      "flight_no": "XQ794",
+      "airline": "Sun Express",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 30
+    },
+    {
+      "dt": 1792083300.0,
+      "time_scheduled": "18:55",
       "time_estimated": "19:14",
       "flight_no": "EW8046",
       "airline": "Eurowings",
@@ -191,25 +153,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1792083300.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "19:24",
-      "flight_no": "XQ794",
-      "airline": "Sun Express",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 30
     },
     {
       "dt": 1792083600.0,
@@ -499,25 +442,6 @@
     {
       "dt": 1792086000.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:34",
-      "flight_no": "LH2026",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792086000.0,
-      "time_scheduled": "19:40",
       "time_estimated": "20:59",
       "flight_no": "DE1613",
       "airline": "Condor",
@@ -533,6 +457,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 79
+    },
+    {
+      "dt": 1792086000.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:34",
+      "flight_no": "LH2026",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792086300.0,
@@ -643,8 +586,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -700,8 +643,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -757,8 +700,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -813,9 +756,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +784,7 @@
     {
       "dt": 1792090800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:31",
+      "time_estimated": "21:32",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -852,10 +795,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 33
     },
     {
       "dt": 1792090800.0,
@@ -898,7 +841,7 @@
     {
       "dt": 1792091400.0,
       "time_scheduled": "21:10",
-      "time_estimated": "21:17",
+      "time_estimated": "21:18",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -909,10 +852,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792091700.0,
@@ -1183,7 +1126,7 @@
     {
       "dt": 1792094100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:35",
+      "time_estimated": "22:40",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1197,12 +1140,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 41
+      "delay": 46
     },
     {
       "dt": 1792094100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:51",
+      "time_estimated": "21:48",
       "flight_no": "EW9223",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -1259,7 +1202,7 @@
     {
       "dt": 1792094400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:55",
+      "time_estimated": "22:15",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1273,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1792094700.0,
