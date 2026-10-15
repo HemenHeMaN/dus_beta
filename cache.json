@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 13:40",
+  "updated_at": "15.10.2026 13:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -115,25 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
-    },
-    {
-      "dt": 1792057800.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:43",
-      "flight_no": "X32313",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792057800.0,
@@ -719,8 +700,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1792064400.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:46",
+      "time_estimated": "13:43",
       "flight_no": "KK227",
       "airline": "LEAV Aviation",
       "city": "Rhodos",
@@ -756,11 +737,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 3
     },
     {
       "dt": 1792065000.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1792065000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:44",
+      "time_estimated": "13:40",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -794,9 +775,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -814,15 +795,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 38
     },
     {
       "dt": 1792065300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:12",
+      "time_estimated": "14:25",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -836,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 31
     },
     {
       "dt": 1792065300.0,
@@ -852,8 +833,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -974,7 +955,7 @@
     {
       "dt": 1792066500.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:25",
+      "time_estimated": "14:24",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -985,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1792066500.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1792066800.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:20",
+      "time_estimated": "14:21",
       "flight_no": "EW4674",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1026,7 +1007,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792067700.0,
@@ -1639,7 +1620,7 @@
     {
       "dt": 1792076100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "17:12",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1653,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1792076400.0,
@@ -2053,6 +2034,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792081200.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:43",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 23
     },
     {
       "dt": 1792081200.0,
