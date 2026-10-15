@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 05:45",
+  "updated_at": "15.10.2026 05:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -34,16 +34,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792038600.0,
       "time_scheduled": "06:30",
-      "time_estimated": "06:21",
+      "time_estimated": "06:23",
       "flight_no": "XQ1320",
       "airline": "Sun Express",
       "city": "Kayseri",
@@ -195,7 +195,7 @@
     {
       "dt": 1792044600.0,
       "time_scheduled": "08:10",
-      "time_estimated": "08:00",
+      "time_estimated": "07:59",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -328,7 +328,7 @@
     {
       "dt": 1792047000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:49",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -347,7 +347,7 @@
     {
       "dt": 1792047300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "08:50",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -385,7 +385,7 @@
     {
       "dt": 1792047600.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:54",
+      "time_estimated": "08:53",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -906,6 +906,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792054200.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
