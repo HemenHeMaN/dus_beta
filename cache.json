@@ -1,26 +1,7 @@
 {
-  "updated_at": "15.10.2026 13:50",
+  "updated_at": "15.10.2026 13:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792053000.0,
-      "time_scheduled": "10:30",
-      "time_estimated": "11:53",
-      "flight_no": "4M411",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1/-/2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 84
-    },
     {
       "dt": 1792057200.0,
       "time_scheduled": "11:40",
@@ -96,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
-    },
-    {
-      "dt": 1792057800.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:51",
-      "flight_no": "A3840",
-      "airline": "Aegean Airlines",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1792058100.0,
@@ -670,7 +632,7 @@
     {
       "dt": 1792063800.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:06",
+      "time_estimated": "14:00",
       "flight_no": "EW9527",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -684,7 +646,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 36
+      "delay": 30
     },
     {
       "dt": 1792064100.0,
@@ -784,7 +746,7 @@
     {
       "dt": 1792065300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:25",
+      "time_estimated": "14:28",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -795,10 +757,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 33
     },
     {
       "dt": 1792065300.0,
@@ -832,9 +794,9 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -860,7 +822,7 @@
     {
       "dt": 1792065900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:28",
+      "time_estimated": "14:29",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -874,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 23
+      "delay": 24
     },
     {
       "dt": 1792066200.0,
@@ -2162,6 +2124,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792083300.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "EW8046",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792083300.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "LO407",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792083300.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "XQ794",
+      "airline": "Sun Express",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
