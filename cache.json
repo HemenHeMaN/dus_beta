@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 19:20",
+  "updated_at": "15.10.2026 19:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -461,7 +461,7 @@
     {
       "dt": 1792083300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:22",
+      "time_estimated": "19:24",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -471,11 +471,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 27
+      "delay": 30
     },
     {
       "dt": 1792083600.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1792084200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:24",
+      "time_estimated": "19:22",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -547,11 +547,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 14
+      "delay": 12
     },
     {
       "dt": 1792084200.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792086000.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:43",
+      "time_estimated": "19:37",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -775,11 +775,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792086000.0,
@@ -832,9 +832,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -851,9 +851,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1023,8 +1023,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792091700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:35",
+      "time_estimated": "21:31",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1213,15 +1213,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 16
     },
     {
       "dt": 1792092300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "22:02",
+      "time_estimated": "22:10",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 38
+      "delay": 46
     },
     {
       "dt": 1792092600.0,
@@ -1544,7 +1544,7 @@
     {
       "dt": 1792094700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:32",
+      "time_estimated": "22:42",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1558,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 38
     },
     {
       "dt": 1792094700.0,
@@ -1843,7 +1843,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792096200.0,
