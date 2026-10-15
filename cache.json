@@ -1,5 +1,5 @@
 {
-  "updated_at": "15.10.2026 21:35",
+  "updated_at": "15.10.2026 21:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,44 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 33
-    },
-    {
-      "dt": 1792086600.0,
-      "time_scheduled": "19:50",
-      "time_estimated": "19:36",
-      "flight_no": "X36123",
-      "airline": "Tuifly",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792087200.0,
-      "time_scheduled": "20:00",
-      "time_estimated": "19:39",
-      "flight_no": "EW9467",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792087800.0,
@@ -282,8 +244,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 76
     },
@@ -594,7 +556,7 @@
     {
       "dt": 1792093500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:48",
+      "time_estimated": "21:39",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -604,11 +566,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792093800.0,
@@ -623,9 +585,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -642,9 +604,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -662,8 +624,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -841,7 +803,7 @@
     {
       "dt": 1792095000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:12",
+      "time_estimated": "22:14",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -855,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1792095000.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1792095600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:03",
+      "time_estimated": "22:05",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
