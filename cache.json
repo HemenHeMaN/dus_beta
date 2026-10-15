@@ -1,26 +1,7 @@
 {
-  "updated_at": "15.10.2026 15:05",
+  "updated_at": "15.10.2026 15:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792060500.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "13:09",
-      "flight_no": "PC1001",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 35
-    },
     {
       "dt": 1792060800.0,
       "time_scheduled": "12:40",
@@ -309,25 +290,6 @@
     {
       "dt": 1792065000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:25",
-      "flight_no": "AF1506",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 35
-    },
-    {
-      "dt": 1792065000.0,
-      "time_scheduled": "13:50",
       "time_estimated": "13:40",
       "flight_no": "X34589",
       "airline": "Tuifly",
@@ -343,6 +305,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792065000.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "14:25",
+      "flight_no": "AF1506",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 35
     },
     {
       "dt": 1792065300.0,
@@ -385,6 +366,25 @@
     {
       "dt": 1792065900.0,
       "time_scheduled": "14:05",
+      "time_estimated": "14:08",
+      "flight_no": "LX1018",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 4
+    },
+    {
+      "dt": 1792065900.0,
+      "time_scheduled": "14:05",
       "time_estimated": "14:31",
       "flight_no": "XQ958",
       "airline": "Sun Express",
@@ -419,25 +419,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 18
-    },
-    {
-      "dt": 1792065900.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:08",
-      "flight_no": "LX1018",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1792066200.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1792069800.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:17",
+      "time_estimated": "15:09",
       "flight_no": "XQ1348",
       "airline": "Sun Express",
       "city": "Balikesir / Edremit",
@@ -699,11 +680,11 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792069800.0,
@@ -795,8 +776,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +955,7 @@
     {
       "dt": 1792073700.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:18",
+      "time_estimated": "16:15",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -985,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792074000.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792077000.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:29",
+      "time_estimated": "17:38",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 29
     },
     {
       "dt": 1792077300.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792077300.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:21",
+      "time_estimated": "17:14",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -1273,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792077300.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792079100.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:59",
+      "time_estimated": "18:01",
       "flight_no": "GQ590",
       "airline": "Sky Express",
       "city": "Thessaloniki",
@@ -1479,10 +1460,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 16
     },
     {
       "dt": 1792079100.0,
@@ -1506,7 +1487,7 @@
     {
       "dt": 1792080000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:47",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1517,10 +1498,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 47
     },
     {
       "dt": 1792080000.0,
@@ -1544,7 +1525,7 @@
     {
       "dt": 1792080300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:05",
+      "time_estimated": "18:10",
       "flight_no": "EW9333",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -1558,7 +1539,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792080300.0,
@@ -2181,6 +2162,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792087800.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "20:10",
+      "flight_no": "VY1898",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
