@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 08:55",
+  "updated_at": "16.10.2026 09:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -347,7 +347,7 @@
     {
       "dt": 1792134300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:03",
+      "time_estimated": "08:56",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -357,9 +357,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792137300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:54",
+      "time_estimated": "09:48",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -526,7 +526,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "7",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -537,21 +537,21 @@
     {
       "dt": 1792137600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:56",
+      "time_estimated": "10:01",
       "flight_no": "EW9083",
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792137600.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792140900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:49",
+      "time_estimated": "10:50",
       "flight_no": "PC5677",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -898,7 +898,7 @@
     {
       "dt": 1792141800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:05",
+      "time_estimated": "11:02",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -909,8 +909,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +993,7 @@
     {
       "dt": 1792143600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:55",
+      "time_estimated": "11:42",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1007,12 +1007,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 2
     },
     {
       "dt": 1792143600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:44",
+      "time_estimated": "11:48",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 8
     },
     {
       "dt": 1792143900.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792144200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:44",
+      "time_estimated": "11:38",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1259,7 +1259,7 @@
     {
       "dt": 1792146300.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:25",
+      "time_estimated": "12:14",
       "flight_no": "PC1687",
       "airline": "Pegasus Airlines",
       "city": "Ankara-Esenboğa",
@@ -1270,8 +1270,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
