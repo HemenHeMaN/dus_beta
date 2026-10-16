@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 20:45",
+  "updated_at": "16.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -115,44 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
-    },
-    {
-      "dt": 1792170000.0,
-      "time_scheduled": "19:00",
-      "time_estimated": "18:48",
-      "flight_no": "XR6598",
-      "airline": "Corendon Airlines Europe",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792170000.0,
-      "time_scheduled": "19:00",
-      "time_estimated": "18:46",
-      "flight_no": "A3542",
-      "airline": "Aegean Airlines",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792170300.0,
@@ -556,25 +518,6 @@
     {
       "dt": 1792175100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "22:08",
-      "flight_no": "EJU3943",
-      "airline": "Easy Jet Europe",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, Umleitung nach Köln/Bonn",
-      "remark": "Umleitung nach Köln/Bonn",
-      "delay": 103
-    },
-    {
-      "dt": 1792175100.0,
-      "time_scheduled": "20:25",
       "time_estimated": "20:04",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
@@ -592,9 +535,28 @@
       "delay": 0
     },
     {
+      "dt": 1792175100.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "22:08",
+      "flight_no": "EJU3943",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, Umleitung nach Köln/Bonn",
+      "remark": "Umleitung nach Köln/Bonn",
+      "delay": 103
+    },
+    {
       "dt": 1792175400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:43",
+      "time_estimated": "20:58",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -608,7 +570,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 28
     },
     {
       "dt": 1792175700.0,
@@ -624,8 +586,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -670,7 +632,7 @@
     {
       "dt": 1792177200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:53",
+      "time_estimated": "20:46",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -680,9 +642,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1792177200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:11",
+      "time_estimated": "20:59",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -722,7 +684,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 0
     },
     {
       "dt": 1792177500.0,
@@ -737,9 +699,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -1031,7 +993,7 @@
     {
       "dt": 1792180500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:23",
+      "time_estimated": "22:37",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1045,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 43
     },
     {
       "dt": 1792180800.0,
@@ -1112,11 +1074,11 @@
       "airline": "Eurowings",
       "city": "London-Heathrow",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:11",
+      "time_estimated": "22:12",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1197,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792181400.0,
@@ -1582,7 +1544,7 @@
     {
       "dt": 1792183500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:27",
+      "time_estimated": "23:28",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1596,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 43
+      "delay": 44
     },
     {
       "dt": 1792183500.0,
