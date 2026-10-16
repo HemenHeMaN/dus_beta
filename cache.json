@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 07:55",
+  "updated_at": "16.10.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -187,8 +187,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -404,7 +404,7 @@
     {
       "dt": 1792134300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:07",
+      "time_estimated": "09:11",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -418,7 +418,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1792134300.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1792137300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:03",
+      "time_estimated": "09:57",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1792137600.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792137900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:00",
+      "time_estimated": "10:10",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792138500.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1792139400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:28",
+      "time_estimated": "10:19",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -860,7 +860,7 @@
     {
       "dt": 1792140900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "11:00",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792140900.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792141800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:03",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792145700.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:15",
+      "time_estimated": "12:36",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1792146300.0,
@@ -1552,6 +1552,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792148400.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "NE720",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
