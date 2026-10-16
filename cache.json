@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 13:45",
+  "updated_at": "16.10.2026 13:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,44 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 26
-    },
-    {
-      "dt": 1792144200.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:48",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792144200.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:46",
-      "flight_no": "KL1799",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792144200.0,
@@ -480,25 +442,6 @@
     {
       "dt": 1792149000.0,
       "time_scheduled": "13:10",
-      "time_estimated": "12:51",
-      "flight_no": "EW9793",
-      "airline": "Eurowings",
-      "city": "Bukarest-Otopeni",
-      "country": "Rumänien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792149000.0,
-      "time_scheduled": "13:10",
       "time_estimated": "13:18",
       "flight_no": "EW9527",
       "airline": "Eurowings",
@@ -514,6 +457,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
+    },
+    {
+      "dt": 1792149000.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "12:51",
+      "flight_no": "EW9793",
+      "airline": "Eurowings",
+      "city": "Bukarest-Otopeni",
+      "country": "Rumänien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792149300.0,
@@ -619,13 +581,13 @@
       "city": "Chania (Kreta)",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1792151100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:58",
+      "time_estimated": "13:57",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -722,7 +684,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 12
     },
     {
       "dt": 1792151400.0,
@@ -770,11 +732,11 @@
       "airline": "KLM",
       "city": "Amsterdam",
       "country": "Niederlande",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
@@ -833,15 +795,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
     {
       "dt": 1792152300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:10",
+      "time_estimated": "14:03",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -851,11 +813,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792152300.0,
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792159500.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:15",
+      "time_estimated": "16:06",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -1463,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 1
     },
     {
       "dt": 1792159500.0,
@@ -1487,7 +1449,7 @@
     {
       "dt": 1792159800.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:08",
+      "time_estimated": "16:18",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1501,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792159800.0,
@@ -1620,7 +1582,7 @@
     {
       "dt": 1792161900.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:42",
+      "time_estimated": "16:56",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1634,12 +1596,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792162200.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:50",
+      "time_estimated": "16:49",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1715,7 +1677,7 @@
     {
       "dt": 1792162500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "17:17",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1729,7 +1691,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1792162800.0,
@@ -1886,7 +1848,7 @@
     {
       "dt": 1792164600.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:41",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -1900,7 +1862,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1792165200.0,
