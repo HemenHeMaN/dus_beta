@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 08:45",
+  "updated_at": "16.10.2026 08:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -86,11 +86,11 @@
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -195,7 +195,7 @@
     {
       "dt": 1792133400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:54",
+      "time_estimated": "08:48",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -205,11 +205,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792133700.0,
@@ -290,7 +290,7 @@
     {
       "dt": 1792133700.0,
       "time_scheduled": "08:55",
-      "time_estimated": "09:10",
+      "time_estimated": "08:45",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -300,11 +300,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 0
     },
     {
       "dt": 1792134000.0,
@@ -338,16 +338,16 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1792134300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:08",
+      "time_estimated": "09:03",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -358,10 +358,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792134300.0,
@@ -385,21 +385,21 @@
     {
       "dt": 1792135500.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:40",
+      "time_estimated": "09:38",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 14
     },
     {
       "dt": 1792135500.0,
@@ -467,9 +467,9 @@
       "city": "Warschau",
       "country": "Polen",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -480,7 +480,7 @@
     {
       "dt": 1792136400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:46",
+      "time_estimated": "09:44",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -491,10 +491,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 5
     },
     {
       "dt": 1792136700.0,
@@ -504,11 +504,11 @@
       "airline": "Aer Lingus",
       "city": "Dublin",
       "country": "Irland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -518,7 +518,7 @@
     {
       "dt": 1792137300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:56",
+      "time_estimated": "09:54",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -529,10 +529,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792137600.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1792137900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:10",
+      "time_estimated": "10:04",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792138500.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1792141800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:03",
+      "time_estimated": "11:05",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -955,7 +955,7 @@
     {
       "dt": 1792142700.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:30",
+      "time_estimated": "11:31",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 7
     },
     {
       "dt": 1792143000.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792144200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:41",
+      "time_estimated": "11:44",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792146600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:15",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1346,8 +1346,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1763,6 +1763,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792151400.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "TK1525",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792151400.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "AF1506",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
