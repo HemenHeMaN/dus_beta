@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 22:00",
+  "updated_at": "16.10.2026 22:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 53
-    },
-    {
-      "dt": 1792173000.0,
-      "time_scheduled": "19:50",
-      "time_estimated": "20:02",
-      "flight_no": "EW9613",
-      "airline": "Eurowings",
-      "city": "Korfu",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
     },
     {
       "dt": 1792173600.0,
@@ -96,25 +77,6 @@
       "status_detail": "annulliert, Umleitung nach Köln/Bonn",
       "remark": "Umleitung nach Köln/Bonn",
       "delay": 103
-    },
-    {
-      "dt": 1792175100.0,
-      "time_scheduled": "20:25",
-      "time_estimated": "20:04",
-      "flight_no": "EI698",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792175400.0,
@@ -195,25 +157,6 @@
     {
       "dt": 1792177200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:57",
-      "flight_no": "EW9049",
-      "airline": "Eurowings",
-      "city": "Berlin-Brandenburg",
-      "country": "Deutschland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 57
-    },
-    {
-      "dt": 1792177200.0,
-      "time_scheduled": "21:00",
       "time_estimated": "20:46",
       "flight_no": "EW9765",
       "airline": "Eurowings",
@@ -229,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792177200.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:57",
+      "flight_no": "EW9049",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 57
     },
     {
       "dt": 1792177200.0,
@@ -366,7 +328,7 @@
     {
       "dt": 1792179300.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:09",
+      "time_estimated": "22:00",
       "flight_no": "EW9223",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -376,11 +338,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 35
+      "delay": 26
     },
     {
       "dt": 1792179600.0,
@@ -523,11 +485,11 @@
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
       "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -537,7 +499,7 @@
     {
       "dt": 1792180500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:07",
+      "time_estimated": "22:03",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -547,11 +509,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 8
     },
     {
       "dt": 1792180500.0,
@@ -566,9 +528,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 38
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:11",
+      "time_estimated": "22:09",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -722,12 +684,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:41",
+      "time_estimated": "22:42",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -741,12 +703,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 32
     },
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:08",
+      "time_estimated": "22:07",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -784,7 +746,7 @@
     {
       "dt": 1792181700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:54",
+      "time_estimated": "22:57",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -795,10 +757,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 42
     },
     {
       "dt": 1792181700.0,
@@ -841,7 +803,7 @@
     {
       "dt": 1792182000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:11",
+      "time_estimated": "22:10",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -870,9 +832,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +898,7 @@
     {
       "dt": 1792182300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:11",
+      "time_estimated": "22:16",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -947,8 +909,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +936,7 @@
     {
       "dt": 1792182600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "23:21",
+      "time_estimated": "23:18",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -985,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 51
+      "delay": 48
     },
     {
       "dt": 1792182600.0,
@@ -1020,7 +982,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "8",
+      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1050,7 +1012,7 @@
     {
       "dt": 1792182900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:39",
+      "time_estimated": "22:41",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1064,7 +1026,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 6
     },
     {
       "dt": 1792183200.0,
@@ -1080,8 +1042,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
