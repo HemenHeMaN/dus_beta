@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 14:00",
+  "updated_at": "16.10.2026 14:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -155,25 +155,6 @@
       "delay": 17
     },
     {
-      "dt": 1792146300.0,
-      "time_scheduled": "12:25",
-      "time_estimated": "12:03",
-      "flight_no": "PC1687",
-      "airline": "Pegasus Airlines",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792146600.0,
       "time_scheduled": "12:30",
       "time_estimated": "12:37",
@@ -243,9 +224,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 113
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1792150800.0,
       "time_scheduled": "13:40",
-      "time_estimated": "16:31",
+      "time_estimated": "16:27",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -586,10 +567,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 171
+      "delay": 167
     },
     {
       "dt": 1792151100.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1792151400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:12",
+      "time_estimated": "14:17",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -703,7 +684,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 28
     },
     {
       "dt": 1792151700.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1792152300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:09",
+      "time_estimated": "14:04",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -794,11 +775,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792152300.0,
@@ -890,8 +871,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792155300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "14:38",
+      "time_estimated": "14:39",
       "flight_no": "BJ2340",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -1202,7 +1183,7 @@
     {
       "dt": 1792157400.0,
       "time_scheduled": "15:30",
-      "time_estimated": "15:27",
+      "time_estimated": "15:22",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -1240,7 +1221,7 @@
     {
       "dt": 1792157700.0,
       "time_scheduled": "15:35",
-      "time_estimated": "16:24",
+      "time_estimated": "16:31",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1254,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 49
+      "delay": 56
     },
     {
       "dt": 1792158300.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1792163400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:10",
+      "time_estimated": "17:07",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -2305,6 +2286,25 @@
       "dt": 1792170000.0,
       "time_scheduled": "19:00",
       "time_estimated": "19:00",
+      "flight_no": "XR6598",
+      "airline": "Corendon Airlines Europe",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 1
+    },
+    {
+      "dt": 1792170000.0,
+      "time_scheduled": "19:00",
+      "time_estimated": "19:00",
       "flight_no": "A3542",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -2314,6 +2314,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792170300.0,
+      "time_scheduled": "19:05",
+      "time_estimated": "19:05",
+      "flight_no": "IV8222",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
