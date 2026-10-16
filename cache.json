@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 16:30",
+  "updated_at": "16.10.2026 16:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -155,44 +155,6 @@
       "delay": 13
     },
     {
-      "dt": 1792154400.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "14:31",
-      "flight_no": "LH2016",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792154400.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "14:33",
-      "flight_no": "SK1621",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792154700.0,
       "time_scheduled": "14:45",
       "time_estimated": "15:16",
@@ -229,25 +191,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 66
-    },
-    {
-      "dt": 1792155300.0,
-      "time_scheduled": "14:55",
-      "time_estimated": "14:35",
-      "flight_no": "BJ2340",
-      "airline": "Nouvelair",
-      "city": "Djerba",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792155300.0,
@@ -339,8 +282,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 79
     },
@@ -423,7 +366,7 @@
     {
       "dt": 1792158600.0,
       "time_scheduled": "15:50",
-      "time_estimated": "16:38",
+      "time_estimated": "16:34",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -433,11 +376,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 48
+      "delay": 45
     },
     {
       "dt": 1792158600.0,
@@ -662,8 +605,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -699,9 +642,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -735,11 +678,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -784,7 +727,7 @@
     {
       "dt": 1792162500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:33",
+      "time_estimated": "16:31",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -792,18 +735,18 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792162500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:16",
+      "time_estimated": "17:11",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -817,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 16
     },
     {
       "dt": 1792162800.0,
@@ -833,15 +776,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792163400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:39",
+      "time_estimated": "17:48",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -855,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 38
     },
     {
       "dt": 1792163700.0,
@@ -898,7 +841,7 @@
     {
       "dt": 1792163700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "19:08",
+      "time_estimated": "18:09",
       "flight_no": "EW9339",
       "airline": "Eurowings",
       "city": "Newcastle",
@@ -912,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 113
+      "delay": 55
     },
     {
       "dt": 1792163700.0,
@@ -1088,7 +1031,7 @@
     {
       "dt": 1792165500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:56",
+      "time_estimated": "17:51",
       "flight_no": "EW9343",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1102,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1792165800.0,
@@ -1278,7 +1221,7 @@
     {
       "dt": 1792167900.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:51",
+      "time_estimated": "18:55",
       "flight_no": "EW9587",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1292,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 26
+      "delay": 30
     },
     {
       "dt": 1792167900.0,
@@ -1677,7 +1620,7 @@
     {
       "dt": 1792171500.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:45",
+      "time_estimated": "20:21",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1691,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 57
     },
     {
       "dt": 1792171500.0,
@@ -1715,7 +1658,7 @@
     {
       "dt": 1792171800.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:12",
+      "time_estimated": "19:10",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1734,7 +1677,7 @@
     {
       "dt": 1792172400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:35",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -1810,7 +1753,7 @@
     {
       "dt": 1792173000.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:50",
+      "time_estimated": "19:47",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1821,8 +1764,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2181,6 +2124,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792179300.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:35",
+      "flight_no": "EW9223",
+      "airline": "Eurowings",
+      "city": "Göteborg-Landvetter",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
