@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 06:20",
+  "updated_at": "16.10.2026 06:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -73,8 +73,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -157,7 +157,7 @@
     {
       "dt": 1792131300.0,
       "time_scheduled": "08:15",
-      "time_estimated": "10:47",
+      "time_estimated": "10:49",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -171,7 +171,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 153
+      "delay": 155
     },
     {
       "dt": 1792132200.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1792134300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:01",
+      "time_estimated": "09:06",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792134300.0,
@@ -494,7 +494,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792135800.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1792138500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "10:20",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -700,10 +700,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792139100.0,
@@ -1022,6 +1022,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792142700.0,
+      "time_scheduled": "11:25",
+      "time_estimated": "11:25",
+      "flight_no": "DE1515",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
