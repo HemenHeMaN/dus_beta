@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 14:30",
+  "updated_at": "16.10.2026 14:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -442,25 +442,6 @@
     {
       "dt": 1792151100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:35",
-      "flight_no": "EW9739",
-      "airline": "Eurowings",
-      "city": "Tallinn",
-      "country": "Estland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792151100.0,
-      "time_scheduled": "13:45",
       "time_estimated": "14:20",
       "flight_no": "X34105",
       "airline": "Tuifly",
@@ -516,18 +497,18 @@
       "delay": 5
     },
     {
-      "dt": 1792151400.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:20",
-      "flight_no": "TK1525",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
+      "dt": 1792151100.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:35",
+      "flight_no": "EW9739",
+      "airline": "Eurowings",
+      "city": "Tallinn",
+      "country": "Estland",
+      "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
+      "terminal": "B",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -552,6 +533,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 22
+    },
+    {
+      "dt": 1792151400.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:20",
+      "flight_no": "TK1525",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792151700.0,
@@ -699,9 +699,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 34
     },
@@ -775,9 +775,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -832,9 +832,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1792154400.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:35",
+      "time_estimated": "14:31",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -870,16 +870,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792154400.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:38",
+      "time_estimated": "14:33",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -889,9 +889,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +917,7 @@
     {
       "dt": 1792155300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "14:39",
+      "time_estimated": "14:44",
       "flight_no": "BJ2340",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -965,16 +965,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
     {
       "dt": 1792155600.0,
       "time_scheduled": "15:00",
-      "time_estimated": "15:51",
+      "time_estimated": "15:53",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 51
+      "delay": 53
     },
     {
       "dt": 1792155900.0,
@@ -1004,8 +1004,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792159200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:12",
+      "time_estimated": "16:22",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 23
     },
     {
       "dt": 1792159500.0,
@@ -1468,7 +1468,7 @@
     {
       "dt": 1792162500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:38",
+      "time_estimated": "17:25",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1482,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 44
+      "delay": 30
     },
     {
       "dt": 1792162500.0,
@@ -1506,7 +1506,7 @@
     {
       "dt": 1792162500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:10",
+      "time_estimated": "17:11",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1517,10 +1517,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1792162800.0,
@@ -1536,8 +1536,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1563,7 +1563,7 @@
     {
       "dt": 1792163700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:30",
+      "time_estimated": "17:39",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1577,7 +1577,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 24
     },
     {
       "dt": 1792163700.0,
@@ -1696,7 +1696,7 @@
     {
       "dt": 1792165200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:35",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1734,7 +1734,7 @@
     {
       "dt": 1792165200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:36",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
