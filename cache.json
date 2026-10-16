@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 06:25",
+  "updated_at": "16.10.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1792124100.0,
       "time_scheduled": "06:15",
-      "time_estimated": "06:33",
+      "time_estimated": "06:28",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -53,11 +53,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 18
+      "delay": 14
     },
     {
       "dt": 1792125900.0,
@@ -100,7 +100,7 @@
     {
       "dt": 1792129200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:36",
+      "time_estimated": "08:07",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -114,7 +114,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 27
     },
     {
       "dt": 1792131000.0,
@@ -157,7 +157,7 @@
     {
       "dt": 1792131300.0,
       "time_scheduled": "08:15",
-      "time_estimated": "10:49",
+      "time_estimated": "10:48",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -171,7 +171,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 155
+      "delay": 154
     },
     {
       "dt": 1792132200.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1792133700.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:51",
+      "time_estimated": "08:42",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -377,8 +377,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792135800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:40",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -532,12 +532,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792136100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:31",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -575,7 +575,7 @@
     {
       "dt": 1792136700.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:45",
+      "time_estimated": "09:32",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -1033,6 +1033,25 @@
       "time_scheduled": "11:25",
       "time_estimated": "11:25",
       "flight_no": "DE1515",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792143000.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
       "country": "Spanien",
