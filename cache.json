@@ -1,26 +1,7 @@
 {
-  "updated_at": "16.10.2026 20:15",
+  "updated_at": "16.10.2026 20:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792160100.0,
-      "time_scheduled": "16:15",
-      "time_estimated": "18:53",
-      "flight_no": "EW9885",
-      "airline": "Eurowings",
-      "city": "Rom-Fiumicino",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 158
-    },
     {
       "dt": 1792163700.0,
       "time_scheduled": "17:15",
@@ -115,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 37
-    },
-    {
-      "dt": 1792167900.0,
-      "time_scheduled": "18:25",
-      "time_estimated": "18:18",
-      "flight_no": "PC5305",
-      "airline": "Pegasus Airlines",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792168800.0,
@@ -518,25 +480,6 @@
     {
       "dt": 1792172400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:22",
-      "flight_no": "XQ3580",
-      "airline": "Sun Express",
-      "city": "Dalaman",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792172400.0,
-      "time_scheduled": "19:40",
       "time_estimated": "19:31",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
@@ -547,6 +490,25 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792172400.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:22",
+      "flight_no": "XQ3580",
+      "airline": "Sun Express",
+      "city": "Dalaman",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -784,7 +746,7 @@
     {
       "dt": 1792176000.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:37",
+      "time_estimated": "20:31",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -795,8 +757,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1251,8 +1213,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792180800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:52",
+      "time_estimated": "21:51",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1289,8 +1251,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1335,7 +1297,7 @@
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:15",
+      "time_estimated": "22:19",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1349,12 +1311,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 9
     },
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:52",
+      "time_estimated": "22:40",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1368,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 42
+      "delay": 30
     },
     {
       "dt": 1792181400.0,
@@ -1430,7 +1392,7 @@
     {
       "dt": 1792181700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:20",
+      "time_estimated": "22:15",
       "flight_no": "EW9245",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1444,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792181700.0,
@@ -1734,7 +1696,7 @@
     {
       "dt": 1792183500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "23:27",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1748,7 +1710,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 43
     },
     {
       "dt": 1792183500.0,
