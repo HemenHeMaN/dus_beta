@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 12:50",
+  "updated_at": "16.10.2026 12:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 130
     },
     {
-      "dt": 1792140600.0,
-      "time_scheduled": "10:50",
-      "time_estimated": "10:54",
-      "flight_no": "AF1606",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
-    },
-    {
       "dt": 1792141500.0,
       "time_scheduled": "11:05",
       "time_estimated": "10:57",
@@ -52,25 +33,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792141800.0,
-      "time_scheduled": "11:10",
-      "time_estimated": "10:52",
-      "flight_no": "IB1319",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -290,25 +252,6 @@
     {
       "dt": 1792144200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:00",
-      "flight_no": "A3840",
-      "airline": "Aegean Airlines",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 10
-    },
-    {
-      "dt": 1792144200.0,
-      "time_scheduled": "11:50",
       "time_estimated": "11:31",
       "flight_no": "X32313",
       "airline": "Tuifly",
@@ -324,6 +267,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792144200.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "12:00",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 10
     },
     {
       "dt": 1792144500.0,
@@ -471,11 +433,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1792146600.0,
@@ -643,8 +605,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -681,15 +643,15 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
     {
       "dt": 1792149000.0,
       "time_scheduled": "13:10",
-      "time_estimated": "12:54",
+      "time_estimated": "12:51",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -699,9 +661,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +936,7 @@
     {
       "dt": 1792151700.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:00",
+      "time_estimated": "13:54",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792151700.0,
@@ -1050,7 +1012,7 @@
     {
       "dt": 1792152300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:00",
+      "time_estimated": "14:05",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1064,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792152300.0,
@@ -1107,7 +1069,7 @@
     {
       "dt": 1792152600.0,
       "time_scheduled": "14:10",
-      "time_estimated": "14:49",
+      "time_estimated": "14:43",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1121,7 +1083,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 34
     },
     {
       "dt": 1792152900.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792154400.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:43",
+      "time_estimated": "14:42",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -1292,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1792154400.0,
@@ -1373,7 +1335,7 @@
     {
       "dt": 1792155300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "14:58",
+      "time_estimated": "15:00",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -1384,10 +1346,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1792155600.0,
@@ -1620,7 +1582,7 @@
     {
       "dt": 1792159200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "15:55",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1677,7 +1639,7 @@
     {
       "dt": 1792159500.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:01",
+      "time_estimated": "16:05",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -1691,7 +1653,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792159800.0,
@@ -2219,6 +2181,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792166100.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "AP1037",
+      "airline": "Alba Star",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
