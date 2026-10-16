@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 09:05",
+  "updated_at": "16.10.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,9 +91,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 82
     },
@@ -415,8 +415,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -433,9 +433,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -452,9 +452,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -548,8 +548,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 1
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1792137900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:10",
+      "time_estimated": "10:17",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -586,10 +586,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 13
     },
     {
       "dt": 1792137900.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1792139100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:41",
+      "time_estimated": "10:36",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -646,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1792139100.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792139400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:21",
+      "time_estimated": "10:26",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -993,7 +993,7 @@
     {
       "dt": 1792143600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:42",
+      "time_estimated": "11:50",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1007,12 +1007,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 10
     },
     {
       "dt": 1792143600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:48",
+      "time_estimated": "11:50",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1023,10 +1023,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 10
     },
     {
       "dt": 1792143900.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792144200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:44",
+      "time_estimated": "11:46",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792144200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:14",
+      "time_estimated": "12:13",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -1156,10 +1156,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 24
     },
     {
       "dt": 1792144500.0,
@@ -1219,25 +1219,6 @@
       "delay": 5
     },
     {
-      "dt": 1792145700.0,
-      "time_scheduled": "12:15",
-      "time_estimated": "12:36",
-      "flight_no": "EW9883",
-      "airline": "Eurowings",
-      "city": "Rom-Fiumicino",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 21
-    },
-    {
       "dt": 1792146300.0,
       "time_scheduled": "12:25",
       "time_estimated": "12:25",
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792146300.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:14",
+      "time_estimated": "12:13",
       "flight_no": "PC1687",
       "airline": "Pegasus Airlines",
       "city": "Ankara-Esenboğa",
@@ -1316,7 +1297,7 @@
     {
       "dt": 1792146600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:15",
+      "time_estimated": "12:12",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1909,6 +1890,25 @@
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792152600.0,
+      "time_scheduled": "14:10",
+      "time_estimated": "14:10",
+      "flight_no": "XQ186",
+      "airline": "Sun Express",
+      "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Airline",
