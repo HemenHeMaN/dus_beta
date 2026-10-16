@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 19:15",
+  "updated_at": "16.10.2026 19:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1792168800.0,
       "time_scheduled": "18:40",
-      "time_estimated": "19:17",
+      "time_estimated": "19:15",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -547,11 +547,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 38
+      "delay": 36
     },
     {
       "dt": 1792168800.0,
@@ -632,25 +632,6 @@
     {
       "dt": 1792169700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:24",
-      "flight_no": "XQ794",
-      "airline": "Sun Express",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792169700.0,
-      "time_scheduled": "18:55",
       "time_estimated": "18:34",
       "flight_no": "XQ280",
       "airline": "Sun Express",
@@ -661,6 +642,25 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792169700.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:24",
+      "flight_no": "XQ794",
+      "airline": "Sun Express",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -814,8 +814,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -928,8 +928,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1056,9 +1056,9 @@
       "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792174200.0,
       "time_scheduled": "20:10",
-      "time_estimated": "19:58",
+      "time_estimated": "19:59",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792175100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:34",
+      "time_estimated": "20:18",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1792175100.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792177500.0,
       "time_scheduled": "21:05",
-      "time_estimated": "20:52",
+      "time_estimated": "21:02",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792179600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:37",
+      "time_estimated": "21:46",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1444,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792179900.0,
@@ -1601,7 +1601,7 @@
     {
       "dt": 1792180800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:17",
+      "time_estimated": "22:23",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1615,7 +1615,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 24
     },
     {
       "dt": 1792180800.0,
@@ -1829,7 +1829,7 @@
     {
       "dt": 1792181700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:20",
       "flight_no": "EW9245",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1843,7 +1843,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792181700.0,
@@ -1981,7 +1981,7 @@
     {
       "dt": 1792182300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:25",
+      "time_estimated": "22:21",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -2000,7 +2000,7 @@
     {
       "dt": 1792182600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:30",
+      "time_estimated": "22:23",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -2038,7 +2038,7 @@
     {
       "dt": 1792182900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:24",
+      "time_estimated": "22:27",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -2057,7 +2057,7 @@
     {
       "dt": 1792182900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:35",
+      "time_estimated": "23:24",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -2068,10 +2068,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 49
     },
     {
       "dt": 1792182900.0,
