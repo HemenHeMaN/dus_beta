@@ -1,26 +1,7 @@
 {
-  "updated_at": "16.10.2026 18:20",
+  "updated_at": "16.10.2026 18:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792153200.0,
-      "time_scheduled": "14:20",
-      "time_estimated": "18:12",
-      "flight_no": "EW9829",
-      "airline": "Eurowings",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 232
-    },
     {
       "dt": 1792157100.0,
       "time_scheduled": "15:25",
@@ -79,25 +60,6 @@
       "delay": 74
     },
     {
-      "dt": 1792159500.0,
-      "time_scheduled": "16:05",
-      "time_estimated": "16:24",
-      "flight_no": "EW9845",
-      "airline": "Eurowings",
-      "city": "Olbia (Sardinien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
-    {
       "dt": 1792159800.0,
       "time_scheduled": "16:10",
       "time_estimated": "16:26",
@@ -119,7 +81,7 @@
     {
       "dt": 1792160100.0,
       "time_scheduled": "16:15",
-      "time_estimated": "18:57",
+      "time_estimated": "18:58",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -133,7 +95,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 162
+      "delay": 163
     },
     {
       "dt": 1792160700.0,
@@ -395,9 +357,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 90
     },
@@ -499,25 +461,6 @@
     {
       "dt": 1792165200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:36",
-      "flight_no": "OS165",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792165200.0,
-      "time_scheduled": "17:40",
       "time_estimated": "18:00",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
@@ -547,6 +490,25 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792165200.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:36",
+      "flight_no": "OS165",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -746,7 +708,7 @@
     {
       "dt": 1792167600.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:44",
+      "time_estimated": "18:38",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -760,7 +722,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 18
     },
     {
       "dt": 1792167900.0,
@@ -860,7 +822,7 @@
     {
       "dt": 1792168800.0,
       "time_scheduled": "18:40",
-      "time_estimated": "19:04",
+      "time_estimated": "19:05",
       "flight_no": "LH2022",
       "airline": "Lufthansa",
       "city": "München",
@@ -874,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 26
     },
     {
       "dt": 1792168800.0,
@@ -890,8 +852,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -908,9 +870,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -936,7 +898,7 @@
     {
       "dt": 1792169700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:26",
+      "time_estimated": "18:24",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -946,9 +908,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -965,9 +927,9 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792171500.0,
       "time_scheduled": "19:25",
-      "time_estimated": "18:54",
+      "time_estimated": "18:55",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1354,7 +1316,7 @@
     {
       "dt": 1792173600.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:35",
+      "time_estimated": "20:36",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1368,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 35
+      "delay": 36
     },
     {
       "dt": 1792174200.0,
@@ -1411,7 +1373,7 @@
     {
       "dt": 1792175100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:38",
+      "time_estimated": "20:33",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1425,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 8
     },
     {
       "dt": 1792175100.0,
@@ -1468,7 +1430,7 @@
     {
       "dt": 1792175700.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:54",
+      "time_estimated": "20:57",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1482,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 22
     },
     {
       "dt": 1792176000.0,
@@ -1525,7 +1487,7 @@
     {
       "dt": 1792177200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:09",
+      "time_estimated": "21:10",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1539,7 +1501,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792177200.0,
@@ -1658,7 +1620,7 @@
     {
       "dt": 1792179000.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:30",
+      "time_estimated": "21:26",
       "flight_no": "EW9757",
       "airline": "Eurowings",
       "city": "Wien",
@@ -2038,7 +2000,7 @@
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:25",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -2052,7 +2014,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1792181400.0,
