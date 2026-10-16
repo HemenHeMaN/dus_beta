@@ -1,5 +1,5 @@
 {
-  "updated_at": "16.10.2026 21:00",
+  "updated_at": "16.10.2026 21:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 85
     },
     {
-      "dt": 1792167900.0,
-      "time_scheduled": "18:25",
-      "time_estimated": "19:02",
-      "flight_no": "EW9587",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 37
-    },
-    {
       "dt": 1792168800.0,
       "time_scheduled": "18:40",
       "time_estimated": "19:15",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 36
-    },
-    {
-      "dt": 1792169700.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "19:03",
-      "flight_no": "LO407",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
     },
     {
       "dt": 1792170300.0,
@@ -172,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 13
-    },
-    {
-      "dt": 1792170900.0,
-      "time_scheduled": "19:15",
-      "time_estimated": "19:00",
-      "flight_no": "BM560",
-      "airline": "Medsky Airways",
-      "city": "Tripolis-Mitiga",
-      "country": "Libyen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792171200.0,
@@ -434,8 +377,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 49
     },
@@ -594,7 +537,7 @@
     {
       "dt": 1792177200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:05",
+      "time_estimated": "21:03",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -604,16 +547,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 3
     },
     {
       "dt": 1792177500.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:06",
+      "time_estimated": "21:01",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -623,11 +566,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792178100.0,
@@ -670,7 +613,7 @@
     {
       "dt": 1792178400.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:07",
+      "time_estimated": "21:04",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -680,9 +623,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +689,7 @@
     {
       "dt": 1792179600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:10",
+      "time_estimated": "21:12",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -822,7 +765,7 @@
     {
       "dt": 1792179900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:57",
+      "time_estimated": "21:58",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -833,10 +776,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1792180200.0,
@@ -860,7 +803,7 @@
     {
       "dt": 1792180200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:46",
+      "time_estimated": "21:47",
       "flight_no": "X34573",
       "airline": "Tuifly",
       "city": "Kos",
@@ -917,7 +860,7 @@
     {
       "dt": 1792180500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:34",
+      "time_estimated": "22:31",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -928,10 +871,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 40
+      "delay": 37
     },
     {
       "dt": 1792180800.0,
@@ -1107,7 +1050,7 @@
     {
       "dt": 1792181400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:08",
+      "time_estimated": "22:07",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1118,8 +1061,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1240,7 +1183,7 @@
     {
       "dt": 1792182000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:49",
+      "time_estimated": "22:51",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1251,10 +1194,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 32
     },
     {
       "dt": 1792182300.0,
@@ -1297,7 +1240,7 @@
     {
       "dt": 1792182300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:11",
+      "time_estimated": "22:18",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
