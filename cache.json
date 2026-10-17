@@ -1,26 +1,7 @@
 {
-  "updated_at": "17.10.2026 08:30",
+  "updated_at": "17.10.2026 08:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792212300.0,
-      "time_scheduled": "06:45",
-      "time_estimated": "06:32",
-      "flight_no": "XQ1350",
-      "airline": "Sun Express",
-      "city": "Samsun",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792212900.0,
       "time_scheduled": "06:55",
@@ -252,7 +233,7 @@
     {
       "dt": 1792219500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:46",
+      "time_estimated": "08:58",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -266,7 +247,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 14
     },
     {
       "dt": 1792219800.0,
@@ -309,7 +290,7 @@
     {
       "dt": 1792219800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:33",
+      "time_estimated": "08:57",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -323,7 +304,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792220100.0,
@@ -358,8 +339,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +366,7 @@
     {
       "dt": 1792220400.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:37",
+      "time_estimated": "08:32",
       "flight_no": "XC244",
       "airline": "Corendon Airlines",
       "city": "Gazipaşa-Alanya",
@@ -395,9 +376,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -415,8 +396,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792224300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "09:54",
+      "time_estimated": "09:55",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -719,8 +700,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1792225500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:17",
+      "time_estimated": "10:16",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792230000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:38",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792230900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:55",
+      "time_estimated": "11:37",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1761,6 +1742,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792236900.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:35",
+      "flight_no": "EW9855",
+      "airline": "Eurowings",
+      "city": "Brindisi",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
