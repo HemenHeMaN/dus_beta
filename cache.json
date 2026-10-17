@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 15:45",
+  "updated_at": "17.10.2026 15:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1792242600.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:53",
+      "time_estimated": "16:15",
       "flight_no": "DE1685",
       "airline": "Condor",
       "city": "Larnaca (Zypern)",
@@ -551,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 43
+      "delay": 66
     },
     {
       "dt": 1792242900.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792244700.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:12",
+      "time_estimated": "16:07",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -624,10 +624,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 27
+      "delay": 22
     },
     {
       "dt": 1792244700.0,
@@ -699,9 +699,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -718,9 +718,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -746,7 +746,7 @@
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:54",
+      "time_estimated": "15:49",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -756,9 +756,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792257300.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:08",
+      "time_estimated": "19:09",
       "flight_no": "XQ1390",
       "airline": "Sun Express",
       "city": "Gaziantep",
