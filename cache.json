@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 13:45",
+  "updated_at": "17.10.2026 13:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 7
-    },
-    {
-      "dt": 1792230600.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:49",
-      "flight_no": "EW9441",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792230600.0,
@@ -509,9 +490,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 31
     },
@@ -547,9 +528,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -605,8 +586,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792239000.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:56",
+      "time_estimated": "14:08",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -746,7 +727,7 @@
     {
       "dt": 1792239300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:32",
+      "time_estimated": "14:33",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -757,10 +738,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 18
     },
     {
       "dt": 1792239300.0,
@@ -852,8 +833,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 11
     },
@@ -898,7 +879,7 @@
     {
       "dt": 1792241100.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:51",
+      "time_estimated": "15:03",
       "flight_no": "VL2016",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -912,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 19
     },
     {
       "dt": 1792241400.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1792241400.0,
       "time_scheduled": "14:50",
-      "time_estimated": "15:20",
+      "time_estimated": "15:27",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -950,7 +931,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 38
     },
     {
       "dt": 1792241400.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792242900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:23",
+      "time_estimated": "15:19",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 4
     },
     {
       "dt": 1792243200.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792245000.0,
       "time_scheduled": "15:50",
-      "time_estimated": "16:47",
+      "time_estimated": "16:38",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -1159,12 +1140,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 57
+      "delay": 48
     },
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:05",
+      "time_estimated": "16:11",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 12
     },
     {
       "dt": 1792245600.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792248900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "17:57",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1387,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 63
     },
     {
       "dt": 1792250100.0,
@@ -1647,6 +1628,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792255800.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:50",
+      "flight_no": "VL2022",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
