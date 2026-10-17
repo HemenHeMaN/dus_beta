@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 20:50",
+  "updated_at": "17.10.2026 20:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1792256100.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:51",
-      "flight_no": "LO407",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792256100.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1792262700.0,
       "time_scheduled": "20:45",
-      "time_estimated": "21:11",
+      "time_estimated": "21:02",
       "flight_no": "EW9587",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -570,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 26
+      "delay": 17
     },
     {
       "dt": 1792263300.0,
@@ -581,9 +562,9 @@
       "city": "Kalamata",
       "country": "Griechenland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -594,7 +575,7 @@
     {
       "dt": 1792263300.0,
       "time_scheduled": "20:55",
-      "time_estimated": "21:01",
+      "time_estimated": "20:53",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -604,16 +585,16 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792263600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:15",
+      "time_estimated": "21:04",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -627,7 +608,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 16
+      "delay": 5
     },
     {
       "dt": 1792263600.0,
@@ -642,9 +623,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -676,9 +657,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -868,7 +849,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "12",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -942,10 +923,10 @@
       "city": "Djerba",
       "country": "Tunesien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1150,11 +1131,11 @@
       "airline": "Eurowings",
       "city": "Bastia (Korsika)",
       "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1221,21 +1202,21 @@
     {
       "dt": 1792268400.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:55",
+      "time_estimated": "22:54",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 35
     },
     {
       "dt": 1792268400.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792269300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:55",
+      "time_estimated": "22:49",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -1387,7 +1368,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 14
     },
     {
       "dt": 1792269300.0,
