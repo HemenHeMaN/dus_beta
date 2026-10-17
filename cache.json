@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 19:20",
+  "updated_at": "17.10.2026 19:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -243,9 +243,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 55
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1792257000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:26",
+      "time_estimated": "19:22",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -452,11 +452,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 12
     },
     {
       "dt": 1792257300.0,
@@ -491,8 +491,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1792257900.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:17",
+      "time_estimated": "19:20",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -585,9 +585,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -624,8 +624,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -662,8 +662,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792266600.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:58",
+      "time_estimated": "21:53",
       "flight_no": "EW9657",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1102,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1792266600.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792266900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:35",
+      "time_estimated": "22:30",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1178,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 40
+      "delay": 36
     },
     {
       "dt": 1792266900.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792267200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:04",
+      "time_estimated": "23:01",
       "flight_no": "DE1557",
       "airline": "Condor",
       "city": "Jerez de la Frontera",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 61
     },
     {
       "dt": 1792267500.0,
@@ -1392,7 +1392,7 @@
     {
       "dt": 1792267800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:41",
       "flight_no": "DE1795",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1403,10 +1403,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 31
     },
     {
       "dt": 1792268100.0,
@@ -1555,8 +1555,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
