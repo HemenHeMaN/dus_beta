@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 09:05",
+  "updated_at": "17.10.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,7 +404,7 @@
     {
       "dt": 1792221600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:06",
+      "time_estimated": "09:08",
       "flight_no": "BJ2368",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -414,16 +414,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792221900.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:23",
+      "time_estimated": "09:17",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -434,8 +434,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -566,16 +566,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792223100.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:26",
+      "time_estimated": "09:21",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -586,8 +586,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +993,7 @@
     {
       "dt": 1792227600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:10",
+      "time_estimated": "11:11",
       "flight_no": "AP1037",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -1007,7 +1007,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1792227900.0,
@@ -1316,7 +1316,7 @@
     {
       "dt": 1792230900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:33",
+      "time_estimated": "11:34",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792231200.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "12:14",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1349,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1792231500.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792231800.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "12:13",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1387,12 +1387,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792231800.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "12:13",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -1406,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792232100.0,
@@ -1932,6 +1932,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792239000.0,
+      "time_scheduled": "14:10",
+      "time_estimated": "14:10",
+      "flight_no": "XQ186",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
