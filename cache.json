@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 07:15",
+  "updated_at": "17.10.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -92,8 +92,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -157,7 +157,7 @@
     {
       "dt": 1792215600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:43",
+      "time_estimated": "07:48",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -168,10 +168,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 8
     },
     {
       "dt": 1792216200.0,
@@ -186,9 +186,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -373,7 +373,7 @@
       "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "C",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -468,7 +468,7 @@
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Ausgang",
-      "terminal": "C",
+      "terminal": "A",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
@@ -936,7 +936,7 @@
     {
       "dt": 1792226100.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:35",
+      "time_estimated": "10:39",
       "flight_no": "QS4610",
       "airline": "Smartwings",
       "city": "Heraklion (Kreta)",
@@ -947,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792226400.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792226700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "11:05",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1792227000.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792227900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "10:38",
+      "time_estimated": "10:33",
       "flight_no": "4M696",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1535,6 +1535,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792232400.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "RSX8565",
+      "airline": "Red Sea Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
