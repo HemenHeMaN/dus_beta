@@ -1,26 +1,7 @@
 {
-  "updated_at": "17.10.2026 13:40",
+  "updated_at": "17.10.2026 13:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792226700.0,
-      "time_scheduled": "10:45",
-      "time_estimated": "11:40",
-      "flight_no": "EW9751",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 56
-    },
     {
       "dt": 1792230000.0,
       "time_scheduled": "11:40",
@@ -271,25 +252,6 @@
     {
       "dt": 1792233600.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:47",
-      "flight_no": "VL2014",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 8
-    },
-    {
-      "dt": 1792233600.0,
-      "time_scheduled": "12:40",
       "time_estimated": "12:54",
       "flight_no": "EW9577",
       "airline": "Eurowings",
@@ -324,6 +286,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
+    },
+    {
+      "dt": 1792233600.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:47",
+      "flight_no": "VL2014",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 8
     },
     {
       "dt": 1792233900.0,
@@ -547,9 +528,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1792238100.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:06",
+      "time_estimated": "13:59",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -586,10 +567,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1792238100.0,
@@ -623,9 +604,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -681,8 +662,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -699,9 +680,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -738,8 +719,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1792239300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:31",
+      "time_estimated": "14:32",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -779,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1792239300.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1792241400.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:53",
+      "time_estimated": "14:54",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -988,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792241700.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1792242900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:22",
+      "time_estimated": "15:23",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792243200.0,
@@ -1354,7 +1335,7 @@
     {
       "dt": 1792248900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "16:45",
       "flight_no": "EW5449",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792248900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "15:52",
+      "time_estimated": "16:37",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
