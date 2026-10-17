@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 22:25",
+  "updated_at": "17.10.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,26 +423,26 @@
     {
       "dt": 1792266900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:44",
+      "time_estimated": "22:56",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 50
+      "delay": 62
     },
     {
       "dt": 1792266900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:28",
+      "time_estimated": "22:34",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -456,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 34
+      "delay": 40
     },
     {
       "dt": 1792266900.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1792267500.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:45",
+      "time_estimated": "22:26",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -585,11 +585,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 41
+      "delay": 22
     },
     {
       "dt": 1792267500.0,
@@ -661,9 +661,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1792268700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:45",
+      "time_estimated": "22:52",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -798,7 +798,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 21
+      "delay": 27
     },
     {
       "dt": 1792268700.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792268700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:53",
+      "time_estimated": "22:28",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -832,16 +832,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 28
+      "delay": 4
     },
     {
       "dt": 1792268700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:32",
+      "time_estimated": "22:38",
       "flight_no": "EW5521",
       "airline": "Eurowings",
       "city": "Marsa Alam",
@@ -855,7 +855,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1792268700.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1792269300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:54",
+      "time_estimated": "22:45",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -908,11 +908,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 11
     },
     {
       "dt": 1792269300.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1792269600.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:47",
+      "time_estimated": "22:53",
       "flight_no": "DE1415",
       "airline": "Condor",
       "city": "Funchal (Madeira)",
@@ -965,11 +965,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 14
     },
     {
       "dt": 1792269600.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1792269900.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:46",
+      "time_estimated": "22:41",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1004,10 +1004,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792269900.0,
