@@ -1,26 +1,7 @@
 {
-  "updated_at": "17.10.2026 18:00",
+  "updated_at": "17.10.2026 18:05",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792244700.0,
-      "time_scheduled": "15:45",
-      "time_estimated": "16:02",
-      "flight_no": "EW9637",
-      "airline": "Eurowings",
-      "city": "Kos",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 17
-    },
     {
       "dt": 1792245000.0,
       "time_scheduled": "15:50",
@@ -244,8 +225,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 62
     },
@@ -395,9 +376,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -1088,7 +1069,7 @@
     {
       "dt": 1792263300.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:55",
+      "time_estimated": "21:10",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1792263600.0,
@@ -1411,21 +1392,21 @@
     {
       "dt": 1792266900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:33",
+      "time_estimated": "22:35",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 38
+      "delay": 40
     },
     {
       "dt": 1792266900.0,
@@ -1582,7 +1563,7 @@
     {
       "dt": 1792267800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:55",
+      "time_estimated": "22:54",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1596,7 +1577,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 45
+      "delay": 44
     },
     {
       "dt": 1792267800.0,
@@ -1844,6 +1825,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792268700.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "23:05",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 40
     },
     {
       "dt": 1792269300.0,
