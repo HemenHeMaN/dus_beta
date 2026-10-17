@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 21:15",
+  "updated_at": "17.10.2026 21:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 55
-    },
-    {
-      "dt": 1792256400.0,
-      "time_scheduled": "19:00",
-      "time_estimated": "19:17",
-      "flight_no": "XR6598",
-      "airline": "Corendon Airlines Europe",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 18
     },
     {
       "dt": 1792256700.0,
@@ -347,7 +328,7 @@
     {
       "dt": 1792261500.0,
       "time_scheduled": "20:25",
-      "time_estimated": "21:23",
+      "time_estimated": "21:17",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -357,11 +338,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 58
+      "delay": 53
     },
     {
       "dt": 1792262100.0,
@@ -376,9 +357,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 66
     },
@@ -518,7 +499,7 @@
     {
       "dt": 1792263900.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:35",
+      "time_estimated": "21:27",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -532,7 +513,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 31
+      "delay": 23
     },
     {
       "dt": 1792264500.0,
@@ -561,11 +542,11 @@
       "airline": "Eurowings",
       "city": "Hurghada",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -575,7 +556,7 @@
     {
       "dt": 1792265400.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:41",
+      "time_estimated": "21:31",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -586,10 +567,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 1
     },
     {
       "dt": 1792265700.0,
@@ -602,7 +583,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -643,8 +624,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -697,7 +678,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "11",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1074,11 +1055,11 @@
       "airline": "Iberia",
       "city": "Madrid-Barajas",
       "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
+      "type": "Linie",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1153,8 +1134,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1316,7 +1297,7 @@
     {
       "dt": 1792269600.0,
       "time_scheduled": "22:40",
-      "time_estimated": "23:36",
+      "time_estimated": "23:33",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1330,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 56
+      "delay": 53
     },
     {
       "dt": 1792269900.0,
