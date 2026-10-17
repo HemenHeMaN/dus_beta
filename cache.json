@@ -1,7 +1,26 @@
 {
-  "updated_at": "17.10.2026 16:00",
+  "updated_at": "17.10.2026 16:05",
   "source": "Dus.com",
   "flights": [
+    {
+      "dt": 1792232400.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "21:05",
+      "flight_no": "RSX8565",
+      "airline": "Red Sea Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 525
+    },
     {
       "dt": 1792236000.0,
       "time_scheduled": "13:20",
@@ -62,25 +81,6 @@
     {
       "dt": 1792237800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:02",
-      "flight_no": "X34589",
-      "airline": "Tuifly",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 12
-    },
-    {
-      "dt": 1792237800.0,
-      "time_scheduled": "13:50",
       "time_estimated": "14:14",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
@@ -134,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
-    },
-    {
-      "dt": 1792238700.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:03",
-      "flight_no": "XQ958",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792238700.0,
@@ -537,7 +518,7 @@
     {
       "dt": 1792244700.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:05",
+      "time_estimated": "16:02",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -547,11 +528,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 21
+      "delay": 17
     },
     {
       "dt": 1792244700.0,
@@ -613,7 +594,7 @@
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:04",
+      "time_estimated": "16:00",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -623,16 +604,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:19",
+      "time_estimated": "16:12",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -646,12 +627,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:21",
+      "time_estimated": "16:20",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -662,10 +643,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 22
+      "delay": 21
     },
     {
       "dt": 1792245600.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792256100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:25",
+      "time_estimated": "19:02",
       "flight_no": "XQ1526",
       "airline": "Sun Express",
       "city": "Kütahya / Zafer",
@@ -1156,15 +1137,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792256100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:07",
+      "time_estimated": "19:05",
       "flight_no": "XQ280",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1178,7 +1159,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 11
     },
     {
       "dt": 1792256100.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792257000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:06",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1278,7 +1259,7 @@
     {
       "dt": 1792257000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "20:14",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1292,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 65
     },
     {
       "dt": 1792257300.0,
@@ -1308,8 +1289,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1687,6 +1668,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792263900.0,
+      "time_scheduled": "21:05",
+      "time_estimated": "21:05",
+      "flight_no": "EW9573",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
