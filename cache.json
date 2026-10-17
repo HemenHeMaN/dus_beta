@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 15:30",
+  "updated_at": "17.10.2026 15:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -566,9 +566,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1792245000.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:49",
+      "time_estimated": "15:43",
       "flight_no": "X32117",
       "airline": "Tuifly",
       "city": "Fuerteventura",
@@ -708,7 +708,7 @@
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:14",
+      "time_estimated": "16:15",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -722,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 16
     },
     {
       "dt": 1792245600.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:21",
+      "time_estimated": "16:20",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -757,15 +757,15 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 21
     },
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:01",
+      "time_estimated": "16:03",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -779,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792246200.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792252800.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:03",
+      "time_estimated": "18:09",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 9
     },
     {
       "dt": 1792254000.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792254900.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:35",
+      "time_estimated": "18:43",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792255800.0,
@@ -1666,6 +1666,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792262100.0,
+      "time_scheduled": "20:35",
+      "time_estimated": "20:35",
+      "flight_no": "VF5127",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
