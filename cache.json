@@ -1,45 +1,7 @@
 {
-  "updated_at": "17.10.2026 16:55",
+  "updated_at": "17.10.2026 17:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792238700.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:57",
-      "flight_no": "XR406",
-      "airline": "Corendon Airlines Europe",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 52
-    },
-    {
-      "dt": 1792240200.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:55",
-      "flight_no": "EW9691",
-      "airline": "Eurowings",
-      "city": "Malta",
-      "country": "Malta",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 25
-    },
     {
       "dt": 1792241400.0,
       "time_scheduled": "14:50",
@@ -395,9 +357,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 50
     },
@@ -442,7 +404,7 @@
     {
       "dt": 1792248900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:15",
+      "time_estimated": "17:22",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -453,10 +415,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 21
+      "delay": 27
     },
     {
       "dt": 1792250100.0,
@@ -480,7 +442,7 @@
     {
       "dt": 1792250400.0,
       "time_scheduled": "17:20",
-      "time_estimated": "20:06",
+      "time_estimated": "20:04",
       "flight_no": "TK3368",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -494,7 +456,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 166
+      "delay": 164
     },
     {
       "dt": 1792250700.0,
@@ -510,8 +472,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1792255800.0,
       "time_scheduled": "18:50",
-      "time_estimated": "19:04",
+      "time_estimated": "18:55",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -741,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 5
     },
     {
       "dt": 1792256100.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1792257300.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:04",
+      "time_estimated": "19:38",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -950,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1792257300.0,
@@ -1107,7 +1069,7 @@
     {
       "dt": 1792260000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "20:03",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1121,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792260300.0,
@@ -1145,7 +1107,7 @@
     {
       "dt": 1792260300.0,
       "time_scheduled": "20:05",
-      "time_estimated": "20:05",
+      "time_estimated": "20:02",
       "flight_no": "EW9817",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1587,6 +1549,82 @@
       "airline": "Corendon Airlines Europe",
       "city": "Korfu",
       "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792267200.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "EW5703",
+      "airline": "Eurowings",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792267200.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "EW9989",
+      "airline": "Eurowings",
+      "city": "Kairo",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792267200.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "DE1617",
+      "airline": "Condor",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792267200.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "DE1557",
+      "airline": "Condor",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
