@@ -1,26 +1,7 @@
 {
-  "updated_at": "17.10.2026 06:50",
+  "updated_at": "17.10.2026 06:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792209900.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:08",
-      "flight_no": "EW9675",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
-    },
     {
       "dt": 1792209900.0,
       "time_scheduled": "06:05",
@@ -39,6 +20,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1792209900.0,
+      "time_scheduled": "06:05",
+      "time_estimated": "06:08",
+      "flight_no": "EW9675",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 4
     },
     {
       "dt": 1792212300.0,
@@ -81,7 +81,7 @@
     {
       "dt": 1792212900.0,
       "time_scheduled": "06:55",
-      "time_estimated": "07:28",
+      "time_estimated": "07:29",
       "flight_no": "0S8220",
       "airline": "Sky Vision Airlines",
       "city": "Hurghada",
@@ -95,7 +95,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 34
+      "delay": 35
     },
     {
       "dt": 1792213800.0,
@@ -129,9 +129,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1421,6 +1421,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792230900.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "11:55",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
