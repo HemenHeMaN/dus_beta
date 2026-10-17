@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 07:30",
+  "updated_at": "17.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1792216200.0,
       "time_scheduled": "07:50",
-      "time_estimated": "07:42",
+      "time_estimated": "08:02",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -190,7 +190,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792216500.0,
@@ -282,8 +282,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -632,26 +632,26 @@
     {
       "dt": 1792222500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:22",
+      "time_estimated": "09:40",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
       "country": "Polen",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792222800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:45",
+      "time_estimated": "09:47",
       "flight_no": "OU422",
       "airline": "Croatia Airlines",
       "city": "Split",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1792222800.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1792225800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:10",
+      "time_estimated": "10:04",
       "flight_no": "4M611",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -955,7 +955,7 @@
     {
       "dt": 1792226400.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:40",
+      "time_estimated": "10:59",
       "flight_no": "AP1633",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -969,12 +969,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1792226700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "11:05",
+      "time_estimated": "11:15",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 30
     },
     {
       "dt": 1792227000.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792227300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:43",
+      "time_estimated": "10:38",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1592,6 +1592,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792233300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
