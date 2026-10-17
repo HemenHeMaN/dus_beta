@@ -1,11 +1,11 @@
 {
-  "updated_at": "17.10.2026 05:30",
+  "updated_at": "17.10.2026 05:35",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792209900.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:10",
+      "time_estimated": "06:07",
       "flight_no": "EW9675",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -19,12 +19,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 2
     },
     {
       "dt": 1792209900.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:07",
+      "time_estimated": "06:06",
       "flight_no": "XC268",
       "airline": "Corendon Airlines",
       "city": "Mersin-Çukurova",
@@ -38,7 +38,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 1
     },
     {
       "dt": 1792212300.0,
@@ -138,7 +138,7 @@
     {
       "dt": 1792214700.0,
       "time_scheduled": "07:25",
-      "time_estimated": "06:39",
+      "time_estimated": "06:44",
       "flight_no": "TK3364",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -195,7 +195,7 @@
     {
       "dt": 1792216500.0,
       "time_scheduled": "07:55",
-      "time_estimated": "08:43",
+      "time_estimated": "08:38",
       "flight_no": "QS4664",
       "airline": "Smartwings",
       "city": "Rhodos",
@@ -209,7 +209,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 49
+      "delay": 43
     },
     {
       "dt": 1792218600.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1792220400.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:36",
+      "time_estimated": "08:35",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -908,6 +908,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792226100.0,
+      "time_scheduled": "10:35",
+      "time_estimated": "10:35",
+      "flight_no": "GQ890",
+      "airline": "Sky Express",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792226100.0,
+      "time_scheduled": "10:35",
+      "time_estimated": "10:35",
+      "flight_no": "QS4610",
+      "airline": "Smartwings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
