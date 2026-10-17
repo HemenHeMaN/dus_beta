@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 22:35",
+  "updated_at": "17.10.2026 22:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1792265400.0,
       "time_scheduled": "21:30",
-      "time_estimated": "22:54",
+      "time_estimated": "22:59",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -190,7 +190,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 84
+      "delay": 90
     },
     {
       "dt": 1792265400.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1792266900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:56",
+      "time_estimated": "22:37",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -395,11 +395,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 62
+      "delay": 43
     },
     {
       "dt": 1792266900.0,
@@ -452,9 +452,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 63
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792267200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:52",
+      "time_estimated": "22:47",
       "flight_no": "DE1557",
       "airline": "Condor",
       "city": "Jerez de la Frontera",
@@ -532,7 +532,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 53
+      "delay": 47
     },
     {
       "dt": 1792267500.0,
@@ -604,9 +604,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 53
     },
@@ -619,13 +619,13 @@
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -661,9 +661,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 47
     },
@@ -676,9 +676,9 @@
       "city": "Alicante",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "Im Anflug",
@@ -866,13 +866,13 @@
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -898,7 +898,7 @@
     {
       "dt": 1792269300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:54",
+      "time_estimated": "22:48",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -912,26 +912,26 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 14
     },
     {
       "dt": 1792269600.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:53",
+      "time_estimated": "22:59",
       "flight_no": "DE1415",
       "airline": "Condor",
       "city": "Funchal (Madeira)",
       "country": "Portugal",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 20
     },
     {
       "dt": 1792269600.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1792269900.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:41",
+      "time_estimated": "22:38",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -965,9 +965,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
