@@ -1,45 +1,7 @@
 {
-  "updated_at": "17.10.2026 14:50",
+  "updated_at": "17.10.2026 14:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792232100.0,
-      "time_scheduled": "12:15",
-      "time_estimated": "12:52",
-      "flight_no": "EW9883",
-      "airline": "Eurowings",
-      "city": "Rom-Fiumicino",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 38
-    },
-    {
-      "dt": 1792233600.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "12:54",
-      "flight_no": "EW9577",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 15
-    },
     {
       "dt": 1792233600.0,
       "time_scheduled": "12:40",
@@ -58,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
-    },
-    {
-      "dt": 1792234200.0,
-      "time_scheduled": "12:50",
-      "time_estimated": "12:51",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1792234200.0,
@@ -442,7 +385,7 @@
     {
       "dt": 1792239300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:55",
+      "time_estimated": "14:50",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -452,11 +395,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 40
+      "delay": 36
     },
     {
       "dt": 1792239300.0,
@@ -613,7 +556,7 @@
     {
       "dt": 1792241100.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:48",
+      "time_estimated": "14:52",
       "flight_no": "VL2016",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -623,11 +566,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 8
     },
     {
       "dt": 1792241400.0,
@@ -699,9 +642,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 24
     },
@@ -776,8 +719,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +860,7 @@
     {
       "dt": 1792245600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:06",
+      "time_estimated": "16:20",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -931,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 21
     },
     {
       "dt": 1792245600.0,
@@ -1240,7 +1183,7 @@
     {
       "dt": 1792252500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:46",
+      "time_estimated": "17:52",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1251,8 +1194,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1706,6 +1649,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792259700.0,
+      "time_scheduled": "19:55",
+      "time_estimated": "19:55",
+      "flight_no": "XQ288",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
