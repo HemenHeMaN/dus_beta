@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 14:25",
+  "updated_at": "17.10.2026 14:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,25 +271,6 @@
     {
       "dt": 1792236000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "14:16",
-      "flight_no": "EW9643",
-      "airline": "Eurowings",
-      "city": "Faro",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 57
-    },
-    {
-      "dt": 1792236000.0,
-      "time_scheduled": "13:20",
       "time_estimated": "13:18",
       "flight_no": "EW9655",
       "airline": "Eurowings",
@@ -307,6 +288,25 @@
       "delay": 0
     },
     {
+      "dt": 1792236000.0,
+      "time_scheduled": "13:20",
+      "time_estimated": "14:16",
+      "flight_no": "EW9643",
+      "airline": "Eurowings",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 57
+    },
+    {
       "dt": 1792236300.0,
       "time_scheduled": "13:25",
       "time_estimated": "14:29",
@@ -319,11 +319,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 65
+      "delay": 64
     },
     {
       "dt": 1792236900.0,
@@ -566,16 +566,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 46
     },
     {
       "dt": 1792239300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:29",
+      "time_estimated": "14:24",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -585,11 +585,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 10
     },
     {
       "dt": 1792239300.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792240200.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:44",
+      "time_estimated": "14:56",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -627,7 +627,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 26
     },
     {
       "dt": 1792240200.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1792240800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:31",
+      "time_estimated": "14:27",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -699,9 +699,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -719,29 +719,29 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
     {
       "dt": 1792241100.0,
       "time_scheduled": "14:45",
-      "time_estimated": "15:04",
+      "time_estimated": "15:05",
       "flight_no": "VL2016",
       "airline": "Lufthansa City Airlines",
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 21
     },
     {
       "dt": 1792241400.0,
@@ -795,8 +795,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1792242300.0,
       "time_scheduled": "15:05",
-      "time_estimated": "14:33",
+      "time_estimated": "14:38",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -833,8 +833,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792246200.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:13",
+      "time_estimated": "16:22",
       "flight_no": "DE3655",
       "airline": "Condor",
       "city": "Genua",
@@ -1102,12 +1102,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 13
     },
     {
       "dt": 1792247100.0,
       "time_scheduled": "16:25",
-      "time_estimated": "17:43",
+      "time_estimated": "17:42",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1131,11 +1131,11 @@
       "airline": "Tunisair",
       "city": "Tunis",
       "country": "Tunesien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792248900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:45",
+      "time_estimated": "16:55",
       "flight_no": "EW5449",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -1259,7 +1259,7 @@
     {
       "dt": 1792250700.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:08",
+      "time_estimated": "17:10",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1270,8 +1270,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1782,6 +1782,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792258200.0,
+      "time_scheduled": "19:30",
+      "time_estimated": "19:30",
+      "flight_no": "XQ180",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
