@@ -1,5 +1,5 @@
 {
-  "updated_at": "17.10.2026 18:15",
+  "updated_at": "17.10.2026 18:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1792254000.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:32",
+      "time_estimated": "18:39",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -396,10 +396,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 19
     },
     {
       "dt": 1792254600.0,
@@ -433,9 +433,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792263900.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:05",
+      "time_estimated": "21:21",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1792264500.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792265700.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:35",
+      "time_estimated": "21:25",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1787,6 +1787,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792268700.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "23:20",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 55
     },
     {
       "dt": 1792269300.0,
