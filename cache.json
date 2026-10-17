@@ -1,45 +1,7 @@
 {
-  "updated_at": "17.10.2026 15:15",
+  "updated_at": "17.10.2026 15:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792235100.0,
-      "time_scheduled": "13:05",
-      "time_estimated": "13:16",
-      "flight_no": "EW9687",
-      "airline": "Eurowings",
-      "city": "Volos",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 12
-    },
-    {
-      "dt": 1792236000.0,
-      "time_scheduled": "13:20",
-      "time_estimated": "13:18",
-      "flight_no": "EW9655",
-      "airline": "Eurowings",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792236000.0,
       "time_scheduled": "13:20",
@@ -529,8 +491,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 37
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1792242900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:23",
+      "time_estimated": "15:18",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -623,11 +585,11 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1792243200.0,
@@ -662,8 +624,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -700,8 +662,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1126,7 +1088,7 @@
     {
       "dt": 1792252800.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:26",
+      "time_estimated": "18:23",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1140,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 23
     },
     {
       "dt": 1792252800.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792254000.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:20",
+      "time_estimated": "18:24",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1197,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792254600.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792256100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:25",
       "flight_no": "XQ1526",
       "airline": "Sun Express",
       "city": "Kütahya / Zafer",
@@ -1682,6 +1644,25 @@
       "airline": "Vueling",
       "city": "Barcelona",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792261200.0,
+      "time_scheduled": "20:20",
+      "time_estimated": "20:20",
+      "flight_no": "EW9961",
+      "airline": "Eurowings",
+      "city": "Split",
+      "country": "Kroatien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
