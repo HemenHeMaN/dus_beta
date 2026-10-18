@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 14:05",
+  "updated_at": "18.10.2026 14:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 86
-    },
-    {
-      "dt": 1792316400.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "12:09",
-      "flight_no": "QS4664",
-      "airline": "Smartwings",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 29
     },
     {
       "dt": 1792317000.0,
@@ -575,7 +556,7 @@
     {
       "dt": 1792323900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:22",
+      "time_estimated": "14:32",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -589,12 +570,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 37
+      "delay": 48
     },
     {
       "dt": 1792324200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:32",
+      "time_estimated": "14:07",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -604,11 +585,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 43
+      "delay": 17
     },
     {
       "dt": 1792324200.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1792324800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:27",
+      "time_estimated": "14:26",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -680,11 +661,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 27
+      "delay": 26
     },
     {
       "dt": 1792325100.0,
@@ -822,7 +803,7 @@
     {
       "dt": 1792325700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:12",
+      "time_estimated": "14:11",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -871,15 +852,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
     {
       "dt": 1792326000.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:12",
+      "time_estimated": "14:09",
       "flight_no": "QS4474",
       "airline": "Smartwings",
       "city": "Fuerteventura",
@@ -889,9 +870,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -965,9 +946,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792336200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:10",
+      "time_estimated": "17:11",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1463,12 +1444,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792336500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:10",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -2051,6 +2032,44 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792343400.0,
+      "time_scheduled": "19:10",
+      "time_estimated": "19:10",
+      "flight_no": "IB755",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792343700.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:06",
+      "flight_no": "EK057",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
