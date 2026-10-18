@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 08:15",
+  "updated_at": "18.10.2026 08:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -205,9 +205,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -262,9 +262,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -300,9 +300,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792308900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:44",
+      "time_estimated": "09:54",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 20
     },
     {
       "dt": 1792309500.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1792311300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "11:41",
+      "time_estimated": "11:42",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 86
+      "delay": 87
     },
     {
       "dt": 1792311900.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1792312200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:36",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792313100.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1792315200.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:20",
+      "time_estimated": "11:24",
       "flight_no": "EW9831",
       "airline": "Eurowings",
       "city": "Florenz",
@@ -931,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792315800.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792318800.0,
       "time_scheduled": "12:20",
-      "time_estimated": "12:43",
+      "time_estimated": "12:27",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1292,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 7
     },
     {
       "dt": 1792319100.0,
@@ -1559,6 +1559,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792321500.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:16",
+      "flight_no": "EW9691",
+      "airline": "Eurowings",
+      "city": "Malta",
+      "country": "Malta",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 11
     },
     {
       "dt": 1792321500.0,
