@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 15:30",
+  "updated_at": "18.10.2026 15:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -632,7 +632,7 @@
     {
       "dt": 1792329300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:35",
+      "time_estimated": "15:41",
       "flight_no": "DY1150",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -646,7 +646,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 21
+      "delay": 27
     },
     {
       "dt": 1792329600.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1792330500.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:36",
+      "time_estimated": "15:34",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -699,11 +699,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792330800.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1792331100.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:11",
+      "time_estimated": "16:13",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -741,12 +741,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 28
     },
     {
       "dt": 1792331400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:49",
+      "time_estimated": "15:44",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -757,8 +757,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1792332000.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:52",
+      "time_estimated": "15:44",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -795,8 +795,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1354,7 +1354,7 @@
     {
       "dt": 1792340100.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:34",
+      "time_estimated": "18:40",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 25
     },
     {
       "dt": 1792340100.0,
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792340400.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:20",
+      "time_estimated": "18:46",
       "flight_no": "XQ3180",
       "airline": "Sun Express",
       "city": "Bodrum-Milas",
@@ -1441,10 +1441,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 27
     },
     {
       "dt": 1792341000.0,
@@ -1677,7 +1677,7 @@
     {
       "dt": 1792344000.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:20",
+      "time_estimated": "19:03",
       "flight_no": "XQ284",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1688,8 +1688,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2062,6 +2062,25 @@
       "airline": "Aer Lingus",
       "city": "Dublin",
       "country": "Irland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792348500.0,
+      "time_scheduled": "20:35",
+      "time_estimated": "20:35",
+      "flight_no": "VF5127",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
