@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 17:05",
+  "updated_at": "18.10.2026 17:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,7 +290,7 @@
     {
       "dt": 1792334700.0,
       "time_scheduled": "16:45",
-      "time_estimated": "17:32",
+      "time_estimated": "17:21",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -304,7 +304,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 48
+      "delay": 37
     },
     {
       "dt": 1792335000.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1792335900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:10",
+      "time_estimated": "17:15",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -399,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 10
     },
     {
       "dt": 1792336200.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1792337100.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:28",
+      "time_estimated": "17:22",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -472,15 +472,15 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792337100.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:28",
+      "time_estimated": "17:18",
       "flight_no": "PC5305",
       "airline": "Pegasus Airlines",
       "city": "Izmir",
@@ -491,10 +491,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792337400.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792338000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:50",
+      "time_estimated": "17:51",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792338000.0,
@@ -585,9 +585,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792343700.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:12",
+      "time_estimated": "19:14",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -1240,7 +1240,7 @@
     {
       "dt": 1792344300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:47",
+      "time_estimated": "19:48",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1254,7 +1254,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 23
     },
     {
       "dt": 1792344600.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792345500.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:48",
+      "time_estimated": "19:50",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
@@ -1425,12 +1425,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1792345800.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:42",
+      "time_estimated": "19:43",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1544,7 +1544,7 @@
     {
       "dt": 1792348500.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:35",
+      "time_estimated": "20:19",
       "flight_no": "VF5127",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -2214,6 +2214,44 @@
       "airline": "Lufthansa",
       "city": "Frankfurt",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792354200.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9847",
+      "airline": "Eurowings",
+      "city": "Mailand-Linate",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792354200.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "SK629",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
