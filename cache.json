@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 09:45",
+  "updated_at": "18.10.2026 09:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -472,8 +472,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -491,8 +491,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:53",
+      "time_estimated": "12:00",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1026,12 +1026,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 11
     },
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:49",
+      "time_estimated": "11:43",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792320300.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:45",
+      "time_estimated": "12:51",
       "flight_no": "VL2014",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -1425,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792320600.0,
@@ -2067,6 +2067,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792327800.0,
+      "time_scheduled": "14:50",
+      "time_estimated": "14:50",
+      "flight_no": "BJ2972",
+      "airline": "Nouvelair",
+      "city": "Djerba",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
