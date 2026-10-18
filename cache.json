@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 15:40",
+  "updated_at": "18.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -134,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
-    },
-    {
-      "dt": 1792324200.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:42",
-      "flight_no": "AF1506",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792324500.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1792331400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:44",
+      "time_estimated": "15:45",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -765,7 +746,7 @@
     {
       "dt": 1792332000.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "15:44",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -775,11 +756,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792332600.0,
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792338000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:38",
+      "time_estimated": "17:45",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792338000.0,
@@ -1202,7 +1183,7 @@
     {
       "dt": 1792338600.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:10",
+      "time_estimated": "18:18",
       "flight_no": "EW9505",
       "airline": "Eurowings",
       "city": "Menorca",
@@ -1216,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 28
     },
     {
       "dt": 1792338600.0,
@@ -1316,7 +1297,7 @@
     {
       "dt": 1792339200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:51",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1330,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792340100.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792340100.0,
       "time_scheduled": "18:15",
-      "time_estimated": "19:39",
+      "time_estimated": "19:34",
       "flight_no": "RSX8565",
       "airline": "Red Sea Airlines",
       "city": "Hurghada",
@@ -1387,7 +1368,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 85
+      "delay": 79
     },
     {
       "dt": 1792340400.0,
@@ -1715,7 +1696,7 @@
     {
       "dt": 1792344300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:30",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -1726,10 +1707,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792344300.0,
@@ -1829,7 +1810,7 @@
     {
       "dt": 1792344600.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:30",
+      "time_estimated": "19:11",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1840,8 +1821,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2081,6 +2062,25 @@
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792349100.0,
+      "time_scheduled": "20:45",
+      "time_estimated": "20:45",
+      "flight_no": "EW9503",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
