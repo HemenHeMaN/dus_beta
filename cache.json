@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 14:20",
+  "updated_at": "18.10.2026 14:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -72,30 +72,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 174
-    },
-    {
-      "dt": 1792317600.0,
-      "time_scheduled": "12:00",
-      "time_estimated": "12:25",
-      "flight_no": "EW9917",
-      "airline": "Eurowings",
-      "city": "Tirana",
-      "country": "Albanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 25
     },
     {
       "dt": 1792318800.0,
@@ -134,25 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 13
-    },
-    {
-      "dt": 1792319100.0,
-      "time_scheduled": "12:25",
-      "time_estimated": "12:23",
-      "flight_no": "FH1193",
-      "airline": "Freebird Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792319100.0,
@@ -613,7 +575,7 @@
     {
       "dt": 1792324800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:25",
+      "time_estimated": "14:24",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -623,9 +585,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 25
     },
@@ -803,7 +765,7 @@
     {
       "dt": 1792325700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:17",
+      "time_estimated": "14:30",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -817,7 +779,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 16
     },
     {
       "dt": 1792326000.0,
@@ -898,7 +860,7 @@
     {
       "dt": 1792326900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:24",
+      "time_estimated": "14:21",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -908,9 +870,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -927,9 +889,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -947,8 +909,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -965,9 +927,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -1240,7 +1202,7 @@
     {
       "dt": 1792332900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:26",
+      "time_estimated": "16:28",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -1254,7 +1216,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 14
     },
     {
       "dt": 1792334700.0,
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792337100.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:29",
+      "time_estimated": "17:28",
       "flight_no": "PC5305",
       "airline": "Pegasus Airlines",
       "city": "Izmir",
@@ -1463,7 +1425,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 3
     },
     {
       "dt": 1792337400.0,
@@ -1715,7 +1677,7 @@
     {
       "dt": 1792339200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:49",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1726,8 +1688,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2133,6 +2095,44 @@
     {
       "dt": 1792344300.0,
       "time_scheduled": "19:25",
+      "time_estimated": "19:25",
+      "flight_no": "PC5011",
+      "airline": "Pegasus Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792344300.0,
+      "time_scheduled": "19:25",
+      "time_estimated": "19:25",
+      "flight_no": "PC1005",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792344300.0,
+      "time_scheduled": "19:25",
       "time_estimated": "19:08",
       "flight_no": "XR6442",
       "airline": "Corendon Airlines Europe",
@@ -2146,6 +2146,25 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792344300.0,
+      "time_scheduled": "19:25",
+      "time_estimated": "19:25",
+      "flight_no": "XQ1360",
+      "airline": "Sun Express",
+      "city": "Diyarbakir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
