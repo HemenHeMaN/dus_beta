@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 13:15",
+  "updated_at": "18.10.2026 13:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -689,7 +689,7 @@
     {
       "dt": 1792321800.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:20",
+      "time_estimated": "13:15",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -699,11 +699,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1792322100.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1792322700.0,
       "time_scheduled": "13:25",
-      "time_estimated": "14:04",
+      "time_estimated": "14:06",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -760,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 40
+      "delay": 42
     },
     {
       "dt": 1792323000.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1792323000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:28",
+      "time_estimated": "13:27",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -822,7 +822,7 @@
     {
       "dt": 1792323900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:46",
+      "time_estimated": "13:40",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -832,11 +832,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792323900.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1792324500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:57",
+      "time_estimated": "13:58",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -931,7 +931,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1792324800.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1792325100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:04",
+      "time_estimated": "13:59",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792325400.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:53",
+      "time_estimated": "13:56",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792326900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:29",
+      "time_estimated": "14:30",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1449,7 +1449,7 @@
     {
       "dt": 1792330800.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:50",
+      "time_estimated": "15:56",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1463,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 16
     },
     {
       "dt": 1792331100.0,
@@ -2140,6 +2140,44 @@
       "country": "Ägypten",
       "type": "Charter",
       "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792340400.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "LX1024",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792340400.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "XQ3180",
+      "airline": "Sun Express",
+      "city": "Bodrum-Milas",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
