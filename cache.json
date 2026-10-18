@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 07:30",
+  "updated_at": "18.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1792302000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:42",
+      "time_estimated": "07:34",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -148,11 +148,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792303200.0,
@@ -176,7 +176,7 @@
     {
       "dt": 1792304400.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:16",
+      "time_estimated": "08:17",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -233,7 +233,7 @@
     {
       "dt": 1792305600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:53",
+      "time_estimated": "08:51",
       "flight_no": "VL2004",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -247,7 +247,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 11
     },
     {
       "dt": 1792305600.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1792311900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:30",
+      "time_estimated": "10:17",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792312200.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1792312200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:23",
+      "time_estimated": "10:30",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -803,7 +803,7 @@
     {
       "dt": 1792313100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:34",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -860,7 +860,7 @@
     {
       "dt": 1792314000.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:54",
+      "time_estimated": "10:52",
       "flight_no": "4M772",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792319400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:31",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792319400.0,
@@ -1421,6 +1421,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792319700.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792319700.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792319700.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
