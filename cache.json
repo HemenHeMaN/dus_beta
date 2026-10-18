@@ -1,26 +1,7 @@
 {
-  "updated_at": "18.10.2026 16:10",
+  "updated_at": "18.10.2026 16:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792323900.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "14:11",
-      "flight_no": "XR402",
-      "airline": "Corendon Airlines Europe",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 26
-    },
     {
       "dt": 1792324800.0,
       "time_scheduled": "14:00",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 35
-    },
-    {
-      "dt": 1792325700.0,
-      "time_scheduled": "14:15",
-      "time_estimated": "14:14",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792325700.0,
@@ -376,9 +338,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 66
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1792331100.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:16",
+      "time_estimated": "16:11",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -433,11 +395,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 32
+      "delay": 27
     },
     {
       "dt": 1792331400.0,
@@ -509,9 +471,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -548,8 +510,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -624,8 +586,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 25
     },
@@ -670,7 +632,7 @@
     {
       "dt": 1792336200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:18",
+      "time_estimated": "17:17",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -681,15 +643,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1792336500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:16",
+      "time_estimated": "17:24",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -703,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 9
     },
     {
       "dt": 1792336800.0,
@@ -879,7 +841,7 @@
     {
       "dt": 1792338300.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:40",
+      "time_estimated": "17:43",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -890,8 +852,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792344300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:30",
+      "time_estimated": "19:24",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -1463,12 +1425,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792344300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:16",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1848,7 +1810,26 @@
     {
       "dt": 1792349100.0,
       "time_scheduled": "20:45",
-      "time_estimated": "20:45",
+      "time_estimated": "21:13",
+      "flight_no": "EW9673",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 28
+    },
+    {
+      "dt": 1792349100.0,
+      "time_scheduled": "20:45",
+      "time_estimated": "21:02",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1862,7 +1843,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1792349700.0,
@@ -1958,6 +1939,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792350300.0,
+      "time_scheduled": "21:05",
+      "time_estimated": "21:14",
+      "flight_no": "X37102",
+      "airline": "Tuifly",
+      "city": "Boa Vista (Kapverden)",
+      "country": "Kapverdische Inseln",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 9
     }
   ]
 }
