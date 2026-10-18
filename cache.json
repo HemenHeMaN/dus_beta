@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 07:35",
+  "updated_at": "18.10.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -167,9 +167,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1792305600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:34",
+      "time_estimated": "08:49",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -266,12 +266,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792305900.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:50",
+      "time_estimated": "08:53",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -285,7 +285,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 9
     },
     {
       "dt": 1792305900.0,
@@ -1478,6 +1478,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792320000.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:40",
+      "flight_no": "TK3334",
+      "airline": "Turkish Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
