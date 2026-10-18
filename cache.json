@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 15:45",
+  "updated_at": "18.10.2026 15:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 165
-    },
-    {
-      "dt": 1792320600.0,
-      "time_scheduled": "12:50",
-      "time_estimated": "13:50",
-      "flight_no": "EW9793",
-      "airline": "Eurowings",
-      "city": "Bukarest-Otopeni",
-      "country": "Rumänien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 60
     },
     {
       "dt": 1792322700.0,
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 32
-    },
-    {
-      "dt": 1792323900.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "13:45",
-      "flight_no": "EW9627",
-      "airline": "Eurowings",
-      "city": "Zakynthos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1792323900.0,
@@ -153,25 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
-    },
-    {
-      "dt": 1792324500.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "13:47",
-      "flight_no": "X34105",
-      "airline": "Tuifly",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792324800.0,
@@ -328,25 +271,6 @@
     {
       "dt": 1792325700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:14",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792325700.0,
-      "time_scheduled": "14:15",
       "time_estimated": "17:43",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
@@ -362,6 +286,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 209
+    },
+    {
+      "dt": 1792325700.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:14",
+      "flight_no": "MS733",
+      "airline": "Egypt Air",
+      "city": "Kairo",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792325700.0,
@@ -623,9 +566,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 29
     },
@@ -699,16 +642,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 26
     },
     {
       "dt": 1792331400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:45",
+      "time_estimated": "15:47",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -718,9 +661,9 @@
       "terminal": "A",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +879,7 @@
     {
       "dt": 1792336200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:06",
+      "time_estimated": "17:20",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -950,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1792336500.0,
@@ -1335,25 +1278,6 @@
     {
       "dt": 1792340100.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:15",
-      "flight_no": "RSX9565",
-      "airline": "Red Sea Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
-      "delay": 0
-    },
-    {
-      "dt": 1792340100.0,
-      "time_scheduled": "18:15",
       "time_estimated": "19:34",
       "flight_no": "RSX8565",
       "airline": "Red Sea Airlines",
@@ -1369,6 +1293,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 79
+    },
+    {
+      "dt": 1792340100.0,
+      "time_scheduled": "18:15",
+      "time_estimated": "18:15",
+      "flight_no": "RSX9565",
+      "airline": "Red Sea Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
+      "delay": 0
     },
     {
       "dt": 1792340400.0,
@@ -1468,7 +1411,7 @@
     {
       "dt": 1792342500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:49",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1582,7 +1525,7 @@
     {
       "dt": 1792343700.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:15",
+      "time_estimated": "18:51",
       "flight_no": "VF029",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1753,7 +1696,7 @@
     {
       "dt": 1792344300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:45",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1764,10 +1707,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1792344600.0,
@@ -2034,6 +1977,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792348200.0,
+      "time_scheduled": "20:30",
+      "time_estimated": "20:49",
+      "flight_no": "EW9637",
+      "airline": "Eurowings",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 19
     },
     {
       "dt": 1792348500.0,
