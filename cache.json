@@ -1,26 +1,7 @@
 {
-  "updated_at": "18.10.2026 09:30",
+  "updated_at": "18.10.2026 09:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792302000.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:34",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792303200.0,
       "time_scheduled": "08:00",
@@ -81,7 +62,7 @@
     {
       "dt": 1792305600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "09:33",
+      "time_estimated": "09:34",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -91,9 +72,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 54
     },
@@ -471,16 +452,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792310400.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:14",
+      "time_estimated": "10:11",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -491,10 +472,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 12
     },
     {
       "dt": 1792310700.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1792315800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:46",
+      "time_estimated": "11:49",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -874,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 19
     },
     {
       "dt": 1792316100.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1792316400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:32",
+      "time_estimated": "11:31",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -947,8 +928,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +955,7 @@
     {
       "dt": 1792316400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:14",
+      "time_estimated": "12:08",
       "flight_no": "QS4664",
       "airline": "Smartwings",
       "city": "Rhodos",
@@ -988,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 34
+      "delay": 29
     },
     {
       "dt": 1792316400.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:53",
+      "time_estimated": "11:46",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792317000.0,
@@ -1278,7 +1259,7 @@
     {
       "dt": 1792319400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "13:01",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1289,15 +1270,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 32
     },
     {
       "dt": 1792319400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:20",
+      "time_estimated": "12:18",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -1308,8 +1289,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1411,7 +1392,7 @@
     {
       "dt": 1792320300.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:45",
+      "time_estimated": "12:41",
       "flight_no": "DE1149",
       "airline": "Condor",
       "city": "Zakynthos",
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792320600.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:50",
+      "time_estimated": "12:35",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -2010,6 +1991,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792326900.0,
+      "time_scheduled": "14:35",
+      "time_estimated": "14:35",
+      "flight_no": "EW9465",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
