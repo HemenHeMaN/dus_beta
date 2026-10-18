@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 08:45",
+  "updated_at": "18.10.2026 08:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1792299900.0,
-      "time_scheduled": "07:05",
-      "time_estimated": "06:49",
-      "flight_no": "PC1619",
-      "airline": "Pegasus Airlines",
-      "city": "Kayseri",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792301100.0,
@@ -301,8 +282,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -358,8 +339,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -376,16 +357,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
     {
       "dt": 1792307100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:43",
+      "time_estimated": "08:47",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -395,16 +376,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792307400.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:46",
+      "time_estimated": "09:13",
       "flight_no": "KM352",
       "airline": "KM Malta Airlines",
       "city": "Malta",
@@ -418,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792308000.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1792315800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:44",
+      "time_estimated": "11:46",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -931,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 16
     },
     {
       "dt": 1792315800.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1792316400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "12:16",
       "flight_no": "QS4664",
       "airline": "Smartwings",
       "city": "Rhodos",
@@ -1061,10 +1042,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 36
     },
     {
       "dt": 1792316400.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:53",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -1159,12 +1140,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:00",
+      "time_estimated": "11:53",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 4
     },
     {
       "dt": 1792317000.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1792318200.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "11:50",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792320000.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:40",
+      "time_estimated": "12:12",
       "flight_no": "TK3334",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -1460,8 +1441,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1725,6 +1706,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792324200.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "TK1525",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792324200.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "AF1506",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
