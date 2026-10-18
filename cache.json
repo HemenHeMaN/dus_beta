@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 13:30",
+  "updated_at": "18.10.2026 13:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 83
-    },
-    {
-      "dt": 1792315200.0,
-      "time_scheduled": "11:20",
-      "time_estimated": "11:32",
-      "flight_no": "EW9831",
-      "airline": "Eurowings",
-      "city": "Florenz",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
-    },
-    {
-      "dt": 1792315800.0,
-      "time_scheduled": "11:30",
-      "time_estimated": "11:34",
-      "flight_no": "EW9573",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1792316100.0,
@@ -119,6 +81,25 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
+      "time_estimated": "11:49",
+      "flight_no": "SK816",
+      "airline": "Scandinavian Airlines",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792317000.0,
+      "time_scheduled": "11:50",
       "time_estimated": "12:39",
       "flight_no": "EW9883",
       "airline": "Eurowings",
@@ -148,25 +129,6 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792317000.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:49",
-      "flight_no": "SK816",
-      "airline": "Scandinavian Airlines",
-      "city": "Oslo - Gardermoen",
-      "country": "Norwegen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -499,25 +461,6 @@
     {
       "dt": 1792320300.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:30",
-      "flight_no": "DE1149",
-      "airline": "Condor",
-      "city": "Zakynthos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792320300.0,
-      "time_scheduled": "12:45",
       "time_estimated": "12:57",
       "flight_no": "VL2014",
       "airline": "Lufthansa City Airlines",
@@ -535,6 +478,25 @@
       "delay": 12
     },
     {
+      "dt": 1792320300.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:30",
+      "flight_no": "DE1149",
+      "airline": "Condor",
+      "city": "Zakynthos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
       "dt": 1792320600.0,
       "time_scheduled": "12:50",
       "time_estimated": "13:53",
@@ -547,9 +509,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 64
     },
@@ -661,16 +623,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 42
     },
     {
       "dt": 1792323000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:09",
+      "time_estimated": "14:11",
       "flight_no": "EW9645",
       "airline": "Eurowings",
       "city": "Faro",
@@ -684,7 +646,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 41
     },
     {
       "dt": 1792323000.0,
@@ -719,8 +681,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +708,7 @@
     {
       "dt": 1792323900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:09",
+      "time_estimated": "14:10",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -760,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 26
     },
     {
       "dt": 1792324200.0,
@@ -795,8 +757,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -822,7 +784,7 @@
     {
       "dt": 1792324500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:58",
+      "time_estimated": "13:52",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -836,7 +798,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792324800.0,
@@ -1069,7 +1031,7 @@
     {
       "dt": 1792326300.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:31",
+      "time_estimated": "14:41",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1083,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 16
     },
     {
       "dt": 1792326300.0,
@@ -1175,8 +1137,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1202,7 +1164,7 @@
     {
       "dt": 1792328100.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:39",
+      "time_estimated": "15:38",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -1213,10 +1175,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 44
+      "delay": 43
     },
     {
       "dt": 1792328700.0,
@@ -1259,7 +1221,7 @@
     {
       "dt": 1792329300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:33",
+      "time_estimated": "15:32",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1273,12 +1235,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 17
     },
     {
       "dt": 1792329300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:15",
+      "time_estimated": "15:26",
       "flight_no": "DY1150",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -1292,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792329600.0,
@@ -1354,7 +1316,7 @@
     {
       "dt": 1792330800.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:56",
+      "time_estimated": "15:51",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1368,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 11
     },
     {
       "dt": 1792331100.0,
@@ -1943,7 +1905,7 @@
     {
       "dt": 1792339200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:03",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1957,7 +1919,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792339200.0,
@@ -2020,25 +1982,6 @@
       "dt": 1792340100.0,
       "time_scheduled": "18:15",
       "time_estimated": "18:15",
-      "flight_no": "RSX9565",
-      "airline": "Red Sea Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
-      "delay": 0
-    },
-    {
-      "dt": 1792340100.0,
-      "time_scheduled": "18:15",
-      "time_estimated": "18:15",
       "flight_no": "RSX8565",
       "airline": "Red Sea Airlines",
       "city": "Hurghada",
@@ -2052,6 +1995,25 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792340100.0,
+      "time_scheduled": "18:15",
+      "time_estimated": "18:15",
+      "flight_no": "RSX9565",
+      "airline": "Red Sea Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
       "delay": 0
     },
     {
