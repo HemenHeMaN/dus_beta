@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 07:05",
+  "updated_at": "18.10.2026 07:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1792298700.0,
       "time_scheduled": "06:45",
-      "time_estimated": "07:17",
+      "time_estimated": "07:30",
       "flight_no": "XQ1370",
       "airline": "Sun Express",
       "city": "Mersin-Çukurova",
@@ -57,7 +57,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 32
+      "delay": 45
     },
     {
       "dt": 1792299900.0,
@@ -138,7 +138,7 @@
     {
       "dt": 1792302000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:39",
+      "time_estimated": "07:41",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -149,10 +149,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792303200.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1792306800.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:52",
+      "time_estimated": "08:53",
       "flight_no": "PC5677",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -518,21 +518,21 @@
     {
       "dt": 1792308600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:31",
+      "time_estimated": "09:32",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
       "country": "Dänemark",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792308600.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1792311300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "10:23",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792311300.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1792311300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "11:41",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -700,10 +700,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 86
     },
     {
       "dt": 1792311900.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792312200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:26",
+      "time_estimated": "10:32",
       "flight_no": "4M711",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -776,10 +776,10 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792312200.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792315800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:30",
+      "time_estimated": "11:37",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792315800.0,
@@ -1257,6 +1257,25 @@
       "delay": 0
     },
     {
+      "dt": 1792317300.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "12:09",
+      "flight_no": "EW9501",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 14
+    },
+    {
       "dt": 1792317600.0,
       "time_scheduled": "12:00",
       "time_estimated": "12:00",
@@ -1267,6 +1286,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792318200.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
