@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 09:40",
+  "updated_at": "18.10.2026 09:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,7 +404,7 @@
     {
       "dt": 1792308900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "10:05",
+      "time_estimated": "10:07",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -414,11 +414,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 31
+      "delay": 33
     },
     {
       "dt": 1792309500.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1792309800.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:46",
+      "time_estimated": "09:51",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -456,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792310400.0,
@@ -471,9 +471,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -490,9 +490,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792312200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:48",
+      "time_estimated": "10:50",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -605,10 +605,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 20
     },
     {
       "dt": 1792312200.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792315800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:49",
+      "time_estimated": "11:44",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -833,15 +833,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 14
     },
     {
       "dt": 1792315800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:49",
+      "time_estimated": "11:45",
       "flight_no": "DE1775",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -852,15 +852,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 15
     },
     {
       "dt": 1792316100.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:44",
+      "time_estimated": "11:39",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -871,15 +871,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 4
     },
     {
       "dt": 1792316100.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:44",
+      "time_estimated": "12:33",
       "flight_no": "EW9919",
       "airline": "Eurowings",
       "city": "Tivat",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 59
     },
     {
       "dt": 1792316100.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:55",
+      "time_estimated": "11:53",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1792317000.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:52",
+      "time_estimated": "11:54",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -1080,10 +1080,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1792317000.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792319100.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:27",
+      "time_estimated": "12:37",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1235,12 +1235,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 12
     },
     {
       "dt": 1792319400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:40",
+      "time_estimated": "12:46",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1254,12 +1254,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 16
     },
     {
       "dt": 1792319400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "13:01",
+      "time_estimated": "12:55",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1273,7 +1273,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 26
     },
     {
       "dt": 1792319400.0,
@@ -1996,6 +1996,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792326600.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:42",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 12
     },
     {
       "dt": 1792326900.0,
