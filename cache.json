@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 11:15",
+  "updated_at": "18.10.2026 11:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 54
-    },
-    {
-      "dt": 1792308000.0,
-      "time_scheduled": "09:20",
-      "time_estimated": "09:18",
-      "flight_no": "VL2006",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792308600.0,
@@ -176,44 +157,6 @@
     {
       "dt": 1792311300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:13",
-      "flight_no": "ME247",
-      "airline": "Middle East Airlines",
-      "city": "Beirut",
-      "country": "Libanon",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792311300.0,
-      "time_scheduled": "10:15",
-      "time_estimated": "11:47",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 92
-    },
-    {
-      "dt": 1792311300.0,
-      "time_scheduled": "10:15",
       "time_estimated": "10:15",
       "flight_no": "GQ890",
       "airline": "Sky Express",
@@ -229,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1792311300.0,
+      "time_scheduled": "10:15",
+      "time_estimated": "10:13",
+      "flight_no": "ME247",
+      "airline": "Middle East Airlines",
+      "city": "Beirut",
+      "country": "Libanon",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792311900.0,
@@ -509,9 +471,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -528,9 +490,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -548,8 +510,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -575,7 +537,7 @@
     {
       "dt": 1792316100.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:36",
+      "time_estimated": "11:29",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -589,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792316400.0,
@@ -632,7 +594,7 @@
     {
       "dt": 1792316400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:08",
+      "time_estimated": "12:09",
       "flight_no": "QS4664",
       "airline": "Smartwings",
       "city": "Rhodos",
@@ -646,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 30
     },
     {
       "dt": 1792316400.0,
@@ -670,7 +632,26 @@
     {
       "dt": 1792316700.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:58",
+      "time_estimated": "11:47",
+      "flight_no": "UD437",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 2
+    },
+    {
+      "dt": 1792316700.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:44",
       "flight_no": "6K457",
       "airline": "Air Anka",
       "city": "Antalya",
@@ -684,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 0
     },
     {
       "dt": 1792317000.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:44",
+      "time_estimated": "11:37",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -718,9 +699,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1792317300.0,
       "time_scheduled": "11:55",
-      "time_estimated": "15:02",
+      "time_estimated": "14:28",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -798,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 188
+      "delay": 153
     },
     {
       "dt": 1792317600.0,
@@ -905,7 +886,7 @@
       "country": "Portugal",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -917,21 +898,21 @@
     {
       "dt": 1792319400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:54",
+      "time_estimated": "12:53",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1792319400.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792322100.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:11",
+      "time_estimated": "13:06",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1677,7 +1658,7 @@
     {
       "dt": 1792326600.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:43",
+      "time_estimated": "15:03",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1691,7 +1672,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 33
     },
     {
       "dt": 1792326900.0,
@@ -2034,6 +2015,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792332600.0,
+      "time_scheduled": "16:10",
+      "time_estimated": "16:19",
+      "flight_no": "EW9677",
+      "airline": "Eurowings",
+      "city": "Chania (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 9
     },
     {
       "dt": 1792332900.0,
