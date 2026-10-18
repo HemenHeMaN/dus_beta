@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 08:55",
+  "updated_at": "18.10.2026 09:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1792306500.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "08:58",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -262,11 +262,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792306500.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1792306800.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:57",
+      "time_estimated": "08:56",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -319,9 +319,9 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -395,9 +395,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -415,8 +415,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -632,7 +632,7 @@
     {
       "dt": 1792311900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:24",
+      "time_estimated": "10:23",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -643,8 +643,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1792313100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:34",
+      "time_estimated": "10:44",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -822,7 +822,7 @@
     {
       "dt": 1792314600.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:13",
+      "time_estimated": "11:22",
       "flight_no": "AP1037",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -836,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 13
     },
     {
       "dt": 1792314600.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792316700.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "12:04",
       "flight_no": "6K457",
       "airline": "Air Anka",
       "city": "Antalya",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1792317000.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:49",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -1156,8 +1156,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1757,6 +1757,25 @@
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792324800.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:00",
+      "flight_no": "DE1623",
+      "airline": "Condor",
+      "city": "Rhodos",
       "country": "Griechenland",
       "type": "Charter",
       "type_source": "Airline",
