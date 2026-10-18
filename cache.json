@@ -1,11 +1,11 @@
 {
-  "updated_at": "18.10.2026 17:50",
+  "updated_at": "18.10.2026 17:55",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792325700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "18:13",
+      "time_estimated": "17:51",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -15,11 +15,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 239
+      "delay": 217
     },
     {
       "dt": 1792329900.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1792338000.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:50",
+      "time_estimated": "17:54",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -395,11 +395,11 @@
       "terminal": "A",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 14
     },
     {
       "dt": 1792338000.0,
@@ -567,8 +567,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792339200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:55",
+      "time_estimated": "18:01",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -608,12 +608,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792339200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:54",
+      "time_estimated": "18:00",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -776,8 +776,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 2
     },
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792345200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:56",
+      "time_estimated": "20:02",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1197,12 +1197,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 22
     },
     {
       "dt": 1792345200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:42",
+      "time_estimated": "19:43",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -1259,21 +1259,21 @@
     {
       "dt": 1792345500.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:50",
+      "time_estimated": "19:47",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
       "country": "Spanien",
       "type": "Charter",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 2
     },
     {
       "dt": 1792345800.0,
@@ -2152,7 +2152,7 @@
     {
       "dt": 1792354500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:00",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -2163,8 +2163,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
