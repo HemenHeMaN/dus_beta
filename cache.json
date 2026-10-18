@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 14:45",
+  "updated_at": "18.10.2026 14:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -461,7 +461,7 @@
     {
       "dt": 1792325100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:51",
+      "time_estimated": "14:50",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -471,11 +471,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 47
+      "delay": 45
     },
     {
       "dt": 1792325100.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792325400.0,
       "time_scheduled": "14:10",
-      "time_estimated": "14:47",
+      "time_estimated": "14:45",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -528,11 +528,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 37
+      "delay": 35
     },
     {
       "dt": 1792325400.0,
@@ -700,8 +700,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 32
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1792328700.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:10",
+      "time_estimated": "14:47",
       "flight_no": "XQ280",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -813,11 +813,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792329300.0,
@@ -1772,7 +1772,7 @@
     {
       "dt": 1792342800.0,
       "time_scheduled": "19:00",
-      "time_estimated": "19:00",
+      "time_estimated": "19:40",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -1783,10 +1783,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 41
     },
     {
       "dt": 1792343400.0,
@@ -2181,6 +2181,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792345800.0,
+      "time_scheduled": "19:50",
+      "time_estimated": "19:50",
+      "flight_no": "VY1898",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
