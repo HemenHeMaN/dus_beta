@@ -1,26 +1,7 @@
 {
-  "updated_at": "18.10.2026 09:15",
+  "updated_at": "18.10.2026 09:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792298700.0,
-      "time_scheduled": "06:45",
-      "time_estimated": "07:16",
-      "flight_no": "XQ1370",
-      "airline": "Sun Express",
-      "city": "Mersin-Çukurova",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 31
-    },
     {
       "dt": 1792302000.0,
       "time_scheduled": "07:40",
@@ -110,30 +91,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 63
-    },
-    {
-      "dt": 1792305600.0,
-      "time_scheduled": "08:40",
-      "time_estimated": "08:41",
-      "flight_no": "VL2004",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1792305600.0,
@@ -153,6 +115,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792305600.0,
+      "time_scheduled": "08:40",
+      "time_estimated": "08:41",
+      "flight_no": "VL2004",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 1
     },
     {
       "dt": 1792305900.0,
@@ -366,7 +347,7 @@
     {
       "dt": 1792308000.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:41",
+      "time_estimated": "09:18",
       "flight_no": "VL2006",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -376,11 +357,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 0
     },
     {
       "dt": 1792308300.0,
@@ -415,15 +396,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792308600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:42",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -437,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792308900.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792312200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:35",
+      "time_estimated": "10:42",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -646,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 12
     },
     {
       "dt": 1792312200.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1792314600.0,
       "time_scheduled": "11:10",
-      "time_estimated": "12:42",
+      "time_estimated": "12:41",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -974,7 +955,7 @@
     {
       "dt": 1792316400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:31",
+      "time_estimated": "11:26",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1050,7 +1031,7 @@
     {
       "dt": 1792317000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:44",
+      "time_estimated": "11:55",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792317000.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792319100.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:37",
+      "time_estimated": "12:20",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1235,12 +1216,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 0
     },
     {
       "dt": 1792319100.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:25",
+      "time_estimated": "12:23",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1972,6 +1953,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792326000.0,
+      "time_scheduled": "14:20",
+      "time_estimated": "14:20",
+      "flight_no": "QS4474",
+      "airline": "Smartwings",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
