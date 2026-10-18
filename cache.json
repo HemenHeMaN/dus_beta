@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 13:05",
+  "updated_at": "18.10.2026 13:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -328,7 +328,7 @@
     {
       "dt": 1792317300.0,
       "time_scheduled": "11:55",
-      "time_estimated": "14:53",
+      "time_estimated": "14:48",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -342,7 +342,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 179
+      "delay": 174
     },
     {
       "dt": 1792317600.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792321500.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:29",
+      "time_estimated": "13:06",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -680,11 +680,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 25
+      "delay": 2
     },
     {
       "dt": 1792321500.0,
@@ -699,16 +699,16 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 23
     },
     {
       "dt": 1792321800.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:28",
+      "time_estimated": "13:20",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -719,15 +719,15 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 11
     },
     {
       "dt": 1792322100.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:11",
+      "time_estimated": "13:05",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -737,16 +737,16 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792322100.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:12",
+      "time_estimated": "13:09",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -756,9 +756,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -790,9 +790,9 @@
       "city": "Faro",
       "country": "Portugal",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -822,7 +822,7 @@
     {
       "dt": 1792323900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:43",
+      "time_estimated": "13:44",
       "flight_no": "EW9627",
       "airline": "Eurowings",
       "city": "Zakynthos",
@@ -980,9 +980,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792329900.0,
       "time_scheduled": "15:25",
-      "time_estimated": "16:32",
+      "time_estimated": "16:34",
       "flight_no": "TK3364",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -1444,7 +1444,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 67
+      "delay": 69
     },
     {
       "dt": 1792330500.0,
@@ -1563,7 +1563,7 @@
     {
       "dt": 1792332600.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:36",
+      "time_estimated": "16:37",
       "flight_no": "EW9559",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -1577,7 +1577,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 27
     },
     {
       "dt": 1792332600.0,
@@ -1601,7 +1601,7 @@
     {
       "dt": 1792332900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:28",
+      "time_estimated": "16:26",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -1615,7 +1615,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 12
     },
     {
       "dt": 1792334700.0,
