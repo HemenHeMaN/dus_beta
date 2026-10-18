@@ -1,5 +1,5 @@
 {
-  "updated_at": "18.10.2026 15:25",
+  "updated_at": "18.10.2026 15:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -575,7 +575,7 @@
     {
       "dt": 1792328100.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:28",
+      "time_estimated": "15:25",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -585,11 +585,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 33
+      "delay": 31
     },
     {
       "dt": 1792328700.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792329300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:33",
+      "time_estimated": "15:27",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -623,16 +623,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1792329300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:40",
+      "time_estimated": "15:35",
       "flight_no": "DY1150",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -643,10 +643,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 26
+      "delay": 21
     },
     {
       "dt": 1792329600.0,
@@ -661,9 +661,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -689,7 +689,7 @@
     {
       "dt": 1792330500.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:35",
+      "time_estimated": "15:36",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -703,7 +703,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792330800.0,
@@ -718,9 +718,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -756,9 +756,9 @@
       "terminal": "A",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -794,9 +794,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +993,7 @@
     {
       "dt": 1792336500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:16",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -1007,12 +1007,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792336800.0,
       "time_scheduled": "17:20",
-      "time_estimated": "18:17",
+      "time_estimated": "18:15",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1023,10 +1023,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 57
+      "delay": 55
     },
     {
       "dt": 1792337100.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1792340100.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:25",
+      "time_estimated": "18:34",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 19
     },
     {
       "dt": 1792340100.0,
