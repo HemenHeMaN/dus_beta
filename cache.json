@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 14:10",
+  "updated_at": "19.10.2026 14:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1792410600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:17",
+      "time_estimated": "14:11",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -509,11 +509,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 28
+      "delay": 22
     },
     {
       "dt": 1792410600.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792411500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:14",
+      "time_estimated": "14:13",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -623,11 +623,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1792411500.0,
@@ -757,8 +757,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1792413600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:50",
+      "time_estimated": "14:51",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -874,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1792413900.0,
@@ -890,8 +890,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -984,9 +984,9 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1118,8 +1118,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 35
     },
@@ -1316,7 +1316,7 @@
     {
       "dt": 1792421400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:57",
+      "time_estimated": "17:03",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1330,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 14
     },
     {
       "dt": 1792421700.0,
@@ -1444,12 +1444,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792423500.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:25",
+      "time_estimated": "17:23",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1468,7 +1468,7 @@
     {
       "dt": 1792423800.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:19",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1956,6 +1956,63 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792430100.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "TK1521",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792430100.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "XQ1390",
+      "airline": "Sun Express",
+      "city": "Gaziantep",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792430100.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:14",
+      "flight_no": "EK057",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
