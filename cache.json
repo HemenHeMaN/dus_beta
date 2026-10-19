@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 17:21",
+  "updated_at": "19.10.2026 17:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 47
-    },
-    {
-      "dt": 1792415700.0,
-      "time_scheduled": "15:15",
-      "time_estimated": "15:22",
-      "flight_no": "EW9811",
-      "airline": "Eurowings",
-      "city": "Venedig-Tessera",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
     },
     {
       "dt": 1792417500.0,
@@ -452,9 +433,9 @@
       "terminal": "B",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -499,7 +480,7 @@
     {
       "dt": 1792424400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:42",
+      "time_estimated": "17:33",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -510,10 +491,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792424400.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1792424700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:25",
+      "time_estimated": "17:55",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -570,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1792425300.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1792426800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:33",
+      "time_estimated": "18:32",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -741,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 13
     },
     {
       "dt": 1792427400.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1792428900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:52",
+      "time_estimated": "18:49",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -871,8 +852,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +917,7 @@
     {
       "dt": 1792429800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:25",
+      "time_estimated": "19:26",
       "flight_no": "IB1323",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -947,10 +928,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1792429800.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792430400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:12",
+      "time_estimated": "19:11",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1042,8 +1023,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1848,6 +1829,25 @@
     {
       "dt": 1792440300.0,
       "time_scheduled": "22:05",
+      "time_estimated": "22:25",
+      "flight_no": "EW9631",
+      "airline": "Eurowings",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 20
+    },
+    {
+      "dt": 1792440300.0,
+      "time_scheduled": "22:05",
       "time_estimated": "22:05",
       "flight_no": "EW9245",
       "airline": "Eurowings",
@@ -2046,6 +2046,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792441500.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "22:25",
+      "flight_no": "KL1805",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792441500.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "22:25",
+      "flight_no": "LH2034",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792441500.0,
+      "time_scheduled": "22:25",
+      "time_estimated": "22:25",
+      "flight_no": "EW9335",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
