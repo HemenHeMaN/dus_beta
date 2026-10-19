@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 17:49",
+  "updated_at": "19.10.2026 17:51",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,7 +271,7 @@
     {
       "dt": 1792422600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:12",
+      "time_estimated": "18:18",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -285,7 +285,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 63
+      "delay": 69
     },
     {
       "dt": 1792422900.0,
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -585,9 +585,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792436100.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:55",
+      "time_estimated": "20:53",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -2076,6 +2076,25 @@
     {
       "dt": 1792442100.0,
       "time_scheduled": "22:35",
+      "time_estimated": "22:51",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 16
+    },
+    {
+      "dt": 1792442100.0,
+      "time_scheduled": "22:35",
       "time_estimated": "22:35",
       "flight_no": "X34105",
       "airline": "Tuifly",
@@ -2198,6 +2217,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792443000.0,
+      "time_scheduled": "22:50",
+      "time_estimated": "22:50",
+      "flight_no": "X32115",
+      "airline": "Tuifly",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
