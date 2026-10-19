@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 20:45",
+  "updated_at": "19.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,25 +138,6 @@
     {
       "dt": 1792428900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:47",
-      "flight_no": "LO407",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792428900.0,
-      "time_scheduled": "18:55",
       "time_estimated": "18:51",
       "flight_no": "XQ794",
       "airline": "Sun Express",
@@ -167,25 +148,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792428900.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:49",
-      "flight_no": "XQ280",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -518,25 +480,6 @@
     {
       "dt": 1792434300.0,
       "time_scheduled": "20:25",
-      "time_estimated": "19:59",
-      "flight_no": "EJU3943",
-      "airline": "Easy Jet Europe",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792434300.0,
-      "time_scheduled": "20:25",
       "time_estimated": "20:11",
       "flight_no": "DY1150",
       "airline": "Norwegian",
@@ -573,6 +516,25 @@
       "delay": 0
     },
     {
+      "dt": 1792434300.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "19:59",
+      "flight_no": "EJU3943",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
       "dt": 1792434600.0,
       "time_scheduled": "20:30",
       "time_estimated": "21:06",
@@ -585,9 +547,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -642,9 +604,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -689,7 +651,7 @@
     {
       "dt": 1792436100.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:53",
+      "time_estimated": "21:24",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -703,12 +665,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 30
     },
     {
       "dt": 1792436400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:14",
+      "time_estimated": "21:04",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -719,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 4
     },
     {
       "dt": 1792436400.0,
@@ -738,8 +700,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -860,7 +822,7 @@
     {
       "dt": 1792437900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:26",
+      "time_estimated": "21:27",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -874,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792438500.0,
@@ -974,7 +936,7 @@
     {
       "dt": 1792439100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:54",
+      "time_estimated": "21:57",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 13
     },
     {
       "dt": 1792439100.0,
@@ -1031,7 +993,7 @@
     {
       "dt": 1792439400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:42",
+      "time_estimated": "21:51",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1045,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792439400.0,
@@ -1221,7 +1183,7 @@
     {
       "dt": 1792440300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:00",
+      "time_estimated": "21:56",
       "flight_no": "EW9245",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1240,7 +1202,7 @@
     {
       "dt": 1792440600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:16",
+      "time_estimated": "22:14",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1251,10 +1213,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 5
     },
     {
       "dt": 1792440600.0,
@@ -1297,7 +1259,7 @@
     {
       "dt": 1792440600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:00",
+      "time_estimated": "21:59",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
