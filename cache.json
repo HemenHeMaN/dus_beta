@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 17:51",
+  "updated_at": "19.10.2026 17:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,7 +271,7 @@
     {
       "dt": 1792422600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:18",
+      "time_estimated": "18:11",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -281,11 +281,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 69
+      "delay": 61
     },
     {
       "dt": 1792422900.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1792425900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:12",
+      "time_estimated": "17:53",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -566,11 +566,11 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1792425900.0,
@@ -586,8 +586,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1792429800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:20",
+      "time_estimated": "19:17",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -871,10 +871,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 8
     },
     {
       "dt": 1792430100.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1792431900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:38",
+      "time_estimated": "19:31",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1042,8 +1042,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
