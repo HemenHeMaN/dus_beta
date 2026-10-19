@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 16:25",
+  "updated_at": "19.10.2026 16:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -10,11 +10,11 @@
       "airline": "Eurowings",
       "city": "Kavala",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -537,7 +537,7 @@
     {
       "dt": 1792420500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:43",
+      "time_estimated": "16:36",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -551,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 2
     },
     {
       "dt": 1792421100.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792421700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:40",
+      "time_estimated": "16:46",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -623,9 +623,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -642,9 +642,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -732,11 +732,11 @@
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -898,7 +898,7 @@
     {
       "dt": 1792425300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:10",
+      "time_estimated": "18:01",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -912,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 6
     },
     {
       "dt": 1792425600.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1792429800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:31",
+      "time_estimated": "19:24",
       "flight_no": "IB1323",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 14
     },
     {
       "dt": 1792429800.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792430400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:04",
+      "time_estimated": "19:09",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1388,25 +1388,6 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1792431600.0,
-      "time_scheduled": "19:40",
-      "time_estimated": "21:07",
-      "flight_no": "EW9443",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 87
     },
     {
       "dt": 1792431600.0,
@@ -1806,6 +1787,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792437600.0,
+      "time_scheduled": "21:20",
+      "time_estimated": "21:28",
+      "flight_no": "DE235",
+      "airline": "Condor",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 8
     },
     {
       "dt": 1792437900.0,
