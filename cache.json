@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 22:30",
+  "updated_at": "19.10.2026 22:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,25 +271,6 @@
     {
       "dt": 1792437600.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:30",
-      "flight_no": "DE235",
-      "airline": "Condor",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 11
-    },
-    {
-      "dt": 1792437600.0,
-      "time_scheduled": "21:20",
       "time_estimated": "21:07",
       "flight_no": "EW9543",
       "airline": "Eurowings",
@@ -305,6 +286,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792437600.0,
+      "time_scheduled": "21:20",
+      "time_estimated": "21:30",
+      "flight_no": "DE235",
+      "airline": "Condor",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 11
     },
     {
       "dt": 1792437900.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1792438500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:46",
+      "time_estimated": "22:33",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -376,11 +376,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 72
+      "delay": 59
     },
     {
       "dt": 1792438800.0,
@@ -461,21 +461,21 @@
     {
       "dt": 1792439100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:47",
+      "time_estimated": "22:45",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 63
+      "delay": 60
     },
     {
       "dt": 1792439400.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1792439700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "23:39",
+      "time_estimated": "23:45",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -589,7 +589,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 105
+      "delay": 110
     },
     {
       "dt": 1792440000.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792440300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:36",
+      "time_estimated": "22:31",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -680,11 +680,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 32
+      "delay": 27
     },
     {
       "dt": 1792440300.0,
@@ -746,21 +746,21 @@
     {
       "dt": 1792440600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:53",
+      "time_estimated": "22:44",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 43
+      "delay": 35
     },
     {
       "dt": 1792440600.0,
@@ -904,9 +904,9 @@
       "city": "Faro",
       "country": "Portugal",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -993,7 +993,7 @@
     {
       "dt": 1792441800.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:54",
+      "time_estimated": "22:42",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1007,7 +1007,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 24
+      "delay": 12
     },
     {
       "dt": 1792442100.0,
@@ -1018,9 +1018,9 @@
       "city": "Malaga",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792442100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:56",
+      "time_estimated": "22:42",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -1083,7 +1083,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 21
+      "delay": 7
     },
     {
       "dt": 1792442400.0,
@@ -1132,13 +1132,13 @@
       "city": "Kos",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 13
     },
