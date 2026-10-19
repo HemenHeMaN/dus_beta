@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 06:00",
+  "updated_at": "19.10.2026 06:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,8 +16,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 27
     },
@@ -34,16 +34,16 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792383000.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:25",
+      "time_estimated": "06:00",
       "flight_no": "XC110",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -53,11 +53,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 0
     },
     {
       "dt": 1792383300.0,
@@ -119,7 +119,7 @@
     {
       "dt": 1792385400.0,
       "time_scheduled": "06:50",
-      "time_estimated": "06:41",
+      "time_estimated": "06:42",
       "flight_no": "XQ1340",
       "airline": "Sun Express",
       "city": "Trabzon",
@@ -518,7 +518,7 @@
     {
       "dt": 1792393500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:11",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792393500.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792395000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:44",
       "flight_no": "A34762",
       "airline": "Aegean Airlines",
       "city": "Rhodos",
@@ -681,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1792395300.0,
@@ -1191,6 +1191,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792400700.0,
+      "time_scheduled": "11:05",
+      "time_estimated": "11:05",
+      "flight_no": "DE1011",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
