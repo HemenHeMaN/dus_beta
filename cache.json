@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 20:00",
+  "updated_at": "19.10.2026 20:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,9 +53,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 170
     },
@@ -72,49 +72,11 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 154
-    },
-    {
-      "dt": 1792425300.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "18:05",
-      "flight_no": "VL076",
-      "airline": "Lufthansa City Airlines",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 10
-    },
-    {
-      "dt": 1792425900.0,
-      "time_scheduled": "18:05",
-      "time_estimated": "18:03",
-      "flight_no": "EW9421",
-      "airline": "Eurowings",
-      "city": "Nizza",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792426500.0,
@@ -461,25 +423,6 @@
     {
       "dt": 1792431000.0,
       "time_scheduled": "19:30",
-      "time_estimated": "00:24",
-      "flight_no": "EW9591",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 294
-    },
-    {
-      "dt": 1792431000.0,
-      "time_scheduled": "19:30",
       "time_estimated": "19:44",
       "flight_no": "XQ180",
       "airline": "Sun Express",
@@ -499,7 +442,7 @@
     {
       "dt": 1792431300.0,
       "time_scheduled": "19:35",
-      "time_estimated": "20:21",
+      "time_estimated": "20:12",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -513,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 46
+      "delay": 38
     },
     {
       "dt": 1792431600.0,
@@ -670,7 +613,7 @@
     {
       "dt": 1792434300.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:14",
+      "time_estimated": "20:09",
       "flight_no": "DY1150",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -700,8 +643,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -737,9 +680,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +803,7 @@
     {
       "dt": 1792436400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:57",
+      "time_estimated": "21:03",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -871,10 +814,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792436700.0,
@@ -898,7 +841,7 @@
     {
       "dt": 1792436700.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:17",
+      "time_estimated": "21:22",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -912,12 +855,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 18
     },
     {
       "dt": 1792437300.0,
       "time_scheduled": "21:15",
-      "time_estimated": "22:04",
+      "time_estimated": "22:11",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -928,10 +871,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 49
+      "delay": 56
     },
     {
       "dt": 1792437600.0,
@@ -1126,7 +1069,7 @@
     {
       "dt": 1792439100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:05",
+      "time_estimated": "22:45",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1140,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 60
     },
     {
       "dt": 1792439400.0,
@@ -1487,7 +1430,7 @@
     {
       "dt": 1792441200.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:14",
+      "time_estimated": "22:17",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1650,8 +1593,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 71
     },
