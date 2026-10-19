@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 09:10",
+  "updated_at": "19.10.2026 09:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1792392000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "09:35",
+      "time_estimated": "09:11",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -186,11 +186,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 56
+      "delay": 31
     },
     {
       "dt": 1792392000.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1792393500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:19",
+      "time_estimated": "09:21",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -380,7 +380,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 16
     },
     {
       "dt": 1792393500.0,
@@ -434,8 +434,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1792394400.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:16",
+      "time_estimated": "09:40",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -475,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1792395000.0,
@@ -490,9 +490,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792395000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:37",
+      "time_estimated": "09:25",
       "flight_no": "A34762",
       "airline": "Aegean Airlines",
       "city": "Rhodos",
@@ -532,12 +532,12 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1792395300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:32",
+      "time_estimated": "09:26",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -708,7 +708,7 @@
     {
       "dt": 1792396800.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:49",
+      "time_estimated": "09:51",
       "flight_no": "FH1065",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -784,25 +784,6 @@
     {
       "dt": 1792398000.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:20",
-      "flight_no": "UD837",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
-      "delay": 0
-    },
-    {
-      "dt": 1792398000.0,
-      "time_scheduled": "10:20",
       "time_estimated": "10:36",
       "flight_no": "EW9413",
       "airline": "Eurowings",
@@ -820,6 +801,25 @@
       "delay": 16
     },
     {
+      "dt": 1792398000.0,
+      "time_scheduled": "10:20",
+      "time_estimated": "10:20",
+      "flight_no": "UD837",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
+      "delay": 0
+    },
+    {
       "dt": 1792398300.0,
       "time_scheduled": "10:25",
       "time_estimated": "10:34",
@@ -833,10 +833,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1792398300.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792400100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "11:00",
+      "time_estimated": "11:02",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 7
     },
     {
       "dt": 1792400100.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792400700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:24",
+      "time_estimated": "11:16",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1061,10 +1061,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 12
     },
     {
       "dt": 1792401000.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792402800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:51",
+      "time_estimated": "11:53",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1194,10 +1194,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 14
     },
     {
       "dt": 1792402800.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792403100.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:58",
+      "time_estimated": "12:00",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 15
     },
     {
       "dt": 1792403400.0,
@@ -2048,6 +2048,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792412100.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:15",
+      "flight_no": "OS163",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
