@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 06:50",
+  "updated_at": "19.10.2026 06:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1792386300.0,
       "time_scheduled": "07:05",
-      "time_estimated": "06:58",
+      "time_estimated": "06:53",
       "flight_no": "PC1647",
       "airline": "Pegasus Airlines",
       "city": "Ordu-Giresun",
@@ -148,9 +148,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1792388400.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:43",
+      "time_estimated": "07:38",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -190,12 +190,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792389600.0,
       "time_scheduled": "08:00",
-      "time_estimated": "07:59",
+      "time_estimated": "07:57",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -276,11 +276,11 @@
       "airline": "Pegasus Airlines",
       "city": "Izmir",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -298,8 +298,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -390,11 +390,11 @@
       "airline": "Air Serbia",
       "city": "Belgrad",
       "country": "Serbien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -486,10 +486,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -505,10 +505,10 @@
       "city": "Gazipaşa-Alanya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -632,7 +632,7 @@
     {
       "dt": 1792395000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:29",
+      "time_estimated": "09:30",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -646,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792395000.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1792396500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "09:58",
       "flight_no": "EW9083",
       "airline": "Eurowings",
       "city": "München",
@@ -798,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792396500.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1792396500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "09:56",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792396800.0,
@@ -1457,6 +1457,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792403700.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "11:55",
+      "flight_no": "EW9861",
+      "airline": "Eurowings",
+      "city": "Neapel",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
