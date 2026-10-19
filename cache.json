@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 07:40",
+  "updated_at": "19.10.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -206,8 +206,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -225,8 +225,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -262,9 +262,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -366,7 +366,7 @@
     {
       "dt": 1792392000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:47",
+      "time_estimated": "08:51",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -380,7 +380,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1792392300.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792396200.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:36",
+      "time_estimated": "09:51",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -779,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792396500.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792398300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:45",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1792398300.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1792398600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:24",
+      "time_estimated": "10:16",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792399500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:43",
+      "time_estimated": "10:50",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792399800.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792400100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:52",
+      "time_estimated": "10:51",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1687,6 +1687,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792406700.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
