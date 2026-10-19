@@ -1,26 +1,7 @@
 {
-  "updated_at": "19.10.2026 16:35",
+  "updated_at": "19.10.2026 16:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792406100.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "17:39",
-      "flight_no": "EW9685",
-      "airline": "Eurowings",
-      "city": "Kavala",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 304
-    },
     {
       "dt": 1792412400.0,
       "time_scheduled": "14:20",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 97
-    },
-    {
-      "dt": 1792413000.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:36",
-      "flight_no": "LH074",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
     },
     {
       "dt": 1792413300.0,
@@ -510,8 +472,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1792422600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:00",
+      "time_estimated": "18:10",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -627,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 60
     },
     {
       "dt": 1792422900.0,
@@ -708,7 +670,7 @@
     {
       "dt": 1792424400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "18:15",
+      "time_estimated": "18:20",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -722,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 35
+      "delay": 40
     },
     {
       "dt": 1792424400.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1792425900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:15",
+      "time_estimated": "18:20",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -931,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 15
     },
     {
       "dt": 1792425900.0,
@@ -1297,7 +1259,7 @@
     {
       "dt": 1792431000.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:45",
+      "time_estimated": "19:43",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1311,7 +1273,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1792431300.0,
@@ -1331,6 +1293,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792431600.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "21:37",
+      "flight_no": "EW9443",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 117
     },
     {
       "dt": 1792431600.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792431900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:46",
       "flight_no": "DE1143",
       "airline": "Condor",
       "city": "Lamezia Terme (Kalabrien)",
@@ -1387,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792432200.0,
@@ -1820,6 +1801,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792438800.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "TK1529",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792438800.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "DE1757",
+      "airline": "Condor",
+      "city": "Samos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
