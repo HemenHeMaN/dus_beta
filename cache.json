@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 19:25",
+  "updated_at": "19.10.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 58
-    },
-    {
-      "dt": 1792423800.0,
-      "time_scheduled": "17:30",
-      "time_estimated": "17:28",
-      "flight_no": "BA922",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792424400.0,
@@ -153,44 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 5
-    },
-    {
-      "dt": 1792424400.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "17:30",
-      "flight_no": "BJ2022",
-      "airline": "Nouvelair",
-      "city": "Djerba",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792424700.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "17:26",
-      "flight_no": "EW9735",
-      "airline": "Eurowings",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792425300.0,
@@ -377,15 +320,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 72
     },
     {
       "dt": 1792427700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:31",
+      "time_estimated": "19:55",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -399,7 +342,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 56
+      "delay": 81
     },
     {
       "dt": 1792428000.0,
@@ -746,7 +689,7 @@
     {
       "dt": 1792431600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:54",
+      "time_estimated": "19:55",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -756,16 +699,16 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 15
     },
     {
       "dt": 1792431900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:31",
+      "time_estimated": "19:29",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -775,9 +718,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -822,7 +765,7 @@
     {
       "dt": 1792432200.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:45",
+      "time_estimated": "19:40",
       "flight_no": "DE1873",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -851,9 +794,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +917,7 @@
     {
       "dt": 1792435200.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:35",
+      "time_estimated": "20:34",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -1069,7 +1012,7 @@
     {
       "dt": 1792436400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:48",
+      "time_estimated": "20:54",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1194,8 +1137,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 11
     },
@@ -1335,7 +1278,7 @@
     {
       "dt": 1792439100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:59",
+      "time_estimated": "22:05",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1349,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 21
     },
     {
       "dt": 1792439400.0,
@@ -1620,7 +1563,7 @@
     {
       "dt": 1792440600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:46",
+      "time_estimated": "22:59",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1631,10 +1574,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 36
+      "delay": 49
     },
     {
       "dt": 1792440600.0,
@@ -1658,7 +1601,7 @@
     {
       "dt": 1792440900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:06",
+      "time_estimated": "21:58",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1669,15 +1612,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792441200.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:20",
+      "time_estimated": "22:36",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1691,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1792441200.0,
@@ -1829,7 +1772,7 @@
     {
       "dt": 1792441500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:25",
+      "time_estimated": "22:31",
       "flight_no": "EW9335",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -1843,7 +1786,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792441800.0,
@@ -1924,7 +1867,7 @@
     {
       "dt": 1792442100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:49",
+      "time_estimated": "22:53",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1938,7 +1881,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 18
     },
     {
       "dt": 1792442100.0,
