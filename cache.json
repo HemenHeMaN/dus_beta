@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 14:15",
+  "updated_at": "19.10.2026 14:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 54
-    },
-    {
-      "dt": 1792403700.0,
-      "time_scheduled": "11:55",
-      "time_estimated": "12:20",
-      "flight_no": "EW9861",
-      "airline": "Eurowings",
-      "city": "Neapel",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 25
     },
     {
       "dt": 1792404300.0,
@@ -461,7 +442,7 @@
     {
       "dt": 1792410000.0,
       "time_scheduled": "13:40",
-      "time_estimated": "14:29",
+      "time_estimated": "14:17",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -471,11 +452,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 50
+      "delay": 37
     },
     {
       "dt": 1792410300.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1792412100.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:11",
+      "time_estimated": "14:15",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -718,9 +699,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -794,16 +775,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
     {
       "dt": 1792413300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "15:26",
+      "time_estimated": "15:21",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -814,15 +795,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 52
+      "delay": 47
     },
     {
       "dt": 1792413600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:58",
+      "time_estimated": "14:59",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -836,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 19
     },
     {
       "dt": 1792413600.0,
@@ -851,9 +832,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +898,7 @@
     {
       "dt": 1792414200.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:59",
+      "time_estimated": "15:00",
       "flight_no": "SM2982",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1012,7 +993,7 @@
     {
       "dt": 1792415100.0,
       "time_scheduled": "15:05",
-      "time_estimated": "14:55",
+      "time_estimated": "14:56",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1620,7 +1601,7 @@
     {
       "dt": 1792425600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:55",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1631,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2013,6 +1994,25 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792430400.0,
+      "time_scheduled": "19:20",
+      "time_estimated": "19:20",
+      "flight_no": "BT233",
+      "airline": "Air Baltic",
+      "city": "Riga",
+      "country": "Lettland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
