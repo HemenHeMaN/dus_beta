@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 12:40",
+  "updated_at": "19.10.2026 12:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -575,7 +575,7 @@
     {
       "dt": 1792406400.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:46",
+      "time_estimated": "12:40",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -585,11 +585,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1792406400.0,
@@ -661,16 +661,16 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 22
     },
     {
       "dt": 1792407300.0,
       "time_scheduled": "12:55",
-      "time_estimated": "13:02",
+      "time_estimated": "13:07",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -684,12 +684,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1792407600.0,
       "time_scheduled": "13:00",
-      "time_estimated": "13:04",
+      "time_estimated": "12:59",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -699,11 +699,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792407600.0,
@@ -738,8 +738,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1792409700.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:52",
+      "time_estimated": "13:45",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -871,10 +871,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1792410000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1792410900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:12",
+      "time_estimated": "14:18",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 23
     },
     {
       "dt": 1792411200.0,
@@ -1031,14 +1031,14 @@
     {
       "dt": 1792411500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:01",
+      "time_estimated": "14:03",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
       "country": "Schweiz",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792412100.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:19",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 5
     },
     {
       "dt": 1792412400.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792413300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "15:13",
+      "time_estimated": "15:14",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 39
+      "delay": 40
     },
     {
       "dt": 1792413600.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792414500.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:32",
+      "time_estimated": "15:27",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 38
+      "delay": 32
     },
     {
       "dt": 1792414500.0,
@@ -1544,7 +1544,7 @@
     {
       "dt": 1792417500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "15:49",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -1558,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792417500.0,
@@ -2008,6 +2008,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792424700.0,
+      "time_scheduled": "17:45",
+      "time_estimated": "17:45",
+      "flight_no": "EW9735",
+      "airline": "Eurowings",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
