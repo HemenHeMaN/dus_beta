@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 16:30",
+  "updated_at": "19.10.2026 16:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 304
-    },
-    {
-      "dt": 1792409400.0,
-      "time_scheduled": "13:30",
-      "time_estimated": "14:35",
-      "flight_no": "EW9829",
-      "airline": "Eurowings",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 65
     },
     {
       "dt": 1792412400.0,
@@ -115,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
-    },
-    {
-      "dt": 1792413600.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "14:33",
-      "flight_no": "SK1621",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792413600.0,
@@ -229,25 +191,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 18
-    },
-    {
-      "dt": 1792414500.0,
-      "time_scheduled": "14:55",
-      "time_estimated": "14:31",
-      "flight_no": "KK321",
-      "airline": "LEAV Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792415100.0,
@@ -537,7 +480,7 @@
     {
       "dt": 1792420500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:36",
+      "time_estimated": "16:35",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -547,11 +490,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792421100.0,
@@ -566,9 +509,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -585,16 +528,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
     {
       "dt": 1792421700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:02",
+      "time_estimated": "17:03",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -608,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792421700.0,
@@ -624,8 +567,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -643,8 +586,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +670,7 @@
     {
       "dt": 1792423800.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:39",
+      "time_estimated": "17:34",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -738,15 +681,15 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1792424400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:45",
+      "time_estimated": "17:51",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -760,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 11
     },
     {
       "dt": 1792424400.0,
@@ -1240,7 +1183,7 @@
     {
       "dt": 1792429800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:24",
+      "time_estimated": "19:30",
       "flight_no": "IB1323",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1254,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 21
     },
     {
       "dt": 1792429800.0,
@@ -1411,7 +1354,7 @@
     {
       "dt": 1792431900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:38",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1839,6 +1782,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792438500.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:35",
+      "flight_no": "EW9593",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792438500.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:35",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
