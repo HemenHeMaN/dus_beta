@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 08:00",
+  "updated_at": "19.10.2026 08:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1792382700.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:02",
-      "flight_no": "XC266",
-      "airline": "Corendon Airlines",
-      "city": "Kayseri",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792383000.0,
-      "time_scheduled": "06:10",
-      "time_estimated": "06:00",
-      "flight_no": "XC110",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792383300.0,
@@ -290,7 +252,7 @@
     {
       "dt": 1792391400.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:11",
+      "time_estimated": "08:30",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -377,8 +339,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 11
     },
@@ -499,7 +461,7 @@
     {
       "dt": 1792393200.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:33",
+      "time_estimated": "08:40",
       "flight_no": "XC246",
       "airline": "Corendon Airlines",
       "city": "Gazipaşa-Alanya",
@@ -600,9 +562,9 @@
       "city": "Dalaman",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -803,7 +765,7 @@
     {
       "dt": 1792396500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:58",
+      "time_estimated": "10:11",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -817,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 16
     },
     {
       "dt": 1792396500.0,
@@ -1031,7 +993,7 @@
     {
       "dt": 1792398600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:16",
+      "time_estimated": "10:13",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1088,7 +1050,7 @@
     {
       "dt": 1792399500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:43",
+      "time_estimated": "10:44",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1732,6 +1694,25 @@
       "delay": 0
     },
     {
+      "dt": 1792407000.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "13:03",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 13
+    },
+    {
       "dt": 1792407300.0,
       "time_scheduled": "12:55",
       "time_estimated": "12:55",
@@ -1782,6 +1763,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792407900.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "SK816",
+      "airline": "Scandinavian Airlines",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
