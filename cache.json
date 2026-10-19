@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 07:50",
+  "updated_at": "19.10.2026 07:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,7 +195,7 @@
     {
       "dt": 1792389600.0,
       "time_scheduled": "08:00",
-      "time_estimated": "07:59",
+      "time_estimated": "08:26",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -209,12 +209,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 27
     },
     {
       "dt": 1792390200.0,
       "time_scheduled": "08:10",
-      "time_estimated": "07:56",
+      "time_estimated": "08:01",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -243,9 +243,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -309,7 +309,7 @@
     {
       "dt": 1792391700.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:48",
+      "time_estimated": "08:57",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 22
     },
     {
       "dt": 1792392000.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1792393500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:06",
+      "time_estimated": "09:14",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -551,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 9
     },
     {
       "dt": 1792393500.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792400100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "11:07",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792400100.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792401000.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "10:57",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1725,6 +1725,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792407300.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "X32253",
+      "airline": "Tuifly",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
