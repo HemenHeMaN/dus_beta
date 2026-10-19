@@ -1,26 +1,7 @@
 {
-  "updated_at": "19.10.2026 11:10",
+  "updated_at": "19.10.2026 11:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792392000.0,
-      "time_scheduled": "08:40",
-      "time_estimated": "09:11",
-      "flight_no": "EY133",
-      "airline": "Etihad Airways",
-      "city": "Abu Dhabi",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 31
-    },
     {
       "dt": 1792393500.0,
       "time_scheduled": "09:05",
@@ -366,25 +347,6 @@
     {
       "dt": 1792398000.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:20",
-      "flight_no": "UD837",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
-      "delay": 0
-    },
-    {
-      "dt": 1792398000.0,
-      "time_scheduled": "10:20",
       "time_estimated": "10:37",
       "flight_no": "EW9413",
       "airline": "Eurowings",
@@ -400,6 +362,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
+    },
+    {
+      "dt": 1792398000.0,
+      "time_scheduled": "10:20",
+      "time_estimated": "10:20",
+      "flight_no": "UD837",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
+      "delay": 0
     },
     {
       "dt": 1792398300.0,
@@ -442,6 +423,25 @@
     {
       "dt": 1792398600.0,
       "time_scheduled": "10:30",
+      "time_estimated": "10:09",
+      "flight_no": "4M111",
+      "airline": "Mavi Gök Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792398600.0,
+      "time_scheduled": "10:30",
       "time_estimated": "10:23",
       "flight_no": "EW9463",
       "airline": "Eurowings",
@@ -471,25 +471,6 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792398600.0,
-      "time_scheduled": "10:30",
-      "time_estimated": "10:09",
-      "flight_no": "4M111",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -670,7 +651,7 @@
     {
       "dt": 1792401600.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:49",
+      "time_estimated": "11:36",
       "flight_no": "EW9831",
       "airline": "Eurowings",
       "city": "Florenz",
@@ -684,12 +665,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 16
     },
     {
       "dt": 1792401900.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:15",
+      "time_estimated": "11:11",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -699,9 +680,9 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -719,8 +700,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -860,7 +841,7 @@
     {
       "dt": 1792403400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:59",
+      "time_estimated": "12:00",
       "flight_no": "VL2012",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -874,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 10
     },
     {
       "dt": 1792403400.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792410600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "12:50",
+      "time_estimated": "13:58",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1463,7 +1444,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792410600.0,
@@ -1525,7 +1506,7 @@
     {
       "dt": 1792411200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:57",
+      "time_estimated": "14:01",
       "flight_no": "X36569",
       "airline": "Tuifly",
       "city": "Djerba",
@@ -1536,15 +1517,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792411500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:07",
+      "time_estimated": "14:01",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1558,7 +1539,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792411500.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1792412700.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:25",
+      "time_estimated": "14:18",
       "flight_no": "EW4674",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1810,7 +1791,7 @@
     {
       "dt": 1792413900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:24",
+      "time_estimated": "14:21",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
