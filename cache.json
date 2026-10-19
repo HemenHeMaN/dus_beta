@@ -1,26 +1,7 @@
 {
-  "updated_at": "19.10.2026 20:25",
+  "updated_at": "19.10.2026 20:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792419900.0,
-      "time_scheduled": "16:25",
-      "time_estimated": "18:25",
-      "flight_no": "TK3334",
-      "airline": "Turkish Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 121
-    },
     {
       "dt": 1792424400.0,
       "time_scheduled": "17:40",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 53
-    },
-    {
-      "dt": 1792426800.0,
-      "time_scheduled": "18:20",
-      "time_estimated": "18:28",
-      "flight_no": "LX1024",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
     },
     {
       "dt": 1792427400.0,
@@ -404,6 +366,25 @@
     {
       "dt": 1792431000.0,
       "time_scheduled": "19:30",
+      "time_estimated": "01:29",
+      "flight_no": "EW9591",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 359
+    },
+    {
+      "dt": 1792431000.0,
+      "time_scheduled": "19:30",
       "time_estimated": "19:44",
       "flight_no": "XQ180",
       "airline": "Sun Express",
@@ -442,7 +423,7 @@
     {
       "dt": 1792431600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "22:53",
+      "time_estimated": "23:00",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -456,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 193
+      "delay": 200
     },
     {
       "dt": 1792431600.0,
@@ -681,8 +662,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792435200.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:42",
+      "time_estimated": "20:37",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -719,10 +700,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792435500.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1792438500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:52",
+      "time_estimated": "22:46",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -966,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 78
+      "delay": 72
     },
     {
       "dt": 1792438800.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1792439100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:47",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 60
+      "delay": 63
     },
     {
       "dt": 1792439400.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:55",
+      "time_estimated": "22:05",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792440000.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:19",
+      "time_estimated": "22:15",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 16
     },
     {
       "dt": 1792440000.0,
@@ -1316,7 +1297,7 @@
     {
       "dt": 1792440600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:20",
+      "time_estimated": "23:41",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1330,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 92
     },
     {
       "dt": 1792440600.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792441200.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:15",
+      "time_estimated": "22:14",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -1479,8 +1460,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
