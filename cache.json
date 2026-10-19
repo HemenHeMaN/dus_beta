@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 20:36",
+  "updated_at": "19.10.2026 20:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1792428900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
-      "flight_no": "VY1898",
-      "airline": "Vueling",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
-      "delay": 0
-    },
-    {
-      "dt": 1792428900.0,
-      "time_scheduled": "18:55",
       "time_estimated": "18:47",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
@@ -228,6 +209,25 @@
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792428900.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "VY1898",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
       "delay": 0
     },
     {
@@ -632,7 +632,7 @@
     {
       "dt": 1792434900.0,
       "time_scheduled": "20:35",
-      "time_estimated": "21:05",
+      "time_estimated": "20:39",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -642,11 +642,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 31
+      "delay": 4
     },
     {
       "dt": 1792435200.0,
@@ -699,9 +699,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -718,9 +718,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -898,7 +898,7 @@
     {
       "dt": 1792438500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:13",
+      "time_estimated": "22:19",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -912,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 45
     },
     {
       "dt": 1792438500.0,
@@ -1023,8 +1023,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 63
     },
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:16",
+      "time_estimated": "22:21",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 22
     },
     {
       "dt": 1792440000.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:15",
+      "time_estimated": "22:33",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 34
     },
     {
       "dt": 1792440000.0,
@@ -1601,7 +1601,7 @@
     {
       "dt": 1792442100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:46",
+      "time_estimated": "22:52",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1615,7 +1615,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 18
     },
     {
       "dt": 1792442100.0,
