@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 06:30",
+  "updated_at": "19.10.2026 06:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -148,9 +148,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1792388400.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:48",
+      "time_estimated": "07:43",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1792389600.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1792391700.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:41",
+      "time_estimated": "08:32",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792392000.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792395000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:39",
+      "time_estimated": "09:37",
       "flight_no": "A34762",
       "airline": "Aegean Airlines",
       "city": "Rhodos",
@@ -684,7 +684,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 8
     },
     {
       "dt": 1792395300.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792396200.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "09:36",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -1288,6 +1288,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792402500.0,
+      "time_scheduled": "11:35",
+      "time_estimated": "11:35",
+      "flight_no": "EW9517",
+      "airline": "Eurowings",
+      "city": "Bilbao",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
