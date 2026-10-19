@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 18:50",
+  "updated_at": "19.10.2026 18:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -414,9 +414,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 63
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1792428900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:51",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -585,11 +585,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792428900.0,
@@ -700,8 +700,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -718,9 +718,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -737,9 +737,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1792431300.0,
       "time_scheduled": "19:35",
-      "time_estimated": "20:15",
+      "time_estimated": "20:21",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -798,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 41
+      "delay": 46
     },
     {
       "dt": 1792431600.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792431600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:51",
+      "time_estimated": "19:54",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -833,10 +833,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 14
     },
     {
       "dt": 1792431900.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792434300.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:27",
+      "time_estimated": "20:12",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -947,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792434300.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792437300.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:38",
+      "time_estimated": "22:40",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -1216,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 86
     },
     {
       "dt": 1792437600.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792438500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:53",
+      "time_estimated": "21:52",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 18
     },
     {
       "dt": 1792438500.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792439100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:00",
+      "time_estimated": "21:59",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1544,7 +1544,7 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "21:55",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1582,7 +1582,7 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "21:59",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
