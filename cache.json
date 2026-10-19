@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 23:00",
+  "updated_at": "19.10.2026 23:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,29 +35,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 219
-    },
-    {
-      "dt": 1792434600.0,
-      "time_scheduled": "20:30",
-      "time_estimated": "21:03",
-      "flight_no": "EW9673",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 34
     },
     {
       "dt": 1792435200.0,
@@ -81,7 +62,7 @@
     {
       "dt": 1792436700.0,
       "time_scheduled": "21:05",
-      "time_estimated": "00:00",
+      "time_estimated": "23:56",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -95,7 +76,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 175
+      "delay": 171
     },
     {
       "dt": 1792436700.0,
@@ -461,25 +442,6 @@
     {
       "dt": 1792440000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:19",
-      "flight_no": "EW9785",
-      "airline": "Eurowings",
-      "city": "Budapest",
-      "country": "Ungarn",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 20
-    },
-    {
-      "dt": 1792440000.0,
-      "time_scheduled": "22:00",
       "time_estimated": "23:58",
       "flight_no": "EW9547",
       "airline": "Eurowings",
@@ -514,6 +476,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 24
+    },
+    {
+      "dt": 1792440000.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:19",
+      "flight_no": "EW9785",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 20
     },
     {
       "dt": 1792440000.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1792441500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "23:18",
+      "time_estimated": "23:03",
       "flight_no": "EW9645",
       "airline": "Eurowings",
       "city": "Faro",
@@ -775,11 +756,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 53
+      "delay": 38
     },
     {
       "dt": 1792441500.0,
@@ -890,8 +871,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 55
     },
@@ -1022,9 +1003,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 46
     },
