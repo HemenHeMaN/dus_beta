@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 05:50",
+  "updated_at": "19.10.2026 05:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1792382700.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:07",
+      "time_estimated": "06:02",
       "flight_no": "XC266",
       "airline": "Corendon Airlines",
       "city": "Kayseri",
@@ -38,7 +38,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792383000.0,
@@ -62,7 +62,7 @@
     {
       "dt": 1792383300.0,
       "time_scheduled": "06:15",
-      "time_estimated": "06:32",
+      "time_estimated": "06:34",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -76,12 +76,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 20
     },
     {
       "dt": 1792384200.0,
       "time_scheduled": "06:30",
-      "time_estimated": "06:31",
+      "time_estimated": "06:32",
       "flight_no": "XQ1320",
       "airline": "Sun Express",
       "city": "Kayseri",
@@ -95,7 +95,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792385100.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1792393500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:18",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -570,7 +570,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1792393800.0,
@@ -1117,6 +1117,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792400100.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "10:55",
+      "flight_no": "EW9783",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792400100.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "10:55",
+      "flight_no": "FH1193",
+      "airline": "Freebird Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
