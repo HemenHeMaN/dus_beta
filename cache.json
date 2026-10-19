@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 16:50",
+  "updated_at": "19.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -60,25 +60,6 @@
       "delay": 17
     },
     {
-      "dt": 1792414200.0,
-      "time_scheduled": "14:50",
-      "time_estimated": "14:53",
-      "flight_no": "SM2982",
-      "airline": "Air Cairo",
-      "city": "Marsa Alam",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
       "dt": 1792414500.0,
       "time_scheduled": "14:55",
       "time_estimated": "15:42",
@@ -129,25 +110,6 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792415100.0,
-      "time_scheduled": "15:05",
-      "time_estimated": "14:55",
-      "flight_no": "RJ129",
-      "airline": "Royal Jordanian",
-      "city": "Amman-Queen Alia",
-      "country": "Jordanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -442,7 +404,7 @@
     {
       "dt": 1792421400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:05",
+      "time_estimated": "16:50",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -452,16 +414,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 0
     },
     {
       "dt": 1792421700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:57",
+      "time_estimated": "17:03",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -475,7 +437,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 9
     },
     {
       "dt": 1792421700.0,
@@ -537,7 +499,7 @@
     {
       "dt": 1792422600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:12",
+      "time_estimated": "18:13",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -551,12 +513,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 62
+      "delay": 63
     },
     {
       "dt": 1792422900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:16",
+      "time_estimated": "17:11",
       "flight_no": "EW9087",
       "airline": "Eurowings",
       "city": "München",
@@ -566,11 +528,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792423500.0,
@@ -585,9 +547,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -852,8 +814,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 16
     },
@@ -879,7 +841,7 @@
     {
       "dt": 1792426500.0,
       "time_scheduled": "18:15",
-      "time_estimated": "19:18",
+      "time_estimated": "19:11",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -893,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 64
+      "delay": 57
     },
     {
       "dt": 1792426800.0,
@@ -1853,6 +1815,63 @@
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
       "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792439700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792439700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "LH078",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792439700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9887",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
