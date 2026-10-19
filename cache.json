@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 12:45",
+  "updated_at": "19.10.2026 12:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -60,25 +60,6 @@
       "delay": 0
     },
     {
-      "dt": 1792400100.0,
-      "time_scheduled": "10:55",
-      "time_estimated": "10:48",
-      "flight_no": "FH1193",
-      "airline": "Freebird Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792400400.0,
       "time_scheduled": "11:00",
       "time_estimated": "10:57",
@@ -129,25 +110,6 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792401000.0,
-      "time_scheduled": "11:10",
-      "time_estimated": "10:47",
-      "flight_no": "IB1319",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -566,9 +528,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 39
     },
@@ -594,7 +556,7 @@
     {
       "dt": 1792406400.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:44",
+      "time_estimated": "12:47",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -604,11 +566,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 8
     },
     {
       "dt": 1792406700.0,
@@ -670,7 +632,7 @@
     {
       "dt": 1792407300.0,
       "time_scheduled": "12:55",
-      "time_estimated": "13:07",
+      "time_estimated": "12:49",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -680,11 +642,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 0
     },
     {
       "dt": 1792407600.0,
@@ -700,8 +662,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1792407900.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:00",
+      "time_estimated": "12:55",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -974,7 +936,7 @@
     {
       "dt": 1792410600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:58",
+      "time_estimated": "14:03",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1792410900.0,
@@ -1259,7 +1221,7 @@
     {
       "dt": 1792413600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:36",
+      "time_estimated": "14:43",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1273,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792413600.0,
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792415400.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:26",
+      "time_estimated": "15:17",
       "flight_no": "XQ1348",
       "airline": "Sun Express",
       "city": "Balikesir / Edremit",
@@ -1463,7 +1425,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 7
     },
     {
       "dt": 1792415700.0,
@@ -1525,7 +1487,7 @@
     {
       "dt": 1792417500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:18",
+      "time_estimated": "16:04",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1539,7 +1501,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 33
+      "delay": 20
     },
     {
       "dt": 1792417500.0,
@@ -1639,7 +1601,7 @@
     {
       "dt": 1792418700.0,
       "time_scheduled": "16:05",
-      "time_estimated": "15:56",
+      "time_estimated": "15:54",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
