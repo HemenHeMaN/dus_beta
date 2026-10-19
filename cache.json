@@ -1,64 +1,7 @@
 {
-  "updated_at": "19.10.2026 12:50",
+  "updated_at": "19.10.2026 12:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792399500.0,
-      "time_scheduled": "10:45",
-      "time_estimated": "10:54",
-      "flight_no": "EW9751",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
-    },
-    {
-      "dt": 1792399800.0,
-      "time_scheduled": "10:50",
-      "time_estimated": "10:50",
-      "flight_no": "AF1606",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
-      "dt": 1792400100.0,
-      "time_scheduled": "10:55",
-      "time_estimated": "10:52",
-      "flight_no": "EW9783",
-      "airline": "Eurowings",
-      "city": "Budapest",
-      "country": "Ungarn",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792400400.0,
       "time_scheduled": "11:00",
@@ -529,8 +472,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 39
     },
@@ -594,7 +537,7 @@
     {
       "dt": 1792407000.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:30",
+      "time_estimated": "13:31",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -608,12 +551,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 40
+      "delay": 41
     },
     {
       "dt": 1792407000.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:11",
+      "time_estimated": "12:52",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -623,11 +566,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 2
     },
     {
       "dt": 1792407300.0,
@@ -689,7 +632,7 @@
     {
       "dt": 1792407900.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:55",
+      "time_estimated": "13:01",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -708,7 +651,7 @@
     {
       "dt": 1792409100.0,
       "time_scheduled": "13:25",
-      "time_estimated": "13:20",
+      "time_estimated": "13:21",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -803,7 +746,7 @@
     {
       "dt": 1792409400.0,
       "time_scheduled": "13:30",
-      "time_estimated": "15:07",
+      "time_estimated": "15:16",
       "flight_no": "EW9829",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -817,12 +760,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 97
+      "delay": 106
     },
     {
       "dt": 1792409700.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:45",
+      "time_estimated": "13:33",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -836,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 0
     },
     {
       "dt": 1792410000.0,
@@ -936,7 +879,7 @@
     {
       "dt": 1792410600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:03",
+      "time_estimated": "14:06",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -950,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1792410900.0,
@@ -1989,6 +1932,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792425300.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792425300.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "VL076",
+      "airline": "Lufthansa City Airlines",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
