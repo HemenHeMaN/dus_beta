@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 07:45",
+  "updated_at": "19.10.2026 07:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -263,8 +263,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -300,9 +300,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1792394400.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:41",
+      "time_estimated": "09:17",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 0
     },
     {
       "dt": 1792395000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1792398300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:28",
+      "time_estimated": "10:18",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792398600.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792398900.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:35",
+      "time_estimated": "10:52",
       "flight_no": "EW9743",
       "airline": "Eurowings",
       "city": "Genf",
@@ -1083,12 +1083,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1792399500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:50",
+      "time_estimated": "10:43",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792399800.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792400400.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:58",
+      "time_estimated": "10:55",
       "flight_no": "4M195",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792400400.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:53",
+      "time_estimated": "10:52",
       "flight_no": "4M148",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1706,6 +1706,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792407000.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "EW9883",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
