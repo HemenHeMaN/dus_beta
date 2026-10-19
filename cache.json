@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 14:40",
+  "updated_at": "19.10.2026 14:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 25
-    },
-    {
-      "dt": 1792406400.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "12:40",
-      "flight_no": "EW9869",
-      "airline": "Eurowings",
-      "city": "Cagliari (Sardinien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1792406400.0,
@@ -775,16 +756,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792414200.0,
       "time_scheduled": "14:50",
-      "time_estimated": "15:00",
+      "time_estimated": "14:55",
       "flight_no": "SM2982",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -798,7 +779,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1792414500.0,
@@ -890,8 +871,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +898,7 @@
     {
       "dt": 1792415700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:17",
+      "time_estimated": "15:19",
       "flight_no": "EW9339",
       "airline": "Eurowings",
       "city": "Newcastle",
@@ -931,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1792415700.0,
@@ -1137,8 +1118,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 86
     },
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792421100.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:49",
+      "time_estimated": "16:47",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 2
     },
     {
       "dt": 1792421400.0,
@@ -1314,25 +1295,6 @@
       "delay": 1
     },
     {
-      "dt": 1792422900.0,
-      "time_scheduled": "17:15",
-      "time_estimated": "17:21",
-      "flight_no": "XQ1328",
-      "airline": "Sun Express",
-      "city": "Zonguldak",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 7
-    },
-    {
       "dt": 1792423500.0,
       "time_scheduled": "17:25",
       "time_estimated": "17:15",
@@ -1392,7 +1354,7 @@
     {
       "dt": 1792424400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:53",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -1406,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792424400.0,
@@ -1597,6 +1559,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 11
+    },
+    {
+      "dt": 1792425900.0,
+      "time_scheduled": "18:05",
+      "time_estimated": "17:56",
+      "flight_no": "XQ1328",
+      "airline": "Sun Express",
+      "city": "Zonguldak",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792426500.0,
@@ -1991,6 +1972,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792431900.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "EW4676",
+      "airline": "Eurowings",
+      "city": "Stockholm-Arlanda",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792431900.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "DE1143",
+      "airline": "Condor",
+      "city": "Lamezia Terme (Kalabrien)",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
