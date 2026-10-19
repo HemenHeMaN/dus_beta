@@ -1,5 +1,5 @@
 {
-  "updated_at": "19.10.2026 16:45",
+  "updated_at": "19.10.2026 16:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1792421100.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:47",
+      "time_estimated": "16:48",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -433,11 +433,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792421400.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1792421700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:03",
+      "time_estimated": "16:57",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -472,10 +472,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1792421700.0,
@@ -490,9 +490,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1792422600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:20",
+      "time_estimated": "18:12",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -551,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 70
+      "delay": 62
     },
     {
       "dt": 1792422900.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792424400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:51",
+      "time_estimated": "17:45",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1792424400.0,
@@ -735,7 +735,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "7",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -746,7 +746,7 @@
     {
       "dt": 1792425300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "19:45",
+      "time_estimated": "20:05",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 110
+      "delay": 130
     },
     {
       "dt": 1792425300.0,
@@ -790,10 +790,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -811,7 +811,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "8",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -833,8 +833,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 24
     },
@@ -866,10 +866,10 @@
       "city": "Zonguldak",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1815,6 +1815,44 @@
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792439400.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "21:50",
+      "flight_no": "EW9601",
+      "airline": "Eurowings",
+      "city": "Funchal (Madeira)",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792439400.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "21:50",
+      "flight_no": "AF1106",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
