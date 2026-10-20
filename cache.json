@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 21:50",
+  "updated_at": "20.10.2026 21:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,7 +233,7 @@
     {
       "dt": 1792523700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "22:44",
+      "time_estimated": "22:54",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -247,7 +247,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 89
+      "delay": 99
     },
     {
       "dt": 1792523700.0,
@@ -414,9 +414,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 30
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792526100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:02",
+      "time_estimated": "22:01",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -532,12 +532,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1792526100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:55",
+      "time_estimated": "21:52",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -547,11 +547,11 @@
       "terminal": "B",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792526100.0,
@@ -718,9 +718,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
