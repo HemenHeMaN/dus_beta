@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 08:30",
+  "updated_at": "20.10.2026 08:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1792478400.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:36",
+      "time_estimated": "08:42",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -190,12 +190,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792478400.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:36",
+      "time_estimated": "08:34",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -205,9 +205,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1792479000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:35",
+      "time_estimated": "08:32",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -262,16 +262,16 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792479000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:51",
+      "time_estimated": "08:41",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -282,10 +282,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792479300.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1792479600.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:00",
+      "time_estimated": "08:53",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -319,9 +319,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -358,8 +358,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -414,16 +414,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792481100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:37",
+      "time_estimated": "09:33",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -434,10 +434,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 9
     },
     {
       "dt": 1792481100.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1792483200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:10",
+      "time_estimated": "10:04",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 4
     },
     {
       "dt": 1792483500.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792491000.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:22",
+      "time_estimated": "12:30",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -1311,7 +1311,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 20
     },
     {
       "dt": 1792491300.0,
@@ -1649,6 +1649,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792496100.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:35",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
