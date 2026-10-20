@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 17:55",
+  "updated_at": "20.10.2026 18:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 14
-    },
-    {
-      "dt": 1792504800.0,
-      "time_scheduled": "16:00",
-      "time_estimated": "15:58",
-      "flight_no": "AF1406",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792505100.0,
@@ -282,8 +263,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 76
     },
@@ -518,7 +499,7 @@
     {
       "dt": 1792511700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:01",
+      "time_estimated": "17:56",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -528,11 +509,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1792512000.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792512900.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:01",
+      "time_estimated": "17:59",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -642,9 +623,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -661,9 +642,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1792513800.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:55",
+      "time_estimated": "19:00",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -703,7 +684,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 31
     },
     {
       "dt": 1792513800.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1792516200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:35",
+      "time_estimated": "19:40",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -893,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 26
+      "delay": 31
     },
     {
       "dt": 1792516200.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792519800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:11",
+      "time_estimated": "20:06",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792520700.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792521600.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:56",
+      "time_estimated": "20:53",
       "flight_no": "EW9533",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1273,12 +1254,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1792522200.0,
       "time_scheduled": "20:50",
-      "time_estimated": "21:07",
+      "time_estimated": "21:00",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
@@ -1292,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1792522800.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1792522800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:56",
+      "time_estimated": "21:06",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1349,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792523100.0,
