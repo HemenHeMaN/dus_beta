@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 09:30",
+  "updated_at": "20.10.2026 09:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1792481400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:32",
+      "time_estimated": "09:30",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -395,16 +395,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 1
     },
     {
       "dt": 1792481400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:40",
+      "time_estimated": "10:02",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -418,12 +418,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 33
     },
     {
       "dt": 1792481400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "10:00",
+      "time_estimated": "09:33",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -433,11 +433,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 31
+      "delay": 4
     },
     {
       "dt": 1792481700.0,
@@ -453,15 +453,15 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1792481700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:33",
+      "time_estimated": "09:57",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -475,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1792482300.0,
@@ -510,8 +510,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +746,7 @@
     {
       "dt": 1792485000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:45",
+      "time_estimated": "10:49",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 19
     },
     {
       "dt": 1792485000.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792489200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:43",
+      "time_estimated": "11:39",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1061,10 +1061,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792489500.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792490100.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:49",
+      "time_estimated": "12:48",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1178,12 +1178,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 54
+      "delay": 53
     },
     {
       "dt": 1792490700.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:09",
+      "time_estimated": "11:54",
       "flight_no": "X34429",
       "airline": "Tuifly",
       "city": "Korfu",
@@ -1197,7 +1197,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792491000.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792492200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:25",
+      "time_estimated": "12:21",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792492500.0,
@@ -1932,6 +1932,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792499700.0,
+      "time_scheduled": "14:35",
+      "time_estimated": "14:35",
+      "flight_no": "EW9465",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792499700.0,
+      "time_scheduled": "14:35",
+      "time_estimated": "14:35",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
