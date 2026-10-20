@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 16:40",
+  "updated_at": "20.10.2026 16:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1792500900.0,
       "time_scheduled": "14:55",
-      "time_estimated": "19:03",
+      "time_estimated": "18:59",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -92,10 +92,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 248
+      "delay": 244
     },
     {
       "dt": 1792500900.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1792507500.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:46",
+      "time_estimated": "16:43",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -471,11 +471,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792507800.0,
@@ -490,16 +490,16 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 15
     },
     {
       "dt": 1792508100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:00",
+      "time_estimated": "16:50",
       "flight_no": "EW9545",
       "airline": "Eurowings",
       "city": "La Palma",
@@ -513,7 +513,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792508100.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1792509000.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:15",
+      "time_estimated": "18:14",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -570,7 +570,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 66
+      "delay": 65
     },
     {
       "dt": 1792509000.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1792510800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:45",
+      "time_estimated": "17:48",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -700,10 +700,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 9
     },
     {
       "dt": 1792510800.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1792512300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:45",
+      "time_estimated": "18:44",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -855,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 41
+      "delay": 40
     },
     {
       "dt": 1792512300.0,
@@ -885,9 +885,9 @@
       "city": "Djerba",
       "country": "Tunesien",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -917,7 +917,7 @@
     {
       "dt": 1792513200.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:16",
+      "time_estimated": "18:17",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1055,11 +1055,11 @@
       "airline": "Medsky Airways",
       "city": "Benghazi",
       "country": "Libyen",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1075,10 +1075,10 @@
       "city": "Ankara-Esenboğa",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1259,7 +1259,7 @@
     {
       "dt": 1792516800.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:15",
+      "time_estimated": "19:23",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792517100.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1792518000.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:46",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792518300.0,
@@ -1392,7 +1392,7 @@
     {
       "dt": 1792518600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:10",
+      "time_estimated": "20:12",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1406,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 22
     },
     {
       "dt": 1792519200.0,
@@ -1418,7 +1418,7 @@
       "country": "Großbritannien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1801,6 +1801,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792525500.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9089",
+      "airline": "Eurowings",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792525500.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "LH078",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
