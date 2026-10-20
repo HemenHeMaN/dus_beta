@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 13:20",
+  "updated_at": "20.10.2026 13:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 75
-    },
-    {
-      "dt": 1792488600.0,
-      "time_scheduled": "11:30",
-      "time_estimated": "11:20",
-      "flight_no": "BA914",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792489200.0,
@@ -233,25 +214,6 @@
     {
       "dt": 1792491000.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:04",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792491000.0,
-      "time_scheduled": "12:10",
       "time_estimated": "12:23",
       "flight_no": "UD437",
       "airline": "UR Airlines",
@@ -267,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 14
+    },
+    {
+      "dt": 1792491000.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:04",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792491300.0,
@@ -301,8 +282,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 85
     },
@@ -328,25 +309,6 @@
     {
       "dt": 1792492200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:31",
-      "flight_no": "EW9655",
-      "airline": "Eurowings",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
-      "dt": 1792492200.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:40",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
@@ -362,6 +324,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
+    },
+    {
+      "dt": 1792492200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:31",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 1
     },
     {
       "dt": 1792492200.0,
@@ -385,25 +366,6 @@
     {
       "dt": 1792492500.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:25",
-      "flight_no": "EW9873",
-      "airline": "Eurowings",
-      "city": "Bari",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792492500.0,
-      "time_scheduled": "12:35",
       "time_estimated": "12:33",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
@@ -414,6 +376,25 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792492500.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:25",
+      "flight_no": "EW9873",
+      "airline": "Eurowings",
+      "city": "Bari",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -529,8 +510,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 25
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1792495200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:28",
+      "time_estimated": "13:22",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -585,11 +566,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1792495500.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792496100.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:26",
+      "time_estimated": "13:19",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -642,9 +623,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -680,9 +661,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792497000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:55",
+      "time_estimated": "13:45",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -718,11 +699,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792497300.0,
@@ -757,8 +738,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 6
     },
@@ -803,7 +784,7 @@
     {
       "dt": 1792497900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:23",
+      "time_estimated": "14:20",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -814,10 +795,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 16
     },
     {
       "dt": 1792497900.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792500300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:59",
+      "time_estimated": "15:03",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 19
     },
     {
       "dt": 1792500300.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792502400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:24",
+      "time_estimated": "15:17",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792502700.0,
@@ -1354,7 +1335,7 @@
     {
       "dt": 1792505100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:33",
+      "time_estimated": "16:29",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -1368,7 +1349,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 24
     },
     {
       "dt": 1792505100.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1792506600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:30",
+      "time_estimated": "16:28",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
