@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 20:10",
+  "updated_at": "20.10.2026 20:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 39
-    },
-    {
-      "dt": 1792513200.0,
-      "time_scheduled": "18:20",
-      "time_estimated": "18:12",
-      "flight_no": "LX1024",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792513800.0,
@@ -347,25 +328,6 @@
     {
       "dt": 1792516500.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:13",
-      "flight_no": "EK057",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792516500.0,
-      "time_scheduled": "19:15",
       "time_estimated": "19:11",
       "flight_no": "EW4204",
       "airline": "Eurowings",
@@ -376,6 +338,25 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792516500.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:13",
+      "flight_no": "EK057",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -537,7 +518,7 @@
     {
       "dt": 1792518600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:16",
+      "time_estimated": "20:12",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -547,11 +528,11 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 26
+      "delay": 22
     },
     {
       "dt": 1792519200.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1792522800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:10",
+      "time_estimated": "21:03",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -741,12 +722,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 3
     },
     {
       "dt": 1792522800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:03",
+      "time_estimated": "21:12",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -757,10 +738,10 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 13
     },
     {
       "dt": 1792523100.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1792524300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:25",
+      "time_estimated": "21:31",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -855,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 6
     },
     {
       "dt": 1792524300.0,
@@ -1397,11 +1378,11 @@
       "airline": "Iberia",
       "city": "Madrid-Barajas",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
