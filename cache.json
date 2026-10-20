@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 08:25",
+  "updated_at": "20.10.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1792478400.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:46",
+      "time_estimated": "08:36",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -190,7 +190,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792478400.0,
@@ -225,15 +225,15 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792478400.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:45",
+      "time_estimated": "08:50",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -244,10 +244,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 11
     },
     {
       "dt": 1792479000.0,
@@ -281,9 +281,9 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -357,9 +357,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1792481400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:27",
+      "time_estimated": "09:37",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -510,10 +510,10 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792481700.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792482900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:41",
+      "time_estimated": "09:47",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -651,7 +651,7 @@
     {
       "dt": 1792483200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:01",
+      "time_estimated": "10:10",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 10
     },
     {
       "dt": 1792483500.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:35",
+      "time_estimated": "10:41",
       "flight_no": "EW9743",
       "airline": "Eurowings",
       "city": "Genf",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 17
     },
     {
       "dt": 1792484700.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:50",
+      "time_estimated": "10:47",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 22
     },
     {
       "dt": 1792485000.0,
@@ -1630,6 +1630,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792495800.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "13:30",
+      "flight_no": "DE1621",
+      "airline": "Condor",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
