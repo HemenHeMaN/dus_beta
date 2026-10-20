@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 09:35",
+  "updated_at": "20.10.2026 09:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,7 +404,7 @@
     {
       "dt": 1792481400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "10:02",
+      "time_estimated": "09:38",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -414,11 +414,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 33
+      "delay": 8
     },
     {
       "dt": 1792481400.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1792481700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:39",
+      "time_estimated": "09:44",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -456,12 +456,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1792481700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:57",
+      "time_estimated": "09:35",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -471,16 +471,16 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 23
+      "delay": 1
     },
     {
       "dt": 1792482300.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:49",
+      "time_estimated": "09:44",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -491,15 +491,15 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792482300.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:42",
+      "time_estimated": "09:48",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -513,12 +513,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792482900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:52",
+      "time_estimated": "09:48",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -537,7 +537,7 @@
     {
       "dt": 1792482900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:47",
+      "time_estimated": "09:39",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -547,9 +547,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -676,9 +676,9 @@
       "city": "Mailand-Linate",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -689,7 +689,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:41",
+      "time_estimated": "10:51",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -703,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 26
     },
     {
       "dt": 1792484700.0,
@@ -789,11 +789,11 @@
       "airline": "Finnair",
       "city": "Helsinki",
       "country": "Finnland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -974,7 +974,7 @@
     {
       "dt": 1792488600.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:24",
+      "time_estimated": "11:17",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792489800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:57",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792489800.0,
@@ -1967,6 +1967,25 @@
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792500000.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
