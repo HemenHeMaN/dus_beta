@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 21:15",
+  "updated_at": "20.10.2026 21:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -115,25 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 4
-    },
-    {
-      "dt": 1792517100.0,
-      "time_scheduled": "19:25",
-      "time_estimated": "19:16",
-      "flight_no": "XQ1360",
-      "airline": "Sun Express",
-      "city": "Diyarbakir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792517400.0,
@@ -404,25 +385,6 @@
     {
       "dt": 1792522800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:52",
-      "flight_no": "EW9765",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792522800.0,
-      "time_scheduled": "21:00",
       "time_estimated": "21:07",
       "flight_no": "BA924",
       "airline": "British Airways",
@@ -438,6 +400,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 7
+    },
+    {
+      "dt": 1792522800.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "20:52",
+      "flight_no": "EW9765",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792523100.0,
@@ -490,16 +471,16 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 20
     },
     {
       "dt": 1792524300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:31",
+      "time_estimated": "21:19",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -509,16 +490,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792524300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:23",
+      "time_estimated": "21:44",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -532,7 +513,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1792524300.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1792524600.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:29",
+      "time_estimated": "21:30",
       "flight_no": "X36643",
       "airline": "Tuifly",
       "city": "Marsa Alam",
@@ -623,9 +604,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1792525500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:17",
+      "time_estimated": "22:20",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -662,10 +643,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 35
     },
     {
       "dt": 1792525500.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1792526100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:01",
+      "time_estimated": "22:03",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -779,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1792526100.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792527900.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:23",
+      "time_estimated": "22:24",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
