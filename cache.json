@@ -1,26 +1,7 @@
 {
-  "updated_at": "20.10.2026 08:05",
+  "updated_at": "20.10.2026 08:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792469100.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:06",
-      "flight_no": "EW9899",
-      "airline": "Eurowings",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
     {
       "dt": 1792470600.0,
       "time_scheduled": "06:30",
@@ -138,7 +119,7 @@
     {
       "dt": 1792476600.0,
       "time_scheduled": "08:10",
-      "time_estimated": "08:13",
+      "time_estimated": "08:09",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -148,16 +129,16 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792476900.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:15",
+      "time_estimated": "08:14",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -171,7 +152,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792476900.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1792481400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:29",
+      "time_estimated": "09:27",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -537,7 +518,7 @@
     {
       "dt": 1792481700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:33",
+      "time_estimated": "09:43",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -551,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792481700.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792482900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:39",
+      "time_estimated": "09:41",
       "flight_no": "BA918",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -670,7 +651,7 @@
     {
       "dt": 1792483200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:58",
+      "time_estimated": "10:01",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -684,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792483500.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:16",
+      "time_estimated": "10:23",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -879,7 +860,7 @@
     {
       "dt": 1792485000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:19",
+      "time_estimated": "10:20",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1573,6 +1554,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792494600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "EW9883",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792494600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "DE1557",
+      "airline": "Condor",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
