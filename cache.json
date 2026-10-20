@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 22:50",
+  "updated_at": "20.10.2026 22:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 16
     },
     {
-      "dt": 1792521600.0,
-      "time_scheduled": "20:40",
-      "time_estimated": "20:54",
-      "flight_no": "EW9533",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 15
-    },
-    {
       "dt": 1792522200.0,
       "time_scheduled": "20:50",
       "time_estimated": "20:59",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 10
-    },
-    {
-      "dt": 1792522800.0,
-      "time_scheduled": "21:00",
-      "time_estimated": "20:52",
-      "flight_no": "EW9765",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792522800.0,
@@ -138,7 +100,7 @@
     {
       "dt": 1792523700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "22:59",
+      "time_estimated": "23:04",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -149,10 +111,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 104
+      "delay": 110
     },
     {
       "dt": 1792523700.0,
@@ -377,8 +339,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 78
     },
@@ -442,25 +404,6 @@
     {
       "dt": 1792526100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:22",
-      "flight_no": "EW9571",
-      "airline": "Eurowings",
-      "city": "Jerez de la Frontera",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 28
-    },
-    {
-      "dt": 1792526100.0,
-      "time_scheduled": "21:55",
       "time_estimated": "21:52",
       "flight_no": "EW9717",
       "airline": "Eurowings",
@@ -476,6 +419,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792526100.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "22:22",
+      "flight_no": "EW9571",
+      "airline": "Eurowings",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 28
     },
     {
       "dt": 1792526100.0,
@@ -518,7 +480,7 @@
     {
       "dt": 1792526400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:56",
+      "time_estimated": "23:01",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -532,26 +494,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 57
-    },
-    {
-      "dt": 1792526400.0,
-      "time_scheduled": "22:00",
-      "time_estimated": "22:09",
-      "flight_no": "LO405",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
+      "delay": 61
     },
     {
       "dt": 1792526400.0,
@@ -573,9 +516,28 @@
       "delay": 7
     },
     {
+      "dt": 1792526400.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:09",
+      "flight_no": "LO405",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 9
+    },
+    {
       "dt": 1792526700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "23:08",
+      "time_estimated": "23:13",
       "flight_no": "EW9855",
       "airline": "Eurowings",
       "city": "Brindisi",
@@ -589,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 63
+      "delay": 69
     },
     {
       "dt": 1792526700.0,
@@ -632,25 +594,6 @@
     {
       "dt": 1792527000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:47",
-      "flight_no": "EW9445",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 37
-    },
-    {
-      "dt": 1792527000.0,
-      "time_scheduled": "22:10",
       "time_estimated": "22:01",
       "flight_no": "EW9847",
       "airline": "Eurowings",
@@ -666,6 +609,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792527000.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:47",
+      "flight_no": "EW9445",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 37
     },
     {
       "dt": 1792527000.0,
@@ -784,7 +746,7 @@
     {
       "dt": 1792527600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:54",
+      "time_estimated": "22:50",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -794,16 +756,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 35
+      "delay": 31
     },
     {
       "dt": 1792527900.0,
       "time_scheduled": "22:25",
-      "time_estimated": "23:00",
+      "time_estimated": "22:58",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -817,12 +779,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 36
+      "delay": 34
     },
     {
       "dt": 1792527900.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:55",
+      "time_estimated": "22:54",
       "flight_no": "EW9881",
       "airline": "Eurowings",
       "city": "Agadir",
@@ -832,11 +794,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 31
+      "delay": 29
     },
     {
       "dt": 1792527900.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1792528500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:58",
+      "time_estimated": "22:52",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -927,11 +889,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 17
     },
     {
       "dt": 1792528500.0,
@@ -974,7 +936,7 @@
     {
       "dt": 1792528500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:56",
+      "time_estimated": "23:02",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -988,7 +950,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 22
+      "delay": 28
     },
     {
       "dt": 1792528800.0,
