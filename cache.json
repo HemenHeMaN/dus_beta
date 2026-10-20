@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 19:15",
+  "updated_at": "20.10.2026 19:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -624,8 +624,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1792516800.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:20",
+      "time_estimated": "19:25",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -741,12 +741,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792517100.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:35",
+      "time_estimated": "19:30",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -757,10 +757,10 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1792517100.0,
@@ -775,9 +775,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -813,9 +813,9 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -998,11 +998,11 @@
       "airline": "Eurowings",
       "city": "Alicante",
       "country": "Spanien",
-      "type": "Linie",
+      "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1039,8 +1039,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1240,7 +1240,7 @@
     {
       "dt": 1792525200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:35",
+      "time_estimated": "21:45",
       "flight_no": "EW9853",
       "airline": "Eurowings",
       "city": "Lamezia Terme (Kalabrien)",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792525200.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792525500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:01",
+      "time_estimated": "22:08",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 24
     },
     {
       "dt": 1792525500.0,
@@ -1601,7 +1601,7 @@
     {
       "dt": 1792527000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:34",
+      "time_estimated": "22:19",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1615,7 +1615,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 10
     },
     {
       "dt": 1792527000.0,
@@ -1658,7 +1658,7 @@
     {
       "dt": 1792527300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:38",
       "flight_no": "EW9335",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -1672,7 +1672,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 24
     },
     {
       "dt": 1792527300.0,
@@ -1753,7 +1753,7 @@
     {
       "dt": 1792527600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:25",
+      "time_estimated": "22:28",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1767,12 +1767,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 9
     },
     {
       "dt": 1792527900.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:25",
+      "time_estimated": "22:20",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -1943,7 +1943,7 @@
     {
       "dt": 1792528500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:53",
+      "time_estimated": "22:46",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1957,7 +1957,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 11
     },
     {
       "dt": 1792528800.0,
@@ -2019,7 +2019,7 @@
     {
       "dt": 1792529100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:38",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -2030,8 +2030,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
