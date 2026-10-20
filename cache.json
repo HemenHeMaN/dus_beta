@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 13:10",
+  "updated_at": "20.10.2026 13:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -575,7 +575,7 @@
     {
       "dt": 1792495200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:34",
+      "time_estimated": "13:26",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -585,11 +585,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 6
     },
     {
       "dt": 1792495500.0,
@@ -623,9 +623,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1792496700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:46",
+      "time_estimated": "13:48",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792497000.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1792497000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:53",
+      "time_estimated": "13:54",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -703,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792497000.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792497300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:59",
+      "time_estimated": "14:00",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -779,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1792497600.0,
@@ -1874,6 +1874,25 @@
       "country": "Tunesien",
       "type": "Charter",
       "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792512900.0,
+      "time_scheduled": "18:15",
+      "time_estimated": "18:15",
+      "flight_no": "XQ282",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
