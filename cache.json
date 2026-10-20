@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 11:55",
+  "updated_at": "20.10.2026 12:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,6 +100,25 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
+      "time_estimated": "11:40",
+      "flight_no": "EW9341",
+      "airline": "Eurowings",
+      "city": "Manchester",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 75
+    },
+    {
+      "dt": 1792484700.0,
+      "time_scheduled": "10:25",
       "time_estimated": "10:24",
       "flight_no": "EW9743",
       "airline": "Eurowings",
@@ -134,25 +153,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1792484700.0,
-      "time_scheduled": "10:25",
-      "time_estimated": "11:40",
-      "flight_no": "EW9341",
-      "airline": "Eurowings",
-      "city": "Manchester",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 75
     },
     {
       "dt": 1792484700.0,
@@ -385,25 +385,6 @@
     {
       "dt": 1792487400.0,
       "time_scheduled": "11:10",
-      "time_estimated": "10:48",
-      "flight_no": "IB1319",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792487400.0,
-      "time_scheduled": "11:10",
       "time_estimated": "11:06",
       "flight_no": "VF005",
       "airline": "A Jet",
@@ -414,6 +395,25 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792487400.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "10:48",
+      "flight_no": "IB1319",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -461,25 +461,6 @@
     {
       "dt": 1792489200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:09",
-      "flight_no": "X32313",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792489200.0,
-      "time_scheduled": "11:40",
       "time_estimated": "11:49",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
@@ -508,6 +489,25 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792489200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:09",
+      "flight_no": "X32313",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -556,7 +556,7 @@
     {
       "dt": 1792489800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:01",
+      "time_estimated": "11:55",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -566,11 +566,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1792489800.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1792489800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:52",
+      "time_estimated": "11:57",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -604,11 +604,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 8
     },
     {
       "dt": 1792490100.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1792491000.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:04",
+      "time_estimated": "12:09",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -737,9 +737,9 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +936,7 @@
     {
       "dt": 1792494600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:23",
+      "time_estimated": "13:33",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -950,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 24
     },
     {
       "dt": 1792494600.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1792495800.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:33",
+      "time_estimated": "13:34",
       "flight_no": "DE1621",
       "airline": "Condor",
       "city": "Kos",
@@ -1045,7 +1045,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792496100.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792497300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:53",
+      "time_estimated": "13:54",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792497300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:57",
+      "time_estimated": "13:58",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -1197,7 +1197,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1792497600.0,
@@ -1449,7 +1449,7 @@
     {
       "dt": 1792500300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:43",
+      "time_estimated": "14:34",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1791,7 +1791,7 @@
     {
       "dt": 1792505100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:06",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -1805,7 +1805,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792505700.0,
