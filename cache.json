@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 10:15",
+  "updated_at": "20.10.2026 10:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1792483500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:23",
+      "time_estimated": "10:18",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -509,11 +509,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 14
     },
     {
       "dt": 1792484100.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:21",
+      "time_estimated": "10:26",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -627,7 +627,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792484700.0,
@@ -642,9 +642,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -689,7 +689,7 @@
     {
       "dt": 1792485000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:23",
+      "time_estimated": "10:28",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -727,7 +727,7 @@
     {
       "dt": 1792485300.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:40",
+      "time_estimated": "10:35",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -738,10 +738,10 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1792485900.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1792486200.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:50",
+      "time_estimated": "10:51",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -798,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792486500.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792491300.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:36",
+      "time_estimated": "12:40",
       "flight_no": "EW5703",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -1156,10 +1156,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 26
     },
     {
       "dt": 1792491600.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792494600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:13",
+      "time_estimated": "13:12",
       "flight_no": "DE1557",
       "airline": "Condor",
       "city": "Jerez de la Frontera",
@@ -1422,10 +1422,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1792494900.0,
@@ -1449,7 +1449,7 @@
     {
       "dt": 1792495200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:20",
+      "time_estimated": "13:45",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1463,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 26
     },
     {
       "dt": 1792495500.0,
@@ -2046,6 +2046,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792502400.0,
+      "time_scheduled": "15:20",
+      "time_estimated": "15:20",
+      "flight_no": "EZY8649",
+      "airline": "Easy Jet",
+      "city": "London-Gatwick",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
