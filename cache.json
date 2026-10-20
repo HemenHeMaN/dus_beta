@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 20:40",
+  "updated_at": "20.10.2026 20:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -60,25 +60,6 @@
       "delay": 26
     },
     {
-      "dt": 1792514400.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:44",
-      "flight_no": "SK627",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
-    },
-    {
       "dt": 1792515300.0,
       "time_scheduled": "18:55",
       "time_estimated": "18:53",
@@ -115,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1792515300.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:42",
-      "flight_no": "XQ280",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792516200.0,
@@ -528,16 +490,16 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 25
     },
     {
       "dt": 1792521600.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:54",
+      "time_estimated": "20:49",
       "flight_no": "EW9533",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -548,10 +510,10 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 9
     },
     {
       "dt": 1792522200.0,
@@ -890,8 +852,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 84
     },
@@ -1297,7 +1259,7 @@
     {
       "dt": 1792527600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:33",
+      "time_estimated": "22:41",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1311,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 22
     },
     {
       "dt": 1792527900.0,
@@ -1392,7 +1354,7 @@
     {
       "dt": 1792528200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:52",
+      "time_estimated": "22:50",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1403,10 +1365,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 20
     },
     {
       "dt": 1792528200.0,
