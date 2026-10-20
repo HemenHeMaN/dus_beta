@@ -1,26 +1,7 @@
 {
-  "updated_at": "20.10.2026 15:25",
+  "updated_at": "20.10.2026 15:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792491600.0,
-      "time_scheduled": "12:20",
-      "time_estimated": "13:30",
-      "flight_no": "XR502",
-      "airline": "Corendon Airlines Europe",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 70
-    },
     {
       "dt": 1792494600.0,
       "time_scheduled": "13:10",
@@ -233,25 +214,6 @@
     {
       "dt": 1792497900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:16",
-      "flight_no": "XQ958",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 12
-    },
-    {
-      "dt": 1792497900.0,
-      "time_scheduled": "14:05",
       "time_estimated": "14:18",
       "flight_no": "LX1018",
       "airline": "Swiss",
@@ -267,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 14
+    },
+    {
+      "dt": 1792497900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:16",
+      "flight_no": "XQ958",
+      "airline": "Sun Express",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 12
     },
     {
       "dt": 1792498200.0,
@@ -699,16 +680,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792504800.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:07",
+      "time_estimated": "16:08",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
@@ -722,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792504800.0,
@@ -803,7 +784,7 @@
     {
       "dt": 1792505100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:06",
+      "time_estimated": "16:08",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -817,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792505700.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1792508700.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:35",
+      "time_estimated": "18:22",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -969,12 +950,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 77
     },
     {
       "dt": 1792509000.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:14",
+      "time_estimated": "18:07",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -988,12 +969,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 64
+      "delay": 57
     },
     {
       "dt": 1792509000.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:14",
+      "time_estimated": "17:04",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1007,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792509300.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792511100.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "18:07",
       "flight_no": "GQ590",
       "airline": "Sky Express",
       "city": "Thessaloniki",
@@ -1194,10 +1175,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 23
     },
     {
       "dt": 1792511700.0,
@@ -1487,7 +1468,7 @@
     {
       "dt": 1792515300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:51",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1498,8 +1479,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
