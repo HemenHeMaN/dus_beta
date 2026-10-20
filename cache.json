@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 07:05",
+  "updated_at": "20.10.2026 07:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -129,16 +129,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792474800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "08:08",
+      "time_estimated": "08:02",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 23
     },
     {
       "dt": 1792475400.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1792479900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:00",
+      "time_estimated": "08:55",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -442,7 +442,7 @@
     {
       "dt": 1792479900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:09",
+      "time_estimated": "09:10",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -453,10 +453,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792479900.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1792483500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:12",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792484100.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1792485000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:13",
+      "time_estimated": "10:09",
       "flight_no": "4M211",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1307,6 +1307,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792491000.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792491000.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "UD437",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
