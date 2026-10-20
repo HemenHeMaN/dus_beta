@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 07:45",
+  "updated_at": "20.10.2026 07:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1792475400.0,
       "time_scheduled": "07:50",
-      "time_estimated": "07:52",
+      "time_estimated": "07:47",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -167,11 +167,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792476600.0,
@@ -214,7 +214,7 @@
     {
       "dt": 1792476900.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:05",
+      "time_estimated": "07:49",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -224,9 +224,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -410,9 +410,9 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "C",
-      "baggage": "12",
+      "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -423,7 +423,7 @@
     {
       "dt": 1792479900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:55",
+      "time_estimated": "08:56",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -803,7 +803,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:26",
+      "time_estimated": "10:16",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792484700.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1792485900.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:49",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792486200.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792487400.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:05",
+      "time_estimated": "11:08",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -1554,6 +1554,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792493400.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
