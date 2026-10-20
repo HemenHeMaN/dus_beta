@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 07:15",
+  "updated_at": "20.10.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -347,7 +347,7 @@
     {
       "dt": 1792479300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:52",
+      "time_estimated": "08:58",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -358,10 +358,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792479600.0,
@@ -1383,6 +1383,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792491600.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "XR502",
+      "airline": "Corendon Airlines Europe",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
