@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 09:00",
+  "updated_at": "20.10.2026 09:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,7 +233,7 @@
     {
       "dt": 1792479300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "09:03",
+      "time_estimated": "09:01",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -243,11 +243,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 6
     },
     {
       "dt": 1792479600.0,
@@ -271,7 +271,7 @@
     {
       "dt": 1792479600.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:02",
+      "time_estimated": "09:27",
       "flight_no": "XC244",
       "airline": "Corendon Airlines",
       "city": "Gazipaşa-Alanya",
@@ -285,7 +285,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 27
     },
     {
       "dt": 1792479600.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1792484400.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:40",
+      "time_estimated": "10:37",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 18
     },
     {
       "dt": 1792484700.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:22",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792489200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:43",
+      "time_estimated": "11:44",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792490700.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:05",
+      "time_estimated": "12:09",
       "flight_no": "X34429",
       "airline": "Tuifly",
       "city": "Korfu",
@@ -1216,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792491000.0,
@@ -1763,6 +1763,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792497900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:05",
+      "flight_no": "LX1018",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792497900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:05",
+      "flight_no": "XQ958",
+      "airline": "Sun Express",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
