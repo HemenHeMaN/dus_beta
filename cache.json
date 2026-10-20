@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 16:55",
+  "updated_at": "20.10.2026 17:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 75
-    },
-    {
-      "dt": 1792499700.0,
-      "time_scheduled": "14:35",
-      "time_estimated": "14:56",
-      "flight_no": "EW9465",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 22
     },
     {
       "dt": 1792500900.0,
@@ -96,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1792502100.0,
-      "time_scheduled": "15:15",
-      "time_estimated": "14:58",
-      "flight_no": "EW9511",
-      "airline": "Eurowings",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792502400.0,
@@ -328,7 +290,7 @@
     {
       "dt": 1792505700.0,
       "time_scheduled": "16:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:08",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -339,10 +301,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 60
+      "delay": 54
     },
     {
       "dt": 1792506600.0,
@@ -404,7 +366,7 @@
     {
       "dt": 1792507800.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:59",
+      "time_estimated": "16:57",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -414,11 +376,11 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 7
     },
     {
       "dt": 1792508100.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1792514400.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:41",
+      "time_estimated": "18:35",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -969,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792514700.0,
@@ -1050,7 +1012,7 @@
     {
       "dt": 1792516200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:16",
+      "time_estimated": "19:23",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1064,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 14
     },
     {
       "dt": 1792516200.0,
@@ -1354,7 +1316,7 @@
     {
       "dt": 1792519800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:10",
+      "time_estimated": "20:00",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1877,6 +1839,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792526400.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "EW9469",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792526400.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "LO405",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
