@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 05:55",
+  "updated_at": "20.10.2026 06:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,15 +16,15 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
     {
       "dt": 1792469100.0,
       "time_scheduled": "06:05",
-      "time_estimated": "05:55",
+      "time_estimated": "06:10",
       "flight_no": "XC268",
       "airline": "Corendon Airlines",
       "city": "Mersin-Çukurova",
@@ -38,12 +38,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792469700.0,
       "time_scheduled": "06:15",
-      "time_estimated": "06:03",
+      "time_estimated": "06:09",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -423,7 +423,7 @@
     {
       "dt": 1792479900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:00",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1060,6 +1060,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792486800.0,
+      "time_scheduled": "11:00",
+      "time_estimated": "11:00",
+      "flight_no": "4M296",
+      "airline": "Mavi Gök Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
