@@ -1,26 +1,7 @@
 {
-  "updated_at": "20.10.2026 12:15",
+  "updated_at": "20.10.2026 12:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792483500.0,
-      "time_scheduled": "10:05",
-      "time_estimated": "10:18",
-      "flight_no": "EW9331",
-      "airline": "Eurowings",
-      "city": "Birmingham",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 14
-    },
     {
       "dt": 1792484100.0,
       "time_scheduled": "10:15",
@@ -347,7 +328,7 @@
     {
       "dt": 1792489200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:20",
+      "time_estimated": "12:16",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -357,11 +338,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 40
+      "delay": 37
     },
     {
       "dt": 1792489200.0,
@@ -529,8 +510,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1792491000.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:26",
+      "time_estimated": "12:21",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -589,12 +570,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1792491300.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:35",
+      "time_estimated": "12:29",
       "flight_no": "EW5703",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -605,10 +586,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 15
     },
     {
       "dt": 1792491600.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1792492500.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:27",
+      "time_estimated": "12:22",
       "flight_no": "EW9873",
       "airline": "Eurowings",
       "city": "Bari",
@@ -746,7 +727,7 @@
     {
       "dt": 1792492800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:48",
+      "time_estimated": "12:49",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -756,11 +737,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 9
+      "delay": 10
     },
     {
       "dt": 1792493100.0,
@@ -813,9 +794,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1792494600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:33",
+      "time_estimated": "13:32",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -855,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1792494600.0,
@@ -1913,6 +1894,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792509600.0,
+      "time_scheduled": "17:20",
+      "time_estimated": "17:20",
+      "flight_no": "PC5011",
+      "airline": "Pegasus Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792509600.0,
+      "time_scheduled": "17:20",
+      "time_estimated": "17:20",
+      "flight_no": "TK1527",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
