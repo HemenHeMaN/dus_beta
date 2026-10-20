@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 07:20",
+  "updated_at": "20.10.2026 07:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1792474500.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:28",
+      "time_estimated": "07:33",
       "flight_no": "H7403",
       "airline": "Hi Sky",
       "city": "Chisinau",
@@ -195,7 +195,7 @@
     {
       "dt": 1792476900.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:15",
+      "time_estimated": "08:14",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -206,15 +206,15 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792476900.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:04",
+      "time_estimated": "08:05",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -328,7 +328,7 @@
     {
       "dt": 1792479000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:53",
+      "time_estimated": "08:51",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -339,10 +339,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 1
     },
     {
       "dt": 1792479300.0,
@@ -507,7 +507,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "7",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -526,7 +526,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
@@ -580,11 +580,11 @@
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
       "country": "Polen",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -765,7 +765,7 @@
     {
       "dt": 1792484400.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:20",
+      "time_estimated": "10:29",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792484700.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:26",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792484700.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:30",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -874,12 +874,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792485000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:28",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792486800.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:00",
+      "time_estimated": "11:04",
       "flight_no": "4M296",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1061,10 +1061,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792487400.0,
@@ -1402,6 +1402,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792491900.0,
+      "time_scheduled": "12:25",
+      "time_estimated": "12:25",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
