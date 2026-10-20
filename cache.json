@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 06:55",
+  "updated_at": "20.10.2026 07:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1792472700.0,
       "time_scheduled": "07:05",
-      "time_estimated": "07:22",
+      "time_estimated": "06:56",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -91,16 +91,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 0
     },
     {
       "dt": 1792473000.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:57",
+      "time_estimated": "06:59",
       "flight_no": "XQ1350",
       "airline": "Sun Express",
       "city": "Samsun",
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -336,7 +336,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "4",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -442,7 +442,7 @@
     {
       "dt": 1792479900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:06",
+      "time_estimated": "09:09",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792479900.0,
@@ -488,7 +488,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -651,21 +651,21 @@
     {
       "dt": 1792482900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "10:04",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
       "country": "Schweiz",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792482900.0,
@@ -689,21 +689,21 @@
     {
       "dt": 1792483200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "10:04",
       "flight_no": "EW9083",
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792483200.0,
@@ -733,9 +733,9 @@
       "city": "Birmingham",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -761,25 +761,6 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 49
-    },
-    {
-      "dt": 1792484100.0,
-      "time_scheduled": "10:15",
-      "time_estimated": "10:15",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792484400.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1792485300.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:35",
+      "time_estimated": "10:39",
       "flight_no": "XC108",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -966,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792485300.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792489500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "11:52",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792489500.0,
