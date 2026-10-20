@@ -1,26 +1,7 @@
 {
-  "updated_at": "20.10.2026 09:50",
+  "updated_at": "20.10.2026 09:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792474800.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:52",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
-    },
     {
       "dt": 1792476600.0,
       "time_scheduled": "08:10",
@@ -528,9 +509,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -548,15 +529,15 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1792483500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:28",
+      "time_estimated": "10:30",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -570,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 23
+      "delay": 25
     },
     {
       "dt": 1792484100.0,
@@ -642,16 +623,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792484700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:41",
+      "time_estimated": "11:28",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -665,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 63
     },
     {
       "dt": 1792484700.0,
@@ -738,8 +719,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1792485300.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:39",
+      "time_estimated": "10:40",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1792485900.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792489500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "12:01",
+      "time_estimated": "14:22",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 158
     },
     {
       "dt": 1792489500.0,
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792489800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:57",
+      "time_estimated": "11:50",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792489800.0,
@@ -1991,6 +1972,63 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792500900.0,
+      "time_scheduled": "14:55",
+      "time_estimated": "14:55",
+      "flight_no": "BJ214",
+      "airline": "Nouvelair",
+      "city": "Monastir",
+      "country": "Tunesien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792500900.0,
+      "time_scheduled": "14:55",
+      "time_estimated": "14:55",
+      "flight_no": "KK117",
+      "airline": "LEAV Aviation",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792500900.0,
+      "time_scheduled": "14:55",
+      "time_estimated": "14:55",
+      "flight_no": "KK321",
+      "airline": "LEAV Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
