@@ -1,5 +1,5 @@
 {
-  "updated_at": "20.10.2026 18:00",
+  "updated_at": "20.10.2026 18:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -98,25 +98,6 @@
       "delay": 23
     },
     {
-      "dt": 1792505100.0,
-      "time_scheduled": "16:05",
-      "time_estimated": "16:04",
-      "flight_no": "DE869",
-      "airline": "Condor",
-      "city": "Beirut",
-      "country": "Libanon",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792505700.0,
       "time_scheduled": "16:15",
       "time_estimated": "17:04",
@@ -138,25 +119,6 @@
     {
       "dt": 1792506600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "17:26",
-      "flight_no": "LH2018",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 57
-    },
-    {
-      "dt": 1792506600.0,
-      "time_scheduled": "16:30",
       "time_estimated": "16:24",
       "flight_no": "EW9815",
       "airline": "Eurowings",
@@ -172,6 +134,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792506600.0,
+      "time_scheduled": "16:30",
+      "time_estimated": "17:26",
+      "flight_no": "LH2018",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 57
     },
     {
       "dt": 1792507500.0,
@@ -252,7 +233,7 @@
     {
       "dt": 1792508700.0,
       "time_scheduled": "17:05",
-      "time_estimated": "18:21",
+      "time_estimated": "18:20",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -281,11 +262,11 @@
       "terminal": "A",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 51
+      "delay": 50
     },
     {
       "dt": 1792509000.0,
@@ -366,44 +347,6 @@
     {
       "dt": 1792510800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:21",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792510800.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "17:32",
-      "flight_no": "KL1803",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792510800.0,
-      "time_scheduled": "17:40",
       "time_estimated": "17:35",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
@@ -432,6 +375,44 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792510800.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:21",
+      "flight_no": "EW9501",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792510800.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:32",
+      "flight_no": "KL1803",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -632,7 +613,7 @@
     {
       "dt": 1792513200.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:18",
+      "time_estimated": "18:13",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -643,8 +624,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1792514400.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:51",
+      "time_estimated": "18:44",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 4
     },
     {
       "dt": 1792514400.0,
@@ -1018,10 +999,10 @@
       "city": "Diyarbakir",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1107,7 +1088,7 @@
     {
       "dt": 1792518600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:20",
+      "time_estimated": "20:26",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 37
     },
     {
       "dt": 1792519200.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792519800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:06",
+      "time_estimated": "20:07",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792522200.0,
       "time_scheduled": "20:50",
-      "time_estimated": "21:00",
+      "time_estimated": "21:06",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
@@ -1270,10 +1251,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 17
     },
     {
       "dt": 1792522800.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1792523100.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:05",
+      "time_estimated": "21:06",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1349,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792523700.0,
