@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 17:35",
+  "updated_at": "21.10.2026 17:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -90,25 +90,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792591200.0,
-      "time_scheduled": "16:00",
-      "time_estimated": "15:39",
-      "flight_no": "AF1406",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -461,7 +442,7 @@
     {
       "dt": 1792597200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:37",
+      "time_estimated": "17:36",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -471,9 +452,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -529,8 +510,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1792597500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:38",
+      "time_estimated": "17:39",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -585,9 +566,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1792600500.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:51",
+      "time_estimated": "18:44",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -798,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 9
     },
     {
       "dt": 1792600500.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792607400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:30",
+      "time_estimated": "20:38",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1463,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792607700.0,
@@ -1487,7 +1468,7 @@
     {
       "dt": 1792607700.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:35",
+      "time_estimated": "20:44",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1501,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792608000.0,
@@ -1791,7 +1772,7 @@
     {
       "dt": 1792612200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:50",
+      "time_estimated": "22:29",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1805,7 +1786,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 39
     },
     {
       "dt": 1792612200.0,
@@ -2236,6 +2217,82 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792615200.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "X32117",
+      "airline": "Tuifly",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792615200.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "X34589",
+      "airline": "Tuifly",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792615200.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "DE1613",
+      "airline": "Condor",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792615200.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "DE1517",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
