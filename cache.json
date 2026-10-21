@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 12:45",
+  "updated_at": "21.10.2026 12:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 14
-    },
-    {
-      "dt": 1792572900.0,
-      "time_scheduled": "10:55",
-      "time_estimated": "10:48",
-      "flight_no": "BJ206",
-      "airline": "Nouvelair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792573200.0,
-      "time_scheduled": "11:00",
-      "time_estimated": "10:45",
-      "flight_no": "4M396",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792573500.0,
@@ -411,7 +373,7 @@
       "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
@@ -453,8 +415,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -537,7 +499,7 @@
     {
       "dt": 1792580700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:55",
+      "time_estimated": "12:46",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -547,9 +509,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -623,9 +585,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +746,7 @@
     {
       "dt": 1792583400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:49",
+      "time_estimated": "13:51",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -798,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792583700.0,
@@ -974,7 +936,7 @@
     {
       "dt": 1792585500.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:44",
+      "time_estimated": "14:52",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -985,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 28
     },
     {
       "dt": 1792585800.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792587300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:04",
+      "time_estimated": "15:03",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -1194,10 +1156,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1792587600.0,
@@ -1392,7 +1354,7 @@
     {
       "dt": 1792591200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "15:53",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792591800.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:10",
+      "time_estimated": "16:02",
       "flight_no": "XQ1328",
       "airline": "Sun Express",
       "city": "Zonguldak",
@@ -1875,6 +1837,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792597800.0,
+      "time_scheduled": "17:50",
+      "time_estimated": "17:50",
+      "flight_no": "EW9575",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
