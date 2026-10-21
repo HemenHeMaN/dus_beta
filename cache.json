@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 05:45",
+  "updated_at": "21.10.2026 05:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -119,7 +119,7 @@
     {
       "dt": 1792563000.0,
       "time_scheduled": "08:10",
-      "time_estimated": "07:54",
+      "time_estimated": "07:57",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -130,8 +130,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -868,6 +868,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792572600.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
