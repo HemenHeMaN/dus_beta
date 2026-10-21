@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 10:40",
+  "updated_at": "21.10.2026 10:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -33,25 +33,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792566000.0,
-      "time_scheduled": "09:00",
-      "time_estimated": "08:43",
-      "flight_no": "XQ188",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -661,9 +642,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1792576200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:37",
+      "time_estimated": "11:42",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -841,7 +822,7 @@
     {
       "dt": 1792576800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:11",
+      "time_estimated": "12:16",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -852,15 +833,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 16
     },
     {
       "dt": 1792577400.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:21",
+      "time_estimated": "12:27",
       "flight_no": "MI4752",
       "airline": "Freebird Airlines Europe",
       "city": "Hurghada",
@@ -874,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 17
     },
     {
       "dt": 1792577700.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792579800.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:58",
+      "time_estimated": "13:03",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1792580100.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792582200.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:40",
+      "time_estimated": "13:53",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 24
     },
     {
       "dt": 1792582500.0,
@@ -1354,7 +1335,7 @@
     {
       "dt": 1792583400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
+      "time_estimated": "13:44",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792583700.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "13:47",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1430,7 +1411,7 @@
     {
       "dt": 1792584300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:05",
+      "time_estimated": "14:24",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1444,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1792584300.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792584600.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:50",
+      "time_estimated": "13:48",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1861,6 +1842,44 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792590300.0,
+      "time_scheduled": "15:45",
+      "time_estimated": "15:45",
+      "flight_no": "X32293",
+      "airline": "Tuifly",
+      "city": "Lanzarote-Arrecife",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792590300.0,
+      "time_scheduled": "15:45",
+      "time_estimated": "15:45",
+      "flight_no": "VF027",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
