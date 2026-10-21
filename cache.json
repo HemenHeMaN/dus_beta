@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 12:00",
+  "updated_at": "21.10.2026 12:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 38
-    },
-    {
-      "dt": 1792569600.0,
-      "time_scheduled": "10:00",
-      "time_estimated": "10:03",
-      "flight_no": "EW9083",
-      "airline": "Eurowings",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
-    },
-    {
-      "dt": 1792569900.0,
-      "time_scheduled": "10:05",
-      "time_estimated": "10:01",
-      "flight_no": "EW9331",
-      "airline": "Eurowings",
-      "city": "Birmingham",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792569900.0,
@@ -166,25 +128,6 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792571400.0,
-      "time_scheduled": "10:30",
-      "time_estimated": "10:05",
-      "flight_no": "4M311",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -547,9 +490,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -566,9 +509,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -594,7 +537,7 @@
     {
       "dt": 1792578600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:07",
+      "time_estimated": "12:01",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -604,9 +547,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +841,7 @@
     {
       "dt": 1792582200.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:10",
+      "time_estimated": "14:05",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -912,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 41
+      "delay": 36
     },
     {
       "dt": 1792582500.0,
@@ -936,7 +879,7 @@
     {
       "dt": 1792582500.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:32",
+      "time_estimated": "13:26",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -1069,7 +1012,7 @@
     {
       "dt": 1792584000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:09",
+      "time_estimated": "14:04",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -1083,7 +1026,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1792584300.0,
@@ -1677,7 +1620,7 @@
     {
       "dt": 1792591500.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:16",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -1688,10 +1631,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1792591800.0,
