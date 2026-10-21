@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 08:40",
+  "updated_at": "21.10.2026 08:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -309,7 +309,7 @@
     {
       "dt": 1792566000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:01",
+      "time_estimated": "08:54",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -323,12 +323,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792566000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:46",
+      "time_estimated": "08:43",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -338,9 +338,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -377,8 +377,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -395,9 +395,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -452,9 +452,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792569300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:57",
+      "time_estimated": "09:59",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792569600.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792576200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:35",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792576800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "11:44",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1447,6 +1447,25 @@
       "delay": 25
     },
     {
+      "dt": 1792581600.0,
+      "time_scheduled": "13:20",
+      "time_estimated": "13:43",
+      "flight_no": "EW9571",
+      "airline": "Eurowings",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 23
+    },
+    {
       "dt": 1792581900.0,
       "time_scheduled": "13:25",
       "time_estimated": "13:25",
@@ -1576,6 +1595,25 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792583100.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "DE1795",
+      "airline": "Condor",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
