@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 19:35",
+  "updated_at": "21.10.2026 19:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -79,25 +79,6 @@
       "delay": 22
     },
     {
-      "dt": 1792597200.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "17:36",
-      "flight_no": "KL1803",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792597500.0,
       "time_scheduled": "17:45",
       "time_estimated": "17:48",
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 13
-    },
-    {
-      "dt": 1792597500.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "17:39",
-      "flight_no": "LH076",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792597800.0,
@@ -461,25 +423,6 @@
     {
       "dt": 1792601700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:41",
-      "flight_no": "XQ794",
-      "airline": "Sun Express",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792601700.0,
-      "time_scheduled": "18:55",
       "time_estimated": "18:56",
       "flight_no": "XQ280",
       "airline": "Sun Express",
@@ -509,6 +452,25 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792601700.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:41",
+      "flight_no": "XQ794",
+      "airline": "Sun Express",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -566,16 +528,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 56
     },
     {
       "dt": 1792602300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "20:27",
+      "time_estimated": "20:23",
       "flight_no": "EW8046",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -589,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 82
+      "delay": 78
     },
     {
       "dt": 1792602600.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1792604100.0,
       "time_scheduled": "19:35",
-      "time_estimated": "20:00",
+      "time_estimated": "19:54",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -814,10 +776,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 19
     },
     {
       "dt": 1792604100.0,
@@ -879,7 +841,7 @@
     {
       "dt": 1792604700.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:56",
+      "time_estimated": "19:39",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
@@ -889,16 +851,16 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 0
     },
     {
       "dt": 1792605300.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:40",
+      "time_estimated": "19:36",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -908,9 +870,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1126,7 +1088,7 @@
     {
       "dt": 1792609200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:03",
+      "time_estimated": "21:28",
       "flight_no": "EW9039",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1140,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 28
     },
     {
       "dt": 1792609200.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792609200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:06",
+      "time_estimated": "21:05",
       "flight_no": "DE235",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1197,7 +1159,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1792610100.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792610700.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:28",
+      "time_estimated": "21:38",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1292,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 14
     },
     {
       "dt": 1792611300.0,
@@ -1563,7 +1525,7 @@
     {
       "dt": 1792613400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:19",
+      "time_estimated": "22:09",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1577,7 +1539,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1792613400.0,
@@ -1962,7 +1924,7 @@
     {
       "dt": 1792615500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:40",
+      "time_estimated": "22:46",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -1976,7 +1938,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     }
   ]
 }
