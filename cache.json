@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 09:35",
+  "updated_at": "21.10.2026 09:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1792565100.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:21",
-      "flight_no": "PC5305",
-      "airline": "Pegasus Airlines",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792565100.0,
-      "time_scheduled": "08:45",
       "time_estimated": "08:26",
       "flight_no": "JU360",
       "airline": "Air Serbia",
@@ -186,6 +167,25 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792565100.0,
+      "time_scheduled": "08:45",
+      "time_estimated": "08:21",
+      "flight_no": "PC5305",
+      "airline": "Pegasus Airlines",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -548,8 +548,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1792569600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:48",
+      "time_estimated": "09:47",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792578300.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:27",
+      "time_estimated": "12:28",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792578600.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792579200.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:33",
+      "time_estimated": "12:23",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792579200.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:33",
+      "time_estimated": "12:39",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792580100.0,
       "time_scheduled": "12:55",
-      "time_estimated": "12:55",
+      "time_estimated": "12:43",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1818,6 +1818,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792586400.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
