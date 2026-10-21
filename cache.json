@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 14:50",
+  "updated_at": "21.10.2026 14:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,25 +404,6 @@
     {
       "dt": 1792584600.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:42",
-      "flight_no": "XQ186",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792584600.0,
-      "time_scheduled": "14:10",
       "time_estimated": "14:07",
       "flight_no": "DE1849",
       "airline": "Condor",
@@ -433,6 +414,25 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792584600.0,
+      "time_scheduled": "14:10",
+      "time_estimated": "13:42",
+      "flight_no": "XQ186",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -642,9 +642,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -765,7 +765,7 @@
     {
       "dt": 1792588500.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:27",
+      "time_estimated": "15:13",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -779,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 0
     },
     {
       "dt": 1792589400.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1792590300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:27",
+      "time_estimated": "15:28",
       "flight_no": "X32293",
       "airline": "Tuifly",
       "city": "Lanzarote-Arrecife",
@@ -841,7 +841,7 @@
     {
       "dt": 1792590600.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:54",
+      "time_estimated": "15:59",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -855,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1792590600.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1792591200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:45",
+      "time_estimated": "15:46",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -909,8 +909,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792594500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:45",
+      "time_estimated": "16:39",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -1468,7 +1468,7 @@
     {
       "dt": 1792598400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:54",
       "flight_no": "BA920",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1734,7 +1734,7 @@
     {
       "dt": 1792602000.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:52",
+      "time_estimated": "18:51",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -1853,11 +1853,11 @@
       "airline": "Emirates",
       "city": "Dubai",
       "country": "VAE",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -2067,6 +2067,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792605300.0,
+      "time_scheduled": "19:55",
+      "time_estimated": "19:55",
+      "flight_no": "EZY8649",
+      "airline": "Easy Jet",
+      "city": "London-Gatwick",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
