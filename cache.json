@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 11:35",
+  "updated_at": "21.10.2026 11:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -471,9 +471,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -993,7 +993,7 @@
     {
       "dt": 1792582500.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:25",
+      "time_estimated": "13:32",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792585500.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:23",
+      "time_estimated": "14:27",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1292,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792585800.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792586100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:35",
+      "time_estimated": "14:38",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1349,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792586400.0,
@@ -1392,7 +1392,7 @@
     {
       "dt": 1792586700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:45",
+      "time_estimated": "14:42",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -1601,7 +1601,7 @@
     {
       "dt": 1792590300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "15:31",
       "flight_no": "X32293",
       "airline": "Tuifly",
       "city": "Lanzarote-Arrecife",
@@ -1612,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
