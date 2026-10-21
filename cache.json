@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 07:10",
+  "updated_at": "21.10.2026 07:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,7 +290,7 @@
     {
       "dt": 1792565400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:49",
+      "time_estimated": "08:48",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -719,10 +719,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 11
     },
     {
       "dt": 1792570500.0,
@@ -1193,6 +1193,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792577700.0,
+      "time_scheduled": "12:15",
+      "time_estimated": "12:15",
+      "flight_no": "EW9819",
+      "airline": "Eurowings",
+      "city": "Catania (Sizilien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
