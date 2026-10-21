@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 07:30",
+  "updated_at": "21.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,9 +110,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -233,7 +233,7 @@
     {
       "dt": 1792564800.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:38",
+      "time_estimated": "08:34",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -499,7 +499,7 @@
     {
       "dt": 1792567500.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:22",
+      "time_estimated": "09:19",
       "flight_no": "DY1150",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -537,7 +537,7 @@
     {
       "dt": 1792567800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:31",
+      "time_estimated": "09:32",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -548,10 +548,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792567800.0,
@@ -1250,6 +1250,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792578900.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
