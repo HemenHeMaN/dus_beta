@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 11:50",
+  "updated_at": "21.10.2026 11:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,7 +404,7 @@
     {
       "dt": 1792576200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:58",
+      "time_estimated": "11:50",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -414,11 +414,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1792576200.0,
@@ -605,8 +605,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,21 +1069,21 @@
     {
       "dt": 1792584000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:03",
+      "time_estimated": "14:09",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
       "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 10
     },
     {
       "dt": 1792584300.0,
@@ -1251,8 +1251,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 22
     },
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792586100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:38",
+      "time_estimated": "14:44",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1292,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1792586400.0,
@@ -1837,6 +1837,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792594500.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "EW9763",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792594500.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "VF005",
+      "airline": "A Jet",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792594500.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "TP542",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
