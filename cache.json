@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 13:35",
+  "updated_at": "21.10.2026 13:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -396,8 +396,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 41
     },
@@ -415,8 +415,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -567,8 +567,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792583400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:52",
+      "time_estimated": "13:58",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -604,11 +604,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 8
     },
     {
       "dt": 1792583700.0,
@@ -623,9 +623,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -662,8 +662,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 26
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1792586100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:52",
+      "time_estimated": "15:02",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 27
     },
     {
       "dt": 1792586400.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792587300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:19",
+      "time_estimated": "15:18",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 24
     },
     {
       "dt": 1792587300.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792588500.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:10",
+      "time_estimated": "15:06",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792591500.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:08",
+      "time_estimated": "16:18",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 13
     },
     {
       "dt": 1792591500.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792593900.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:45",
+      "time_estimated": "16:49",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792594200.0,
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792594500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:46",
+      "time_estimated": "16:45",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -1896,6 +1896,63 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792600800.0,
+      "time_scheduled": "18:40",
+      "time_estimated": "18:40",
+      "flight_no": "LH2022",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792600800.0,
+      "time_scheduled": "18:40",
+      "time_estimated": "18:40",
+      "flight_no": "SK627",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792600800.0,
+      "time_scheduled": "18:40",
+      "time_estimated": "18:40",
+      "flight_no": "AF1006",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
