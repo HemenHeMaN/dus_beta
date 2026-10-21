@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 09:40",
+  "updated_at": "21.10.2026 09:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1792569300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:59",
+      "time_estimated": "09:52",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -551,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792569600.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1792569600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:47",
+      "time_estimated": "09:43",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -585,9 +585,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1792571100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:19",
+      "time_estimated": "10:21",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -746,7 +746,7 @@
     {
       "dt": 1792571400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:18",
+      "time_estimated": "10:19",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -784,7 +784,7 @@
     {
       "dt": 1792572600.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:45",
+      "time_estimated": "10:44",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -860,7 +860,7 @@
     {
       "dt": 1792573500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:43",
+      "time_estimated": "11:44",
       "flight_no": "AT696",
       "airline": "Royal Air Maroc",
       "city": "Nador",
@@ -874,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 39
     },
     {
       "dt": 1792573800.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792579800.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:55",
+      "time_estimated": "12:50",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1235,12 +1235,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1792579800.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:50",
+      "time_estimated": "12:44",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -1789,6 +1789,25 @@
       "delay": 0
     },
     {
+      "dt": 1792585800.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:43",
+      "flight_no": "EW9637",
+      "airline": "Eurowings",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 13
+    },
+    {
       "dt": 1792586100.0,
       "time_scheduled": "14:35",
       "time_estimated": "14:35",
@@ -1839,6 +1858,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792586700.0,
+      "time_scheduled": "14:45",
+      "time_estimated": "14:45",
+      "flight_no": "XC102",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792586700.0,
+      "time_scheduled": "14:45",
+      "time_estimated": "14:45",
+      "flight_no": "LH2016",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792586700.0,
+      "time_scheduled": "14:45",
+      "time_estimated": "14:45",
+      "flight_no": "XQ286",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
