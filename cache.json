@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 12:50",
+  "updated_at": "21.10.2026 12:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -373,7 +373,7 @@
       "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1792584300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:33",
+      "time_estimated": "14:57",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 52
     },
     {
       "dt": 1792584300.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1792584900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:55",
+      "time_estimated": "15:27",
       "flight_no": "VY1894",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -912,12 +912,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 40
+      "delay": 72
     },
     {
       "dt": 1792584900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:09",
+      "time_estimated": "14:10",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -928,8 +928,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792586700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:50",
+      "time_estimated": "14:45",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792586700.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792587300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:11",
+      "time_estimated": "15:19",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 25
     },
     {
       "dt": 1792587300.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792591200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:49",
+      "time_estimated": "15:48",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1346,8 +1346,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1856,6 +1856,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792598100.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "EW9585",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
