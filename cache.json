@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 18:05",
+  "updated_at": "21.10.2026 18:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,25 +24,6 @@
     {
       "dt": 1792591500.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:06",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1792591500.0,
-      "time_scheduled": "16:05",
       "time_estimated": "16:10",
       "flight_no": "EW9989",
       "airline": "Eurowings",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1792591800.0,
-      "time_scheduled": "16:10",
-      "time_estimated": "16:08",
-      "flight_no": "XQ1328",
-      "airline": "Sun Express",
-      "city": "Zonguldak",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792591800.0,
@@ -271,21 +233,21 @@
     {
       "dt": 1792595400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "18:17",
+      "time_estimated": "18:33",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 68
+      "delay": 84
     },
     {
       "dt": 1792595400.0,
@@ -314,14 +276,14 @@
       "airline": "LEAV Aviation",
       "city": "Damaskus",
       "country": "Syrien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 71
     },
@@ -499,21 +461,21 @@
     {
       "dt": 1792597800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:23",
+      "time_estimated": "18:15",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 33
+      "delay": 26
     },
     {
       "dt": 1792598100.0,
@@ -580,14 +542,14 @@
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 19
     },
@@ -733,9 +695,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1240,7 +1202,7 @@
     {
       "dt": 1792605600.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:03",
+      "time_estimated": "20:17",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1254,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 17
     },
     {
       "dt": 1792605600.0,
@@ -1463,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1792609200.0,
