@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 15:20",
+  "updated_at": "21.10.2026 15:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 26
     },
     {
-      "dt": 1792581900.0,
-      "time_scheduled": "13:25",
-      "time_estimated": "13:24",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792582200.0,
       "time_scheduled": "13:30",
       "time_estimated": "13:57",
@@ -77,44 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 28
-    },
-    {
-      "dt": 1792582500.0,
-      "time_scheduled": "13:35",
-      "time_estimated": "13:21",
-      "flight_no": "X34105",
-      "airline": "Tuifly",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792582500.0,
-      "time_scheduled": "13:35",
-      "time_estimated": "13:23",
-      "flight_no": "DE1615",
-      "airline": "Condor",
-      "city": "Chania (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792582800.0,
@@ -708,7 +651,7 @@
     {
       "dt": 1792590300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:28",
+      "time_estimated": "15:20",
       "flight_no": "X32293",
       "airline": "Tuifly",
       "city": "Lanzarote-Arrecife",
@@ -718,9 +661,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +689,7 @@
     {
       "dt": 1792590600.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:59",
+      "time_estimated": "16:00",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -760,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792590600.0,
@@ -813,9 +756,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1012,7 @@
     {
       "dt": 1792595400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:32",
+      "time_estimated": "17:26",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1083,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 17
     },
     {
       "dt": 1792595400.0,
@@ -1316,7 +1259,7 @@
     {
       "dt": 1792598100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:07",
+      "time_estimated": "18:08",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1330,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 14
     },
     {
       "dt": 1792598400.0,
@@ -2084,6 +2027,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792607100.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "20:25",
+      "flight_no": "EJU3943",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792607100.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "20:25",
+      "flight_no": "EI698",
+      "airline": "Aer Lingus",
+      "city": "Dublin",
+      "country": "Irland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
