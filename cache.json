@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 18:45",
+  "updated_at": "21.10.2026 18:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 23
-    },
-    {
-      "dt": 1792593000.0,
-      "time_scheduled": "16:30",
-      "time_estimated": "16:49",
-      "flight_no": "DE1429",
-      "airline": "Condor",
-      "city": "Teneriffa Süd",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 20
     },
     {
       "dt": 1792594200.0,
@@ -448,9 +429,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -556,26 +537,7 @@
     {
       "dt": 1792600800.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:26",
-      "flight_no": "LH2022",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792600800.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:50",
+      "time_estimated": "18:46",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -585,11 +547,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 7
     },
     {
       "dt": 1792600800.0,
@@ -604,6 +566,25 @@
       "terminal": "B",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792600800.0,
+      "time_scheduled": "18:40",
+      "time_estimated": "18:26",
+      "flight_no": "LH2022",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -662,15 +643,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
     {
       "dt": 1792602000.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:53",
+      "time_estimated": "18:49",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -680,9 +661,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1792602300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "20:32",
+      "time_estimated": "20:34",
       "flight_no": "EW8046",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -741,12 +722,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 88
+      "delay": 90
     },
     {
       "dt": 1792602600.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:01",
+      "time_estimated": "18:54",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -814,8 +795,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -827,11 +808,11 @@
       "airline": "Air Baltic",
       "city": "Riga",
       "country": "Lettland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -846,11 +827,11 @@
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -980,10 +961,10 @@
       "city": "Dalaman",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792605600.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:14",
+      "time_estimated": "20:16",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 16
     },
     {
       "dt": 1792605600.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792607400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "21:04",
+      "time_estimated": "21:08",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 34
+      "delay": 38
     },
     {
       "dt": 1792607700.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1792608000.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:35",
+      "time_estimated": "20:36",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -1601,7 +1582,7 @@
     {
       "dt": 1792612500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:55",
+      "time_estimated": "21:52",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -1677,7 +1658,7 @@
     {
       "dt": 1792612800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "21:54",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1791,7 +1772,7 @@
     {
       "dt": 1792613400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:55",
+      "time_estimated": "23:00",
       "flight_no": "EW9981",
       "airline": "Eurowings",
       "city": "Beirut",
@@ -1802,10 +1783,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 45
+      "delay": 51
     },
     {
       "dt": 1792613700.0,
@@ -2095,7 +2076,7 @@
     {
       "dt": 1792615500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:49",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
@@ -2106,10 +2087,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792615500.0,
