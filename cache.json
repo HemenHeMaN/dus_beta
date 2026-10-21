@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 08:25",
+  "updated_at": "21.10.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,7 +233,7 @@
     {
       "dt": 1792565100.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:29",
+      "time_estimated": "08:26",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -243,9 +243,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -317,11 +317,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
+      "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -347,7 +347,7 @@
     {
       "dt": 1792566000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:41",
+      "time_estimated": "08:46",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -357,9 +357,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -376,9 +376,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -393,7 +393,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "17",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -613,7 +613,7 @@
     {
       "dt": 1792569300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:02",
+      "time_estimated": "09:57",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1792569600.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1792573800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:07",
+      "time_estimated": "11:01",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1462,6 +1462,44 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792581900.0,
+      "time_scheduled": "13:25",
+      "time_estimated": "13:28",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 3
+    },
+    {
+      "dt": 1792583100.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:28",
+      "flight_no": "QR085",
+      "airline": "Qatar Airways",
+      "city": "Doha",
+      "country": "Katar",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
