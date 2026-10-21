@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 22:20",
+  "updated_at": "21.10.2026 22:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -60,25 +60,6 @@
       "delay": 79
     },
     {
-      "dt": 1792605600.0,
-      "time_scheduled": "20:00",
-      "time_estimated": "20:20",
-      "flight_no": "EW9467",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 20
-    },
-    {
       "dt": 1792606200.0,
       "time_scheduled": "20:10",
       "time_estimated": "20:30",
@@ -96,44 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 20
-    },
-    {
-      "dt": 1792606500.0,
-      "time_scheduled": "20:15",
-      "time_estimated": "20:25",
-      "flight_no": "EW9591",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 10
-    },
-    {
-      "dt": 1792607100.0,
-      "time_scheduled": "20:25",
-      "time_estimated": "20:22",
-      "flight_no": "EI698",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792607400.0,
@@ -461,7 +404,7 @@
     {
       "dt": 1792612200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:25",
+      "time_estimated": "22:31",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -475,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 35
+      "delay": 42
     },
     {
       "dt": 1792612200.0,
@@ -708,7 +651,7 @@
     {
       "dt": 1792613400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:49",
+      "time_estimated": "22:34",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -719,10 +662,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 39
+      "delay": 24
     },
     {
       "dt": 1792613400.0,
@@ -870,16 +813,16 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792614300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:27",
+      "time_estimated": "22:21",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -889,11 +832,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792614600.0,
@@ -966,8 +909,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1079,9 +1022,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     }
