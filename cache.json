@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 09:20",
+  "updated_at": "21.10.2026 09:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -442,7 +442,7 @@
     {
       "dt": 1792567800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:25",
+      "time_estimated": "09:21",
       "flight_no": "VY1896",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -452,9 +452,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1792571400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:27",
+      "time_estimated": "10:23",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -719,8 +719,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +917,7 @@
     {
       "dt": 1792575300.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:45",
+      "time_estimated": "11:43",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -931,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1792575600.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792578900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:35",
+      "time_estimated": "12:28",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1761,6 +1761,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792585500.0,
+      "time_scheduled": "14:25",
+      "time_estimated": "14:25",
+      "flight_no": "EW9861",
+      "airline": "Eurowings",
+      "city": "Neapel",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
