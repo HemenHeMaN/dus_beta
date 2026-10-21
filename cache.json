@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 10:55",
+  "updated_at": "21.10.2026 11:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,25 +53,6 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792567200.0,
-      "time_scheduled": "09:20",
-      "time_estimated": "08:58",
-      "flight_no": "BA918",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -461,7 +442,7 @@
     {
       "dt": 1792572600.0,
       "time_scheduled": "10:50",
-      "time_estimated": "11:09",
+      "time_estimated": "11:07",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -475,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 17
     },
     {
       "dt": 1792572900.0,
@@ -537,7 +518,7 @@
     {
       "dt": 1792573500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:43",
+      "time_estimated": "11:34",
       "flight_no": "AT696",
       "airline": "Royal Air Maroc",
       "city": "Nador",
@@ -551,12 +532,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 30
     },
     {
       "dt": 1792573800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:03",
+      "time_estimated": "10:56",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -566,9 +547,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -585,9 +566,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +594,7 @@
     {
       "dt": 1792575600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:31",
+      "time_estimated": "11:32",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -651,7 +632,7 @@
     {
       "dt": 1792576200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:42",
+      "time_estimated": "11:48",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1126,7 +1107,7 @@
     {
       "dt": 1792582200.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:53",
+      "time_estimated": "14:03",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1140,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 34
     },
     {
       "dt": 1792582500.0,
@@ -1297,7 +1278,7 @@
     {
       "dt": 1792584000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:58",
+      "time_estimated": "14:03",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -1311,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792584300.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1792584900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:13",
       "flight_no": "VY1894",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1837,6 +1818,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792591200.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "PC1003",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792591200.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "AF1406",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
