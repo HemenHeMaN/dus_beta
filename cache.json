@@ -1,5 +1,5 @@
 {
-  "updated_at": "21.10.2026 20:05",
+  "updated_at": "21.10.2026 20:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -355,7 +355,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "3",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -404,7 +404,7 @@
     {
       "dt": 1792602900.0,
       "time_scheduled": "19:15",
-      "time_estimated": "20:11",
+      "time_estimated": "20:17",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -418,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 57
+      "delay": 62
     },
     {
       "dt": 1792602900.0,
@@ -461,6 +461,25 @@
     {
       "dt": 1792603500.0,
       "time_scheduled": "19:25",
+      "time_estimated": "20:22",
+      "flight_no": "XQ1340",
+      "airline": "Sun Express",
+      "city": "Trabzon",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
+      "remark": "",
+      "delay": 57
+    },
+    {
+      "dt": 1792603500.0,
+      "time_scheduled": "19:25",
       "time_estimated": "19:13",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
@@ -476,25 +495,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1792603500.0,
-      "time_scheduled": "19:25",
-      "time_estimated": "20:22",
-      "flight_no": "XQ1340",
-      "airline": "Sun Express",
-      "city": "Trabzon",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 57
     },
     {
       "dt": 1792603800.0,
@@ -575,25 +575,6 @@
     {
       "dt": 1792604100.0,
       "time_scheduled": "19:35",
-      "time_estimated": "19:16",
-      "flight_no": "XQ3580",
-      "airline": "Sun Express",
-      "city": "Dalaman",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792604100.0,
-      "time_scheduled": "19:35",
       "time_estimated": "19:30",
       "flight_no": "EW4338",
       "airline": "Eurowings",
@@ -604,6 +585,25 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792604100.0,
+      "time_scheduled": "19:35",
+      "time_estimated": "19:16",
+      "flight_no": "XQ3580",
+      "airline": "Sun Express",
+      "city": "Dalaman",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -700,8 +700,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 24
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1792606200.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:35",
+      "time_estimated": "20:20",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -737,11 +737,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 11
     },
     {
       "dt": 1792606500.0,
@@ -757,15 +757,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
     {
       "dt": 1792607100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:09",
+      "time_estimated": "20:14",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -795,8 +795,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1792607700.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:43",
+      "time_estimated": "20:37",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -830,13 +830,13 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "6",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 2
     },
     {
       "dt": 1792607700.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792612800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:01",
+      "time_estimated": "22:11",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1292,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 12
     },
     {
       "dt": 1792612800.0,
