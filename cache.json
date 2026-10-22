@@ -1,26 +1,7 @@
 {
-  "updated_at": "22.10.2026 09:35",
+  "updated_at": "22.10.2026 09:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792647600.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:38",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792648200.0,
       "time_scheduled": "07:50",
@@ -442,7 +423,7 @@
     {
       "dt": 1792655100.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:52",
+      "time_estimated": "09:54",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -456,7 +437,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 10
     },
     {
       "dt": 1792655100.0,
@@ -490,9 +471,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -509,16 +490,16 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792656000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:39",
+      "time_estimated": "09:37",
       "flight_no": "FH1065",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -528,9 +509,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -604,9 +585,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1792657800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:23",
+      "time_estimated": "10:22",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -993,7 +974,7 @@
     {
       "dt": 1792660800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:27",
+      "time_estimated": "11:21",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -1007,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 2
     },
     {
       "dt": 1792661700.0,
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792662300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "11:55",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792662600.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1792664100.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:15",
+      "time_estimated": "12:39",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1254,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1792664100.0,
@@ -1297,7 +1278,7 @@
     {
       "dt": 1792664700.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:30",
+      "time_estimated": "12:27",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1311,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 3
     },
     {
       "dt": 1792665000.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1792665000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:23",
+      "time_estimated": "12:18",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -1346,8 +1327,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1392,7 +1373,7 @@
     {
       "dt": 1792665600.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:40",
+      "time_estimated": "12:41",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -1406,12 +1387,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792665600.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:40",
+      "time_estimated": "12:41",
       "flight_no": "XR440",
       "airline": "Corendon Airlines Europe",
       "city": "Korfu",
@@ -1425,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792665900.0,
@@ -2008,6 +1989,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792672800.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "LH2016",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792672800.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
