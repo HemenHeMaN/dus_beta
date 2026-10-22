@@ -1,26 +1,7 @@
 {
-  "updated_at": "22.10.2026 18:45",
+  "updated_at": "22.10.2026 18:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792680300.0,
-      "time_scheduled": "16:45",
-      "time_estimated": "16:46",
-      "flight_no": "EW9753",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
     {
       "dt": 1792680900.0,
       "time_scheduled": "16:55",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 28
-    },
-    {
-      "dt": 1792681200.0,
-      "time_scheduled": "17:00",
-      "time_estimated": "16:49",
-      "flight_no": "OU422",
-      "airline": "Croatia Airlines",
-      "city": "Split",
-      "country": "Kroatien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792681800.0,
@@ -499,7 +461,7 @@
     {
       "dt": 1792686900.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:01",
+      "time_estimated": "18:59",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -513,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 26
+      "delay": 24
     },
     {
       "dt": 1792686900.0,
@@ -699,9 +661,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -719,15 +681,15 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792689300.0,
       "time_scheduled": "19:15",
-      "time_estimated": "18:48",
+      "time_estimated": "18:49",
       "flight_no": "VF029",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -737,9 +699,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +718,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -775,16 +737,16 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792689300.0,
       "time_scheduled": "19:15",
-      "time_estimated": "18:57",
+      "time_estimated": "18:55",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -795,8 +757,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -871,8 +833,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +898,7 @@
     {
       "dt": 1792690800.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:45",
+      "time_estimated": "19:44",
       "flight_no": "LH2026",
       "airline": "Lufthansa",
       "city": "München",
@@ -947,10 +909,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1792690800.0,
@@ -1126,7 +1088,7 @@
     {
       "dt": 1792693500.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:30",
+      "time_estimated": "20:22",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1140,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792693800.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792695600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:47",
+      "time_estimated": "22:01",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1292,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 47
+      "delay": 61
     },
     {
       "dt": 1792696200.0,
@@ -1373,7 +1335,7 @@
     {
       "dt": 1792697100.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:18",
+      "time_estimated": "21:33",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1387,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792697700.0,
@@ -1411,7 +1373,7 @@
     {
       "dt": 1792698000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:24",
+      "time_estimated": "21:38",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1422,15 +1384,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792698300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:45",
+      "time_estimated": "21:50",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1444,12 +1406,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792698300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:45",
+      "time_estimated": "22:18",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1463,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 34
     },
     {
       "dt": 1792698300.0,
@@ -1620,7 +1582,7 @@
     {
       "dt": 1792699200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "21:53",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1753,7 +1715,7 @@
     {
       "dt": 1792699800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:05",
+      "time_estimated": "22:01",
       "flight_no": "X36243",
       "airline": "Tuifly",
       "city": "Agadir",
