@@ -1,26 +1,7 @@
 {
-  "updated_at": "22.10.2026 20:25",
+  "updated_at": "22.10.2026 20:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792686000.0,
-      "time_scheduled": "18:20",
-      "time_estimated": "18:28",
-      "flight_no": "EW9583",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 8
-    },
     {
       "dt": 1792686000.0,
       "time_scheduled": "18:20",
@@ -575,25 +556,6 @@
     {
       "dt": 1792692000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:49",
-      "flight_no": "X32323",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792692000.0,
-      "time_scheduled": "20:00",
       "time_estimated": "19:46",
       "flight_no": "EW9467",
       "airline": "Eurowings",
@@ -604,6 +566,25 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792692000.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "19:49",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -737,9 +718,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -795,8 +776,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1792695600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "22:05",
+      "time_estimated": "21:48",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -855,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 65
+      "delay": 48
     },
     {
       "dt": 1792696200.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1792696200.0,
       "time_scheduled": "21:10",
-      "time_estimated": "21:19",
+      "time_estimated": "21:26",
       "flight_no": "EW9049",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -890,10 +871,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 17
     },
     {
       "dt": 1792696500.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792699500.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:32",
+      "time_estimated": "22:36",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1270,10 +1251,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 28
+      "delay": 32
     },
     {
       "dt": 1792699800.0,
@@ -1289,8 +1270,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 13
     },
@@ -1563,7 +1544,7 @@
     {
       "dt": 1792701000.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:46",
+      "time_estimated": "22:47",
       "flight_no": "EW9417",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -1577,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1792701300.0,
@@ -1658,7 +1639,7 @@
     {
       "dt": 1792701900.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:53",
+      "time_estimated": "22:59",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -1672,7 +1653,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 15
     },
     {
       "dt": 1792702200.0,
