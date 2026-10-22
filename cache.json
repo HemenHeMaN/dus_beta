@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 14:25",
+  "updated_at": "22.10.2026 14:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -115,25 +115,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 58
-    },
-    {
-      "dt": 1792665900.0,
-      "time_scheduled": "12:45",
-      "time_estimated": "12:28",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792666200.0,
@@ -471,9 +452,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 61
     },
@@ -662,8 +643,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792672800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:34",
+      "time_estimated": "14:29",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -718,9 +699,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -738,8 +719,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1792673700.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:05",
+      "time_estimated": "15:06",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -779,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792674300.0,
@@ -794,9 +775,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1792674900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:04",
+      "time_estimated": "15:06",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
@@ -860,7 +841,7 @@
     {
       "dt": 1792674900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:07",
+      "time_estimated": "14:59",
       "flight_no": "EW9601",
       "airline": "Eurowings",
       "city": "Funchal (Madeira)",
@@ -898,7 +879,7 @@
     {
       "dt": 1792675200.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:03",
+      "time_estimated": "15:04",
       "flight_no": "BT933",
       "airline": "Air Baltic",
       "city": "Vilnius",
@@ -1055,11 +1036,11 @@
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1126,7 +1107,7 @@
     {
       "dt": 1792677900.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:06",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1140,12 +1121,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792678500.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:13",
+      "time_estimated": "16:23",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -1159,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792679100.0,
@@ -1487,7 +1468,7 @@
     {
       "dt": 1792683300.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:35",
+      "time_estimated": "17:33",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1620,7 +1601,7 @@
     {
       "dt": 1792684800.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:35",
+      "time_estimated": "17:33",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -2141,6 +2122,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792690200.0,
+      "time_scheduled": "19:30",
+      "time_estimated": "19:30",
+      "flight_no": "XQ180",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
