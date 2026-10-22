@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 22:25",
+  "updated_at": "22.10.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,25 +81,6 @@
     {
       "dt": 1792695600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:36",
-      "flight_no": "BA924",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 36
-    },
-    {
-      "dt": 1792695600.0,
-      "time_scheduled": "21:00",
       "time_estimated": "21:03",
       "flight_no": "EW9765",
       "airline": "Eurowings",
@@ -115,6 +96,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
+    },
+    {
+      "dt": 1792695600.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:36",
+      "flight_no": "BA924",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 36
     },
     {
       "dt": 1792696200.0,
@@ -347,7 +347,7 @@
     {
       "dt": 1792698600.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:26",
+      "time_estimated": "22:27",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -357,11 +357,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 37
+      "delay": 38
     },
     {
       "dt": 1792698900.0,
@@ -528,11 +528,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 25
     },
     {
       "dt": 1792699800.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1792700700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:29",
+      "time_estimated": "22:26",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -794,11 +794,11 @@
       "terminal": "A",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1792701000.0,
@@ -833,8 +833,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -871,8 +871,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -889,16 +889,16 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 18
     },
     {
       "dt": 1792701300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:38",
+      "time_estimated": "22:44",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -908,11 +908,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1792701900.0,
