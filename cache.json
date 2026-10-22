@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 07:45",
+  "updated_at": "22.10.2026 07:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1792648200.0,
       "time_scheduled": "07:50",
-      "time_estimated": "07:59",
+      "time_estimated": "07:49",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -148,11 +148,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1792648200.0,
@@ -176,7 +176,7 @@
     {
       "dt": 1792649400.0,
       "time_scheduled": "08:10",
-      "time_estimated": "08:15",
+      "time_estimated": "08:14",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -186,11 +186,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1792650600.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792656300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:12",
+      "time_estimated": "10:32",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 28
     },
     {
       "dt": 1792656600.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1792656900.0,
       "time_scheduled": "10:15",
-      "time_estimated": "11:05",
+      "time_estimated": "11:13",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -722,12 +722,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 51
+      "delay": 58
     },
     {
       "dt": 1792657200.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:07",
+      "time_estimated": "09:50",
       "flight_no": "MI7160",
       "airline": "Freebird Airlines Europe",
       "city": "Skopje",
@@ -898,7 +898,7 @@
     {
       "dt": 1792658100.0,
       "time_scheduled": "10:35",
-      "time_estimated": "11:03",
+      "time_estimated": "11:04",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -909,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 28
+      "delay": 29
     },
     {
       "dt": 1792658400.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792658700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:49",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792659000.0,
@@ -1573,6 +1573,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792666200.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792666200.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
