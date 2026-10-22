@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 13:00",
+  "updated_at": "22.10.2026 13:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 12
-    },
-    {
-      "dt": 1792660200.0,
-      "time_scheduled": "11:10",
-      "time_estimated": "11:03",
-      "flight_no": "IB1319",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792660800.0,
@@ -471,9 +452,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 55
     },
@@ -566,9 +547,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 37
     },
@@ -594,7 +575,7 @@
     {
       "dt": 1792666800.0,
       "time_scheduled": "13:00",
-      "time_estimated": "13:04",
+      "time_estimated": "13:00",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -604,11 +585,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1792667100.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792667400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:38",
+      "time_estimated": "13:39",
       "flight_no": "EW9685",
       "airline": "Eurowings",
       "city": "Kavala",
@@ -646,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 28
+      "delay": 29
     },
     {
       "dt": 1792667400.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1792668000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:32",
+      "time_estimated": "13:33",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -703,7 +684,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1792668000.0,
@@ -718,9 +699,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -776,8 +757,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -794,9 +775,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -822,7 +803,7 @@
     {
       "dt": 1792669200.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:37",
+      "time_estimated": "13:38",
       "flight_no": "KK227",
       "airline": "LEAV Aviation",
       "city": "Rhodos",
@@ -974,7 +955,7 @@
     {
       "dt": 1792671000.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:39",
+      "time_estimated": "13:41",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -2065,6 +2046,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792685100.0,
+      "time_scheduled": "18:05",
+      "time_estimated": "18:05",
+      "flight_no": "EW7066",
+      "airline": "Eurowings",
+      "city": "Hamburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
