@@ -1,26 +1,7 @@
 {
-  "updated_at": "22.10.2026 10:55",
+  "updated_at": "22.10.2026 11:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792652400.0,
-      "time_scheduled": "09:00",
-      "time_estimated": "08:56",
-      "flight_no": "XC244",
-      "airline": "Corendon Airlines",
-      "city": "Gazipaşa-Alanya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792652700.0,
       "time_scheduled": "09:05",
@@ -366,6 +347,25 @@
     {
       "dt": 1792657500.0,
       "time_scheduled": "10:25",
+      "time_estimated": "10:16",
+      "flight_no": "EW9243",
+      "airline": "Eurowings",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792657500.0,
+      "time_scheduled": "10:25",
       "time_estimated": "10:12",
       "flight_no": "EW9341",
       "airline": "Eurowings",
@@ -400,25 +400,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
-    },
-    {
-      "dt": 1792657500.0,
-      "time_scheduled": "10:25",
-      "time_estimated": "10:16",
-      "flight_no": "EW9243",
-      "airline": "Eurowings",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792657500.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1792660200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:12",
+      "time_estimated": "11:04",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -684,7 +665,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792660200.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1792660500.0,
       "time_scheduled": "11:15",
-      "time_estimated": "10:59",
+      "time_estimated": "11:00",
       "flight_no": "X32405",
       "airline": "Tuifly",
       "city": "Menorca",
@@ -718,9 +699,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +737,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1792662000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:43",
+      "time_estimated": "11:44",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792662000.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1792662900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:31",
+      "time_estimated": "11:33",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1126,7 +1107,7 @@
     {
       "dt": 1792665300.0,
       "time_scheduled": "12:35",
-      "time_estimated": "13:30",
+      "time_estimated": "13:27",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1137,10 +1118,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 56
+      "delay": 53
     },
     {
       "dt": 1792665600.0,
@@ -1297,7 +1278,7 @@
     {
       "dt": 1792667400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:22",
+      "time_estimated": "13:35",
       "flight_no": "EW9685",
       "airline": "Eurowings",
       "city": "Kavala",
@@ -1311,12 +1292,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 25
     },
     {
       "dt": 1792667400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:10",
+      "time_estimated": "13:12",
       "flight_no": "IB751",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1327,10 +1308,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 3
     },
     {
       "dt": 1792667700.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792668900.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:35",
+      "time_estimated": "13:38",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1479,10 +1460,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792669200.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1792671300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:02",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -2095,7 +2076,7 @@
     {
       "dt": 1792677000.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:50",
+      "time_estimated": "15:41",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -2106,8 +2087,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2124,6 +2105,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792677600.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "PC1003",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792677600.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "AF1406",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792677600.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "XC8102",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
