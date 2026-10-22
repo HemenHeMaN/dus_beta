@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 20:45",
+  "updated_at": "22.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -129,25 +129,6 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792689300.0,
-      "time_scheduled": "19:15",
-      "time_estimated": "18:49",
-      "flight_no": "VF029",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -423,25 +404,6 @@
     {
       "dt": 1792692000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:49",
-      "flight_no": "X32323",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792692000.0,
-      "time_scheduled": "20:00",
       "time_estimated": "19:46",
       "flight_no": "EW9467",
       "airline": "Eurowings",
@@ -452,6 +414,25 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792692000.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "19:49",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -670,7 +651,7 @@
     {
       "dt": 1792695600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:17",
+      "time_estimated": "21:03",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -680,16 +661,16 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 3
     },
     {
       "dt": 1792695600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:48",
+      "time_estimated": "21:50",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -700,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 48
+      "delay": 50
     },
     {
       "dt": 1792696200.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1792698300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:47",
+      "time_estimated": "21:45",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -890,10 +871,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792698600.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1792698900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:08",
+      "time_estimated": "22:04",
       "flight_no": "EW9749",
       "airline": "Eurowings",
       "city": "Genf",
@@ -966,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 9
     },
     {
       "dt": 1792698900.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792699200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:04",
+      "time_estimated": "21:59",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792699200.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1792700700.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:19",
+      "time_estimated": "22:48",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1349,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1792700700.0,
