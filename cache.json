@@ -1,26 +1,7 @@
 {
-  "updated_at": "22.10.2026 19:40",
+  "updated_at": "22.10.2026 19:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792682700.0,
-      "time_scheduled": "17:25",
-      "time_estimated": "17:42",
-      "flight_no": "TK1527",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 17
-    },
     {
       "dt": 1792683000.0,
       "time_scheduled": "17:30",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1792683900.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "17:45",
-      "flight_no": "GQ590",
-      "airline": "Sky Express",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792683900.0,
@@ -385,15 +347,15 @@
     {
       "dt": 1792689000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:09",
-      "flight_no": "LX1026",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
+      "time_estimated": "19:02",
+      "flight_no": "OS167",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "1",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -404,15 +366,15 @@
     {
       "dt": 1792689000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:02",
-      "flight_no": "OS167",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
+      "time_estimated": "19:09",
+      "flight_no": "LX1026",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "5",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -624,8 +586,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -680,16 +642,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 17
     },
     {
       "dt": 1792691400.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:48",
+      "time_estimated": "19:44",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -699,9 +661,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +765,7 @@
     {
       "dt": 1792693200.0,
       "time_scheduled": "20:20",
-      "time_estimated": "20:24",
+      "time_estimated": "20:18",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -817,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792693500.0,
@@ -993,7 +955,7 @@
     {
       "dt": 1792696200.0,
       "time_scheduled": "21:10",
-      "time_estimated": "22:46",
+      "time_estimated": "22:57",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1004,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 96
+      "delay": 107
     },
     {
       "dt": 1792696200.0,
@@ -1088,7 +1050,7 @@
     {
       "dt": 1792697700.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:42",
+      "time_estimated": "21:40",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1102,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 5
     },
     {
       "dt": 1792698000.0,
@@ -1240,7 +1202,7 @@
     {
       "dt": 1792698900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:16",
+      "time_estimated": "22:08",
       "flight_no": "EW9749",
       "airline": "Eurowings",
       "city": "Genf",
@@ -1254,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 13
     },
     {
       "dt": 1792698900.0,
@@ -1696,7 +1658,7 @@
     {
       "dt": 1792701000.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:30",
+      "time_estimated": "22:46",
       "flight_no": "EW9417",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -1710,7 +1672,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1792701300.0,
