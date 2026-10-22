@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 08:45",
+  "updated_at": "22.10.2026 08:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,7 +233,7 @@
     {
       "dt": 1792652100.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:49",
+      "time_estimated": "08:45",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -243,9 +243,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -300,9 +300,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1792654500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:42",
+      "time_estimated": "09:37",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1792655100.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792655700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:58",
+      "time_estimated": "10:02",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1792656000.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792658400.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:40",
+      "time_estimated": "10:38",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -841,7 +841,7 @@
     {
       "dt": 1792658700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:44",
+      "time_estimated": "10:51",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792659000.0,
@@ -923,10 +923,10 @@
       "city": "Dalaman",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792661700.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:35",
+      "time_estimated": "11:49",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1792662000.0,
@@ -1777,6 +1777,44 @@
       "airline": "LEAV Aviation",
       "city": "Rhodos",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792669800.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "X34589",
+      "airline": "Tuifly",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792669800.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "AF1506",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
