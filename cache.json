@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 10:50",
+  "updated_at": "22.10.2026 10:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,25 +91,6 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792653900.0,
-      "time_scheduled": "09:25",
-      "time_estimated": "08:53",
-      "flight_no": "XQ288",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -385,25 +366,6 @@
     {
       "dt": 1792657500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:16",
-      "flight_no": "EW9243",
-      "airline": "Eurowings",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792657500.0,
-      "time_scheduled": "10:25",
       "time_estimated": "10:12",
       "flight_no": "EW9341",
       "airline": "Eurowings",
@@ -438,6 +400,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
+    },
+    {
+      "dt": 1792657500.0,
+      "time_scheduled": "10:25",
+      "time_estimated": "10:16",
+      "flight_no": "EW9243",
+      "airline": "Eurowings",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792657500.0,
@@ -594,7 +575,7 @@
     {
       "dt": 1792659000.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:53",
+      "time_estimated": "10:50",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -604,11 +585,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792659300.0,
@@ -623,9 +604,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -700,8 +681,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -1107,7 +1088,7 @@
     {
       "dt": 1792665000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:18",
+      "time_estimated": "12:09",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792665600.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:41",
+      "time_estimated": "12:43",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792665600.0,
@@ -1202,7 +1183,7 @@
     {
       "dt": 1792665900.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:55",
+      "time_estimated": "13:12",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1216,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 28
     },
     {
       "dt": 1792665900.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792668000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:29",
+      "time_estimated": "13:32",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -1384,10 +1365,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 12
     },
     {
       "dt": 1792668000.0,
@@ -1403,8 +1384,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 12
     },
@@ -1430,7 +1411,7 @@
     {
       "dt": 1792668600.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:47",
+      "time_estimated": "13:42",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -1444,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1792668600.0,
@@ -2122,6 +2103,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792677300.0,
+      "time_scheduled": "15:55",
+      "time_estimated": "15:55",
+      "flight_no": "EW9675",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
