@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 20:30",
+  "updated_at": "22.10.2026 20:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,25 +81,6 @@
     {
       "dt": 1792687200.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:31",
-      "flight_no": "LH2022",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792687200.0,
-      "time_scheduled": "18:40",
       "time_estimated": "19:11",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
@@ -115,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 32
-    },
-    {
-      "dt": 1792687200.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "18:33",
-      "flight_no": "AF1006",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792688100.0,
@@ -172,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 19
-    },
-    {
-      "dt": 1792688100.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:35",
-      "flight_no": "XQ794",
-      "airline": "Sun Express",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792688400.0,
@@ -556,25 +499,6 @@
     {
       "dt": 1792692000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:46",
-      "flight_no": "EW9467",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792692000.0,
-      "time_scheduled": "20:00",
       "time_estimated": "19:49",
       "flight_no": "X32323",
       "airline": "Tuifly",
@@ -585,6 +509,25 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792692000.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "19:46",
+      "flight_no": "EW9467",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -719,8 +662,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -1012,7 +955,7 @@
     {
       "dt": 1792698300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:48",
+      "time_estimated": "21:47",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -1026,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1792698600.0,
@@ -1354,7 +1297,7 @@
     {
       "dt": 1792700100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:14",
+      "time_estimated": "22:18",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1365,10 +1308,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792700100.0,
