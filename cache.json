@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 06:40",
+  "updated_at": "22.10.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1792645800.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:47",
+      "time_estimated": "06:43",
       "flight_no": "PC1591",
       "airline": "Pegasus Airlines",
       "city": "Mersin-Çukurova",
@@ -91,16 +91,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792647300.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:29",
+      "time_estimated": "07:27",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -111,8 +111,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -700,15 +700,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792656900.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "11:05",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -719,10 +719,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 51
     },
     {
       "dt": 1792657200.0,
@@ -1193,6 +1193,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792662300.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "EW9861",
+      "airline": "Eurowings",
+      "city": "Neapel",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
