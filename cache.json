@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 16:30",
+  "updated_at": "22.10.2026 16:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,25 +91,6 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792673400.0,
-      "time_scheduled": "14:50",
-      "time_estimated": "14:33",
-      "flight_no": "SM2982",
-      "airline": "Air Cairo",
-      "city": "Marsa Alam",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -461,7 +442,7 @@
     {
       "dt": 1792677900.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:39",
+      "time_estimated": "16:30",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -471,11 +452,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 34
+      "delay": 26
     },
     {
       "dt": 1792677900.0,
@@ -548,8 +529,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -604,9 +585,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -680,9 +661,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -757,8 +738,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 15
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1792683300.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:35",
+      "time_estimated": "17:36",
       "flight_no": "BA922",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -852,10 +833,10 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792683600.0,
@@ -1107,7 +1088,7 @@
     {
       "dt": 1792686900.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:00",
+      "time_estimated": "19:01",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 26
     },
     {
       "dt": 1792686900.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792689900.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:23",
+      "time_estimated": "19:37",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1460,10 +1441,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792689900.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1792690800.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:37",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1991,6 +1972,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792697700.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:35",
+      "flight_no": "EW9423",
+      "airline": "Eurowings",
+      "city": "Nizza",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
