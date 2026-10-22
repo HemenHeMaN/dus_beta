@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 11:20",
+  "updated_at": "22.10.2026 11:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 77
-    },
-    {
-      "dt": 1792654200.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:22",
-      "flight_no": "SK1629",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792654500.0,
@@ -613,7 +594,7 @@
     {
       "dt": 1792660800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:26",
+      "time_estimated": "11:21",
       "flight_no": "EW9831",
       "airline": "Eurowings",
       "city": "Florenz",
@@ -623,11 +604,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 2
     },
     {
       "dt": 1792660800.0,
@@ -661,9 +642,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -681,8 +662,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1792662600.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:48",
+      "time_estimated": "11:53",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -738,10 +719,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792662600.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1792662600.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:51",
+      "time_estimated": "11:46",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -794,11 +775,11 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792662900.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792667100.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:09",
+      "time_estimated": "13:10",
       "flight_no": "SK816",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -1175,10 +1156,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792667400.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1792671300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:26",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1577,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792671300.0,
@@ -2119,6 +2100,25 @@
       "airline": "Easy Jet",
       "city": "London-Gatwick",
       "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792679100.0,
+      "time_scheduled": "16:25",
+      "time_estimated": "16:25",
+      "flight_no": "EW9519",
+      "airline": "Eurowings",
+      "city": "Bilbao",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
