@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 06:10",
+  "updated_at": "22.10.2026 06:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,9 +53,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -119,7 +119,7 @@
     {
       "dt": 1792647600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:39",
+      "time_estimated": "07:49",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -133,7 +133,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792648200.0,
@@ -1079,6 +1079,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792660500.0,
+      "time_scheduled": "11:15",
+      "time_estimated": "11:15",
+      "flight_no": "X32405",
+      "airline": "Tuifly",
+      "city": "Menorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
