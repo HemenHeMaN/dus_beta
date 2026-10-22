@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 19:30",
+  "updated_at": "22.10.2026 19:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1792683600.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "17:31",
-      "flight_no": "EW9395",
-      "airline": "Eurowings",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792683600.0,
@@ -115,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
-    },
-    {
-      "dt": 1792684800.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "17:34",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792684800.0,
@@ -480,25 +442,6 @@
     {
       "dt": 1792689300.0,
       "time_scheduled": "19:15",
-      "time_estimated": "18:49",
-      "flight_no": "VF029",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792689300.0,
-      "time_scheduled": "19:15",
       "time_estimated": "19:04",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
@@ -554,6 +497,25 @@
       "delay": 0
     },
     {
+      "dt": 1792689300.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "18:49",
+      "flight_no": "VF029",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
       "dt": 1792689600.0,
       "time_scheduled": "19:20",
       "time_estimated": "19:30",
@@ -594,7 +556,7 @@
     {
       "dt": 1792689900.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:36",
+      "time_estimated": "19:31",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -604,11 +566,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 7
     },
     {
       "dt": 1792689900.0,
@@ -632,7 +594,7 @@
     {
       "dt": 1792689900.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:36",
+      "time_estimated": "19:35",
       "flight_no": "DE1143",
       "airline": "Condor",
       "city": "Lamezia Terme (Kalabrien)",
@@ -642,11 +604,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1792690200.0,
@@ -757,15 +719,15 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792692000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:56",
+      "time_estimated": "19:45",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -794,9 +756,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -955,7 +917,7 @@
     {
       "dt": 1792694400.0,
       "time_scheduled": "20:40",
-      "time_estimated": "21:49",
+      "time_estimated": "21:48",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -966,15 +928,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 70
+      "delay": 69
     },
     {
       "dt": 1792694400.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:43",
+      "time_estimated": "20:44",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1792695300.0,
@@ -1126,7 +1088,7 @@
     {
       "dt": 1792697100.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:43",
+      "time_estimated": "21:33",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1140,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 9
     },
     {
       "dt": 1792697700.0,
@@ -1772,7 +1734,7 @@
     {
       "dt": 1792701300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:35",
+      "time_estimated": "22:36",
       "flight_no": "EW9727",
       "airline": "Eurowings",
       "city": "Graz",
@@ -1786,7 +1748,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792701300.0,
