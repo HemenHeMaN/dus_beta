@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 11:45",
+  "updated_at": "22.10.2026 11:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 77
-    },
-    {
-      "dt": 1792655100.0,
-      "time_scheduled": "09:45",
-      "time_estimated": "09:46",
-      "flight_no": "EI692",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1792655700.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792662600.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:53",
+      "time_estimated": "11:46",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -642,11 +623,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792662600.0,
@@ -661,9 +642,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -738,8 +719,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1792664700.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:27",
+      "time_estimated": "12:28",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -855,12 +836,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792665000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:22",
+      "time_estimated": "12:23",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -889,9 +870,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1354,7 +1335,7 @@
     {
       "dt": 1792670100.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:11",
+      "time_estimated": "14:10",
       "flight_no": "EW9821",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -1368,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 15
     },
     {
       "dt": 1792670700.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792671300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:24",
+      "time_estimated": "14:23",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1482,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1792671300.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1792672500.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:16",
+      "time_estimated": "14:17",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -2100,6 +2081,25 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792680600.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:50",
+      "flight_no": "EW9547",
+      "airline": "Eurowings",
+      "city": "Fuerteventura",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
