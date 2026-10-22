@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 21:45",
+  "updated_at": "22.10.2026 21:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,44 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 13
-    },
-    {
-      "dt": 1792692000.0,
-      "time_scheduled": "20:00",
-      "time_estimated": "19:46",
-      "flight_no": "EW9467",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792692000.0,
-      "time_scheduled": "20:00",
-      "time_estimated": "19:49",
-      "flight_no": "X32323",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792692600.0,
@@ -233,7 +195,7 @@
     {
       "dt": 1792694400.0,
       "time_scheduled": "20:40",
-      "time_estimated": "21:48",
+      "time_estimated": "21:45",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -243,11 +205,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 69
+      "delay": 66
     },
     {
       "dt": 1792694400.0,
@@ -290,25 +252,6 @@
     {
       "dt": 1792695600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:03",
-      "flight_no": "EW9765",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
-      "dt": 1792695600.0,
-      "time_scheduled": "21:00",
       "time_estimated": "21:36",
       "flight_no": "BA924",
       "airline": "British Airways",
@@ -324,6 +267,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 36
+    },
+    {
+      "dt": 1792695600.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:03",
+      "flight_no": "EW9765",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 3
     },
     {
       "dt": 1792696200.0,
@@ -404,7 +366,7 @@
     {
       "dt": 1792697100.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:48",
+      "time_estimated": "21:47",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -414,11 +376,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1792697700.0,
@@ -490,9 +452,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -604,9 +566,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -813,9 +775,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -871,8 +833,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
