@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 17:45",
+  "updated_at": "22.10.2026 17:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 38
     },
     {
-      "dt": 1792677000.0,
-      "time_scheduled": "15:50",
-      "time_estimated": "15:47",
-      "flight_no": "SM2980",
-      "airline": "Air Cairo",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792677300.0,
       "time_scheduled": "15:55",
       "time_estimated": "15:50",
@@ -53,25 +34,6 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792677600.0,
-      "time_scheduled": "16:00",
-      "time_estimated": "15:48",
-      "flight_no": "PC1003",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -452,9 +414,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 37
     },
@@ -624,8 +586,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -784,7 +746,7 @@
     {
       "dt": 1792687200.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:54",
+      "time_estimated": "19:13",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -798,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 33
     },
     {
       "dt": 1792687200.0,
@@ -841,7 +803,7 @@
     {
       "dt": 1792688100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:11",
+      "time_estimated": "19:17",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -852,10 +814,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 22
     },
     {
       "dt": 1792688100.0,
@@ -1145,7 +1107,7 @@
     {
       "dt": 1792690800.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:41",
+      "time_estimated": "20:01",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1159,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 22
     },
     {
       "dt": 1792690800.0,
@@ -1259,7 +1221,7 @@
     {
       "dt": 1792692000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:04",
+      "time_estimated": "19:59",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1270,10 +1232,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792692600.0,
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792694400.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:51",
+      "time_estimated": "20:43",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -1463,12 +1425,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 3
     },
     {
       "dt": 1792695300.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:55",
+      "time_estimated": "20:48",
       "flight_no": "DE1149",
       "airline": "Condor",
       "city": "Zakynthos",
@@ -1931,7 +1893,7 @@
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -2304,7 +2266,7 @@
     {
       "dt": 1792701300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:35",
+      "time_estimated": "22:40",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -2315,10 +2277,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792701900.0,
@@ -2328,6 +2290,25 @@
       "airline": "Condor",
       "city": "Fuerteventura",
       "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792702200.0,
+      "time_scheduled": "22:50",
+      "time_estimated": "22:50",
+      "flight_no": "DE1621",
+      "airline": "Condor",
+      "city": "Kos",
+      "country": "Griechenland",
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
