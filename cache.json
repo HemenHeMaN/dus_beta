@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 06:35",
+  "updated_at": "22.10.2026 06:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1792644600.0,
       "time_scheduled": "06:50",
-      "time_estimated": "06:40",
+      "time_estimated": "06:38",
       "flight_no": "XQ1386",
       "airline": "Sun Express",
       "city": "Malatya",
@@ -72,9 +72,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1792654500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:43",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -570,7 +570,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792655100.0,
@@ -1147,6 +1147,44 @@
       "time_scheduled": "11:35",
       "time_estimated": "11:35",
       "flight_no": "DE1515",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792662000.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792662000.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
       "country": "Spanien",
