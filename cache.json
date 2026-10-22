@@ -1,14 +1,14 @@
 {
-  "updated_at": "22.10.2026 14:40",
+  "updated_at": "22.10.2026 14:45",
   "source": "Dus.com",
   "flights": [
     {
-      "dt": 1792664100.0,
-      "time_scheduled": "12:15",
-      "time_estimated": "12:42",
-      "flight_no": "EW9575",
+      "dt": 1792665300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "13:25",
+      "flight_no": "EW9531",
       "airline": "Eurowings",
-      "city": "Palma de Mallorca",
+      "city": "Alicante",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Ausgang",
@@ -19,7 +19,7 @@
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 27
+      "delay": 51
     },
     {
       "dt": 1792665300.0,
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 20
-    },
-    {
-      "dt": 1792665300.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "13:25",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 51
     },
     {
       "dt": 1792665900.0,
@@ -718,9 +699,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -756,9 +737,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -794,9 +775,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +860,7 @@
     {
       "dt": 1792675500.0,
       "time_scheduled": "15:25",
-      "time_estimated": "15:27",
+      "time_estimated": "15:28",
       "flight_no": "EW9333",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -893,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1792676400.0,
@@ -904,9 +885,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -917,7 +898,7 @@
     {
       "dt": 1792676400.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:47",
+      "time_estimated": "15:48",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -931,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 9
     },
     {
       "dt": 1792676700.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1792677600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:48",
+      "time_estimated": "15:45",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1170,9 +1151,9 @@
       "city": "Gran Canaria",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -2162,6 +2143,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792691100.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "EW4676",
+      "airline": "Eurowings",
+      "city": "Stockholm-Arlanda",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
