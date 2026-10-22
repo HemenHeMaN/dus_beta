@@ -1,5 +1,5 @@
 {
-  "updated_at": "22.10.2026 05:55",
+  "updated_at": "22.10.2026 06:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,8 +16,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1792649400.0,
       "time_scheduled": "08:10",
-      "time_estimated": "08:01",
+      "time_estimated": "08:09",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -187,8 +187,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1792652700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:01",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -423,7 +423,7 @@
     {
       "dt": 1792652700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:02",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1020,6 +1020,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792659600.0,
+      "time_scheduled": "11:00",
+      "time_estimated": "11:00",
+      "flight_no": "4M496",
+      "airline": "Mavi Gök Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
