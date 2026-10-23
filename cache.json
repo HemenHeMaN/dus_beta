@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 06:25",
+  "updated_at": "23.10.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1792728900.0,
       "time_scheduled": "06:15",
-      "time_estimated": "06:30",
+      "time_estimated": "06:25",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -91,11 +91,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 10
     },
     {
       "dt": 1792730700.0,
@@ -138,7 +138,7 @@
     {
       "dt": 1792734000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:36",
+      "time_estimated": "07:52",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792735800.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1792738500.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:57",
+      "time_estimated": "08:46",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -415,10 +415,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792738800.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1792740600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:36",
+      "time_estimated": "09:34",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -551,12 +551,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 5
     },
     {
       "dt": 1792740900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:32",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
