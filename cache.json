@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 11:45",
+  "updated_at": "23.10.2026 11:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 27
-    },
-    {
-      "dt": 1792741500.0,
-      "time_scheduled": "09:45",
-      "time_estimated": "09:48",
-      "flight_no": "EI692",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
     },
     {
       "dt": 1792742100.0,
@@ -472,8 +453,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 19
     },
@@ -509,9 +490,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:56",
+      "time_estimated": "11:49",
       "flight_no": "VL2012",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -566,11 +547,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792749000.0,
@@ -594,7 +575,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:12",
+      "time_estimated": "12:21",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -604,11 +585,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 32
     },
     {
       "dt": 1792749300.0,
@@ -643,8 +624,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -681,8 +662,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792750200.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:32",
+      "time_estimated": "12:25",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -722,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 16
     },
     {
       "dt": 1792750500.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1792752000.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:48",
+      "time_estimated": "12:55",
       "flight_no": "LH2014",
       "airline": "Lufthansa",
       "city": "München",
@@ -893,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 15
     },
     {
       "dt": 1792752300.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792755900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:25",
+      "time_estimated": "14:48",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 41
+      "delay": 63
     },
     {
       "dt": 1792756200.0,
@@ -1639,7 +1620,7 @@
     {
       "dt": 1792760100.0,
       "time_scheduled": "14:55",
-      "time_estimated": "14:55",
+      "time_estimated": "14:49",
       "flight_no": "BJ2340",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -2122,6 +2103,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792767000.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:50",
+      "flight_no": "BA922",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
