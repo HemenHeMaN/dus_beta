@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 22:35",
+  "updated_at": "23.10.2026 22:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792778100.0,
-      "time_scheduled": "19:55",
-      "time_estimated": "20:36",
-      "flight_no": "EW9591",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 42
-    },
     {
       "dt": 1792778400.0,
       "time_scheduled": "20:00",
@@ -96,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 21
-    },
-    {
-      "dt": 1792780800.0,
-      "time_scheduled": "20:40",
-      "time_estimated": "20:40",
-      "flight_no": "LH2030",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792782000.0,
@@ -366,7 +328,7 @@
     {
       "dt": 1792784700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:44",
+      "time_estimated": "22:43",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -380,7 +342,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 60
+      "delay": 59
     },
     {
       "dt": 1792785000.0,
@@ -624,8 +586,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 45
     },
@@ -713,11 +675,11 @@
       "airline": "Eurowings",
       "city": "Kopenhagen",
       "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
@@ -746,7 +708,7 @@
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:39",
+      "time_estimated": "22:34",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -756,11 +718,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 20
+      "delay": 15
     },
     {
       "dt": 1792786800.0,
@@ -841,7 +803,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:39",
+      "time_estimated": "22:36",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -851,11 +813,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 14
+      "delay": 11
     },
     {
       "dt": 1792787400.0,
@@ -898,7 +860,7 @@
     {
       "dt": 1792787700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:39",
+      "time_estimated": "22:45",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -912,7 +874,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 11
     },
     {
       "dt": 1792787700.0,
@@ -927,9 +889,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -955,7 +917,7 @@
     {
       "dt": 1792788000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:41",
+      "time_estimated": "22:38",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -965,11 +927,11 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792788000.0,
