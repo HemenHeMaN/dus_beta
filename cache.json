@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 20:45",
+  "updated_at": "23.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -613,7 +613,7 @@
     {
       "dt": 1792779900.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:57",
+      "time_estimated": "20:49",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -623,11 +623,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 32
+      "delay": 24
     },
     {
       "dt": 1792779900.0,
@@ -676,9 +676,9 @@
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -898,7 +898,7 @@
     {
       "dt": 1792784400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:53",
+      "time_estimated": "21:47",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -912,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 7
     },
     {
       "dt": 1792784700.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1792784700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:50",
+      "time_estimated": "22:37",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 65
+      "delay": 52
     },
     {
       "dt": 1792785000.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:19",
+      "time_estimated": "22:17",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1137,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 18
     },
     {
       "dt": 1792785600.0,
