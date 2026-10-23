@@ -1,11 +1,11 @@
 {
-  "updated_at": "23.10.2026 13:30",
+  "updated_at": "23.10.2026 13:35",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792747500.0,
       "time_scheduled": "11:25",
-      "time_estimated": "13:38",
+      "time_estimated": "13:32",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -15,11 +15,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 133
+      "delay": 127
     },
     {
       "dt": 1792748100.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1792752600.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:36",
+      "time_estimated": "13:34",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -509,11 +509,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 46
+      "delay": 44
     },
     {
       "dt": 1792752600.0,
@@ -678,11 +678,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -765,7 +765,7 @@
     {
       "dt": 1792755900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:55",
+      "time_estimated": "13:49",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -775,11 +775,11 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1792755900.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1792756500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:23",
+      "time_estimated": "14:17",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 22
     },
     {
       "dt": 1792756500.0,
@@ -1003,9 +1003,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1031,7 +1031,7 @@
     {
       "dt": 1792757700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:12",
+      "time_estimated": "14:13",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1304,7 +1304,7 @@
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1772,7 +1772,7 @@
     {
       "dt": 1792767300.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "16:57",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -1783,10 +1783,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792767300.0,
