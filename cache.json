@@ -1,11 +1,11 @@
 {
-  "updated_at": "23.10.2026 06:00",
+  "updated_at": "23.10.2026 06:05",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792728300.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:06",
+      "time_estimated": "06:04",
       "flight_no": "XC266",
       "airline": "Corendon Airlines",
       "city": "Kayseri",
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792728300.0,
@@ -43,7 +43,7 @@
     {
       "dt": 1792728600.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:02",
+      "time_estimated": "06:09",
       "flight_no": "EW9895",
       "airline": "Eurowings",
       "city": "Marrakesch",
@@ -62,7 +62,7 @@
     {
       "dt": 1792728600.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:06",
+      "time_estimated": "06:01",
       "flight_no": "XC110",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -72,9 +72,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1792740300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:25",
+      "time_estimated": "09:29",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -510,10 +510,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792740600.0,
@@ -927,6 +927,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792746300.0,
+      "time_scheduled": "11:05",
+      "time_estimated": "11:05",
+      "flight_no": "AT696",
+      "airline": "Royal Air Maroc",
+      "city": "Nador",
+      "country": "Marokko",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
