@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 10:55",
+  "updated_at": "23.10.2026 11:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1792738500.0,
-      "time_scheduled": "08:55",
-      "time_estimated": "08:57",
-      "flight_no": "BJ214",
-      "airline": "Nouvelair",
-      "city": "Monastir",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1792739100.0,
@@ -480,7 +461,7 @@
     {
       "dt": 1792745400.0,
       "time_scheduled": "10:50",
-      "time_estimated": "11:03",
+      "time_estimated": "10:56",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -490,16 +471,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 6
     },
     {
       "dt": 1792746000.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:01",
+      "time_estimated": "11:00",
       "flight_no": "4M597",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -509,11 +490,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 1
     },
     {
       "dt": 1792746300.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:48",
+      "time_estimated": "11:56",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -684,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792749000.0,
@@ -960,11 +941,11 @@
       "airline": "Eurowings",
       "city": "Monastir",
       "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
+      "type": "Linie",
+      "type_source": "Airline",
       "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1012,7 +993,7 @@
     {
       "dt": 1792751700.0,
       "time_scheduled": "12:35",
-      "time_estimated": "13:10",
+      "time_estimated": "13:07",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -1023,10 +1004,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 36
+      "delay": 33
     },
     {
       "dt": 1792752000.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792756500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:07",
+      "time_estimated": "14:03",
       "flight_no": "X3117",
       "airline": "Tuifly",
       "city": "Dalaman",
@@ -1463,12 +1444,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 9
     },
     {
       "dt": 1792756500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "14:01",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1482,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792756500.0,
@@ -1506,7 +1487,7 @@
     {
       "dt": 1792757100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:05",
+      "time_estimated": "14:03",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -2024,6 +2005,63 @@
       "airline": "Condor",
       "city": "Lanzarote-Arrecife",
       "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792764000.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "PC1003",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792764000.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "AF1406",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792764000.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "DE1827",
+      "airline": "Condor",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
