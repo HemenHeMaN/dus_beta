@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 23:05",
+  "updated_at": "23.10.2026 23:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,25 +138,6 @@
     {
       "dt": 1792783200.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:06",
-      "flight_no": "EW9673",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792783200.0,
-      "time_scheduled": "21:20",
       "time_estimated": "21:14",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
@@ -166,25 +147,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792783800.0,
-      "time_scheduled": "21:30",
-      "time_estimated": "21:09",
-      "flight_no": "X36643",
-      "airline": "Tuifly",
-      "city": "Marsa Alam",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -262,9 +224,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 115
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "23:06",
+      "time_estimated": "23:07",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -433,9 +395,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 67
     },
@@ -594,7 +556,7 @@
     {
       "dt": 1792786500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "23:03",
+      "time_estimated": "23:05",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -604,11 +566,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 49
+      "delay": 50
     },
     {
       "dt": 1792786500.0,
@@ -708,7 +670,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "23:24",
+      "time_estimated": "23:19",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -719,10 +681,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 60
+      "delay": 55
     },
     {
       "dt": 1792787100.0,
@@ -909,8 +871,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 41
     },
