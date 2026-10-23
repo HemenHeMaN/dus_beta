@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 20:35",
+  "updated_at": "23.10.2026 20:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1792778100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "20:43",
+      "time_estimated": "20:36",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -509,11 +509,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 48
+      "delay": 42
     },
     {
       "dt": 1792778100.0,
@@ -618,14 +618,14 @@
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 32
     },
@@ -699,11 +699,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792782000.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1792785000.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:43",
+      "time_estimated": "21:42",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792785300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:04",
+      "time_estimated": "22:05",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 10
     },
     {
       "dt": 1792785600.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:28",
+      "time_estimated": "22:27",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -1102,12 +1102,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 28
     },
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "23:15",
+      "time_estimated": "22:57",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1121,12 +1121,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 75
+      "delay": 57
     },
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:21",
+      "time_estimated": "22:19",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 20
     },
     {
       "dt": 1792785600.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:53",
+      "time_estimated": "22:41",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1349,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 33
+      "delay": 21
     },
     {
       "dt": 1792786800.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:50",
+      "time_estimated": "23:19",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 59
     },
     {
       "dt": 1792787100.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:18",
+      "time_estimated": "22:17",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
