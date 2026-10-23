@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 07:20",
+  "updated_at": "23.10.2026 07:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1792732800.0,
       "time_scheduled": "07:20",
-      "time_estimated": "07:31",
+      "time_estimated": "07:24",
       "flight_no": "PC1665",
       "airline": "Pegasus Airlines",
       "city": "Gaziantep",
@@ -129,16 +129,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1792734000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:52",
+      "time_estimated": "07:54",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -149,10 +149,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 14
     },
     {
       "dt": 1792735800.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1792736100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:03",
+      "time_estimated": "08:04",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -309,7 +309,7 @@
     {
       "dt": 1792738200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:48",
+      "time_estimated": "08:54",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792738500.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1792739100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:00",
+      "time_estimated": "09:10",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792739100.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1792743300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:31",
+      "time_estimated": "10:30",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -722,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 15
     },
     {
       "dt": 1792743900.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792743900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:47",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -779,12 +779,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 22
     },
     {
       "dt": 1792744200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:26",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -917,7 +917,7 @@
     {
       "dt": 1792746000.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:00",
+      "time_estimated": "11:03",
       "flight_no": "4M597",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -928,10 +928,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792746300.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792750200.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "12:22",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1292,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792750500.0,
@@ -1305,6 +1305,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792751100.0,
+      "time_scheduled": "12:25",
+      "time_estimated": "12:25",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792751100.0,
+      "time_scheduled": "12:25",
+      "time_estimated": "12:25",
+      "flight_no": "PC1687",
+      "airline": "Pegasus Airlines",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
