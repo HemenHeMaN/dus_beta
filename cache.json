@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 19:25",
+  "updated_at": "23.10.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,44 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 24
-    },
-    {
-      "dt": 1792768500.0,
-      "time_scheduled": "17:15",
-      "time_estimated": "17:27",
-      "flight_no": "EW9503",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
-    },
-    {
-      "dt": 1792768500.0,
-      "time_scheduled": "17:15",
-      "time_estimated": "17:29",
-      "flight_no": "EW9339",
-      "airline": "Eurowings",
-      "city": "Newcastle",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 14
     },
     {
       "dt": 1792768500.0,
@@ -491,8 +453,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 73
     },
@@ -575,7 +537,7 @@
     {
       "dt": 1792774500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:15",
+      "time_estimated": "18:58",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -585,16 +547,16 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 20
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, Umleitung nach Köln/Bonn",
+      "remark": "Umleitung nach Köln/Bonn",
+      "delay": 3
     },
     {
       "dt": 1792774500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:19",
+      "time_estimated": "19:21",
       "flight_no": "XQ280",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -604,11 +566,11 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 24
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, Umleitung nach Köln/Bonn",
+      "remark": "Umleitung nach Köln/Bonn",
+      "delay": 26
     },
     {
       "dt": 1792774800.0,
@@ -651,7 +613,7 @@
     {
       "dt": 1792775100.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:52",
+      "time_estimated": "19:58",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -665,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 48
+      "delay": 53
     },
     {
       "dt": 1792775400.0,
@@ -708,7 +670,7 @@
     {
       "dt": 1792775700.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:32",
+      "time_estimated": "19:38",
       "flight_no": "TK1521",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -722,7 +684,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 23
     },
     {
       "dt": 1792775700.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1792776300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:30",
+      "time_estimated": "19:28",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -813,11 +775,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 3
     },
     {
       "dt": 1792776300.0,
@@ -830,11 +792,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "10",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -879,21 +841,21 @@
     {
       "dt": 1792777200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "20:06",
+      "time_estimated": "19:42",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "C",
-      "baggage": "8",
+      "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
-      "remark": "",
-      "delay": 27
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, Umleitung nach Hannover",
+      "remark": "Umleitung nach Hannover",
+      "delay": 2
     },
     {
       "dt": 1792777500.0,
@@ -927,9 +889,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -946,9 +908,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -982,8 +944,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1001,8 +963,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1037,10 +999,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1093,11 +1055,11 @@
       "airline": "Aer Lingus",
       "city": "Dublin",
       "country": "Irland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1126,7 +1088,7 @@
     {
       "dt": 1792780500.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:53",
+      "time_estimated": "20:58",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1140,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 23
     },
     {
       "dt": 1792780800.0,
@@ -1658,7 +1620,7 @@
     {
       "dt": 1792786200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:49",
+      "time_estimated": "22:52",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1672,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 40
+      "delay": 43
     },
     {
       "dt": 1792786200.0,
@@ -1829,7 +1791,7 @@
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:32",
+      "time_estimated": "22:30",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1843,7 +1805,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 11
     },
     {
       "dt": 1792787100.0,
@@ -1924,7 +1886,7 @@
     {
       "dt": 1792787400.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:35",
+      "time_estimated": "22:34",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -1938,7 +1900,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1792787700.0,
@@ -2057,7 +2019,7 @@
     {
       "dt": 1792788300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:35",
+      "time_estimated": "22:32",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
