@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 07:30",
+  "updated_at": "23.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1792728300.0,
       "time_scheduled": "06:05",
-      "time_estimated": "07:34",
+      "time_estimated": "07:30",
       "flight_no": "DE3785",
       "airline": "Condor",
       "city": "New York-John F. Kennedy",
@@ -34,11 +34,11 @@
       "terminal": "A",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 90
+      "delay": 85
     },
     {
       "dt": 1792728600.0,
@@ -148,9 +148,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -195,7 +195,7 @@
     {
       "dt": 1792736100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:04",
+      "time_estimated": "07:53",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -271,7 +271,7 @@
     {
       "dt": 1792737600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:34",
+      "time_estimated": "08:44",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -285,7 +285,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792737900.0,
@@ -315,9 +315,9 @@
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -371,11 +371,11 @@
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
       "country": "Norwegen",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -442,7 +442,7 @@
     {
       "dt": 1792739100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:10",
+      "time_estimated": "09:24",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 20
     },
     {
       "dt": 1792739100.0,
@@ -466,11 +466,11 @@
       "airline": "Vueling",
       "city": "Barcelona",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -727,7 +727,7 @@
     {
       "dt": 1792743900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:35",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -741,12 +741,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792743900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:37",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792743900.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1792744800.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:40",
+      "time_estimated": "10:52",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792745100.0,
@@ -1383,6 +1383,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792751700.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792751700.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "EW9539",
+      "airline": "Eurowings",
+      "city": "Valencia",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
