@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 21:25",
+  "updated_at": "23.10.2026 21:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 16
-    },
-    {
-      "dt": 1792776300.0,
-      "time_scheduled": "19:25",
-      "time_estimated": "19:28",
-      "flight_no": "PC1005",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
     },
     {
       "dt": 1792776300.0,
@@ -643,8 +624,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -662,8 +643,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -680,9 +661,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -775,16 +756,16 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
     {
       "dt": 1792785000.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:16",
+      "time_estimated": "22:22",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -795,15 +776,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 32
     },
     {
       "dt": 1792785300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:13",
+      "time_estimated": "22:14",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -814,10 +795,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 19
     },
     {
       "dt": 1792785600.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1792785900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:00",
+      "time_estimated": "22:08",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
@@ -931,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792785900.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:17",
+      "time_estimated": "22:21",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:48",
+      "time_estimated": "22:42",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 18
     },
     {
       "dt": 1792787400.0,
