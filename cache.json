@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 13:10",
+  "updated_at": "23.10.2026 13:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 133
     },
@@ -81,25 +81,6 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:31",
-      "flight_no": "EW9441",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 42
-    },
-    {
-      "dt": 1792749000.0,
-      "time_scheduled": "11:50",
       "time_estimated": "12:05",
       "flight_no": "EW9501",
       "airline": "Eurowings",
@@ -134,6 +115,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
+    },
+    {
+      "dt": 1792749000.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "12:31",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 42
     },
     {
       "dt": 1792749000.0,
@@ -328,25 +328,6 @@
     {
       "dt": 1792751100.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:20",
-      "flight_no": "PC1687",
-      "airline": "Pegasus Airlines",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792751100.0,
-      "time_scheduled": "12:25",
       "time_estimated": "12:10",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
@@ -357,6 +338,25 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792751100.0,
+      "time_scheduled": "12:25",
+      "time_estimated": "12:20",
+      "flight_no": "PC1687",
+      "airline": "Pegasus Airlines",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -613,7 +613,7 @@
     {
       "dt": 1792754400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:23",
+      "time_estimated": "13:24",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -627,7 +627,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792754700.0,
@@ -670,21 +670,21 @@
     {
       "dt": 1792755000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:55",
+      "time_estimated": "13:56",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 27
     },
     {
       "dt": 1792755000.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1792755300.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:27",
+      "time_estimated": "13:28",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -719,8 +719,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -737,9 +737,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1792756200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:28",
+      "time_estimated": "14:22",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -855,12 +855,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 38
+      "delay": 32
     },
     {
       "dt": 1792756500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:30",
+      "time_estimated": "14:24",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 35
+      "delay": 29
     },
     {
       "dt": 1792756500.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792758000.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:43",
+      "time_estimated": "14:47",
       "flight_no": "EW9829",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 28
     },
     {
       "dt": 1792758300.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792761300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:17",
+      "time_estimated": "15:21",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1792762500.0,
@@ -1582,7 +1582,7 @@
     {
       "dt": 1792764600.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:28",
+      "time_estimated": "16:26",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1596,7 +1596,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 17
     },
     {
       "dt": 1792764900.0,
