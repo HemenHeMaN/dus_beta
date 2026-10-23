@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 11:20",
+  "updated_at": "23.10.2026 11:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -528,9 +528,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -566,9 +566,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:57",
+      "time_estimated": "11:56",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1792749000.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:45",
+      "time_estimated": "11:38",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -661,9 +661,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1792750500.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:57",
+      "time_estimated": "13:07",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 42
+      "delay": 52
     },
     {
       "dt": 1792751100.0,
@@ -1061,8 +1061,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 1
     },
@@ -1297,7 +1297,7 @@
     {
       "dt": 1792755900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:45",
+      "time_estimated": "14:25",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 41
     },
     {
       "dt": 1792756200.0,
@@ -1449,7 +1449,7 @@
     {
       "dt": 1792757100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:26",
+      "time_estimated": "14:24",
       "flight_no": "XR406",
       "airline": "Corendon Airlines Europe",
       "city": "Rhodos",
@@ -1463,7 +1463,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 20
     },
     {
       "dt": 1792757100.0,
@@ -1563,7 +1563,7 @@
     {
       "dt": 1792758300.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:25",
+      "time_estimated": "14:23",
       "flight_no": "EW4674",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -2103,6 +2103,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792765500.0,
+      "time_scheduled": "16:25",
+      "time_estimated": "16:25",
+      "flight_no": "EW9733",
+      "airline": "Eurowings",
+      "city": "Krakau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792765500.0,
+      "time_scheduled": "16:25",
+      "time_estimated": "16:25",
+      "flight_no": "EW9517",
+      "airline": "Eurowings",
+      "city": "Bilbao",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
