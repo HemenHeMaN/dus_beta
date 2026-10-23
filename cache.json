@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 18:15",
+  "updated_at": "23.10.2026 18:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -613,7 +613,7 @@
     {
       "dt": 1792770600.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:47",
+      "time_estimated": "18:42",
       "flight_no": "VL076",
       "airline": "Lufthansa City Airlines",
       "city": "Frankfurt",
@@ -623,16 +623,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 58
+      "delay": 53
     },
     {
       "dt": 1792771200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:52",
+      "time_estimated": "18:53",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -646,12 +646,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 52
+      "delay": 53
     },
     {
       "dt": 1792771200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:22",
+      "time_estimated": "18:18",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -661,11 +661,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 23
+      "delay": 19
     },
     {
       "dt": 1792771500.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792772700.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:24",
+      "time_estimated": "18:16",
       "flight_no": "PC5305",
       "airline": "Pegasus Airlines",
       "city": "Izmir",
@@ -775,9 +775,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -795,8 +795,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -851,9 +851,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +898,7 @@
     {
       "dt": 1792774500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:52",
+      "time_estimated": "18:53",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -936,7 +936,7 @@
     {
       "dt": 1792774800.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:51",
+      "time_estimated": "18:52",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -980,9 +980,9 @@
       "city": "Pristina",
       "country": "Kosovo",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -993,7 +993,7 @@
     {
       "dt": 1792775400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:12",
+      "time_estimated": "19:11",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1007,7 +1007,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1792775400.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792777500.0,
       "time_scheduled": "19:45",
-      "time_estimated": "20:03",
+      "time_estimated": "20:01",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1232,10 +1232,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 17
     },
     {
       "dt": 1792777800.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792778400.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:59",
+      "time_estimated": "21:15",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1349,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 76
     },
     {
       "dt": 1792778700.0,
@@ -1530,11 +1530,11 @@
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1544,7 +1544,7 @@
     {
       "dt": 1792782000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:07",
+      "time_estimated": "21:29",
       "flight_no": "EW9727",
       "airline": "Eurowings",
       "city": "Graz",
@@ -1558,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 30
     },
     {
       "dt": 1792782300.0,
@@ -1639,7 +1639,7 @@
     {
       "dt": 1792783800.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:22",
+      "time_estimated": "21:21",
       "flight_no": "X36643",
       "airline": "Tuifly",
       "city": "Marsa Alam",
@@ -1658,7 +1658,7 @@
     {
       "dt": 1792784400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:22",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1905,7 +1905,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "22:17",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1919,7 +1919,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1792785600.0,
