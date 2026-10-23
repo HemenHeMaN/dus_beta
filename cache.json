@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 07:35",
+  "updated_at": "23.10.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1792734000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:55",
+      "time_estimated": "07:54",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -149,10 +149,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 14
     },
     {
       "dt": 1792735800.0,
@@ -205,9 +205,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -271,7 +271,7 @@
     {
       "dt": 1792737600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:44",
+      "time_estimated": "08:41",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -285,7 +285,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1792737900.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792740600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:22",
+      "time_estimated": "09:21",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -822,7 +822,7 @@
     {
       "dt": 1792744200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:28",
+      "time_estimated": "10:21",
       "flight_no": "4M511",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -898,7 +898,7 @@
     {
       "dt": 1792745400.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:50",
+      "time_estimated": "10:41",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1373,6 +1373,25 @@
     {
       "dt": 1792751400.0,
       "time_scheduled": "12:30",
+      "time_estimated": "12:40",
+      "flight_no": "EW9879",
+      "airline": "Eurowings",
+      "city": "Monastir",
+      "country": "Tunesien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 10
+    },
+    {
+      "dt": 1792751400.0,
+      "time_scheduled": "12:30",
       "time_estimated": "12:30",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
@@ -1419,6 +1438,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792752000.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:40",
+      "flight_no": "LH2014",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
