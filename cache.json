@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 21:35",
+  "updated_at": "23.10.2026 21:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 43
-    },
-    {
-      "dt": 1792776300.0,
-      "time_scheduled": "19:25",
-      "time_estimated": "19:39",
-      "flight_no": "XQ1360",
-      "airline": "Sun Express",
-      "city": "Diyarbakir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
-      "delay": 14
     },
     {
       "dt": 1792777200.0,
@@ -433,9 +414,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 66
     },
@@ -453,8 +434,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 54
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1792784400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:38",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -566,11 +547,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792784400.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1792785300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:14",
+      "time_estimated": "22:08",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1792785600.0,
@@ -852,8 +833,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "23:08",
+      "time_estimated": "23:18",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 43
+      "delay": 54
     },
     {
       "dt": 1792787100.0,
@@ -1126,7 +1107,7 @@
     {
       "dt": 1792787400.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:43",
+      "time_estimated": "23:11",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -1140,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 42
     },
     {
       "dt": 1792787400.0,
