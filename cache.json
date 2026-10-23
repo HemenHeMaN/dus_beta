@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 17:25",
+  "updated_at": "23.10.2026 17:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -395,9 +395,9 @@
       "terminal": "A",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 57
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1792768500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:28",
+      "time_estimated": "17:27",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -547,9 +547,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 13
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792768500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:31",
+      "time_estimated": "17:29",
       "flight_no": "EW9339",
       "airline": "Eurowings",
       "city": "Newcastle",
@@ -604,11 +604,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 14
     },
     {
       "dt": 1792768500.0,
@@ -662,8 +662,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -680,9 +680,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 22
     },
@@ -699,9 +699,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -737,9 +737,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -757,10 +757,10 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 29
     },
     {
       "dt": 1792770300.0,
@@ -794,9 +794,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -898,7 +898,7 @@
     {
       "dt": 1792771500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:16",
+      "time_estimated": "18:17",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -912,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1792771800.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792772400.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:24",
+      "time_estimated": "18:25",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -947,10 +947,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1792772700.0,
@@ -1088,21 +1088,21 @@
     {
       "dt": 1792774500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:05",
+      "time_estimated": "19:06",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
       "country": "Polen",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792774500.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1792777200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:28",
+      "time_estimated": "19:29",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -1449,7 +1449,7 @@
     {
       "dt": 1792777800.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:37",
+      "time_estimated": "19:44",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -1601,7 +1601,7 @@
     {
       "dt": 1792779900.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:25",
+      "time_estimated": "20:56",
       "flight_no": "EJU3943",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1615,7 +1615,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 31
     },
     {
       "dt": 1792779900.0,
@@ -2423,6 +2423,44 @@
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792787400.0,
+      "time_scheduled": "22:30",
+      "time_estimated": "22:30",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792787400.0,
+      "time_scheduled": "22:30",
+      "time_estimated": "22:30",
+      "flight_no": "EW9555",
+      "airline": "Eurowings",
+      "city": "Lanzarote-Arrecife",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
