@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 15:35",
+  "updated_at": "23.10.2026 15:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,25 +91,6 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792755900.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "13:36",
-      "flight_no": "QR085",
-      "airline": "Qatar Airways",
-      "city": "Doha",
-      "country": "Katar",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -727,7 +708,7 @@
     {
       "dt": 1792763400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:44",
+      "time_estimated": "15:49",
       "flight_no": "X32117",
       "airline": "Tuifly",
       "city": "Fuerteventura",
@@ -746,7 +727,7 @@
     {
       "dt": 1792763400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:41",
+      "time_estimated": "15:38",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -756,9 +737,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -792,8 +773,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -833,8 +814,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -851,9 +832,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +860,7 @@
     {
       "dt": 1792764600.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:16",
+      "time_estimated": "16:17",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -893,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 7
     },
     {
       "dt": 1792764600.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1792765800.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:38",
+      "time_estimated": "16:52",
       "flight_no": "VL2018",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -988,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 22
     },
     {
       "dt": 1792766400.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792768200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:24",
+      "time_estimated": "17:31",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1159,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 22
     },
     {
       "dt": 1792768500.0,
@@ -1658,7 +1639,7 @@
     {
       "dt": 1792773600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:40",
+      "time_estimated": "18:41",
       "flight_no": "LH2022",
       "airline": "Lufthansa",
       "city": "München",
@@ -1672,7 +1653,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792773600.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1792773600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:40",
+      "time_estimated": "18:36",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -2290,6 +2271,25 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792780800.0,
+      "time_scheduled": "20:40",
+      "time_estimated": "20:40",
+      "flight_no": "LH2030",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
