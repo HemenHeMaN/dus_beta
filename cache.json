@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 08:25",
+  "updated_at": "23.10.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,7 +195,7 @@
     {
       "dt": 1792737600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:42",
+      "time_estimated": "08:47",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -206,10 +206,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 7
     },
     {
       "dt": 1792737900.0,
@@ -262,9 +262,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -300,9 +300,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -338,9 +338,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1792741200.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:39",
+      "time_estimated": "09:49",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -513,12 +513,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792741500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:46",
+      "time_estimated": "09:50",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -529,10 +529,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 6
     },
     {
       "dt": 1792742100.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792748100.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:35",
+      "time_estimated": "11:30",
       "flight_no": "EW9505",
       "airline": "Eurowings",
       "city": "Menorca",
@@ -1554,6 +1554,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792755000.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "13:30",
+      "flight_no": "EW9681",
+      "airline": "Eurowings",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792755000.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "13:30",
+      "flight_no": "NE720",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
