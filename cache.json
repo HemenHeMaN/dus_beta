@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 12:35",
+  "updated_at": "23.10.2026 12:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792744800.0,
-      "time_scheduled": "10:40",
-      "time_estimated": "10:40",
-      "flight_no": "EW9425",
-      "airline": "Eurowings",
-      "city": "Marseille",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792745100.0,
       "time_scheduled": "10:45",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
-    },
-    {
-      "dt": 1792746300.0,
-      "time_scheduled": "11:05",
-      "time_estimated": "10:38",
-      "flight_no": "AT696",
-      "airline": "Royal Air Maroc",
-      "city": "Nador",
-      "country": "Marokko",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792746600.0,
@@ -585,9 +547,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -623,9 +585,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -638,9 +600,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -670,7 +632,7 @@
     {
       "dt": 1792752600.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:09",
+      "time_estimated": "13:04",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -680,11 +642,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 15
     },
     {
       "dt": 1792753500.0,
@@ -866,9 +828,9 @@
       "city": "Catania (Sizilien)",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -974,7 +936,7 @@
     {
       "dt": 1792756200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:32",
+      "time_estimated": "14:28",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 42
+      "delay": 38
     },
     {
       "dt": 1792756500.0,
@@ -1037,9 +999,9 @@
       "city": "Frankfurt",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1221,7 +1183,7 @@
     {
       "dt": 1792758900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:38",
+      "time_estimated": "14:49",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1235,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 15
     },
     {
       "dt": 1792759200.0,
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792762500.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:35",
+      "time_estimated": "15:42",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1463,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792762500.0,
@@ -1487,7 +1449,7 @@
     {
       "dt": 1792762800.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:40",
+      "time_estimated": "15:44",
       "flight_no": "EW9527",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1501,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792763100.0,
@@ -1525,7 +1487,7 @@
     {
       "dt": 1792763100.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "15:39",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1563,7 +1525,7 @@
     {
       "dt": 1792763400.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:44",
+      "time_estimated": "15:45",
       "flight_no": "SM2980",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -2122,6 +2084,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792770000.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "KL1803",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792770000.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "GQ890",
+      "airline": "Sky Express",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792770000.0,
+      "time_scheduled": "17:40",
+      "time_estimated": "17:40",
+      "flight_no": "PC5011",
+      "airline": "Pegasus Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
