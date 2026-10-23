@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 06:30",
+  "updated_at": "23.10.2026 06:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -195,7 +195,7 @@
     {
       "dt": 1792736100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "07:56",
+      "time_estimated": "08:00",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -214,7 +214,7 @@
     {
       "dt": 1792737000.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:11",
+      "time_estimated": "08:17",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -290,7 +290,7 @@
     {
       "dt": 1792737900.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:41",
+      "time_estimated": "08:46",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -304,7 +304,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792738200.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1792738500.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:57",
+      "time_estimated": "09:00",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -396,10 +396,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 6
     },
     {
       "dt": 1792738500.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1792741500.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:45",
+      "time_estimated": "09:36",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -1003,6 +1003,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792748100.0,
+      "time_scheduled": "11:35",
+      "time_estimated": "11:35",
+      "flight_no": "EW9505",
+      "airline": "Eurowings",
+      "city": "Menorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
