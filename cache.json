@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 10:00",
+  "updated_at": "23.10.2026 10:05",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792735800.0,
-      "time_scheduled": "08:10",
-      "time_estimated": "08:02",
-      "flight_no": "EW4334",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792735800.0,
       "time_scheduled": "08:10",
@@ -442,7 +423,7 @@
     {
       "dt": 1792742100.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:06",
+      "time_estimated": "10:01",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -452,11 +433,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1792742400.0,
@@ -605,15 +586,15 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792744200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:20",
+      "time_estimated": "10:25",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -651,7 +632,7 @@
     {
       "dt": 1792744200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:26",
+      "time_estimated": "10:19",
       "flight_no": "4M511",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -661,9 +642,9 @@
       "terminal": "A",
       "baggage": "1/-/2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +879,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:14",
+      "time_estimated": "12:19",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -909,10 +890,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 29
     },
     {
       "dt": 1792749000.0,
@@ -1088,7 +1069,7 @@
     {
       "dt": 1792750200.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:28",
+      "time_estimated": "12:35",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 25
     },
     {
       "dt": 1792750200.0,
@@ -1316,7 +1297,7 @@
     {
       "dt": 1792752600.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:50",
+      "time_estimated": "13:04",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1330,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1792752600.0,
@@ -1387,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792753800.0,
@@ -2065,6 +2046,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792760700.0,
+      "time_scheduled": "15:05",
+      "time_estimated": "15:05",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
