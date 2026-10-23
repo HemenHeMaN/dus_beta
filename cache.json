@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 14:10",
+  "updated_at": "23.10.2026 14:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 47
-    },
-    {
-      "dt": 1792751100.0,
-      "time_scheduled": "12:25",
-      "time_estimated": "12:10",
-      "flight_no": "TP540",
-      "airline": "TAP Portugal",
-      "city": "Lissabon",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792751100.0,
@@ -410,10 +391,10 @@
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -461,7 +442,7 @@
     {
       "dt": 1792755000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:16",
+      "time_estimated": "14:22",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -475,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 46
+      "delay": 52
     },
     {
       "dt": 1792755300.0,
@@ -583,7 +564,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "12",
+      "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -632,7 +613,7 @@
     {
       "dt": 1792756500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:20",
+      "time_estimated": "14:14",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -642,11 +623,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 26
+      "delay": 19
     },
     {
       "dt": 1792756500.0,
@@ -738,8 +719,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -794,9 +775,9 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -832,16 +813,16 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 27
     },
     {
       "dt": 1792758300.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:14",
+      "time_estimated": "14:12",
       "flight_no": "EW4674",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -851,16 +832,16 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792758900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:56",
+      "time_estimated": "14:57",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -874,12 +855,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 23
     },
     {
       "dt": 1792759200.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:43",
+      "time_estimated": "14:37",
       "flight_no": "EW7066",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -893,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792759200.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1792759200.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:43",
+      "time_estimated": "14:48",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -950,7 +931,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 9
     },
     {
       "dt": 1792759500.0,
@@ -1278,7 +1259,7 @@
     {
       "dt": 1792764000.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:08",
+      "time_estimated": "16:07",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -1292,12 +1273,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1792764300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "15:54",
+      "time_estimated": "15:56",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -1308,8 +1289,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1634,7 +1615,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792768500.0,
@@ -2312,6 +2293,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792775700.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "TK1521",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792775700.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "VF029",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792775700.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "BM560",
+      "airline": "Medsky Airways",
+      "city": "Tripolis-Mitiga",
+      "country": "Libyen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
