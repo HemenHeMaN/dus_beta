@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 06:40",
+  "updated_at": "23.10.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1792730700.0,
       "time_scheduled": "06:45",
-      "time_estimated": "06:51",
+      "time_estimated": "06:44",
       "flight_no": "XQ1370",
       "airline": "Sun Express",
       "city": "Mersin-Çukurova",
@@ -110,11 +110,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792732800.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1792740600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:34",
+      "time_estimated": "09:33",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -551,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1792740900.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1792743300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:30",
+      "time_estimated": "10:31",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -722,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 16
     },
     {
       "dt": 1792743900.0,
@@ -1039,6 +1039,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792748700.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "EW9043",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
