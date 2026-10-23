@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 22:00",
+  "updated_at": "23.10.2026 22:05",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792771200.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "20:05",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, Umleitung nach Köln/Bonn",
-      "remark": "Umleitung nach Köln/Bonn",
-      "delay": 125
-    },
     {
       "dt": 1792777200.0,
       "time_scheduled": "19:40",
@@ -510,15 +491,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 32
     },
     {
       "dt": 1792785000.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:03",
+      "time_estimated": "22:02",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -528,11 +509,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 12
     },
     {
       "dt": 1792785000.0,
@@ -566,9 +547,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 34
     },
@@ -594,7 +575,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:02",
+      "time_estimated": "22:04",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -604,11 +585,11 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1792785600.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:13",
+      "time_estimated": "22:17",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -665,7 +646,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 18
     },
     {
       "dt": 1792785600.0,
@@ -719,8 +700,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1792786200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:06",
+      "time_estimated": "22:13",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -779,7 +760,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792786200.0,
@@ -851,16 +832,16 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:42",
+      "time_estimated": "22:43",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -874,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 23
     },
     {
       "dt": 1792786800.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "23:18",
+      "time_estimated": "23:23",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -928,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 54
+      "delay": 59
     },
     {
       "dt": 1792787100.0,
@@ -946,16 +927,16 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:44",
+      "time_estimated": "22:46",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -969,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 22
     },
     {
       "dt": 1792787400.0,
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792788000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:46",
+      "time_estimated": "22:41",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1083,7 +1064,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1792788000.0,
