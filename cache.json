@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 11:10",
+  "updated_at": "23.10.2026 11:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792739100.0,
-      "time_scheduled": "09:05",
-      "time_estimated": "09:12",
-      "flight_no": "TK1523",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
-    },
     {
       "dt": 1792740300.0,
       "time_scheduled": "09:25",
@@ -518,7 +499,7 @@
     {
       "dt": 1792747500.0,
       "time_scheduled": "11:25",
-      "time_estimated": "13:38",
+      "time_estimated": "13:34",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -532,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 133
+      "delay": 129
     },
     {
       "dt": 1792748100.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1792751400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:38",
+      "time_estimated": "12:40",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -893,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 10
     },
     {
       "dt": 1792751400.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1792752600.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:40",
+      "time_estimated": "13:43",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1026,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 53
     },
     {
       "dt": 1792752600.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792754700.0,
       "time_scheduled": "13:25",
-      "time_estimated": "13:25",
+      "time_estimated": "14:34",
       "flight_no": "XR418",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1156,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 69
     },
     {
       "dt": 1792754700.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1792755000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:02",
+      "time_estimated": "13:55",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1197,7 +1178,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 26
     },
     {
       "dt": 1792755000.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1792755600.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:34",
+      "time_estimated": "13:33",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1251,15 +1232,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792755900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:29",
+      "time_estimated": "13:16",
       "flight_no": "EW9739",
       "airline": "Eurowings",
       "city": "Tallinn",
@@ -1270,8 +1251,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2103,6 +2084,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792764900.0,
+      "time_scheduled": "16:15",
+      "time_estimated": "16:15",
+      "flight_no": "EW9885",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
