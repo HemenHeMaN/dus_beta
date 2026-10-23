@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 13:40",
+  "updated_at": "23.10.2026 13:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,25 +119,6 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:43",
-      "flight_no": "X32313",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792749000.0,
-      "time_scheduled": "11:50",
       "time_estimated": "12:08",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 18
-    },
-    {
-      "dt": 1792749300.0,
-      "time_scheduled": "11:55",
-      "time_estimated": "11:41",
-      "flight_no": "FH1193",
-      "airline": "Freebird Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792749300.0,
@@ -567,8 +529,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -632,7 +594,7 @@
     {
       "dt": 1792755000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:51",
+      "time_estimated": "13:42",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -642,16 +604,16 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 21
+      "delay": 13
     },
     {
       "dt": 1792755000.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:21",
+      "time_estimated": "14:16",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -665,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 51
+      "delay": 46
     },
     {
       "dt": 1792755300.0,
@@ -727,7 +689,7 @@
     {
       "dt": 1792755900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:49",
+      "time_estimated": "13:44",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -737,11 +699,11 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792755900.0,
@@ -784,7 +746,7 @@
     {
       "dt": 1792756200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:44",
+      "time_estimated": "13:40",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -794,9 +756,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -822,7 +784,7 @@
     {
       "dt": 1792756500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:17",
+      "time_estimated": "14:18",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -833,10 +795,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 24
     },
     {
       "dt": 1792756500.0,
@@ -851,9 +813,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -870,9 +832,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -898,7 +860,7 @@
     {
       "dt": 1792757100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:18",
+      "time_estimated": "14:19",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -912,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 15
     },
     {
       "dt": 1792757100.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1792757100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:17",
+      "time_estimated": "14:18",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -950,12 +912,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1792757400.0,
       "time_scheduled": "14:10",
-      "time_estimated": "13:47",
+      "time_estimated": "13:52",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1050,7 +1012,7 @@
     {
       "dt": 1792758900.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:57",
+      "time_estimated": "14:55",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1061,15 +1023,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 23
+      "delay": 21
     },
     {
       "dt": 1792759200.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:38",
+      "time_estimated": "14:40",
       "flight_no": "EW7066",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1259,7 +1221,7 @@
     {
       "dt": 1792761300.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:21",
+      "time_estimated": "15:10",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1273,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792762500.0,
