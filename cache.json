@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 07:40",
+  "updated_at": "23.10.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1792735800.0,
       "time_scheduled": "08:10",
-      "time_estimated": "08:04",
+      "time_estimated": "08:03",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -195,7 +195,7 @@
     {
       "dt": 1792736100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "07:53",
+      "time_estimated": "07:48",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -206,15 +206,15 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792737000.0,
       "time_scheduled": "08:30",
-      "time_estimated": "08:17",
+      "time_estimated": "08:18",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -252,21 +252,21 @@
     {
       "dt": 1792737600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:44",
+      "time_estimated": "08:40",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1792737600.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792746300.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "10:47",
       "flight_no": "AT696",
       "airline": "Royal Air Maroc",
       "city": "Nador",
@@ -1459,6 +1459,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792752300.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
