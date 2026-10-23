@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 20:20",
+  "updated_at": "23.10.2026 20:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792768500.0,
-      "time_scheduled": "17:15",
-      "time_estimated": "18:20",
-      "flight_no": "KK491",
-      "airline": "LEAV Aviation",
-      "city": "Damaskus",
-      "country": "Syrien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 66
-    },
     {
       "dt": 1792770000.0,
       "time_scheduled": "17:40",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 48
-    },
-    {
-      "dt": 1792770600.0,
-      "time_scheduled": "17:50",
-      "time_estimated": "18:23",
-      "flight_no": "OS165",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 33
     },
     {
       "dt": 1792770600.0,
@@ -96,25 +58,6 @@
       "status_detail": "annulliert, Umleitung nach Köln/Bonn",
       "remark": "Umleitung nach Köln/Bonn",
       "delay": 125
-    },
-    {
-      "dt": 1792772400.0,
-      "time_scheduled": "18:20",
-      "time_estimated": "18:25",
-      "flight_no": "LX1024",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
     },
     {
       "dt": 1792772700.0,
@@ -643,8 +586,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 48
     },
@@ -670,7 +613,7 @@
     {
       "dt": 1792778100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "20:10",
+      "time_estimated": "20:24",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -684,7 +627,7 @@
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 30
     },
     {
       "dt": 1792778400.0,
@@ -699,9 +642,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 52
     },
@@ -738,8 +681,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -765,7 +708,7 @@
     {
       "dt": 1792779900.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:28",
+      "time_estimated": "20:36",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -779,7 +722,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 12
     },
     {
       "dt": 1792780200.0,
@@ -832,16 +775,16 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
     {
       "dt": 1792782000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:27",
+      "time_estimated": "21:21",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -855,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 21
     },
     {
       "dt": 1792782000.0,
@@ -1411,7 +1354,7 @@
     {
       "dt": 1792786500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:55",
+      "time_estimated": "23:05",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1425,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 40
+      "delay": 51
     },
     {
       "dt": 1792786500.0,
@@ -1620,7 +1563,7 @@
     {
       "dt": 1792787700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:39",
+      "time_estimated": "22:44",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -1634,7 +1577,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 9
     },
     {
       "dt": 1792787700.0,
