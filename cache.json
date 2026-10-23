@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 21:20",
+  "updated_at": "23.10.2026 21:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -60,25 +60,6 @@
       "delay": 38
     },
     {
-      "dt": 1792774500.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "19:21",
-      "flight_no": "XQ280",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, Umleitung nach Köln/Bonn",
-      "remark": "Umleitung nach Köln/Bonn",
-      "delay": 26
-    },
-    {
       "dt": 1792775100.0,
       "time_scheduled": "19:05",
       "time_estimated": "19:48",
@@ -115,44 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 16
-    },
-    {
-      "dt": 1792775700.0,
-      "time_scheduled": "19:15",
-      "time_estimated": "19:24",
-      "flight_no": "EK057",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
-    },
-    {
-      "dt": 1792775700.0,
-      "time_scheduled": "19:15",
-      "time_estimated": "19:21",
-      "flight_no": "BM560",
-      "airline": "Medsky Airways",
-      "city": "Tripolis-Mitiga",
-      "country": "Libyen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
     },
     {
       "dt": 1792776300.0,
@@ -699,9 +642,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -718,9 +661,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -765,7 +708,7 @@
     {
       "dt": 1792784700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:37",
+      "time_estimated": "22:31",
       "flight_no": "EW9089",
       "airline": "Eurowings",
       "city": "München",
@@ -779,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 52
+      "delay": 47
     },
     {
       "dt": 1792785000.0,
@@ -917,7 +860,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "23:11",
+      "time_estimated": "23:16",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -931,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 71
+      "delay": 76
     },
     {
       "dt": 1792785600.0,
@@ -955,7 +898,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:56",
+      "time_estimated": "22:58",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -966,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 57
+      "delay": 59
     },
     {
       "dt": 1792785900.0,
@@ -1012,7 +955,7 @@
     {
       "dt": 1792786200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:57",
+      "time_estimated": "22:52",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1026,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 47
+      "delay": 42
     },
     {
       "dt": 1792786200.0,
@@ -1069,7 +1012,7 @@
     {
       "dt": 1792786200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "21:59",
+      "time_estimated": "22:00",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1183,7 +1126,7 @@
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "23:18",
+      "time_estimated": "23:20",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1194,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 59
+      "delay": 61
     },
     {
       "dt": 1792787100.0,
