@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 06:50",
+  "updated_at": "23.10.2026 06:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1792732800.0,
       "time_scheduled": "07:20",
-      "time_estimated": "07:39",
+      "time_estimated": "07:41",
       "flight_no": "PC1665",
       "airline": "Pegasus Airlines",
       "city": "Gaziantep",
@@ -133,12 +133,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 22
     },
     {
       "dt": 1792734000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:52",
+      "time_estimated": "07:42",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 2
     },
     {
       "dt": 1792735800.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1792737600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:41",
+      "time_estimated": "08:44",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -266,12 +266,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 5
     },
     {
       "dt": 1792737600.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:40",
+      "time_estimated": "08:34",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1172,6 +1172,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792749300.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "11:55",
+      "flight_no": "FH1193",
+      "airline": "Freebird Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792749300.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "11:55",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
