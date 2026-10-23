@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 19:00",
+  "updated_at": "23.10.2026 19:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 18
-    },
-    {
-      "dt": 1792767300.0,
-      "time_scheduled": "16:55",
-      "time_estimated": "17:01",
-      "flight_no": "VF005",
-      "airline": "A Jet",
-      "city": "Ankara-Esenboğa",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
     },
     {
       "dt": 1792767600.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1792773600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "19:08",
+      "time_estimated": "19:03",
       "flight_no": "LH2022",
       "airline": "Lufthansa",
       "city": "München",
@@ -661,11 +642,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 28
+      "delay": 23
     },
     {
       "dt": 1792773600.0,
@@ -700,8 +681,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -727,40 +708,40 @@
     {
       "dt": 1792774500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:07",
+      "time_estimated": "19:38",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "C",
-      "baggage": "11",
+      "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 44
     },
     {
       "dt": 1792774500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:32",
+      "time_estimated": "19:33",
       "flight_no": "XQ280",
       "airline": "Sun Express",
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 39
     },
     {
       "dt": 1792774800.0,
@@ -811,8 +792,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -925,11 +906,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -946,9 +927,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +955,7 @@
     {
       "dt": 1792776300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:36",
+      "time_estimated": "19:37",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -988,12 +969,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1792776600.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:34",
+      "time_estimated": "19:29",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1007,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792777200.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792783200.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:12",
+      "time_estimated": "21:15",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1460,8 +1441,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1658,7 +1639,7 @@
     {
       "dt": 1792785300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:55",
+      "time_estimated": "22:04",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1672,7 +1653,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792785600.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "22:09",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -1710,7 +1691,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792785600.0,
@@ -1772,7 +1753,7 @@
     {
       "dt": 1792785900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:06",
+      "time_estimated": "22:04",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
@@ -1786,12 +1767,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792785900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:15",
+      "time_estimated": "22:09",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1805,12 +1786,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 4
     },
     {
       "dt": 1792786200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:07",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1848,7 +1829,7 @@
     {
       "dt": 1792786200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:07",
       "flight_no": "SK629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
