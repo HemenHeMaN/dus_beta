@@ -1,11 +1,11 @@
 {
-  "updated_at": "23.10.2026 05:45",
+  "updated_at": "23.10.2026 05:50",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792728300.0,
       "time_scheduled": "06:05",
-      "time_estimated": "05:58",
+      "time_estimated": "06:04",
       "flight_no": "XC266",
       "airline": "Corendon Airlines",
       "city": "Kayseri",
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -43,7 +43,7 @@
     {
       "dt": 1792728600.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:08",
+      "time_estimated": "06:14",
       "flight_no": "EW9895",
       "airline": "Eurowings",
       "city": "Marrakesch",
@@ -53,11 +53,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792728600.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1792738200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:48",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -366,7 +366,7 @@
     {
       "dt": 1792738500.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "08:51",
       "flight_no": "DY1150",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -884,6 +884,25 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792745400.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
