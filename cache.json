@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 20:25",
+  "updated_at": "23.10.2026 20:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792770000.0,
-      "time_scheduled": "17:40",
-      "time_estimated": "18:28",
-      "flight_no": "GQ890",
-      "airline": "Sky Express",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 48
-    },
     {
       "dt": 1792770600.0,
       "time_scheduled": "17:50",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 32
-    },
-    {
-      "dt": 1792773000.0,
-      "time_scheduled": "18:30",
-      "time_estimated": "18:30",
-      "flight_no": "XC106",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792773600.0,
@@ -580,11 +542,11 @@
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
@@ -643,8 +605,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 52
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1792779900.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:36",
+      "time_estimated": "20:28",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -718,11 +680,11 @@
       "terminal": "C",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 3
     },
     {
       "dt": 1792780200.0,
@@ -765,7 +727,7 @@
     {
       "dt": 1792780800.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:48",
+      "time_estimated": "20:40",
       "flight_no": "LH2030",
       "airline": "Lufthansa",
       "city": "München",
@@ -776,10 +738,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 1
     },
     {
       "dt": 1792782000.0,
@@ -814,8 +776,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 22
     },
@@ -841,7 +803,7 @@
     {
       "dt": 1792782000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:40",
+      "time_estimated": "21:50",
       "flight_no": "EW9727",
       "airline": "Eurowings",
       "city": "Graz",
@@ -855,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 41
+      "delay": 51
     },
     {
       "dt": 1792782300.0,
@@ -1145,7 +1107,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:19",
+      "time_estimated": "22:11",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1159,12 +1121,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 12
     },
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:31",
+      "time_estimated": "22:29",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -1178,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 30
     },
     {
       "dt": 1792785600.0,
@@ -1202,7 +1164,7 @@
     {
       "dt": 1792785600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:35",
+      "time_estimated": "22:21",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1216,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 35
+      "delay": 22
     },
     {
       "dt": 1792785600.0,
@@ -1487,7 +1449,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:47",
+      "time_estimated": "22:18",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1501,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 0
     },
     {
       "dt": 1792787100.0,
@@ -1544,7 +1506,7 @@
     {
       "dt": 1792787400.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:34",
+      "time_estimated": "22:41",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -1558,7 +1520,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 12
     },
     {
       "dt": 1792787700.0,
@@ -1631,8 +1593,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 7
     },
