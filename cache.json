@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 22:25",
+  "updated_at": "23.10.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 24
-    },
-    {
-      "dt": 1792779900.0,
-      "time_scheduled": "20:25",
-      "time_estimated": "20:28",
-      "flight_no": "EI698",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
     },
     {
       "dt": 1792780200.0,
@@ -415,8 +396,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 60
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1792786500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "23:03",
+      "time_estimated": "23:04",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 49
+      "delay": 50
     },
     {
       "dt": 1792786500.0,
@@ -756,9 +737,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 42
     },
@@ -822,7 +803,7 @@
     {
       "dt": 1792786800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "23:14",
+      "time_estimated": "23:15",
       "flight_no": "EW9887",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -836,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 55
+      "delay": 56
     },
     {
       "dt": 1792787100.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1792787100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:46",
+      "time_estimated": "22:41",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
       "city": "München",
@@ -893,7 +874,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 22
+      "delay": 16
     },
     {
       "dt": 1792787400.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1792787400.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:32",
+      "time_estimated": "22:28",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -927,11 +908,11 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792787700.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1792787700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:30",
+      "time_estimated": "22:26",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -984,9 +965,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1004,15 +985,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
     {
       "dt": 1792788000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:31",
+      "time_estimated": "22:30",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1022,16 +1003,16 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792788300.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:31",
+      "time_estimated": "23:25",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1045,7 +1026,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 47
+      "delay": 40
     },
     {
       "dt": 1792788300.0,
