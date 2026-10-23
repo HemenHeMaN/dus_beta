@@ -1,5 +1,5 @@
 {
-  "updated_at": "23.10.2026 16:00",
+  "updated_at": "23.10.2026 16:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,44 +252,6 @@
     {
       "dt": 1792759200.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:46",
-      "flight_no": "LH2016",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
-    },
-    {
-      "dt": 1792759200.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "14:42",
-      "flight_no": "SK1621",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
-      "dt": 1792759200.0,
-      "time_scheduled": "14:40",
       "time_estimated": "14:30",
       "flight_no": "EW7066",
       "airline": "Eurowings",
@@ -324,6 +286,44 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792759200.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:46",
+      "flight_no": "LH2016",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 7
+    },
+    {
+      "dt": 1792759200.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:42",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 3
     },
     {
       "dt": 1792759500.0,
@@ -490,9 +490,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 61
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1792763100.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:09",
+      "time_estimated": "16:03",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -528,11 +528,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 19
     },
     {
       "dt": 1792763100.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792764300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:11",
+      "time_estimated": "16:16",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -684,7 +684,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 12
     },
     {
       "dt": 1792764300.0,
@@ -719,8 +719,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -775,9 +775,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1792766700.0,
       "time_scheduled": "16:45",
-      "time_estimated": "17:30",
+      "time_estimated": "17:37",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 45
+      "delay": 52
     },
     {
       "dt": 1792767000.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792768500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:34",
+      "time_estimated": "17:31",
       "flight_no": "EW9417",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -1023,10 +1023,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 17
     },
     {
       "dt": 1792768500.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1792770600.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:06",
+      "time_estimated": "18:05",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 16
     },
     {
       "dt": 1792770600.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792771800.0,
       "time_scheduled": "18:10",
-      "time_estimated": "17:58",
+      "time_estimated": "17:57",
       "flight_no": "XQ3180",
       "airline": "Sun Express",
       "city": "Bodrum-Milas",
@@ -1449,7 +1449,7 @@
     {
       "dt": 1792773000.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:38",
+      "time_estimated": "18:37",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1463,12 +1463,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1792773600.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:48",
+      "time_estimated": "18:49",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1482,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 10
     },
     {
       "dt": 1792773600.0,
@@ -1677,7 +1677,7 @@
     {
       "dt": 1792775400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:26",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1691,7 +1691,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1792775700.0,
@@ -1810,7 +1810,7 @@
     {
       "dt": 1792776300.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:36",
+      "time_estimated": "19:37",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1824,7 +1824,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1792776600.0,
@@ -2214,6 +2214,25 @@
       "airline": "Eurowings",
       "city": "Graz",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792782300.0,
+      "time_scheduled": "21:05",
+      "time_estimated": "21:05",
+      "flight_no": "EW9961",
+      "airline": "Eurowings",
+      "city": "Split",
+      "country": "Kroatien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
