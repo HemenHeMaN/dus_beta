@@ -1,26 +1,7 @@
 {
-  "updated_at": "23.10.2026 07:50",
+  "updated_at": "23.10.2026 07:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792728300.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:04",
-      "flight_no": "XC266",
-      "airline": "Corendon Airlines",
-      "city": "Kayseri",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792728300.0,
       "time_scheduled": "06:05",
@@ -39,6 +20,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 85
+    },
+    {
+      "dt": 1792728300.0,
+      "time_scheduled": "06:05",
+      "time_estimated": "06:04",
+      "flight_no": "XC266",
+      "airline": "Corendon Airlines",
+      "city": "Kayseri",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792728600.0,
@@ -168,8 +168,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -195,7 +195,7 @@
     {
       "dt": 1792736100.0,
       "time_scheduled": "08:15",
-      "time_estimated": "07:53",
+      "time_estimated": "07:54",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -205,9 +205,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1792739100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:19",
+      "time_estimated": "09:13",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 9
     },
     {
       "dt": 1792739100.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1792744800.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:52",
+      "time_estimated": "10:39",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -874,12 +874,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 0
     },
     {
       "dt": 1792745100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:54",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792745400.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792749000.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "12:09",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1792749000.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1792750200.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "12:18",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792750200.0,
