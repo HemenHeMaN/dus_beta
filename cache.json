@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 14:15",
+  "updated_at": "24.10.2026 14:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1792843500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:23",
+      "time_estimated": "14:18",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -509,11 +509,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 18
+      "delay": 13
     },
     {
       "dt": 1792843500.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1792843800.0,
       "time_scheduled": "14:10",
-      "time_estimated": "14:20",
+      "time_estimated": "14:15",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -585,16 +585,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 6
     },
     {
       "dt": 1792844100.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:33",
+      "time_estimated": "14:28",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -608,7 +608,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 13
     },
     {
       "dt": 1792844100.0,
@@ -643,8 +643,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 80
     },
@@ -870,9 +870,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -955,7 +955,7 @@
     {
       "dt": 1792849500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:51",
+      "time_estimated": "15:45",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -969,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1792849500.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792853700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:47",
+      "time_estimated": "16:57",
       "flight_no": "EW5449",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -1194,10 +1194,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792853700.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792855500.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:25",
+      "time_estimated": "17:22",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1316,7 +1316,7 @@
     {
       "dt": 1792856400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:25",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1327,8 +1327,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1665,7 +1665,7 @@
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1753,7 +1753,26 @@
     {
       "dt": 1792862400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "18:30",
+      "time_estimated": "19:20",
+      "flight_no": "EW9527",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792862400.0,
+      "time_scheduled": "19:20",
+      "time_estimated": "18:29",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
