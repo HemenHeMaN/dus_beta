@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 10:10",
+  "updated_at": "24.10.2026 10:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1792824900.0,
       "time_scheduled": "08:55",
-      "time_estimated": "09:13",
-      "flight_no": "XQ968",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
-    {
-      "dt": 1792824900.0,
-      "time_scheduled": "08:55",
       "time_estimated": "08:41",
       "flight_no": "EW4672",
       "airline": "Eurowings",
@@ -191,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792824900.0,
+      "time_scheduled": "08:55",
+      "time_estimated": "09:13",
+      "flight_no": "XQ968",
+      "airline": "Sun Express",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 19
     },
     {
       "dt": 1792825200.0,
@@ -233,25 +233,6 @@
     {
       "dt": 1792825500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:24",
-      "flight_no": "TK1523",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
-    {
-      "dt": 1792825500.0,
-      "time_scheduled": "09:05",
       "time_estimated": "09:18",
       "flight_no": "VY1896",
       "airline": "Vueling",
@@ -267,6 +248,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 13
+    },
+    {
+      "dt": 1792825500.0,
+      "time_scheduled": "09:05",
+      "time_estimated": "09:24",
+      "flight_no": "TK1523",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 19
     },
     {
       "dt": 1792825800.0,
@@ -452,9 +452,9 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 48
     },
@@ -548,8 +548,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -585,9 +585,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -605,8 +605,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -623,9 +623,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -661,16 +661,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792830900.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:33",
+      "time_estimated": "10:38",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -681,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792831500.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1792832100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:47",
+      "time_estimated": "10:48",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -803,7 +803,7 @@
     {
       "dt": 1792832400.0,
       "time_scheduled": "11:00",
-      "time_estimated": "10:48",
+      "time_estimated": "10:50",
       "flight_no": "BJ2640",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792838700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:45",
+      "time_estimated": "13:15",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1349,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 30
     },
     {
       "dt": 1792839000.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792839000.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:14",
+      "time_estimated": "13:22",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 32
     },
     {
       "dt": 1792839000.0,
@@ -2038,7 +2038,7 @@
     {
       "dt": 1792847100.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:03",
+      "time_estimated": "14:47",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -2049,8 +2049,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2067,6 +2067,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792847700.0,
+      "time_scheduled": "15:15",
+      "time_estimated": "15:15",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
