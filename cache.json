@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 19:15",
+  "updated_at": "24.10.2026 19:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 165
     },
@@ -366,7 +366,7 @@
     {
       "dt": 1792861500.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:47",
+      "time_estimated": "19:37",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -376,11 +376,11 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 42
+      "delay": 33
     },
     {
       "dt": 1792861800.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792862400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:43",
+      "time_estimated": "19:37",
       "flight_no": "EW9527",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -529,10 +529,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 17
     },
     {
       "dt": 1792862400.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1792862700.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:18",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -566,9 +566,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -661,9 +661,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +879,7 @@
     {
       "dt": 1792868400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:58",
+      "time_estimated": "21:08",
       "flight_no": "BA924",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792868400.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792869300.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:56",
+      "time_estimated": "21:51",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -947,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 41
+      "delay": 36
     },
     {
       "dt": 1792870200.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792870500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:52",
+      "time_estimated": "21:59",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 24
     },
     {
       "dt": 1792870500.0,
@@ -1544,7 +1544,7 @@
     {
       "dt": 1792873500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:11",
+      "time_estimated": "22:05",
       "flight_no": "EW9665",
       "airline": "Eurowings",
       "city": "Preveza-Aktion",
@@ -1620,7 +1620,7 @@
     {
       "dt": 1792873500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:25",
+      "time_estimated": "23:34",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -1634,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 70
     },
     {
       "dt": 1792874100.0,
