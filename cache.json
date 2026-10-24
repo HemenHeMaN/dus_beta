@@ -1,26 +1,7 @@
 {
-  "updated_at": "24.10.2026 18:25",
+  "updated_at": "24.10.2026 18:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792851000.0,
-      "time_scheduled": "16:10",
-      "time_estimated": "16:26",
-      "flight_no": "EW9815",
-      "airline": "Eurowings",
-      "city": "Catania (Sizilien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 17
-    },
     {
       "dt": 1792851900.0,
       "time_scheduled": "16:25",
@@ -328,7 +309,7 @@
     {
       "dt": 1792859400.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:34",
+      "time_estimated": "18:29",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -338,11 +319,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792859700.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1792862400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "18:27",
+      "time_estimated": "18:25",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
@@ -661,9 +642,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1792863600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:29",
+      "time_estimated": "19:28",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -719,8 +700,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1792864500.0,
       "time_scheduled": "19:55",
-      "time_estimated": "20:22",
+      "time_estimated": "20:27",
       "flight_no": "NE722",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -760,12 +741,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 33
     },
     {
       "dt": 1792864800.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:55",
+      "time_estimated": "19:59",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -841,7 +822,7 @@
     {
       "dt": 1792865400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:19",
+      "time_estimated": "20:41",
       "flight_no": "VY1898",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -855,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 32
     },
     {
       "dt": 1792866000.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1792868700.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:05",
+      "time_estimated": "21:35",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 31
     },
     {
       "dt": 1792869300.0,
@@ -1126,7 +1107,7 @@
     {
       "dt": 1792870500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:35",
+      "time_estimated": "21:31",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1316,6 +1297,25 @@
     {
       "dt": 1792871700.0,
       "time_scheduled": "21:55",
+      "time_estimated": "23:30",
+      "flight_no": "EW9673",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 95
+    },
+    {
+      "dt": 1792871700.0,
+      "time_scheduled": "21:55",
       "time_estimated": "21:55",
       "flight_no": "X36569",
       "airline": "Tuifly",
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792872000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:46",
+      "time_estimated": "22:36",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -1387,7 +1387,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 46
+      "delay": 37
     },
     {
       "dt": 1792872000.0,
@@ -1829,7 +1829,7 @@
     {
       "dt": 1792874700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:57",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1840,10 +1840,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792874700.0,
