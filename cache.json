@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 15:15",
+  "updated_at": "24.10.2026 15:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 139
     },
     {
-      "dt": 1792838700.0,
-      "time_scheduled": "12:45",
-      "time_estimated": "13:19",
-      "flight_no": "DE1849",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 34
-    },
-    {
       "dt": 1792840800.0,
       "time_scheduled": "13:20",
       "time_estimated": "13:24",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 4
-    },
-    {
-      "dt": 1792841100.0,
-      "time_scheduled": "13:25",
-      "time_estimated": "13:16",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792842000.0,
@@ -271,7 +233,7 @@
     {
       "dt": 1792843500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "15:15",
+      "time_estimated": "15:16",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -281,9 +243,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 71
     },
@@ -376,9 +338,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 80
     },
@@ -670,7 +632,7 @@
     {
       "dt": 1792849500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:30",
+      "time_estimated": "15:32",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -727,7 +689,7 @@
     {
       "dt": 1792849800.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:58",
+      "time_estimated": "15:53",
       "flight_no": "X32117",
       "airline": "Tuifly",
       "city": "Fuerteventura",
@@ -741,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1792849800.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1792850400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:47",
+      "time_estimated": "15:49",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -822,7 +784,7 @@
     {
       "dt": 1792850400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:53",
+      "time_estimated": "15:54",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1685,6 +1647,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792866000.0,
+      "time_scheduled": "20:20",
+      "time_estimated": "20:20",
+      "flight_no": "EW9961",
+      "airline": "Eurowings",
+      "city": "Split",
+      "country": "Kroatien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
