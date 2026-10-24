@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 14:50",
+  "updated_at": "24.10.2026 14:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -670,7 +670,7 @@
     {
       "dt": 1792846200.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:55",
+      "time_estimated": "14:54",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -680,11 +680,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1792846200.0,
@@ -719,8 +719,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -1050,7 +1050,7 @@
     {
       "dt": 1792852800.0,
       "time_scheduled": "16:40",
-      "time_estimated": "17:36",
+      "time_estimated": "17:05",
       "flight_no": "LH2018",
       "airline": "Lufthansa",
       "city": "München",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 56
+      "delay": 26
     },
     {
       "dt": 1792853700.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792854900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:42",
+      "time_estimated": "18:08",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 53
     },
     {
       "dt": 1792855500.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1792857300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:55",
+      "time_estimated": "17:54",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792857600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "17:54",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1723,6 +1723,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792864500.0,
+      "time_scheduled": "19:55",
+      "time_estimated": "19:55",
+      "flight_no": "DE235",
+      "airline": "Condor",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792864500.0,
+      "time_scheduled": "19:55",
+      "time_estimated": "19:55",
+      "flight_no": "NE722",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
