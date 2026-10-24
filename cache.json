@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 16:50",
+  "updated_at": "24.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 76
-    },
-    {
-      "dt": 1792846200.0,
-      "time_scheduled": "14:50",
-      "time_estimated": "14:54",
-      "flight_no": "EW9845",
-      "airline": "Eurowings",
-      "city": "Olbia (Sardinien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1792846500.0,
@@ -423,7 +404,7 @@
     {
       "dt": 1792852800.0,
       "time_scheduled": "16:40",
-      "time_estimated": "17:11",
+      "time_estimated": "17:06",
       "flight_no": "LH2018",
       "airline": "Lufthansa",
       "city": "München",
@@ -434,10 +415,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 32
+      "delay": 26
     },
     {
       "dt": 1792853700.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1792859700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:01",
+      "time_estimated": "18:56",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 22
     },
     {
       "dt": 1792860600.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1792861800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:32",
+      "time_estimated": "19:42",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -931,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 33
     },
     {
       "dt": 1792862100.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1792864800.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "19:57",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1259,21 +1240,21 @@
     {
       "dt": 1792866300.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:57",
+      "time_estimated": "20:56",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 32
     },
     {
       "dt": 1792866900.0,
@@ -1668,6 +1649,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792871700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792871700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "X36569",
+      "airline": "Tuifly",
+      "city": "Djerba",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792871700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "XR440",
+      "airline": "Corendon Airlines Europe",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
