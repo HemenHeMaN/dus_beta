@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 14:55",
+  "updated_at": "24.10.2026 15:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,44 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 50
-    },
-    {
-      "dt": 1792838100.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "12:57",
-      "flight_no": "PC1001",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 23
-    },
-    {
-      "dt": 1792838400.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "12:59",
-      "flight_no": "EW9577",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 20
     },
     {
       "dt": 1792838700.0,
@@ -309,7 +271,7 @@
     {
       "dt": 1792842900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "15:08",
+      "time_estimated": "15:00",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -319,11 +281,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 73
+      "delay": 65
     },
     {
       "dt": 1792842900.0,
@@ -708,7 +670,7 @@
     {
       "dt": 1792846500.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:11",
+      "time_estimated": "15:12",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -722,12 +684,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1792846800.0,
       "time_scheduled": "15:00",
-      "time_estimated": "14:58",
+      "time_estimated": "14:56",
       "flight_no": "5F5685",
       "airline": "Fly One",
       "city": "Chisinau",
@@ -737,9 +699,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -813,9 +775,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -955,7 +917,7 @@
     {
       "dt": 1792850400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "15:50",
+      "time_estimated": "15:47",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -966,15 +928,15 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792850400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:01",
+      "time_estimated": "16:00",
       "flight_no": "BA914",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -985,10 +947,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792851000.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1792851000.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:31",
+      "time_estimated": "16:35",
       "flight_no": "DE3655",
       "airline": "Condor",
       "city": "Genua",
@@ -1023,10 +985,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 25
     },
     {
       "dt": 1792851900.0,
@@ -1107,7 +1069,7 @@
     {
       "dt": 1792853700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:10",
+      "time_estimated": "19:22",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1121,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 147
     },
     {
       "dt": 1792854000.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792856400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:44",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1197,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792856400.0,
@@ -1240,7 +1202,7 @@
     {
       "dt": 1792857300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:54",
+      "time_estimated": "17:51",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1251,8 +1213,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792857600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:54",
+      "time_estimated": "18:02",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1292,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792857600.0,
@@ -1335,7 +1297,7 @@
     {
       "dt": 1792859400.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:30",
+      "time_estimated": "18:47",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1346,10 +1308,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 18
     },
     {
       "dt": 1792859700.0,
@@ -1763,6 +1725,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792864800.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "20:00",
+      "flight_no": "EW9467",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792864800.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "20:00",
+      "flight_no": "6K331",
+      "airline": "Air Anka",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
