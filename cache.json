@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 10:30",
+  "updated_at": "24.10.2026 10:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,25 +385,6 @@
     {
       "dt": 1792827600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:29",
-      "flight_no": "LH2006",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792827600.0,
-      "time_scheduled": "09:40",
       "time_estimated": "09:40",
       "flight_no": "OU422",
       "airline": "Croatia Airlines",
@@ -414,6 +395,25 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792827600.0,
+      "time_scheduled": "09:40",
+      "time_estimated": "09:29",
+      "flight_no": "LH2006",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -594,7 +594,7 @@
     {
       "dt": 1792830300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:37",
+      "time_estimated": "10:31",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -604,11 +604,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 7
     },
     {
       "dt": 1792830600.0,
@@ -700,8 +700,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -776,8 +776,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -794,9 +794,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1069,7 @@
     {
       "dt": 1792835400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:39",
+      "time_estimated": "11:52",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792835400.0,
@@ -1316,7 +1316,7 @@
     {
       "dt": 1792838700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "13:15",
+      "time_estimated": "13:19",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1330,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 34
     },
     {
       "dt": 1792839000.0,
@@ -1468,7 +1468,7 @@
     {
       "dt": 1792840800.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:20",
+      "time_estimated": "13:29",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1479,10 +1479,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792841100.0,
@@ -1525,7 +1525,7 @@
     {
       "dt": 1792842600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
+      "time_estimated": "13:53",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -1536,10 +1536,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792842600.0,
@@ -1620,7 +1620,7 @@
     {
       "dt": 1792842900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "13:33",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
