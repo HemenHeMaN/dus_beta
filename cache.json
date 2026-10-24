@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 12:40",
+  "updated_at": "24.10.2026 12:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 12
-    },
-    {
-      "dt": 1792831800.0,
-      "time_scheduled": "10:50",
-      "time_estimated": "10:43",
-      "flight_no": "XQ1320",
-      "airline": "Sun Express",
-      "city": "Kayseri",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792831800.0,
-      "time_scheduled": "10:50",
-      "time_estimated": "10:41",
-      "flight_no": "DE1827",
-      "airline": "Condor",
-      "city": "Olbia (Sardinien)",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792831800.0,
@@ -461,7 +423,7 @@
     {
       "dt": 1792836600.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:54",
+      "time_estimated": "12:44",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -471,11 +433,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 44
+      "delay": 34
     },
     {
       "dt": 1792836600.0,
@@ -585,16 +547,16 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 39
     },
     {
       "dt": 1792838400.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:43",
+      "time_estimated": "12:42",
       "flight_no": "VL2014",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -604,11 +566,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1792838400.0,
@@ -623,16 +585,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 23
     },
     {
       "dt": 1792838700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "13:23",
+      "time_estimated": "13:24",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -646,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 39
     },
     {
       "dt": 1792839000.0,
@@ -765,7 +727,7 @@
     {
       "dt": 1792840800.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:14",
+      "time_estimated": "13:15",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -803,7 +765,7 @@
     {
       "dt": 1792841100.0,
       "time_scheduled": "13:25",
-      "time_estimated": "13:22",
+      "time_estimated": "13:24",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792845300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:30",
+      "time_estimated": "14:24",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1441,8 +1403,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 6
     },
@@ -1801,6 +1763,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792856700.0,
+      "time_scheduled": "17:45",
+      "time_estimated": "17:45",
+      "flight_no": "GQ590",
+      "airline": "Sky Express",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
