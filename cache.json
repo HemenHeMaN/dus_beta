@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 17:10",
+  "updated_at": "24.10.2026 17:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
-    },
-    {
-      "dt": 1792848000.0,
-      "time_scheduled": "15:20",
-      "time_estimated": "15:14",
-      "flight_no": "XQ3580",
-      "airline": "Sun Express",
-      "city": "Dalaman",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792849500.0,
@@ -461,7 +442,7 @@
     {
       "dt": 1792855500.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:20",
+      "time_estimated": "17:14",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -471,9 +452,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -509,9 +490,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +594,7 @@
     {
       "dt": 1792858800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:33",
+      "time_estimated": "18:36",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -627,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1792859400.0,
@@ -822,7 +803,7 @@
     {
       "dt": 1792861800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:17",
+      "time_estimated": "19:15",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -836,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 6
     },
     {
       "dt": 1792861800.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792866000.0,
       "time_scheduled": "20:20",
-      "time_estimated": "20:20",
+      "time_estimated": "20:15",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -1677,6 +1658,25 @@
     {
       "dt": 1792872000.0,
       "time_scheduled": "22:00",
+      "time_estimated": "22:13",
+      "flight_no": "EW9989",
+      "airline": "Eurowings",
+      "city": "Kairo",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 13
+    },
+    {
+      "dt": 1792872000.0,
+      "time_scheduled": "22:00",
       "time_estimated": "22:00",
       "flight_no": "DE1557",
       "airline": "Condor",
@@ -1782,6 +1782,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792872900.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:15",
+      "flight_no": "EW9433",
+      "airline": "Eurowings",
+      "city": "Bastia (Korsika)",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792872900.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:15",
+      "flight_no": "EW9903",
+      "airline": "Eurowings",
+      "city": "Larnaca (Zypern)",
+      "country": "Zypern",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
