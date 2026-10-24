@@ -1,26 +1,7 @@
 {
-  "updated_at": "24.10.2026 09:35",
+  "updated_at": "24.10.2026 09:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792819200.0,
-      "time_scheduled": "07:20",
-      "time_estimated": "07:36",
-      "flight_no": "NP6490",
-      "airline": "Nile Air",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 17
-    },
     {
       "dt": 1792819200.0,
       "time_scheduled": "07:20",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 37
-    },
-    {
-      "dt": 1792820400.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:38",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792821000.0,
@@ -86,11 +48,11 @@
       "airline": "Nile Air",
       "city": "Hurghada",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
@@ -423,7 +385,7 @@
     {
       "dt": 1792827000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:41",
+      "time_estimated": "09:38",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -433,11 +395,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 8
     },
     {
       "dt": 1792827000.0,
@@ -499,7 +461,7 @@
     {
       "dt": 1792827600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:45",
+      "time_estimated": "09:44",
       "flight_no": "OU422",
       "airline": "Croatia Airlines",
       "city": "Split",
@@ -513,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 5
     },
     {
       "dt": 1792827900.0,
@@ -537,7 +499,7 @@
     {
       "dt": 1792828200.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:37",
+      "time_estimated": "09:36",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -547,16 +509,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792828500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:57",
+      "time_estimated": "09:58",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -566,11 +528,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792828800.0,
@@ -605,8 +567,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +898,7 @@
     {
       "dt": 1792832700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:24",
+      "time_estimated": "11:39",
       "flight_no": "EW9921",
       "airline": "Eurowings",
       "city": "Mostar",
@@ -950,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 34
     },
     {
       "dt": 1792833000.0,
@@ -1240,7 +1202,7 @@
     {
       "dt": 1792836600.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "12:39",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1254,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 29
     },
     {
       "dt": 1792836600.0,
@@ -1525,7 +1487,7 @@
     {
       "dt": 1792840500.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:15",
+      "time_estimated": "13:06",
       "flight_no": "XQ286",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1536,8 +1498,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1970,6 +1932,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792845600.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "EW9959",
+      "airline": "Eurowings",
+      "city": "Split",
+      "country": "Kroatien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792845600.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
