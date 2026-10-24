@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 13:25",
+  "updated_at": "24.10.2026 13:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1792833900.0,
       "time_scheduled": "11:25",
-      "time_estimated": "13:47",
+      "time_estimated": "13:39",
       "flight_no": "AP1633",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -38,7 +38,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 143
+      "delay": 135
     },
     {
       "dt": 1792834500.0,
@@ -166,25 +166,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792835400.0,
-      "time_scheduled": "11:50",
-      "time_estimated": "11:29",
-      "flight_no": "A3840",
-      "airline": "Aegean Airlines",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -623,9 +604,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -670,7 +651,7 @@
     {
       "dt": 1792842900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:48",
+      "time_estimated": "15:14",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -684,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 53
+      "delay": 79
     },
     {
       "dt": 1792842900.0,
@@ -993,7 +974,7 @@
     {
       "dt": 1792845600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:26",
+      "time_estimated": "14:24",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1687,6 +1668,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792859400.0,
+      "time_scheduled": "18:30",
+      "time_estimated": "18:30",
+      "flight_no": "XC106",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
