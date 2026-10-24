@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 17:35",
+  "updated_at": "24.10.2026 17:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,25 +53,6 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792849500.0,
-      "time_scheduled": "15:45",
-      "time_estimated": "15:38",
-      "flight_no": "XQ284",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -357,9 +338,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 44
     },
@@ -442,7 +423,7 @@
     {
       "dt": 1792857300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:51",
+      "time_estimated": "17:56",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -452,11 +433,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792857600.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1792858800.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:26",
+      "time_estimated": "18:25",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -532,7 +513,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1792859400.0,
@@ -1088,7 +1069,7 @@
     {
       "dt": 1792866300.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:56",
+      "time_estimated": "20:57",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -1102,12 +1083,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 33
     },
     {
       "dt": 1792866900.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:35",
+      "time_estimated": "20:40",
       "flight_no": "EW9645",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792867200.0,
@@ -1450,25 +1431,6 @@
       "dt": 1792871400.0,
       "time_scheduled": "21:50",
       "time_estimated": "21:50",
-      "flight_no": "EW9603",
-      "airline": "Eurowings",
-      "city": "Lissabon",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792871400.0,
-      "time_scheduled": "21:50",
-      "time_estimated": "21:50",
       "flight_no": "X34573",
       "airline": "Tuifly",
       "city": "Kos",
@@ -1563,7 +1525,7 @@
     {
       "dt": 1792872000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "22:30",
       "flight_no": "EW5703",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -1577,7 +1539,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 30
     },
     {
       "dt": 1792872000.0,
@@ -1886,6 +1848,25 @@
     {
       "dt": 1792873500.0,
       "time_scheduled": "22:25",
+      "time_estimated": "22:39",
+      "flight_no": "EW5521",
+      "airline": "Eurowings",
+      "city": "Marsa Alam",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 14
+    },
+    {
+      "dt": 1792873500.0,
+      "time_scheduled": "22:25",
       "time_estimated": "22:25",
       "flight_no": "LH2034",
       "airline": "Lufthansa",
@@ -1972,6 +1953,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792874400.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "DE1415",
+      "airline": "Condor",
+      "city": "Funchal (Madeira)",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792874400.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "DE1779",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
