@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 11:30",
+  "updated_at": "24.10.2026 11:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 72
     },
     {
-      "dt": 1792826700.0,
-      "time_scheduled": "09:25",
-      "time_estimated": "09:32",
-      "flight_no": "EW9717",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 8
-    },
-    {
       "dt": 1792827000.0,
       "time_scheduled": "09:30",
       "time_estimated": "09:38",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1792827000.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:34",
-      "flight_no": "LH072",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
     },
     {
       "dt": 1792827600.0,
@@ -252,25 +214,6 @@
     {
       "dt": 1792830300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:26",
-      "flight_no": "EW9771",
-      "airline": "Eurowings",
-      "city": "Prag",
-      "country": "Tschechien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1792830300.0,
-      "time_scheduled": "10:25",
       "time_estimated": "10:31",
       "flight_no": "DE1011",
       "airline": "Condor",
@@ -286,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 7
+    },
+    {
+      "dt": 1792830300.0,
+      "time_scheduled": "10:25",
+      "time_estimated": "10:26",
+      "flight_no": "EW9771",
+      "airline": "Eurowings",
+      "city": "Prag",
+      "country": "Tschechien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 2
     },
     {
       "dt": 1792830600.0,
@@ -528,9 +490,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 44
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1792834500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "12:12",
+      "time_estimated": "12:13",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -627,12 +589,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 39
     },
     {
       "dt": 1792834500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "12:10",
+      "time_estimated": "12:11",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -646,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 35
+      "delay": 36
     },
     {
       "dt": 1792834800.0,
@@ -661,9 +623,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -746,7 +708,7 @@
     {
       "dt": 1792835400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:42",
+      "time_estimated": "11:34",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -756,9 +718,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +841,7 @@
     {
       "dt": 1792836900.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:48",
+      "time_estimated": "13:02",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -893,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 47
     },
     {
       "dt": 1792837800.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792842000.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:45",
+      "time_estimated": "13:47",
       "flight_no": "EW9855",
       "airline": "Eurowings",
       "city": "Brindisi",
@@ -1194,10 +1156,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 7
     },
     {
       "dt": 1792842600.0,
@@ -1335,7 +1297,7 @@
     {
       "dt": 1792843500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:29",
+      "time_estimated": "14:30",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1346,10 +1308,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 26
     },
     {
       "dt": 1792843500.0,
