@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 07:25",
+  "updated_at": "24.10.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -149,8 +149,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -233,7 +233,7 @@
     {
       "dt": 1792824000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:44",
+      "time_estimated": "08:37",
       "flight_no": "VL2004",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -247,7 +247,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792824300.0,
@@ -271,7 +271,7 @@
     {
       "dt": 1792824300.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:46",
+      "time_estimated": "08:45",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -285,7 +285,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 1
     },
     {
       "dt": 1792824600.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792830600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:21",
+      "time_estimated": "10:22",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1402,6 +1402,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792837800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792837800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "DE1781",
+      "airline": "Condor",
+      "city": "Preveza-Aktion",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
