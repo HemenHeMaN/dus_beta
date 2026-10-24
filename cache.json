@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 17:05",
+  "updated_at": "24.10.2026 17:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -651,7 +651,7 @@
     {
       "dt": 1792859700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:56",
+      "time_estimated": "19:02",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 28
     },
     {
       "dt": 1792860600.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1792860900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:56",
+      "time_estimated": "18:46",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -757,10 +757,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792861200.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1792865100.0,
       "time_scheduled": "20:05",
-      "time_estimated": "20:05",
+      "time_estimated": "20:11",
       "flight_no": "EW9817",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792865400.0,
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792866000.0,
@@ -1744,6 +1744,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792872600.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9601",
+      "airline": "Eurowings",
+      "city": "Funchal (Madeira)",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792872600.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "DE1795",
+      "airline": "Condor",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
