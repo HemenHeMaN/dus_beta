@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 05:45",
+  "updated_at": "24.10.2026 05:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,8 +16,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -34,9 +34,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1792824300.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:45",
+      "time_estimated": "08:53",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -266,7 +266,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792824300.0,
@@ -328,7 +328,7 @@
     {
       "dt": 1792824900.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "08:52",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -347,7 +347,7 @@
     {
       "dt": 1792824900.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "09:04",
       "flight_no": "XQ968",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -361,7 +361,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792825200.0,
@@ -868,6 +868,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792831800.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "XQ1320",
+      "airline": "Sun Express",
+      "city": "Kayseri",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792831800.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "DE1827",
+      "airline": "Condor",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792831800.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
