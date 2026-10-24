@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 07:15",
+  "updated_at": "24.10.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1792819200.0,
       "time_scheduled": "07:20",
-      "time_estimated": "07:24",
+      "time_estimated": "07:16",
       "flight_no": "PC1653",
       "airline": "Pegasus Airlines",
       "city": "Trabzon",
@@ -91,11 +91,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792819200.0,
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -746,7 +746,7 @@
     {
       "dt": 1792830000.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:20",
+      "time_estimated": "10:22",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792830300.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1792830600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:21",
       "flight_no": "AY1393",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -955,7 +955,7 @@
     {
       "dt": 1792832100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:49",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -966,8 +966,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
