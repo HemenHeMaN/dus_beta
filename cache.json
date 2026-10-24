@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 07:00",
+  "updated_at": "24.10.2026 07:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1792819200.0,
       "time_scheduled": "07:20",
-      "time_estimated": "07:31",
+      "time_estimated": "07:29",
       "flight_no": "PC1653",
       "airline": "Pegasus Airlines",
       "city": "Trabzon",
@@ -91,16 +91,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1792819200.0,
       "time_scheduled": "07:20",
-      "time_estimated": "07:38",
+      "time_estimated": "07:39",
       "flight_no": "NP6490",
       "airline": "Nile Air",
       "city": "Hurghada",
@@ -114,7 +114,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 20
     },
     {
       "dt": 1792819200.0,
@@ -328,7 +328,7 @@
     {
       "dt": 1792824900.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:52",
+      "time_estimated": "08:46",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -339,8 +339,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1792828500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:55",
+      "time_estimated": "10:05",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1792828800.0,
@@ -703,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792829700.0,
@@ -1305,6 +1305,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792836300.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:05",
+      "flight_no": "EW9853",
+      "airline": "Eurowings",
+      "city": "Lamezia Terme (Kalabrien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
