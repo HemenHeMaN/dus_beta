@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 08:40",
+  "updated_at": "24.10.2026 08:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 72
     },
@@ -206,8 +206,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -271,7 +271,7 @@
     {
       "dt": 1792824900.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:46",
+      "time_estimated": "08:41",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -281,9 +281,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1792827000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:34",
+      "time_estimated": "09:41",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -472,10 +472,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 12
     },
     {
       "dt": 1792827000.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1792828500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:02",
+      "time_estimated": "10:05",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 10
     },
     {
       "dt": 1792828800.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792834800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:53",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792834800.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792835400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:37",
+      "time_estimated": "11:43",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1221,7 +1221,7 @@
     {
       "dt": 1792835400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:47",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -1620,7 +1620,7 @@
     {
       "dt": 1792841100.0,
       "time_scheduled": "13:25",
-      "time_estimated": "13:24",
+      "time_estimated": "13:19",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
