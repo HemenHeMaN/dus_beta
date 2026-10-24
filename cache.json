@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 08:35",
+  "updated_at": "24.10.2026 08:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -205,16 +205,16 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
     {
       "dt": 1792824300.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:40",
+      "time_estimated": "08:36",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -224,9 +224,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -243,16 +243,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
     {
       "dt": 1792824600.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:39",
+      "time_estimated": "08:38",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -262,9 +262,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -339,8 +339,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1792825800.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:13",
+      "time_estimated": "09:18",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -399,7 +399,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 9
     },
     {
       "dt": 1792826700.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792827600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:37",
+      "time_estimated": "09:36",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -529,8 +529,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792835400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:37",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1633,6 +1633,25 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792842000.0,
+      "time_scheduled": "13:40",
+      "time_estimated": "13:40",
+      "flight_no": "EW9855",
+      "airline": "Eurowings",
+      "city": "Brindisi",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
