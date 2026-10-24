@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 08:25",
+  "updated_at": "24.10.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,6 +43,25 @@
     {
       "dt": 1792819200.0,
       "time_scheduled": "07:20",
+      "time_estimated": "07:16",
+      "flight_no": "PC1653",
+      "airline": "Pegasus Airlines",
+      "city": "Trabzon",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792819200.0,
+      "time_scheduled": "07:20",
       "time_estimated": "07:36",
       "flight_no": "NP6490",
       "airline": "Nile Air",
@@ -77,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 37
-    },
-    {
-      "dt": 1792819200.0,
-      "time_scheduled": "07:20",
-      "time_estimated": "07:16",
-      "flight_no": "PC1653",
-      "airline": "Pegasus Airlines",
-      "city": "Trabzon",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792820400.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1792824000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:35",
+      "time_estimated": "08:28",
       "flight_no": "VL2004",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -205,9 +205,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -282,8 +282,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -300,9 +300,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -423,7 +423,7 @@
     {
       "dt": 1792826700.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:20",
+      "time_estimated": "09:30",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792826700.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792834500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:35",
+      "time_estimated": "11:29",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792834800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:31",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
