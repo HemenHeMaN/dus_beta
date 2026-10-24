@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 09:20",
+  "updated_at": "24.10.2026 09:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,9 +91,9 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 72
     },
@@ -328,7 +328,7 @@
     {
       "dt": 1792825500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:29",
+      "time_estimated": "09:24",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -338,11 +338,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 19
     },
     {
       "dt": 1792825800.0,
@@ -377,8 +377,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -433,9 +433,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -453,15 +453,15 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 13
     },
     {
       "dt": 1792827300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:28",
+      "time_estimated": "09:21",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -471,9 +471,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -491,15 +491,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792827600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:40",
+      "time_estimated": "09:45",
       "flight_no": "OU422",
       "airline": "Croatia Airlines",
       "city": "Split",
@@ -509,11 +509,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792827900.0,
@@ -547,9 +547,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +765,7 @@
     {
       "dt": 1792831500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:52",
+      "time_estimated": "10:59",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 15
     },
     {
       "dt": 1792831800.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1792834500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "12:07",
+      "time_estimated": "12:13",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1045,12 +1045,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 33
+      "delay": 38
     },
     {
       "dt": 1792834500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:43",
+      "time_estimated": "12:00",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 25
     },
     {
       "dt": 1792834800.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792835400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:45",
+      "time_estimated": "12:38",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 55
+      "delay": 49
     },
     {
       "dt": 1792835400.0,
