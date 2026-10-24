@@ -1,26 +1,7 @@
 {
-  "updated_at": "24.10.2026 08:30",
+  "updated_at": "24.10.2026 08:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792817100.0,
-      "time_scheduled": "06:45",
-      "time_estimated": "06:31",
-      "flight_no": "XQ1350",
-      "airline": "Sun Express",
-      "city": "Samsun",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792817400.0,
       "time_scheduled": "06:50",
@@ -39,6 +20,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792819200.0,
+      "time_scheduled": "07:20",
+      "time_estimated": "07:56",
+      "flight_no": "NP5601",
+      "airline": "Nile Air",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 37
     },
     {
       "dt": 1792819200.0,
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
-    },
-    {
-      "dt": 1792819200.0,
-      "time_scheduled": "07:20",
-      "time_estimated": "07:56",
-      "flight_no": "NP5601",
-      "airline": "Nile Air",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 37
     },
     {
       "dt": 1792820400.0,
@@ -176,7 +157,7 @@
     {
       "dt": 1792824000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "09:13",
+      "time_estimated": "09:12",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -190,7 +171,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 32
     },
     {
       "dt": 1792824000.0,
@@ -357,9 +338,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -423,7 +404,7 @@
     {
       "dt": 1792826700.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:30",
+      "time_estimated": "09:33",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -434,10 +415,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 8
     },
     {
       "dt": 1792826700.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1792829100.0,
       "time_scheduled": "10:05",
-      "time_estimated": "09:54",
+      "time_estimated": "09:55",
       "flight_no": "EJU3941",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -662,8 +643,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1792830300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:15",
+      "time_estimated": "10:14",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -898,7 +879,7 @@
     {
       "dt": 1792832100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:47",
+      "time_estimated": "10:51",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792835700.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:55",
+      "time_estimated": "11:35",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
