@@ -1,26 +1,7 @@
 {
-  "updated_at": "24.10.2026 15:40",
+  "updated_at": "24.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792842600.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:41",
-      "flight_no": "X34589",
-      "airline": "Tuifly",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792842600.0,
       "time_scheduled": "13:50",
@@ -509,9 +490,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 49
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1792849500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:46",
+      "time_estimated": "15:44",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -585,11 +566,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792849500.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1792850400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:02",
+      "time_estimated": "15:55",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -684,7 +665,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1792850400.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1792857600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:02",
+      "time_estimated": "18:15",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1026,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 16
     },
     {
       "dt": 1792857600.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1792864500.0,
       "time_scheduled": "19:55",
-      "time_estimated": "20:17",
+      "time_estimated": "20:22",
       "flight_no": "DE235",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1482,7 +1463,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 23
+      "delay": 28
     },
     {
       "dt": 1792864500.0,
@@ -1647,6 +1628,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792867500.0,
+      "time_scheduled": "20:45",
+      "time_estimated": "20:45",
+      "flight_no": "EW9587",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
