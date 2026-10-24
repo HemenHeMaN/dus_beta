@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 16:25",
+  "updated_at": "24.10.2026 16:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1792843500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "16:31",
+      "time_estimated": "16:30",
       "flight_no": "XR406",
       "airline": "Corendon Airlines Europe",
       "city": "Rhodos",
@@ -53,11 +53,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 146
+      "delay": 145
     },
     {
       "dt": 1792844100.0,
@@ -490,9 +490,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 17
     },
@@ -585,9 +585,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1792856400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:49",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1792856400.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1792859700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:03",
+      "time_estimated": "19:01",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -852,10 +852,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 27
     },
     {
       "dt": 1792860600.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1792861800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:22",
+      "time_estimated": "19:25",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 16
     },
     {
       "dt": 1792861800.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792862700.0,
       "time_scheduled": "19:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:36",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1175,10 +1175,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1792863000.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792863600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:31",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1548,6 +1548,44 @@
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792870200.0,
+      "time_scheduled": "21:30",
+      "time_estimated": "21:30",
+      "flight_no": "EW9983",
+      "airline": "Eurowings",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792870200.0,
+      "time_scheduled": "21:30",
+      "time_estimated": "21:30",
+      "flight_no": "EW9547",
+      "airline": "Eurowings",
+      "city": "Fuerteventura",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
