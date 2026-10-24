@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 06:45",
+  "updated_at": "24.10.2026 06:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1792817400.0,
       "time_scheduled": "06:50",
-      "time_estimated": "06:52",
+      "time_estimated": "06:47",
       "flight_no": "XQ1334",
       "airline": "Sun Express",
       "city": "Elazig",
@@ -72,11 +72,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792819200.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1792829700.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:26",
+      "time_estimated": "10:31",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -722,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 17
     },
     {
       "dt": 1792829700.0,
@@ -1229,6 +1229,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792835400.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792835400.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "KL1799",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792835400.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
