@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 13:45",
+  "updated_at": "24.10.2026 13:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1792834800.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:48",
-      "flight_no": "X32313",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
     },
     {
       "dt": 1792834800.0,
@@ -347,25 +328,6 @@
     {
       "dt": 1792839000.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:35",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792839000.0,
-      "time_scheduled": "12:50",
       "time_estimated": "13:09",
       "flight_no": "EW9535",
       "airline": "Eurowings",
@@ -395,6 +357,25 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792839000.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:35",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -556,7 +537,7 @@
     {
       "dt": 1792842600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:03",
+      "time_estimated": "14:04",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -566,16 +547,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 15
     },
     {
       "dt": 1792842600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:49",
+      "time_estimated": "13:48",
       "flight_no": "RSX8565",
       "airline": "Red Sea Airlines",
       "city": "Hurghada",
@@ -699,9 +680,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1792844100.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:22",
+      "time_estimated": "14:13",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1792844100.0,
@@ -851,9 +832,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792847700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:11",
+      "time_estimated": "15:31",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1792848000.0,
@@ -1297,7 +1278,7 @@
     {
       "dt": 1792851000.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:27",
+      "time_estimated": "16:21",
       "flight_no": "DE3655",
       "airline": "Condor",
       "city": "Genua",
@@ -1311,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1792851900.0,
@@ -1647,6 +1628,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792860600.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:50",
+      "flight_no": "VL2022",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
