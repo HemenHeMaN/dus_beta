@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 15:05",
+  "updated_at": "24.10.2026 15:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 34
     },
     {
-      "dt": 1792839000.0,
-      "time_scheduled": "12:50",
-      "time_estimated": "13:09",
-      "flight_no": "EW9535",
-      "airline": "Eurowings",
-      "city": "Malaga",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
-    {
       "dt": 1792839900.0,
       "time_scheduled": "13:05",
       "time_estimated": "13:12",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1792840500.0,
-      "time_scheduled": "13:15",
-      "time_estimated": "13:07",
-      "flight_no": "XQ286",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792840800.0,
@@ -347,7 +309,7 @@
     {
       "dt": 1792843500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "15:14",
+      "time_estimated": "15:15",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -361,7 +323,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 70
+      "delay": 71
     },
     {
       "dt": 1792843500.0,
@@ -718,16 +680,16 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
     {
       "dt": 1792848000.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:14",
+      "time_estimated": "15:15",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -784,7 +746,7 @@
     {
       "dt": 1792849500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:41",
+      "time_estimated": "15:43",
       "flight_no": "XQ284",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -936,7 +898,7 @@
     {
       "dt": 1792851000.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:35",
+      "time_estimated": "16:29",
       "flight_no": "DE3655",
       "airline": "Condor",
       "city": "Genua",
@@ -950,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 19
     },
     {
       "dt": 1792851900.0,
@@ -1031,7 +993,7 @@
     {
       "dt": 1792853700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "19:22",
+      "time_estimated": "18:52",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1045,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 147
+      "delay": 118
     },
     {
       "dt": 1792854000.0,
@@ -1739,6 +1701,25 @@
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792865400.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "20:10",
+      "flight_no": "VY1898",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
