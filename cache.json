@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 05:25",
+  "updated_at": "24.10.2026 05:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1792814700.0,
       "time_scheduled": "06:05",
-      "time_estimated": "05:58",
+      "time_estimated": "05:59",
       "flight_no": "XC268",
       "airline": "Corendon Airlines",
       "city": "Mersin-Çukurova",
@@ -119,7 +119,7 @@
     {
       "dt": 1792819200.0,
       "time_scheduled": "07:20",
-      "time_estimated": "08:00",
+      "time_estimated": "07:59",
       "flight_no": "NP5601",
       "airline": "Nile Air",
       "city": "Hurghada",
@@ -133,7 +133,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 41
+      "delay": 40
     },
     {
       "dt": 1792820400.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1792824600.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:30",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -366,7 +366,7 @@
     {
       "dt": 1792825200.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:00",
+      "time_estimated": "09:07",
       "flight_no": "XC244",
       "airline": "Corendon Airlines",
       "city": "Gazipaşa-Alanya",
@@ -377,10 +377,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1792825200.0,
@@ -794,6 +794,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792830600.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:30",
+      "flight_no": "4M611",
+      "airline": "Mavi Gök Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792830600.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:30",
+      "flight_no": "AY1393",
+      "airline": "Finnair",
+      "city": "Helsinki",
+      "country": "Finnland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
