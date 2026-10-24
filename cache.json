@@ -1,5 +1,5 @@
 {
-  "updated_at": "24.10.2026 13:55",
+  "updated_at": "24.10.2026 14:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1792834800.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:59",
-      "flight_no": "X32323",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
     },
     {
       "dt": 1792835100.0,
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 34
-    },
-    {
-      "dt": 1792836600.0,
-      "time_scheduled": "12:10",
-      "time_estimated": "11:57",
-      "flight_no": "BJ2335",
-      "airline": "Nouvelair",
-      "city": "Berlin-Brandenburg",
-      "country": "Deutschland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792836600.0,
@@ -642,16 +604,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
     {
       "dt": 1792843500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:25",
+      "time_estimated": "14:30",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -665,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 25
     },
     {
       "dt": 1792843500.0,
@@ -822,7 +784,7 @@
     {
       "dt": 1792845000.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:03",
+      "time_estimated": "14:00",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -832,9 +794,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +822,7 @@
     {
       "dt": 1792845300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:24",
+      "time_estimated": "14:17",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -870,9 +832,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +879,7 @@
     {
       "dt": 1792845900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:55",
+      "time_estimated": "14:56",
       "flight_no": "VL2016",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -928,10 +890,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1792846200.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1792846200.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:42",
+      "time_estimated": "14:41",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -974,7 +936,7 @@
     {
       "dt": 1792846500.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:15",
+      "time_estimated": "15:16",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -988,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 22
     },
     {
       "dt": 1792846800.0,
@@ -1069,7 +1031,7 @@
     {
       "dt": 1792848000.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:15",
+      "time_estimated": "15:14",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -1088,7 +1050,7 @@
     {
       "dt": 1792849500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:29",
+      "time_estimated": "15:30",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1259,7 +1221,7 @@
     {
       "dt": 1792851000.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:27",
+      "time_estimated": "16:25",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1270,10 +1232,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 16
     },
     {
       "dt": 1792851000.0,
@@ -1725,6 +1687,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792861200.0,
+      "time_scheduled": "19:00",
+      "time_estimated": "19:00",
+      "flight_no": "XR6598",
+      "airline": "Corendon Airlines Europe",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
