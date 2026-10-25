@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 20:20",
+  "updated_at": "25.10.2026 20:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -377,8 +377,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 60
     },
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 33
     },
@@ -529,15 +529,15 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 23
     },
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:24",
+      "time_estimated": "20:21",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -547,11 +547,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 6
     },
     {
       "dt": 1792955700.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1792956600.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:25",
+      "time_estimated": "20:30",
       "flight_no": "X36753",
       "airline": "Tuifly",
       "city": "Sharm El Sheikh",
@@ -594,7 +594,7 @@
     {
       "dt": 1792956600.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:40",
+      "time_estimated": "20:35",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -608,7 +608,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1792956600.0,
@@ -623,9 +623,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -642,9 +642,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -752,9 +752,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -790,10 +790,10 @@
       "city": "Pristina",
       "country": "Kosovo",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792962000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:54",
+      "time_estimated": "21:41",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
