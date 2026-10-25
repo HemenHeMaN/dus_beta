@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 16:35",
+  "updated_at": "25.10.2026 16:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 70
-    },
-    {
-      "dt": 1792935900.0,
-      "time_scheduled": "14:45",
-      "time_estimated": "14:38",
-      "flight_no": "SK1621",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792936200.0,
@@ -328,7 +309,7 @@
     {
       "dt": 1792940700.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:37",
+      "time_estimated": "16:35",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -338,11 +319,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 32
+      "delay": 30
     },
     {
       "dt": 1792942200.0,
@@ -385,7 +366,7 @@
     {
       "dt": 1792942500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "17:17",
+      "time_estimated": "17:11",
       "flight_no": "EW9825",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -399,7 +380,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 42
+      "delay": 37
     },
     {
       "dt": 1792943100.0,
@@ -472,8 +453,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -586,8 +567,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1792947000.0,
       "time_scheduled": "17:50",
-      "time_estimated": "17:54",
+      "time_estimated": "17:50",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -779,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792947300.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1792947900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:05",
+      "time_estimated": "18:06",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -950,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1792948200.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1792949100.0,
       "time_scheduled": "18:25",
-      "time_estimated": "19:03",
+      "time_estimated": "19:06",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1026,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 39
+      "delay": 42
     },
     {
       "dt": 1792949400.0,
@@ -1697,25 +1678,6 @@
       "dt": 1792958400.0,
       "time_scheduled": "21:00",
       "time_estimated": "21:00",
-      "flight_no": "X37102",
-      "airline": "Tuifly",
-      "city": "Boa Vista (Kapverden)",
-      "country": "Kapverdische Inseln",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792958400.0,
-      "time_scheduled": "21:00",
-      "time_estimated": "21:00",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1801,6 +1763,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792960800.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "AF1106",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792960800.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:40",
+      "flight_no": "EW9755",
+      "airline": "Eurowings",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
