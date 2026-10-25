@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 19:05",
+  "updated_at": "25.10.2026 19:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "im Anflug",
       "remark": "",
       "delay": 149
-    },
-    {
-      "dt": 1792943400.0,
-      "time_scheduled": "16:50",
-      "time_estimated": "17:05",
-      "flight_no": "EW9543",
-      "airline": "Eurowings",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
     },
     {
       "dt": 1792943700.0,
@@ -585,9 +566,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 58
     },
@@ -632,7 +613,7 @@
     {
       "dt": 1792950900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:09",
+      "time_estimated": "19:08",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -642,11 +623,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 13
     },
     {
       "dt": 1792950900.0,
@@ -735,7 +716,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "6",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -928,8 +909,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1209,7 +1190,7 @@
       "country": "Malta",
       "type": "Charter",
       "type_source": "Flugtyp",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792959600.0,
       "time_scheduled": "21:20",
-      "time_estimated": "22:28",
+      "time_estimated": "22:19",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1270,10 +1251,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 68
+      "delay": 59
     },
     {
       "dt": 1792959900.0,
@@ -1487,7 +1468,7 @@
     {
       "dt": 1792961400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:59",
+      "time_estimated": "22:03",
       "flight_no": "EW9569",
       "airline": "Eurowings",
       "city": "Sevilla",
@@ -1501,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 13
     },
     {
       "dt": 1792961700.0,
