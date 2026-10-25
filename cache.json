@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 10:15",
+  "updated_at": "25.10.2026 10:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,25 +290,6 @@
     {
       "dt": 1792917300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:29",
-      "flight_no": "LO403",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792917300.0,
-      "time_scheduled": "09:35",
       "time_estimated": "09:44",
       "flight_no": "LH072",
       "airline": "Lufthansa",
@@ -324,6 +305,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 10
+    },
+    {
+      "dt": 1792917300.0,
+      "time_scheduled": "09:35",
+      "time_estimated": "09:29",
+      "flight_no": "LO403",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792917600.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1792919700.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:19",
+      "time_estimated": "10:16",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -490,11 +490,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1792920000.0,
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -567,8 +567,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1792922100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:40",
+      "time_estimated": "10:45",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792926900.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:43",
+      "time_estimated": "13:08",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 53
     },
     {
       "dt": 1792927200.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792927800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:48",
+      "time_estimated": "12:58",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1121,7 +1121,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 29
     },
     {
       "dt": 1792928100.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792928700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:56",
+      "time_estimated": "12:58",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1216,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1792929000.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1792930200.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:10",
+      "time_estimated": "13:24",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1792930500.0,
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792930500.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:16",
+      "time_estimated": "13:15",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1444,7 +1444,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792930800.0,
@@ -1540,6 +1540,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792931700.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "15:18",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 103
     },
     {
       "dt": 1792932300.0,
@@ -1894,6 +1913,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792938000.0,
+      "time_scheduled": "15:20",
+      "time_estimated": "15:20",
+      "flight_no": "PC5011",
+      "airline": "Pegasus Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
