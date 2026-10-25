@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 16:20",
+  "updated_at": "25.10.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -358,8 +358,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 32
     },
@@ -412,7 +412,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "6",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -442,7 +442,7 @@
     {
       "dt": 1792943400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "19:18",
+      "time_estimated": "19:17",
       "flight_no": "TK3366",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -456,7 +456,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 149
+      "delay": 148
     },
     {
       "dt": 1792943400.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1792943700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:32",
+      "time_estimated": "17:34",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -551,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 38
+      "delay": 40
     },
     {
       "dt": 1792944300.0,
@@ -562,9 +562,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "A",
-      "baggage": "5",
+      "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -638,9 +638,9 @@
       "city": "Fuerteventura",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -751,11 +751,11 @@
       "airline": "Eurowings",
       "city": "Nizza",
       "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -936,7 +936,7 @@
     {
       "dt": 1792947900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:08",
+      "time_estimated": "18:09",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1792947900.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1792948200.0,
       "time_scheduled": "18:10",
-      "time_estimated": "17:52",
+      "time_estimated": "17:51",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1107,7 +1107,7 @@
     {
       "dt": 1792949700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:32",
+      "time_estimated": "18:31",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -1183,7 +1183,7 @@
     {
       "dt": 1792950900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:04",
+      "time_estimated": "19:23",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1197,7 +1197,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 28
     },
     {
       "dt": 1792950900.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1792952100.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:15",
+      "time_estimated": "19:27",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792952400.0,
@@ -1608,7 +1608,7 @@
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1684,7 +1684,7 @@
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1801,6 +1801,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792959900.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
