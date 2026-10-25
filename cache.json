@@ -1,26 +1,7 @@
 {
-  "updated_at": "25.10.2026 09:45",
+  "updated_at": "25.10.2026 09:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792911600.0,
-      "time_scheduled": "08:00",
-      "time_estimated": "07:48",
-      "flight_no": "PC5677",
-      "airline": "Pegasus Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1792912800.0,
       "time_scheduled": "08:20",
@@ -423,7 +404,7 @@
     {
       "dt": 1792918200.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:51",
+      "time_estimated": "09:49",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -433,11 +414,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1792918500.0,
@@ -528,9 +509,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -545,8 +526,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -594,7 +575,7 @@
     {
       "dt": 1792921500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:52",
+      "time_estimated": "11:01",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -608,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 16
     },
     {
       "dt": 1792921500.0,
@@ -732,11 +713,11 @@
       "airline": "Iberia",
       "city": "Madrid-Barajas",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -789,11 +770,11 @@
       "airline": "Eurowings",
       "city": "Barcelona",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -841,7 +822,7 @@
     {
       "dt": 1792924800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:34",
+      "time_estimated": "11:33",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -917,7 +898,7 @@
     {
       "dt": 1792925700.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:48",
+      "time_estimated": "11:49",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -1069,7 +1050,7 @@
     {
       "dt": 1792926900.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:42",
+      "time_estimated": "12:43",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 28
     },
     {
       "dt": 1792927200.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792927800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:09",
+      "time_estimated": "12:48",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1178,7 +1159,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1792928100.0,
@@ -1875,6 +1856,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792936200.0,
+      "time_scheduled": "14:50",
+      "time_estimated": "14:50",
+      "flight_no": "BA934",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
