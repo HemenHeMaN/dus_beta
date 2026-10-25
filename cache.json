@@ -1,26 +1,7 @@
 {
-  "updated_at": "25.10.2026 20:50",
+  "updated_at": "25.10.2026 20:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792943400.0,
-      "time_scheduled": "16:50",
-      "time_estimated": "19:20",
-      "flight_no": "TK3366",
-      "airline": "Turkish Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 150
-    },
     {
       "dt": 1792949100.0,
       "time_scheduled": "18:25",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 34
-    },
-    {
-      "dt": 1792949700.0,
-      "time_scheduled": "18:35",
-      "time_estimated": "18:53",
-      "flight_no": "BQ1952",
-      "airline": "Sky Alps",
-      "city": "Bozen",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
     },
     {
       "dt": 1792949700.0,
@@ -404,25 +366,6 @@
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:21",
-      "flight_no": "VY1096",
-      "airline": "Vueling",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
-    },
-    {
-      "dt": 1792955700.0,
-      "time_scheduled": "20:15",
       "time_estimated": "20:18",
       "flight_no": "EW9527",
       "airline": "Eurowings",
@@ -457,6 +400,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792955700.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:21",
+      "flight_no": "VY1096",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 6
     },
     {
       "dt": 1792956600.0,
@@ -548,8 +510,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -586,8 +548,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -670,7 +632,7 @@
     {
       "dt": 1792959900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:30",
+      "time_estimated": "21:32",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -684,7 +646,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1792960500.0,
@@ -713,11 +675,11 @@
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
       "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -752,9 +714,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -866,9 +828,9 @@
       "city": "Rhodos",
       "country": "Griechenland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -917,7 +879,7 @@
     {
       "dt": 1792961700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:04",
+      "time_estimated": "21:59",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -928,10 +890,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 4
     },
     {
       "dt": 1792961700.0,
@@ -942,9 +904,9 @@
       "city": "Barcelona",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -955,21 +917,21 @@
     {
       "dt": 1792961700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:55",
+      "time_estimated": "22:02",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 8
     },
     {
       "dt": 1792962000.0,
@@ -982,7 +944,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "7",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1075,9 +1037,9 @@
       "city": "Prag",
       "country": "Tschechien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1183,7 +1145,7 @@
     {
       "dt": 1792962900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:19",
+      "time_estimated": "22:18",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1197,7 +1159,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1792962900.0,
@@ -1335,7 +1297,7 @@
     {
       "dt": 1792963800.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:30",
+      "time_estimated": "22:32",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1349,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792963800.0,
@@ -1482,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 5
     },
     {
       "dt": 1792964700.0,
