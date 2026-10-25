@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 14:20",
+  "updated_at": "25.10.2026 14:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,25 +100,6 @@
     {
       "dt": 1792927800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:24",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792927800.0,
-      "time_scheduled": "12:30",
       "time_estimated": "13:10",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 44
-    },
-    {
-      "dt": 1792928400.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "12:22",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792928700.0,
@@ -700,8 +662,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 47
     },
@@ -813,16 +775,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
     {
       "dt": 1792935300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:55",
+      "time_estimated": "14:53",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -836,12 +798,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 19
     },
     {
       "dt": 1792935600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "15:35",
+      "time_estimated": "15:41",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -855,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 56
+      "delay": 62
     },
     {
       "dt": 1792935900.0,
@@ -870,16 +832,16 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792936200.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:59",
+      "time_estimated": "15:00",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -893,12 +855,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1792937700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "16:33",
+      "time_estimated": "16:39",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -912,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 79
+      "delay": 85
     },
     {
       "dt": 1792937700.0,
@@ -1327,8 +1289,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1449,7 +1411,7 @@
     {
       "dt": 1792946100.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:31",
+      "time_estimated": "17:32",
       "flight_no": "EW9549",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1848,7 +1810,7 @@
     {
       "dt": 1792949700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:35",
+      "time_estimated": "18:40",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -1859,10 +1821,29 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 5
+    },
+    {
+      "dt": 1792949700.0,
+      "time_scheduled": "18:35",
+      "time_estimated": "19:24",
+      "flight_no": "EW6840",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 49
     },
     {
       "dt": 1792950300.0,
