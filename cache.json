@@ -1,26 +1,7 @@
 {
-  "updated_at": "25.10.2026 18:25",
+  "updated_at": "25.10.2026 18:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792937700.0,
-      "time_scheduled": "15:15",
-      "time_estimated": "16:30",
-      "flight_no": "NE720",
-      "airline": "Nesma Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 75
-    },
     {
       "dt": 1792940700.0,
       "time_scheduled": "16:05",
@@ -176,25 +157,6 @@
     {
       "dt": 1792943700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:33",
-      "flight_no": "EW9763",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 39
-    },
-    {
-      "dt": 1792943700.0,
-      "time_scheduled": "16:55",
       "time_estimated": "16:55",
       "flight_no": "AP1037",
       "airline": "Alba Star",
@@ -210,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1792943700.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "17:33",
+      "flight_no": "EW9763",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 39
     },
     {
       "dt": 1792944300.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1792949100.0,
       "time_scheduled": "18:25",
-      "time_estimated": "19:03",
+      "time_estimated": "19:05",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -703,12 +684,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 41
     },
     {
       "dt": 1792949400.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:32",
+      "time_estimated": "18:28",
       "flight_no": "BJ2824",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -718,11 +699,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792949700.0,
@@ -746,7 +727,7 @@
     {
       "dt": 1792949700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:33",
+      "time_estimated": "18:26",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -756,9 +737,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +860,7 @@
     {
       "dt": 1792951200.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:59",
+      "time_estimated": "19:00",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -893,12 +874,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792951200.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:35",
+      "time_estimated": "18:36",
       "flight_no": "6K331",
       "airline": "Air Anka",
       "city": "Antalya",
@@ -955,7 +936,7 @@
     {
       "dt": 1792951800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:11",
+      "time_estimated": "19:12",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -969,12 +950,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1792951800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:09",
+      "time_estimated": "19:10",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -988,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1792952100.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:24",
+      "time_estimated": "20:31",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1232,10 +1213,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 16
     },
     {
       "dt": 1792955700.0,
@@ -1327,15 +1308,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792958100.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:47",
+      "time_estimated": "20:55",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1373,7 +1354,7 @@
     {
       "dt": 1792958400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:17",
+      "time_estimated": "21:16",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1387,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 16
     },
     {
       "dt": 1792958400.0,
@@ -1601,7 +1582,7 @@
     {
       "dt": 1792961400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:50",
+      "time_estimated": "21:23",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -2209,7 +2190,7 @@
     {
       "dt": 1792964100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:35",
+      "time_estimated": "22:39",
       "flight_no": "EW5523",
       "airline": "Eurowings",
       "city": "La Palma",
@@ -2220,10 +2201,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792964100.0,
@@ -2338,6 +2319,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792965300.0,
+      "time_scheduled": "22:55",
+      "time_estimated": "23:30",
+      "flight_no": "X32943",
+      "airline": "Tuifly",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 35
     },
     {
       "dt": 1792965300.0,
