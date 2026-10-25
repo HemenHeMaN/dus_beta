@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 15:40",
+  "updated_at": "25.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 43
-    },
-    {
-      "dt": 1792930200.0,
-      "time_scheduled": "13:10",
-      "time_estimated": "13:45",
-      "flight_no": "QR085",
-      "airline": "Qatar Airways",
-      "city": "Doha",
-      "country": "Katar",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 35
     },
     {
       "dt": 1792931400.0,
@@ -347,7 +328,7 @@
     {
       "dt": 1792935600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "15:46",
+      "time_estimated": "15:52",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -361,7 +342,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 66
+      "delay": 73
     },
     {
       "dt": 1792935900.0,
@@ -499,7 +480,7 @@
     {
       "dt": 1792938900.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:40",
+      "time_estimated": "15:41",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -509,16 +490,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 7
     },
     {
       "dt": 1792939200.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:45",
+      "time_estimated": "15:44",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -528,9 +509,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 5
     },
@@ -585,9 +566,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1792942500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "17:14",
+      "time_estimated": "17:23",
       "flight_no": "EW9825",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -665,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 39
+      "delay": 48
     },
     {
       "dt": 1792943100.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1792947300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:52",
+      "time_estimated": "17:58",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792947300.0,
@@ -1910,6 +1891,25 @@
       "airline": "Eurowings",
       "city": "Zürich",
       "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792957500.0,
+      "time_scheduled": "20:45",
+      "time_estimated": "20:45",
+      "flight_no": "EW9503",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
