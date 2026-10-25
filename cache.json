@@ -1,26 +1,7 @@
 {
-  "updated_at": "25.10.2026 13:40",
+  "updated_at": "25.10.2026 13:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792924500.0,
-      "time_scheduled": "11:35",
-      "time_estimated": "11:40",
-      "flight_no": "EW9441",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
-    },
     {
       "dt": 1792925400.0,
       "time_scheduled": "11:50",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1792925700.0,
-      "time_scheduled": "11:55",
-      "time_estimated": "11:43",
-      "flight_no": "DE1827",
-      "airline": "Condor",
-      "city": "Olbia (Sardinien)",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792925700.0,
@@ -708,7 +670,7 @@
     {
       "dt": 1792931400.0,
       "time_scheduled": "13:30",
-      "time_estimated": "14:14",
+      "time_estimated": "14:15",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -722,7 +684,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 45
+      "delay": 46
     },
     {
       "dt": 1792931700.0,
@@ -833,8 +795,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -908,9 +870,9 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -927,9 +889,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -965,9 +927,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1031,7 +993,7 @@
     {
       "dt": 1792935600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "15:26",
+      "time_estimated": "15:21",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1045,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 47
+      "delay": 42
     },
     {
       "dt": 1792935900.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1792940700.0,
       "time_scheduled": "16:05",
-      "time_estimated": "15:58",
+      "time_estimated": "16:18",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -1292,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1792942200.0,
@@ -1905,7 +1867,7 @@
     {
       "dt": 1792948200.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:10",
+      "time_estimated": "17:57",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
       "city": "Diyarbakir",
@@ -1916,8 +1878,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2067,6 +2029,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792950300.0,
+      "time_scheduled": "18:45",
+      "time_estimated": "18:45",
+      "flight_no": "XR506",
+      "airline": "Corendon Airlines Europe",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
