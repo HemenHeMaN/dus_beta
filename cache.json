@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 17:55",
+  "updated_at": "25.10.2026 18:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 43
-    },
-    {
-      "dt": 1792940700.0,
-      "time_scheduled": "16:05",
-      "time_estimated": "15:58",
-      "flight_no": "DE869",
-      "airline": "Condor",
-      "city": "Beirut",
-      "country": "Libanon",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1792940700.0,
@@ -233,25 +214,6 @@
     {
       "dt": 1792943700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:33",
-      "flight_no": "EW9763",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 39
-    },
-    {
-      "dt": 1792943700.0,
-      "time_scheduled": "16:55",
       "time_estimated": "16:55",
       "flight_no": "AP1037",
       "airline": "Alba Star",
@@ -267,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1792943700.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "17:33",
+      "flight_no": "EW9763",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 39
     },
     {
       "dt": 1792944300.0,
@@ -566,9 +547,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -586,8 +567,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1792947900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:04",
+      "time_estimated": "18:13",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -665,12 +646,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1792947900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:02",
+      "time_estimated": "18:12",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -681,10 +662,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1792948200.0,
@@ -718,16 +699,16 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
     {
       "dt": 1792949100.0,
       "time_scheduled": "18:25",
-      "time_estimated": "17:55",
+      "time_estimated": "17:56",
       "flight_no": "XR6442",
       "airline": "Corendon Airlines Europe",
       "city": "Marsa Alam",
@@ -737,9 +718,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -753,7 +734,7 @@
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -870,9 +851,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:15",
+      "time_estimated": "20:39",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -1273,12 +1254,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:31",
+      "time_estimated": "20:29",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1292,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1792955700.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1792956600.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:41",
+      "time_estimated": "20:32",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1349,7 +1330,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 3
     },
     {
       "dt": 1792956600.0,
