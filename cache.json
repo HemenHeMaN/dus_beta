@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 22:45",
+  "updated_at": "25.10.2026 22:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1792960500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:56",
+      "time_estimated": "22:55",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -518,7 +518,7 @@
     {
       "dt": 1792962300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:48",
+      "time_estimated": "22:54",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -529,10 +529,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 44
+      "delay": 49
     },
     {
       "dt": 1792962300.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1792962600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:45",
+      "time_estimated": "22:49",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -566,30 +566,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "remark": "",
-      "delay": 35
-    },
-    {
-      "dt": 1792962600.0,
-      "time_scheduled": "22:10",
-      "time_estimated": "22:04",
-      "flight_no": "KL1805",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 40
     },
     {
       "dt": 1792962600.0,
@@ -604,6 +585,25 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792962600.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:04",
+      "flight_no": "KL1805",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -727,7 +727,7 @@
     {
       "dt": 1792963500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:49",
+      "time_estimated": "22:47",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -737,11 +737,11 @@
       "terminal": "A",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1792963800.0,
@@ -813,9 +813,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 16
     },
@@ -828,10 +828,10 @@
       "city": "Fuerteventura",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -898,7 +898,7 @@
     {
       "dt": 1792964400.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:48",
+      "time_estimated": "22:59",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -909,15 +909,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 9
+      "delay": 20
     },
     {
       "dt": 1792964400.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:53",
+      "time_estimated": "22:58",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -931,7 +931,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 19
     },
     {
       "dt": 1792964700.0,
@@ -1023,15 +1023,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792965300.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:02",
+      "time_estimated": "22:57",
       "flight_no": "X34553",
       "airline": "Tuifly",
       "city": "Larnaca (Zypern)",
@@ -1045,7 +1045,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 3
     }
   ]
 }
