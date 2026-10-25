@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 12:00",
+  "updated_at": "25.10.2026 12:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -14,25 +14,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792919400.0,
-      "time_scheduled": "10:10",
-      "time_estimated": "10:04",
-      "flight_no": "BJ206",
-      "airline": "Nouvelair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -442,7 +423,7 @@
     {
       "dt": 1792925700.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:06",
+      "time_estimated": "12:01",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -452,11 +433,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 6
     },
     {
       "dt": 1792926000.0,
@@ -472,8 +453,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -499,7 +480,7 @@
     {
       "dt": 1792926000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:06",
+      "time_estimated": "12:04",
       "flight_no": "EW9919",
       "airline": "Eurowings",
       "city": "Tivat",
@@ -509,11 +490,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1792926600.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1792928400.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:20",
+      "time_estimated": "12:25",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1834,6 +1815,25 @@
       "airline": "Eurowings",
       "city": "Zürich",
       "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792944300.0,
+      "time_scheduled": "17:05",
+      "time_estimated": "17:05",
+      "flight_no": "EW9087",
+      "airline": "Eurowings",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
