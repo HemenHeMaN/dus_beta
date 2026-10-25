@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 21:10",
+  "updated_at": "25.10.2026 21:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 56
-    },
-    {
-      "dt": 1792951500.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "19:11",
-      "flight_no": "LO407",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
     },
     {
       "dt": 1792952100.0,
@@ -442,7 +423,7 @@
     {
       "dt": 1792958700.0,
       "time_scheduled": "21:05",
-      "time_estimated": "21:49",
+      "time_estimated": "21:45",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -456,7 +437,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 45
+      "delay": 41
     },
     {
       "dt": 1792959300.0,
@@ -471,9 +452,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -509,9 +490,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1792960800.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:47",
+      "time_estimated": "21:48",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -570,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792961100.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1792961400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:16",
+      "time_estimated": "21:17",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -714,9 +695,9 @@
       "city": "Sevilla",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -746,7 +727,7 @@
     {
       "dt": 1792961700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:59",
+      "time_estimated": "21:54",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -760,7 +741,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792961700.0,
@@ -960,11 +941,11 @@
       "airline": "Eurowings",
       "city": "Birmingham",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -979,11 +960,11 @@
       "airline": "KLM",
       "city": "Amsterdam",
       "country": "Niederlande",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1107,7 +1088,7 @@
     {
       "dt": 1792963500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:25",
+      "time_estimated": "22:43",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -1118,10 +1099,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 18
     },
     {
       "dt": 1792963800.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1792964100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:43",
+      "time_estimated": "22:42",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -1270,10 +1251,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1792964400.0,
