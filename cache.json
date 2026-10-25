@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 11:55",
+  "updated_at": "25.10.2026 12:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1792925400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:09",
+      "time_estimated": "11:58",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -395,11 +395,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 9
     },
     {
       "dt": 1792925400.0,
@@ -471,9 +471,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -529,8 +529,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -699,9 +699,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +974,7 @@
     {
       "dt": 1792930500.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:13",
+      "time_estimated": "13:18",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -988,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792930500.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1792932300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:53",
+      "time_estimated": "14:03",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1178,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 19
     },
     {
       "dt": 1792932300.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1792932900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:45",
+      "time_estimated": "14:46",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 51
     },
     {
       "dt": 1792932900.0,
@@ -1749,6 +1749,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792943400.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:58",
+      "flight_no": "EW9543",
+      "airline": "Eurowings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 8
     },
     {
       "dt": 1792943400.0,
