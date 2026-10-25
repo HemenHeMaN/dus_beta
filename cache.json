@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 22:55",
+  "updated_at": "25.10.2026 23:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,25 +423,6 @@
     {
       "dt": 1792962000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:09",
-      "flight_no": "EW9365",
-      "airline": "Eurowings",
-      "city": "Edinburgh",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 9
-    },
-    {
-      "dt": 1792962000.0,
-      "time_scheduled": "22:00",
       "time_estimated": "21:43",
       "flight_no": "DE1615",
       "airline": "Condor",
@@ -476,6 +457,25 @@
       "status_detail": "annulliert, annulliert",
       "remark": "annulliert",
       "delay": 44
+    },
+    {
+      "dt": 1792962000.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:09",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 9
     },
     {
       "dt": 1792962000.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792962300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:59",
+      "time_estimated": "22:58",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -528,11 +528,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 55
+      "delay": 53
     },
     {
       "dt": 1792962300.0,
@@ -613,25 +613,6 @@
     {
       "dt": 1792962900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:25",
-      "flight_no": "EW9811",
-      "airline": "Eurowings",
-      "city": "Venedig-Tessera",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 10
-    },
-    {
-      "dt": 1792962900.0,
-      "time_scheduled": "22:15",
       "time_estimated": "22:12",
       "flight_no": "EW9785",
       "airline": "Eurowings",
@@ -666,6 +647,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 26
+    },
+    {
+      "dt": 1792962900.0,
+      "time_scheduled": "22:15",
+      "time_estimated": "22:25",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 10
     },
     {
       "dt": 1792963200.0,
@@ -904,10 +904,10 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
@@ -955,7 +955,7 @@
     {
       "dt": 1792964700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:57",
+      "time_estimated": "22:54",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -965,11 +965,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1792964700.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792965300.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:00",
+      "time_estimated": "23:06",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1026,12 +1026,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 11
     },
     {
       "dt": 1792965300.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:03",
+      "time_estimated": "22:56",
       "flight_no": "X34553",
       "airline": "Tuifly",
       "city": "Larnaca (Zypern)",
@@ -1041,11 +1041,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 2
     }
   ]
 }
