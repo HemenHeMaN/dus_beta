@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 06:35",
+  "updated_at": "25.10.2026 06:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1792905900.0,
       "time_scheduled": "06:25",
-      "time_estimated": "06:51",
+      "time_estimated": "06:40",
       "flight_no": "PC7221",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -53,11 +53,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 27
+      "delay": 15
     },
     {
       "dt": 1792906500.0,
@@ -138,7 +138,7 @@
     {
       "dt": 1792910100.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:07",
+      "time_estimated": "07:08",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -385,7 +385,7 @@
     {
       "dt": 1792915200.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:00",
+      "time_estimated": "11:01",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -396,10 +396,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 121
     },
     {
       "dt": 1792915500.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1792915800.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:01",
+      "time_estimated": "08:56",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -594,7 +594,7 @@
     {
       "dt": 1792917600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:40",
+      "time_estimated": "09:54",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1792918200.0,
@@ -639,7 +639,7 @@
       "country": "Schweden",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1003,6 +1003,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792924800.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792924800.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
