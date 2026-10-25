@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 12:10",
+  "updated_at": "25.10.2026 12:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1792926000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:11",
+      "time_estimated": "12:13",
       "flight_no": "EW9917",
       "airline": "Eurowings",
       "city": "Tirana",
@@ -433,11 +433,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1792926000.0,
@@ -453,8 +453,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 24
     },
@@ -605,8 +605,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1792928100.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:09",
+      "time_estimated": "12:11",
       "flight_no": "XQ184",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -661,9 +661,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1792932300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:48",
+      "time_estimated": "14:58",
       "flight_no": "EW9627",
       "airline": "Eurowings",
       "city": "Zakynthos",
@@ -1102,12 +1102,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 64
+      "delay": 74
     },
     {
       "dt": 1792932300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:53",
+      "time_estimated": "13:58",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1121,7 +1121,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1792932300.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1792933500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:01",
+      "time_estimated": "14:00",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1335,7 +1335,7 @@
     {
       "dt": 1792935300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:59",
+      "time_estimated": "14:53",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1349,7 +1349,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 19
     },
     {
       "dt": 1792935600.0,
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792937700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:15",
+      "time_estimated": "15:17",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -1444,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792938000.0,
@@ -1872,6 +1872,25 @@
       "airline": "Eurowings",
       "city": "Dublin",
       "country": "Irland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792944900.0,
+      "time_scheduled": "17:15",
+      "time_estimated": "17:15",
+      "flight_no": "EW9547",
+      "airline": "Eurowings",
+      "city": "Fuerteventura",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
