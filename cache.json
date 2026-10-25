@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 22:50",
+  "updated_at": "25.10.2026 22:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,21 +138,21 @@
     {
       "dt": 1792960500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:55",
+      "time_estimated": "22:51",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 81
+      "delay": 77
     },
     {
       "dt": 1792960800.0,
@@ -347,25 +347,6 @@
     {
       "dt": 1792961700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:54",
-      "flight_no": "EW9443",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792961700.0,
-      "time_scheduled": "21:55",
       "time_estimated": "21:33",
       "flight_no": "EW9247",
       "airline": "Eurowings",
@@ -395,6 +376,25 @@
       "terminal": "A",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792961700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:54",
+      "flight_no": "EW9443",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -518,7 +518,7 @@
     {
       "dt": 1792962300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:54",
+      "time_estimated": "22:59",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -532,7 +532,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 49
+      "delay": 55
     },
     {
       "dt": 1792962300.0,
@@ -561,11 +561,11 @@
       "airline": "Eurowings",
       "city": "Salzburg",
       "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -898,7 +898,7 @@
     {
       "dt": 1792964400.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:59",
+      "time_estimated": "23:05",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -912,12 +912,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 25
     },
     {
       "dt": 1792964400.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:58",
+      "time_estimated": "22:53",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -927,11 +927,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1792964700.0,
@@ -961,9 +961,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792965300.0,
       "time_scheduled": "22:55",
-      "time_estimated": "22:54",
+      "time_estimated": "23:00",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1026,26 +1026,26 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1792965300.0,
       "time_scheduled": "22:55",
-      "time_estimated": "22:57",
+      "time_estimated": "23:03",
       "flight_no": "X34553",
       "airline": "Tuifly",
       "city": "Larnaca (Zypern)",
       "country": "Zypern",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 8
     }
   ]
 }
