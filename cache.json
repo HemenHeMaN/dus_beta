@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 09:50",
+  "updated_at": "25.10.2026 09:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1792918500.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:53",
+      "time_estimated": "09:51",
       "flight_no": "VF029",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -433,9 +433,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -452,9 +452,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -480,7 +480,7 @@
     {
       "dt": 1792919400.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:16",
+      "time_estimated": "10:08",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -490,11 +490,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1792919400.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1792921500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "11:01",
+      "time_estimated": "10:56",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 11
     },
     {
       "dt": 1792921500.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1792923000.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:17",
+      "time_estimated": "11:12",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -684,12 +684,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1792923300.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:48",
+      "time_estimated": "11:43",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -703,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 28
     },
     {
       "dt": 1792923600.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1792924500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:54",
+      "time_estimated": "11:51",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -776,10 +776,10 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 16
     },
     {
       "dt": 1792924500.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1792925400.0,
       "time_scheduled": "11:50",
-      "time_estimated": "12:06",
+      "time_estimated": "12:09",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -871,10 +871,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 19
     },
     {
       "dt": 1792925400.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1792926000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:05",
+      "time_estimated": "11:55",
       "flight_no": "EW9917",
       "airline": "Eurowings",
       "city": "Tirana",
@@ -947,10 +947,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792926000.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1792926600.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:24",
+      "time_estimated": "12:38",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1026,12 +1026,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 29
     },
     {
       "dt": 1792926600.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:25",
+      "time_estimated": "12:31",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 22
     },
     {
       "dt": 1792926900.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1792928700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:33",
+      "time_estimated": "12:38",
       "flight_no": "DE1149",
       "airline": "Condor",
       "city": "Zakynthos",
@@ -1240,7 +1240,7 @@
     {
       "dt": 1792928700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:45",
+      "time_estimated": "12:56",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792929000.0,
@@ -1406,7 +1406,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 40
     },
     {
       "dt": 1792930200.0,
@@ -1430,7 +1430,7 @@
     {
       "dt": 1792930500.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:01",
+      "time_estimated": "13:03",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -1582,6 +1582,25 @@
     {
       "dt": 1792932300.0,
       "time_scheduled": "13:45",
+      "time_estimated": "14:55",
+      "flight_no": "EW9627",
+      "airline": "Eurowings",
+      "city": "Zakynthos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 70
+    },
+    {
+      "dt": 1792932300.0,
+      "time_scheduled": "13:45",
       "time_estimated": "13:45",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
@@ -1722,7 +1741,7 @@
       "country": "Griechenland",
       "type": "Charter",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
