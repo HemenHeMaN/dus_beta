@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 07:05",
+  "updated_at": "25.10.2026 07:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,16 +110,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 45
     },
     {
       "dt": 1792908600.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:47",
+      "time_estimated": "07:49",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -133,7 +133,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 40
     },
     {
       "dt": 1792910100.0,
@@ -239,10 +239,10 @@
       "city": "Ankara-Esenboğa",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -499,7 +499,7 @@
     {
       "dt": 1792917000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "08:53",
+      "time_estimated": "08:47",
       "flight_no": "4M711",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -708,7 +708,7 @@
     {
       "dt": 1792919400.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:10",
+      "time_estimated": "10:22",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -722,12 +722,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1792919400.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:10",
+      "time_estimated": "10:14",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1792919700.0,
@@ -1172,6 +1172,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792926600.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792926600.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "EW9885",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792926600.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "EW6894",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
