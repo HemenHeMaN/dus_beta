@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 05:35",
+  "updated_at": "25.10.2026 05:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -11,10 +11,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -24,21 +24,21 @@
     {
       "dt": 1792905000.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:07",
+      "time_estimated": "06:13",
       "flight_no": "EW9895",
       "airline": "Eurowings",
       "city": "Marrakesch",
       "country": "Marokko",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792905900.0,
@@ -48,11 +48,11 @@
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -68,10 +68,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -87,10 +87,10 @@
       "city": "Mersin-Çukurova",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -252,7 +252,7 @@
     {
       "dt": 1792913100.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:32",
+      "time_estimated": "08:33",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -266,12 +266,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1792914000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:40",
+      "time_estimated": "08:41",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -285,12 +285,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792914300.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:45",
+      "time_estimated": "08:40",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -309,7 +309,7 @@
     {
       "dt": 1792914600.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:35",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -366,7 +366,7 @@
     {
       "dt": 1792915200.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:57",
+      "time_estimated": "09:02",
       "flight_no": "PC1687",
       "airline": "Pegasus Airlines",
       "city": "Ankara-Esenboğa",
@@ -380,7 +380,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1792915200.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1792917000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:23",
       "flight_no": "XC108",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -529,8 +529,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
