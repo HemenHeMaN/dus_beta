@@ -1,26 +1,7 @@
 {
-  "updated_at": "25.10.2026 09:40",
+  "updated_at": "25.10.2026 09:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792908600.0,
-      "time_scheduled": "07:10",
-      "time_estimated": "07:44",
-      "flight_no": "EY133",
-      "airline": "Etihad Airways",
-      "city": "Abu Dhabi",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 34
-    },
     {
       "dt": 1792911600.0,
       "time_scheduled": "08:00",
@@ -385,7 +366,7 @@
     {
       "dt": 1792917300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:50",
+      "time_estimated": "09:44",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -395,16 +376,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 10
     },
     {
       "dt": 1792917600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:43",
+      "time_estimated": "09:41",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -414,11 +395,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 2
     },
     {
       "dt": 1792918200.0,
@@ -491,8 +472,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +594,7 @@
     {
       "dt": 1792921500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "11:01",
+      "time_estimated": "10:52",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -627,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 7
     },
     {
       "dt": 1792921500.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1792924800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:34",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -871,15 +852,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792925100.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "11:36",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -890,8 +871,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -928,15 +909,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 9
     },
     {
       "dt": 1792925700.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:02",
+      "time_estimated": "11:48",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -950,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1792925700.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1792926000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "11:55",
+      "time_estimated": "12:05",
       "flight_no": "EW9917",
       "airline": "Eurowings",
       "city": "Tirana",
@@ -988,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792926000.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1792927800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:53",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 24
     },
     {
       "dt": 1792927800.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1792928700.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:27",
+      "time_estimated": "12:33",
       "flight_no": "DE1149",
       "airline": "Condor",
       "city": "Zakynthos",
@@ -1251,8 +1232,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1827,6 +1808,25 @@
       "delay": 0
     },
     {
+      "dt": 1792935000.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:44",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 14
+    },
+    {
       "dt": 1792935300.0,
       "time_scheduled": "14:35",
       "time_estimated": "14:35",
@@ -1856,6 +1856,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792935900.0,
+      "time_scheduled": "14:45",
+      "time_estimated": "14:45",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
