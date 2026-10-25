@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 19:25",
+  "updated_at": "25.10.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,25 +91,6 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792946100.0,
-      "time_scheduled": "17:35",
-      "time_estimated": "17:26",
-      "flight_no": "EW9421",
-      "airline": "Eurowings",
-      "city": "Nizza",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -366,25 +347,6 @@
     {
       "dt": 1792949100.0,
       "time_scheduled": "18:25",
-      "time_estimated": "17:56",
-      "flight_no": "XR6442",
-      "airline": "Corendon Airlines Europe",
-      "city": "Marsa Alam",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792949100.0,
-      "time_scheduled": "18:25",
       "time_estimated": "18:59",
       "flight_no": "EW9591",
       "airline": "Eurowings",
@@ -400,6 +362,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 34
+    },
+    {
+      "dt": 1792949100.0,
+      "time_scheduled": "18:25",
+      "time_estimated": "17:56",
+      "flight_no": "XR6442",
+      "airline": "Corendon Airlines Europe",
+      "city": "Marsa Alam",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792949400.0,
@@ -537,15 +518,15 @@
     {
       "dt": 1792950900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:44",
-      "flight_no": "SK627",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
+      "time_estimated": "18:46",
+      "flight_no": "LH2028",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
+      "terminal": "A",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -556,15 +537,15 @@
     {
       "dt": 1792950900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:46",
-      "flight_no": "LH2028",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
+      "time_estimated": "18:44",
+      "flight_no": "SK627",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
+      "terminal": "B",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -708,7 +689,7 @@
     {
       "dt": 1792952400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:52",
+      "time_estimated": "19:45",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -719,15 +700,15 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 33
+      "delay": 26
     },
     {
       "dt": 1792953600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:41",
+      "time_estimated": "19:39",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -741,7 +722,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1792953600.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1792953900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:34",
+      "time_estimated": "19:39",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -784,7 +765,7 @@
     {
       "dt": 1792954200.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:30",
+      "time_estimated": "19:37",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -822,7 +803,7 @@
     {
       "dt": 1792954200.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:37",
+      "time_estimated": "19:35",
       "flight_no": "EW9987",
       "airline": "Eurowings",
       "city": "Marsa Alam",
@@ -879,7 +860,7 @@
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:38",
+      "time_estimated": "20:48",
       "flight_no": "VL2032",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -893,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 33
     },
     {
       "dt": 1792955700.0,
@@ -1278,7 +1259,7 @@
     {
       "dt": 1792961100.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:16",
+      "time_estimated": "22:10",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1292,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 25
     },
     {
       "dt": 1792961400.0,
