@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 21:25",
+  "updated_at": "25.10.2026 21:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,25 +62,6 @@
     {
       "dt": 1792953600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:37",
-      "flight_no": "BA938",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792953600.0,
-      "time_scheduled": "19:40",
       "time_estimated": "20:32",
       "flight_no": "JU362",
       "airline": "Air Serbia",
@@ -96,6 +77,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 53
+    },
+    {
+      "dt": 1792953600.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:37",
+      "flight_no": "BA938",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792953900.0,
@@ -176,6 +176,25 @@
     {
       "dt": 1792955700.0,
       "time_scheduled": "20:15",
+      "time_estimated": "20:34",
+      "flight_no": "XR502",
+      "airline": "Corendon Airlines Europe",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 20
+    },
+    {
+      "dt": 1792955700.0,
+      "time_scheduled": "20:15",
       "time_estimated": "20:10",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
@@ -210,25 +229,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 26
-    },
-    {
-      "dt": 1792955700.0,
-      "time_scheduled": "20:15",
-      "time_estimated": "20:34",
-      "flight_no": "XR502",
-      "airline": "Corendon Airlines Europe",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 20
     },
     {
       "dt": 1792955700.0,
@@ -414,16 +414,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 41
     },
     {
       "dt": 1792959300.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:36",
+      "time_estimated": "21:42",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -437,7 +437,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 21
+      "delay": 27
     },
     {
       "dt": 1792959600.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1792959900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:32",
+      "time_estimated": "21:29",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -471,11 +471,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 4
     },
     {
       "dt": 1792960500.0,
@@ -567,8 +567,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -642,9 +642,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -718,9 +718,9 @@
       "terminal": "A",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -775,9 +775,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1792962000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:13",
+      "time_estimated": "22:14",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -817,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 15
     },
     {
       "dt": 1792962000.0,
@@ -833,8 +833,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1792962300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:00",
+      "time_estimated": "22:02",
       "flight_no": "EW9775",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1145,7 +1145,7 @@
     {
       "dt": 1792963800.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:53",
+      "time_estimated": "22:52",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1792964100.0,
