@@ -1,26 +1,7 @@
 {
-  "updated_at": "25.10.2026 22:40",
+  "updated_at": "25.10.2026 22:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1792955700.0,
-      "time_scheduled": "20:15",
-      "time_estimated": "20:41",
-      "flight_no": "VL2032",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 26
-    },
     {
       "dt": 1792958100.0,
       "time_scheduled": "20:55",
@@ -157,7 +138,7 @@
     {
       "dt": 1792960500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "22:48",
+      "time_estimated": "22:56",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -171,7 +152,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 74
+      "delay": 81
     },
     {
       "dt": 1792960800.0,
@@ -271,44 +252,6 @@
     {
       "dt": 1792961400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:53",
-      "flight_no": "0S8130",
-      "airline": "Sky Vision Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
-      "dt": 1792961400.0,
-      "time_scheduled": "21:50",
-      "time_estimated": "22:00",
-      "flight_no": "EW9631",
-      "airline": "Eurowings",
-      "city": "Rhodos",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 11
-    },
-    {
-      "dt": 1792961400.0,
-      "time_scheduled": "21:50",
       "time_estimated": "21:17",
       "flight_no": "DE1613",
       "airline": "Condor",
@@ -328,6 +271,25 @@
     {
       "dt": 1792961400.0,
       "time_scheduled": "21:50",
+      "time_estimated": "21:53",
+      "flight_no": "0S8130",
+      "airline": "Sky Vision Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 3
+    },
+    {
+      "dt": 1792961400.0,
+      "time_scheduled": "21:50",
       "time_estimated": "21:46",
       "flight_no": "EW9733",
       "airline": "Eurowings",
@@ -343,6 +305,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792961400.0,
+      "time_scheduled": "21:50",
+      "time_estimated": "22:00",
+      "flight_no": "EW9631",
+      "airline": "Eurowings",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 11
     },
     {
       "dt": 1792961400.0,
@@ -575,7 +556,7 @@
     {
       "dt": 1792962600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:47",
+      "time_estimated": "22:45",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -585,11 +566,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 37
+      "delay": 35
     },
     {
       "dt": 1792962600.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1792962900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:42",
+      "time_estimated": "22:41",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -680,11 +661,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 28
+      "delay": 26
     },
     {
       "dt": 1792963200.0,
@@ -746,21 +727,21 @@
     {
       "dt": 1792963500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:43",
+      "time_estimated": "22:49",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
       "country": "Polen",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 24
     },
     {
       "dt": 1792963800.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1792964100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:52",
+      "time_estimated": "22:42",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -851,11 +832,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 8
     },
     {
       "dt": 1792964100.0,
@@ -898,7 +879,7 @@
     {
       "dt": 1792964100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:42",
+      "time_estimated": "22:44",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -908,11 +889,11 @@
       "terminal": "B",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 10
     },
     {
       "dt": 1792964400.0,
@@ -942,9 +923,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -985,8 +966,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -1050,7 +1031,7 @@
     {
       "dt": 1792965300.0,
       "time_scheduled": "22:55",
-      "time_estimated": "22:51",
+      "time_estimated": "23:02",
       "flight_no": "X34553",
       "airline": "Tuifly",
       "city": "Larnaca (Zypern)",
@@ -1060,11 +1041,11 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 8
     }
   ]
 }
