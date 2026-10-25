@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 11:30",
+  "updated_at": "25.10.2026 11:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -136,25 +136,6 @@
       "delay": 0
     },
     {
-      "dt": 1792918800.0,
-      "time_scheduled": "10:00",
-      "time_estimated": "09:35",
-      "flight_no": "4M772",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1792919400.0,
       "time_scheduled": "10:10",
       "time_estimated": "10:09",
@@ -233,7 +214,7 @@
     {
       "dt": 1792920600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "11:39",
+      "time_estimated": "11:33",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -243,11 +224,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 70
+      "delay": 63
     },
     {
       "dt": 1792921500.0,
@@ -471,9 +452,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -586,8 +567,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +737,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1316,7 +1297,7 @@
     {
       "dt": 1792932300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:49",
+      "time_estimated": "13:59",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1330,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 15
     },
     {
       "dt": 1792932300.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1792933200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:12",
+      "time_estimated": "14:15",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1460,10 +1441,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1792933500.0,
@@ -1818,6 +1799,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792942500.0,
+      "time_scheduled": "16:35",
+      "time_estimated": "16:35",
+      "flight_no": "XC106",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792942500.0,
+      "time_scheduled": "16:35",
+      "time_estimated": "16:35",
+      "flight_no": "EW9825",
+      "airline": "Eurowings",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
