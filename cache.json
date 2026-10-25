@@ -1,5 +1,5 @@
 {
-  "updated_at": "25.10.2026 07:40",
+  "updated_at": "25.10.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1792908600.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:47",
+      "time_estimated": "07:44",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -129,11 +129,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 38
+      "delay": 34
     },
     {
       "dt": 1792910100.0,
@@ -282,8 +282,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 4
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1792919400.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:14",
+      "time_estimated": "10:13",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -738,15 +738,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1792919700.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:12",
+      "time_estimated": "10:18",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -760,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1792920000.0,
@@ -1257,6 +1257,25 @@
       "delay": 0
     },
     {
+      "dt": 1792926900.0,
+      "time_scheduled": "12:15",
+      "time_estimated": "12:42",
+      "flight_no": "EW9575",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 27
+    },
+    {
       "dt": 1792927200.0,
       "time_scheduled": "12:20",
       "time_estimated": "12:20",
@@ -1359,6 +1378,63 @@
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792928700.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "DE1149",
+      "airline": "Condor",
+      "city": "Zakynthos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792928700.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "X32815",
+      "airline": "Tuifly",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1792928700.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "EW9589",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
