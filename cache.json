@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 16:30",
+  "updated_at": "26.10.2026 16:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 147
     },
@@ -214,25 +214,6 @@
     {
       "dt": 1793025300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:51",
-      "flight_no": "EW9395",
-      "airline": "Eurowings",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
-    },
-    {
-      "dt": 1793025300.0,
-      "time_scheduled": "15:35",
       "time_estimated": "15:18",
       "flight_no": "VF027",
       "airline": "A Jet",
@@ -248,6 +229,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793025300.0,
+      "time_scheduled": "15:35",
+      "time_estimated": "15:51",
+      "flight_no": "EW9395",
+      "airline": "Eurowings",
+      "city": "Dublin",
+      "country": "Irland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 16
     },
     {
       "dt": 1793025600.0,
@@ -472,15 +472,15 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 19
     },
     {
       "dt": 1793028900.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:40",
+      "time_estimated": "16:34",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -490,11 +490,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793029200.0,
@@ -510,15 +510,15 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
     {
       "dt": 1793030100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:08",
+      "time_estimated": "17:03",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -532,7 +532,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 8
     },
     {
       "dt": 1793030400.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1793033100.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "17:46",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1793033400.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793033700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:17",
+      "time_estimated": "18:27",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 32
     },
     {
       "dt": 1793034000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793037000.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:43",
+      "time_estimated": "18:42",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1004,8 +1004,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1202,7 +1202,7 @@
     {
       "dt": 1793040300.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:36",
+      "time_estimated": "19:37",
       "flight_no": "DE235",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1592,6 +1592,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793046900.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:35",
+      "flight_no": "EW5519",
+      "airline": "Eurowings",
+      "city": "Monastir",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
