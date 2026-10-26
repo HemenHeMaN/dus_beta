@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 20:45",
+  "updated_at": "26.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,25 +290,6 @@
     {
       "dt": 1793041800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:13",
-      "flight_no": "XR504",
-      "airline": "Corendon Airlines Europe",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
-      "dt": 1793041800.0,
-      "time_scheduled": "20:10",
       "time_estimated": "19:45",
       "flight_no": "DE1873",
       "airline": "Condor",
@@ -324,6 +305,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793041800.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "20:13",
+      "flight_no": "XR504",
+      "airline": "Corendon Airlines Europe",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 3
     },
     {
       "dt": 1793041800.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793045700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:13",
+      "time_estimated": "21:08",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -490,9 +490,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +879,7 @@
     {
       "dt": 1793048400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:01",
+      "time_estimated": "22:06",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -893,7 +893,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 7
     },
     {
       "dt": 1793048700.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793049000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:12",
+      "time_estimated": "22:35",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 26
     },
     {
       "dt": 1793049300.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793049300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:01",
+      "time_estimated": "22:08",
       "flight_no": "EW9637",
       "airline": "Eurowings",
       "city": "Kos",
@@ -1061,8 +1061,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
