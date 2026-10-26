@@ -1,11 +1,11 @@
 {
-  "updated_at": "26.10.2026 09:25",
+  "updated_at": "26.10.2026 09:30",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792993200.0,
       "time_scheduled": "06:40",
-      "time_estimated": "09:30",
+      "time_estimated": "09:26",
       "flight_no": "XQ1350",
       "airline": "Sun Express",
       "city": "Samsun",
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 171
+      "delay": 167
     },
     {
       "dt": 1792996500.0,
@@ -528,9 +528,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -566,9 +566,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -586,8 +586,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793005200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:38",
+      "time_estimated": "09:44",
       "flight_no": "4M148",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -623,9 +623,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -643,8 +643,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1793006700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:22",
+      "time_estimated": "10:29",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -738,15 +738,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793006700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:47",
+      "time_estimated": "10:42",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -760,12 +760,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 23
+      "delay": 17
     },
     {
       "dt": 1793006700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:40",
+      "time_estimated": "10:47",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 23
     },
     {
       "dt": 1793007000.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793008500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:49",
+      "time_estimated": "11:00",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793008500.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793009400.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:05",
+      "time_estimated": "11:13",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793009400.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793011500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "12:18",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 34
     },
     {
       "dt": 1793011800.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793011800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:48",
+      "time_estimated": "12:01",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793012400.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793014500.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:35",
+      "time_estimated": "12:57",
       "flight_no": "EW9685",
       "airline": "Eurowings",
       "city": "Kavala",
@@ -1425,12 +1425,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 22
     },
     {
       "dt": 1793014800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:40",
+      "time_estimated": "12:30",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
