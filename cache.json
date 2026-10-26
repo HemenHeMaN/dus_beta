@@ -1,45 +1,7 @@
 {
-  "updated_at": "26.10.2026 19:50",
+  "updated_at": "26.10.2026 19:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793033400.0,
-      "time_scheduled": "17:50",
-      "time_estimated": "17:54",
-      "flight_no": "EW9577",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
-    },
-    {
-      "dt": 1793033700.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:52",
-      "flight_no": "KL1803",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793033700.0,
       "time_scheduled": "17:55",
@@ -148,25 +110,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793034900.0,
-      "time_scheduled": "18:15",
-      "time_estimated": "17:50",
-      "flight_no": "XQ1526",
-      "airline": "Sun Express",
-      "city": "Kütahya / Zafer",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -605,15 +548,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
     {
       "dt": 1793042100.0,
       "time_scheduled": "20:15",
-      "time_estimated": "19:52",
+      "time_estimated": "19:58",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -689,7 +632,7 @@
     {
       "dt": 1793043900.0,
       "time_scheduled": "20:45",
-      "time_estimated": "20:45",
+      "time_estimated": "22:57",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -703,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 133
     },
     {
       "dt": 1793044800.0,
@@ -841,7 +784,7 @@
     {
       "dt": 1793047200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:34",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -855,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793047200.0,
@@ -1069,7 +1012,7 @@
     {
       "dt": 1793048100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:16",
+      "time_estimated": "22:12",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1083,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 18
     },
     {
       "dt": 1793048100.0,
@@ -1658,7 +1601,7 @@
     {
       "dt": 1793051100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:36",
+      "time_estimated": "22:32",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -1669,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
