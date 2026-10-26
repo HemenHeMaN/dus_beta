@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 07:55",
+  "updated_at": "26.10.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,25 +81,6 @@
     {
       "dt": 1792993200.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:05",
-      "flight_no": "XQ1370",
-      "airline": "Sun Express",
-      "city": "Mersin-Çukurova",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792993200.0,
-      "time_scheduled": "06:40",
       "time_estimated": "09:19",
       "flight_no": "XQ1350",
       "airline": "Sun Express",
@@ -115,6 +96,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 159
+    },
+    {
+      "dt": 1792993200.0,
+      "time_scheduled": "06:40",
+      "time_estimated": "06:05",
+      "flight_no": "XQ1370",
+      "airline": "Sun Express",
+      "city": "Mersin-Çukurova",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792995000.0,
@@ -233,7 +233,7 @@
     {
       "dt": 1792998900.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:07",
+      "time_estimated": "08:06",
       "flight_no": "EW4200",
       "airline": "Eurowings",
       "city": "Prag",
@@ -252,7 +252,7 @@
     {
       "dt": 1792999200.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:29",
+      "time_estimated": "08:18",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -262,16 +262,16 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1792999500.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:23",
+      "time_estimated": "08:13",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -281,9 +281,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -366,7 +366,7 @@
     {
       "dt": 1793001000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:02",
+      "time_estimated": "09:13",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -380,7 +380,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 24
     },
     {
       "dt": 1793001000.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1793003700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:37",
+      "time_estimated": "09:27",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -643,10 +643,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793003700.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793005200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:03",
+      "time_estimated": "09:51",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793006100.0,
@@ -1592,6 +1592,82 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793016000.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "DY1132",
+      "airline": "Norwegian",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793016000.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793016000.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793016000.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "EW9735",
+      "airline": "Eurowings",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
