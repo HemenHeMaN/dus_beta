@@ -1,26 +1,7 @@
 {
-  "updated_at": "26.10.2026 14:15",
+  "updated_at": "26.10.2026 14:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793012400.0,
-      "time_scheduled": "12:00",
-      "time_estimated": "12:18",
-      "flight_no": "EW9441",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
     {
       "dt": 1793013600.0,
       "time_scheduled": "12:20",
@@ -309,25 +290,6 @@
     {
       "dt": 1793016900.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:56",
-      "flight_no": "SM2928",
-      "airline": "Air Cairo",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793016900.0,
-      "time_scheduled": "13:15",
       "time_estimated": "13:25",
       "flight_no": "XQ958",
       "airline": "Sun Express",
@@ -362,6 +324,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 7
+    },
+    {
+      "dt": 1793016900.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "12:56",
+      "flight_no": "SM2928",
+      "airline": "Air Cairo",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793017800.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:28",
+      "time_estimated": "14:18",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -528,11 +509,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 38
+      "delay": 29
     },
     {
       "dt": 1793019300.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1793020800.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:24",
+      "time_estimated": "14:16",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -699,11 +680,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793021700.0,
@@ -718,16 +699,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
     {
       "dt": 1793021700.0,
       "time_scheduled": "14:35",
-      "time_estimated": "15:16",
+      "time_estimated": "15:10",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -738,10 +719,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 42
+      "delay": 36
     },
     {
       "dt": 1793022000.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1793022300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:57",
+      "time_estimated": "14:58",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 13
     },
     {
       "dt": 1793022300.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1793025300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:26",
+      "time_estimated": "15:19",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1088,7 +1069,7 @@
     {
       "dt": 1793027700.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:17",
+      "time_estimated": "16:26",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 12
     },
     {
       "dt": 1793028000.0,
