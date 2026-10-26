@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 08:45",
+  "updated_at": "26.10.2026 08:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -214,7 +214,7 @@
     {
       "dt": 1793000700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:56",
+      "time_estimated": "08:47",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -224,16 +224,16 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 3
     },
     {
       "dt": 1793000700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:47",
+      "time_estimated": "08:45",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -243,11 +243,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 1
     },
     {
       "dt": 1793001000.0,
@@ -376,9 +376,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -490,9 +490,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793003400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:47",
+      "time_estimated": "09:39",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -532,7 +532,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 9
     },
     {
       "dt": 1793003700.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793004600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:05",
+      "time_estimated": "10:08",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 19
     },
     {
       "dt": 1793005200.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793005200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:55",
+      "time_estimated": "10:01",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793006100.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793010600.0,
       "time_scheduled": "11:30",
-      "time_estimated": "12:27",
+      "time_estimated": "12:04",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 58
+      "delay": 35
     },
     {
       "dt": 1793010600.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793011200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:39",
+      "time_estimated": "11:42",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793011200.0,
@@ -1818,6 +1818,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793019000.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "X34589",
+      "airline": "Tuifly",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793019000.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "LX1018",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793019000.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "KL1801",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
