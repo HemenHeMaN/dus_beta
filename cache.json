@@ -1,26 +1,7 @@
 {
-  "updated_at": "26.10.2026 22:40",
+  "updated_at": "26.10.2026 22:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793043000.0,
-      "time_scheduled": "20:30",
-      "time_estimated": "20:41",
-      "flight_no": "EW9673",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 12
-    },
     {
       "dt": 1793043900.0,
       "time_scheduled": "20:45",
@@ -29,11 +10,11 @@
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
       "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Airline",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
@@ -575,25 +556,6 @@
     {
       "dt": 1793049000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:09",
-      "flight_no": "EW9785",
-      "airline": "Eurowings",
-      "city": "Budapest",
-      "country": "Ungarn",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793049000.0,
-      "time_scheduled": "22:10",
       "time_estimated": "22:34",
       "flight_no": "KL1805",
       "airline": "KLM",
@@ -609,6 +571,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 24
+    },
+    {
+      "dt": 1793049000.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:09",
+      "flight_no": "EW9785",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793049300.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793050200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "23:01",
+      "time_estimated": "22:53",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -779,7 +760,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 31
+      "delay": 24
     },
     {
       "dt": 1793050200.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793050500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "23:07",
+      "time_estimated": "23:14",
       "flight_no": "X32117",
       "airline": "Tuifly",
       "city": "Fuerteventura",
@@ -855,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 40
     },
     {
       "dt": 1793050500.0,
@@ -885,9 +866,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -917,7 +898,7 @@
     {
       "dt": 1793051100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:44",
+      "time_estimated": "22:41",
       "flight_no": "DE139",
       "airline": "Condor",
       "city": "Agadir",
@@ -927,16 +908,16 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793051100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:47",
+      "time_estimated": "22:43",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -946,16 +927,16 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793051100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:50",
+      "time_estimated": "22:55",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -969,26 +950,26 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 10
     },
     {
       "dt": 1793051100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:58",
+      "time_estimated": "22:51",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 6
     },
     {
       "dt": 1793051100.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1793051700.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:26",
+      "time_estimated": "23:16",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1026,7 +1007,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 22
     }
   ]
 }
