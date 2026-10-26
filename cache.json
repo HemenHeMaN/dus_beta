@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 12:15",
+  "updated_at": "26.10.2026 12:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -575,7 +575,7 @@
     {
       "dt": 1793012400.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:28",
+      "time_estimated": "12:18",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -585,11 +585,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 29
+      "delay": 19
     },
     {
       "dt": 1793012400.0,
@@ -737,9 +737,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +756,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1793016000.0,
       "time_scheduled": "13:00",
-      "time_estimated": "12:51",
+      "time_estimated": "12:52",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -841,7 +841,7 @@
     {
       "dt": 1793016000.0,
       "time_scheduled": "13:00",
-      "time_estimated": "12:55",
+      "time_estimated": "12:56",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -928,8 +928,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 7
     },
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793018400.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:54",
+      "time_estimated": "13:47",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1064,7 +1064,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 8
     },
     {
       "dt": 1793018700.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1793022000.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:50",
+      "time_estimated": "14:48",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1793022000.0,
@@ -1544,7 +1544,7 @@
     {
       "dt": 1793025300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:35",
+      "time_estimated": "15:20",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1555,8 +1555,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1910,6 +1910,25 @@
       "airline": "Eurowings",
       "city": "Korfu",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793031600.0,
+      "time_scheduled": "17:20",
+      "time_estimated": "17:20",
+      "flight_no": "EW9823",
+      "airline": "Eurowings",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
