@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 12:00",
+  "updated_at": "26.10.2026 12:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1793010300.0,
       "time_scheduled": "11:25",
-      "time_estimated": "12:05",
+      "time_estimated": "12:03",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -395,11 +395,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 40
+      "delay": 38
     },
     {
       "dt": 1793010300.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1793011500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "12:06",
+      "time_estimated": "12:01",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -585,11 +585,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 21
+      "delay": 16
     },
     {
       "dt": 1793011800.0,
@@ -642,9 +642,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -662,8 +662,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793014200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:15",
+      "time_estimated": "12:04",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -718,9 +718,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793014800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:37",
+      "time_estimated": "12:39",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -803,7 +803,7 @@
     {
       "dt": 1793014800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:40",
+      "time_estimated": "12:42",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -817,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 3
     },
     {
       "dt": 1793015700.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1793016600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:19",
+      "time_estimated": "13:18",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 8
     },
     {
       "dt": 1793016900.0,
@@ -1525,7 +1525,7 @@
     {
       "dt": 1793023200.0,
       "time_scheduled": "15:00",
-      "time_estimated": "15:08",
+      "time_estimated": "15:07",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -1539,7 +1539,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1793023500.0,
@@ -1658,7 +1658,7 @@
     {
       "dt": 1793025900.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "16:00",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1669,10 +1669,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793025900.0,
@@ -1810,7 +1810,7 @@
     {
       "dt": 1793028000.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:20",
+      "time_estimated": "16:15",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1821,8 +1821,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
