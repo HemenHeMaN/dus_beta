@@ -1,26 +1,7 @@
 {
-  "updated_at": "26.10.2026 20:50",
+  "updated_at": "26.10.2026 20:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793037300.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:52",
-      "flight_no": "SK627",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793037300.0,
       "time_scheduled": "18:55",
@@ -290,25 +271,6 @@
     {
       "dt": 1793041800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "19:45",
-      "flight_no": "DE1873",
-      "airline": "Condor",
-      "city": "Teneriffa Süd",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793041800.0,
-      "time_scheduled": "20:10",
       "time_estimated": "20:13",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
@@ -324,6 +286,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
+    },
+    {
+      "dt": 1793041800.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "19:45",
+      "flight_no": "DE1873",
+      "airline": "Condor",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793041800.0,
@@ -471,9 +452,9 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -491,8 +472,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1793048400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:49",
+      "time_estimated": "21:55",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -860,7 +841,7 @@
     {
       "dt": 1793048400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:03",
+      "time_estimated": "22:04",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -874,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793048400.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1793048700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:51",
+      "time_estimated": "21:49",
       "flight_no": "EW9245",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -928,8 +909,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
