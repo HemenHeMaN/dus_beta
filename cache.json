@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 12:40",
+  "updated_at": "26.10.2026 12:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -623,9 +623,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -719,8 +719,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +765,7 @@
     {
       "dt": 1793016600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:17",
+      "time_estimated": "13:18",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -779,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1793016900.0,
@@ -794,9 +794,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +974,7 @@
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:17",
+      "time_estimated": "14:03",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -988,12 +988,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 13
     },
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:58",
+      "time_estimated": "14:10",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 20
     },
     {
       "dt": 1793019300.0,
@@ -1487,7 +1487,7 @@
     {
       "dt": 1793026500.0,
       "time_scheduled": "15:55",
-      "time_estimated": "15:55",
+      "time_estimated": "15:59",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1498,10 +1498,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793026500.0,
@@ -1894,6 +1894,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793033100.0,
+      "time_scheduled": "17:45",
+      "time_estimated": "17:45",
+      "flight_no": "LX1024",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
