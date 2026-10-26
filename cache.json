@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 10:50",
+  "updated_at": "26.10.2026 10:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,25 +91,6 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793002200.0,
-      "time_scheduled": "09:10",
-      "time_estimated": "08:53",
-      "flight_no": "AY1391",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -575,7 +556,7 @@
     {
       "dt": 1793008200.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:51",
+      "time_estimated": "10:50",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -585,11 +566,11 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793008500.0,
@@ -680,9 +661,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -809,9 +790,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -832,9 +813,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -904,9 +885,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -979,11 +960,11 @@
       "airline": "Eurowings",
       "city": "Neapel",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1164,7 +1145,7 @@
     {
       "dt": 1793014800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:39",
+      "time_estimated": "12:44",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1178,7 +1159,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793014800.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1793016900.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:56",
+      "time_estimated": "12:55",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -1487,7 +1468,7 @@
     {
       "dt": 1793018400.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:40",
+      "time_estimated": "13:58",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1501,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793018700.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
+      "time_estimated": "13:56",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1577,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793019000.0,
@@ -1601,7 +1582,7 @@
     {
       "dt": 1793019300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:57",
+      "time_estimated": "13:56",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1615,7 +1596,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 1
     },
     {
       "dt": 1793019300.0,
@@ -2062,6 +2043,44 @@
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793026500.0,
+      "time_scheduled": "15:55",
+      "time_estimated": "15:55",
+      "flight_no": "XR402",
+      "airline": "Corendon Airlines Europe",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793026500.0,
+      "time_scheduled": "15:55",
+      "time_estimated": "15:55",
+      "flight_no": "EW9845",
+      "airline": "Eurowings",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
