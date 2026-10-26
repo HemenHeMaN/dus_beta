@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 06:25",
+  "updated_at": "26.10.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,8 +16,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -157,7 +157,7 @@
     {
       "dt": 1792996800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:37",
+      "time_estimated": "07:35",
       "flight_no": "VL2000",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -385,7 +385,7 @@
     {
       "dt": 1793001000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:08",
+      "time_estimated": "09:17",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -396,10 +396,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 28
     },
     {
       "dt": 1793001300.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793001900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:08",
+      "time_estimated": "09:07",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -475,12 +475,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1793002200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:10",
+      "time_estimated": "09:04",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -494,7 +494,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793002500.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1793003700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:26",
+      "time_estimated": "09:27",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -746,7 +746,7 @@
     {
       "dt": 1793005200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:51",
+      "time_estimated": "09:45",
       "flight_no": "4M195",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1177,6 +1177,44 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793010600.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "DE1515",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793010600.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
