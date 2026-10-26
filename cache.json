@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 07:50",
+  "updated_at": "26.10.2026 07:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,25 +81,6 @@
     {
       "dt": 1792993200.0,
       "time_scheduled": "06:40",
-      "time_estimated": "09:19",
-      "flight_no": "XQ1350",
-      "airline": "Sun Express",
-      "city": "Samsun",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 159
-    },
-    {
-      "dt": 1792993200.0,
-      "time_scheduled": "06:40",
       "time_estimated": "06:05",
       "flight_no": "XQ1370",
       "airline": "Sun Express",
@@ -115,6 +96,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1792993200.0,
+      "time_scheduled": "06:40",
+      "time_estimated": "09:19",
+      "flight_no": "XQ1350",
+      "airline": "Sun Express",
+      "city": "Samsun",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 159
     },
     {
       "dt": 1792995000.0,
@@ -224,9 +224,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -243,9 +243,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -358,8 +358,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1793002500.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:31",
+      "time_estimated": "09:29",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -513,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1793002500.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1793008500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:51",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793009400.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "10:58",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -1573,6 +1573,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793015700.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "X36569",
+      "airline": "Tuifly",
+      "city": "Djerba",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
