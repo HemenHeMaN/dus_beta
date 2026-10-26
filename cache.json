@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 20:20",
+  "updated_at": "26.10.2026 20:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -309,25 +309,6 @@
     {
       "dt": 1793040600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:28",
-      "flight_no": "EI698",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793040600.0,
-      "time_scheduled": "19:50",
       "time_estimated": "19:59",
       "flight_no": "BA938",
       "airline": "British Airways",
@@ -343,6 +324,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
+    },
+    {
+      "dt": 1793040600.0,
+      "time_scheduled": "19:50",
+      "time_estimated": "19:28",
+      "flight_no": "EI698",
+      "airline": "Aer Lingus",
+      "city": "Dublin",
+      "country": "Irland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793040600.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793043900.0,
       "time_scheduled": "20:45",
-      "time_estimated": "20:36",
+      "time_estimated": "20:42",
       "flight_no": "DE1143",
       "airline": "Condor",
       "city": "Lamezia Terme (Kalabrien)",
@@ -528,9 +528,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793049000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:09",
+      "time_estimated": "22:12",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793049000.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793050200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:38",
+      "time_estimated": "22:40",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -1308,10 +1308,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 11
     },
     {
       "dt": 1793050500.0,
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793050800.0,
