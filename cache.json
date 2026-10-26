@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 06:15",
+  "updated_at": "26.10.2026 06:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -114,7 +114,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 160
+      "delay": 159
     },
     {
       "dt": 1792995000.0,
@@ -157,7 +157,7 @@
     {
       "dt": 1792996800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:43",
+      "time_estimated": "07:35",
       "flight_no": "VL2000",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -171,12 +171,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1792996800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:36",
+      "time_estimated": "07:44",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1792998000.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793001300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "09:34",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -415,10 +415,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 40
     },
     {
       "dt": 1793001300.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1793002800.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:07",
+      "time_estimated": "09:09",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -548,8 +548,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1793005200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "09:41",
       "flight_no": "4M148",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -738,8 +738,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1036,11 +1036,11 @@
       "airline": "Aegean Airlines",
       "city": "Athen",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1096,6 +1096,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793010000.0,
+      "time_scheduled": "11:20",
+      "time_estimated": "11:20",
+      "flight_no": "EW9831",
+      "airline": "Eurowings",
+      "city": "Florenz",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793010000.0,
+      "time_scheduled": "11:20",
+      "time_estimated": "11:20",
+      "flight_no": "IB1319",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
