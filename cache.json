@@ -1,45 +1,7 @@
 {
-  "updated_at": "26.10.2026 19:45",
+  "updated_at": "26.10.2026 19:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793031600.0,
-      "time_scheduled": "17:20",
-      "time_estimated": "17:48",
-      "flight_no": "EW9823",
-      "airline": "Eurowings",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 28
-    },
-    {
-      "dt": 1793032500.0,
-      "time_scheduled": "17:35",
-      "time_estimated": "17:46",
-      "flight_no": "EW6894",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 11
-    },
     {
       "dt": 1793033400.0,
       "time_scheduled": "17:50",
@@ -58,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 5
-    },
-    {
-      "dt": 1793033700.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:49",
-      "flight_no": "AY1395",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793033700.0,
@@ -252,25 +195,6 @@
     {
       "dt": 1793037000.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:30",
-      "flight_no": "IB755",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793037000.0,
-      "time_scheduled": "18:50",
       "time_estimated": "18:35",
       "flight_no": "DE1429",
       "airline": "Condor",
@@ -281,6 +205,25 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793037000.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:30",
+      "flight_no": "IB755",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -309,25 +252,6 @@
     {
       "dt": 1793037300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:10",
-      "flight_no": "PC1005",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 15
-    },
-    {
-      "dt": 1793037300.0,
-      "time_scheduled": "18:55",
       "time_estimated": "18:52",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
@@ -343,6 +267,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793037300.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "19:10",
+      "flight_no": "PC1005",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 15
     },
     {
       "dt": 1793037300.0,
@@ -453,15 +396,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 27
     },
     {
       "dt": 1793040000.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:54",
+      "time_estimated": "19:47",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -471,11 +414,11 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 8
     },
     {
       "dt": 1793040300.0,
@@ -499,7 +442,7 @@
     {
       "dt": 1793040300.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:50",
+      "time_estimated": "19:49",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -509,11 +452,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793040600.0,
@@ -548,8 +491,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -605,15 +548,15 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
     {
       "dt": 1793041800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "19:49",
+      "time_estimated": "19:45",
       "flight_no": "DE1873",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -623,9 +566,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -661,9 +604,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -765,7 +708,7 @@
     {
       "dt": 1793044800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:31",
+      "time_estimated": "21:19",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -779,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 19
     },
     {
       "dt": 1793044800.0,
@@ -974,7 +917,7 @@
     {
       "dt": 1793047500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:05",
+      "time_estimated": "22:13",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -988,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 28
     },
     {
       "dt": 1793047500.0,
@@ -1710,7 +1653,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1793051100.0,
