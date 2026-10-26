@@ -1,11 +1,11 @@
 {
-  "updated_at": "26.10.2026 06:35",
+  "updated_at": "26.10.2026 06:40",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792991100.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:48",
+      "time_estimated": "06:39",
       "flight_no": "EW9897",
       "airline": "Eurowings",
       "city": "Casablanca-Mohammed V",
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 43
+      "delay": 35
     },
     {
       "dt": 1792991400.0,
@@ -129,9 +129,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -157,7 +157,7 @@
     {
       "dt": 1792996800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:40",
+      "time_estimated": "07:46",
       "flight_no": "VL2000",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -171,7 +171,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 7
     },
     {
       "dt": 1792996800.0,
@@ -271,7 +271,7 @@
     {
       "dt": 1792999500.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:30",
+      "time_estimated": "08:23",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -285,7 +285,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793000100.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793000700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:46",
+      "time_estimated": "08:48",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -323,12 +323,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793000700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:38",
+      "time_estimated": "08:48",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -342,7 +342,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793001000.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793002200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:04",
+      "time_estimated": "08:55",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -689,7 +689,7 @@
     {
       "dt": 1793004600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "09:42",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -727,7 +727,7 @@
     {
       "dt": 1793005200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:41",
+      "time_estimated": "09:38",
       "flight_no": "4M148",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1248,6 +1248,82 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793011200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793011200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32313",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793011200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32915",
+      "airline": "Tuifly",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793011200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "EW9221",
+      "airline": "Eurowings",
+      "city": "Göteborg-Landvetter",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
