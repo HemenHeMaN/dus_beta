@@ -1,11 +1,11 @@
 {
-  "updated_at": "26.10.2026 05:45",
+  "updated_at": "26.10.2026 05:50",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1792991100.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:53",
+      "time_estimated": "06:47",
       "flight_no": "EW9897",
       "airline": "Eurowings",
       "city": "Casablanca-Mohammed V",
@@ -19,12 +19,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 49
+      "delay": 43
     },
     {
       "dt": 1792991400.0,
       "time_scheduled": "06:10",
-      "time_estimated": "05:58",
+      "time_estimated": "06:03",
       "flight_no": "XC110",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -35,8 +35,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -91,9 +91,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -941,6 +941,25 @@
       "airline": "Eurowings",
       "city": "Graz",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793008200.0,
+      "time_scheduled": "10:50",
+      "time_estimated": "10:50",
+      "flight_no": "EW9835",
+      "airline": "Eurowings",
+      "city": "Bologna",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
