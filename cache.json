@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 07:15",
+  "updated_at": "26.10.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -205,16 +205,16 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1792998000.0,
       "time_scheduled": "08:00",
-      "time_estimated": "07:50",
+      "time_estimated": "07:51",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -708,7 +708,7 @@
     {
       "dt": 1793004600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "10:08",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793005200.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793006700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:16",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1435,6 +1435,25 @@
       "airline": "Eurowings",
       "city": "Tallinn",
       "country": "Estland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793013600.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
