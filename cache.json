@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 12:55",
+  "updated_at": "26.10.2026 13:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,25 +271,6 @@
     {
       "dt": 1793011200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:59",
-      "flight_no": "X32313",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
-    {
-      "dt": 1793011200.0,
-      "time_scheduled": "11:40",
       "time_estimated": "11:41",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
@@ -305,6 +286,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1793011200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:59",
+      "flight_no": "X32313",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 19
     },
     {
       "dt": 1793011200.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793013600.0,
       "time_scheduled": "12:20",
-      "time_estimated": "13:37",
+      "time_estimated": "13:38",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -475,7 +475,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 78
+      "delay": 79
     },
     {
       "dt": 1793014200.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793015700.0,
       "time_scheduled": "12:55",
-      "time_estimated": "13:06",
+      "time_estimated": "12:58",
       "flight_no": "X36569",
       "airline": "Tuifly",
       "city": "Djerba",
@@ -604,11 +604,11 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 4
     },
     {
       "dt": 1793016000.0,
@@ -662,8 +662,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -738,8 +738,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +756,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -775,9 +775,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +898,7 @@
     {
       "dt": 1793018700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:43",
+      "time_estimated": "13:38",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -917,7 +917,7 @@
     {
       "dt": 1793018700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:52",
+      "time_estimated": "13:49",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -931,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 4
     },
     {
       "dt": 1793019000.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:03",
+      "time_estimated": "14:02",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -966,15 +966,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 12
     },
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:16",
+      "time_estimated": "14:36",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 26
+      "delay": 46
     },
     {
       "dt": 1793019300.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793019300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:28",
+      "time_estimated": "13:29",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793019900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:32",
+      "time_estimated": "13:11",
       "flight_no": "XR406",
       "airline": "Corendon Airlines Europe",
       "city": "Rhodos",
@@ -1102,12 +1102,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 0
     },
     {
       "dt": 1793019900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:17",
+      "time_estimated": "14:11",
       "flight_no": "EW9083",
       "airline": "Eurowings",
       "city": "München",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 7
     },
     {
       "dt": 1793020800.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793022000.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:33",
+      "time_estimated": "14:56",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793022300.0,
@@ -1972,6 +1972,82 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793034000.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:00",
+      "flight_no": "XR6598",
+      "airline": "Corendon Airlines Europe",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793034000.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:00",
+      "flight_no": "LH076",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793034000.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:00",
+      "flight_no": "PC5305",
+      "airline": "Pegasus Airlines",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793034000.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:00",
+      "flight_no": "XQ182",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
