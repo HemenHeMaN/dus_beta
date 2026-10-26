@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 06:45",
+  "updated_at": "26.10.2026 06:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1792995000.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:04",
+      "time_estimated": "07:09",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -176,7 +176,7 @@
     {
       "dt": 1792996800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:44",
+      "time_estimated": "07:37",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1792998000.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793000700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:48",
+      "time_estimated": "08:50",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -320,10 +320,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 6
     },
     {
       "dt": 1793000700.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793002200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:55",
+      "time_estimated": "08:56",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -491,8 +491,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1793004000.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:40",
+      "time_estimated": "09:49",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793004600.0,
@@ -1343,6 +1343,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793011800.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "EW9861",
+      "airline": "Eurowings",
+      "city": "Neapel",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793011800.0,
+      "time_scheduled": "11:50",
+      "time_estimated": "11:50",
+      "flight_no": "EW9783",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
