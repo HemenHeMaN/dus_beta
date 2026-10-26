@@ -1,26 +1,7 @@
 {
-  "updated_at": "26.10.2026 13:15",
+  "updated_at": "26.10.2026 13:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793008500.0,
-      "time_scheduled": "10:55",
-      "time_estimated": "11:18",
-      "flight_no": "KL1799",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 24
-    },
     {
       "dt": 1793009400.0,
       "time_scheduled": "11:10",
@@ -41,25 +22,6 @@
       "delay": 13
     },
     {
-      "dt": 1793009700.0,
-      "time_scheduled": "11:15",
-      "time_estimated": "11:17",
-      "flight_no": "LH2012",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
       "dt": 1793010000.0,
       "time_scheduled": "11:20",
       "time_estimated": "11:35",
@@ -77,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 16
-    },
-    {
-      "dt": 1793010000.0,
-      "time_scheduled": "11:20",
-      "time_estimated": "11:15",
-      "flight_no": "IB1319",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793010300.0,
@@ -396,8 +339,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 79
     },
@@ -632,7 +575,7 @@
     {
       "dt": 1793016300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:15",
+      "time_estimated": "13:16",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -642,11 +585,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 11
     },
     {
       "dt": 1793016600.0,
@@ -794,16 +737,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793018400.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:56",
+      "time_estimated": "13:57",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -817,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 17
     },
     {
       "dt": 1793018700.0,
@@ -851,9 +794,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -870,9 +813,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +860,7 @@
     {
       "dt": 1793019300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:02",
+      "time_estimated": "14:04",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -931,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 9
     },
     {
       "dt": 1793019300.0,
@@ -965,9 +908,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -984,9 +927,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1012,7 @@
     {
       "dt": 1793020800.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:35",
+      "time_estimated": "14:25",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -1083,12 +1026,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 6
     },
     {
       "dt": 1793021700.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:48",
+      "time_estimated": "14:41",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1102,7 +1045,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 7
     },
     {
       "dt": 1793021700.0,
@@ -1145,7 +1088,7 @@
     {
       "dt": 1793022000.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:51",
+      "time_estimated": "14:58",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1159,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 18
     },
     {
       "dt": 1793022300.0,
