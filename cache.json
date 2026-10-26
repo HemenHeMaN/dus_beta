@@ -1,11 +1,11 @@
 {
-  "updated_at": "26.10.2026 22:45",
+  "updated_at": "26.10.2026 22:50",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793043900.0,
       "time_scheduled": "20:45",
-      "time_estimated": "22:51",
+      "time_estimated": "22:46",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -15,11 +15,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 127
+      "delay": 122
     },
     {
       "dt": 1793044800.0,
@@ -423,25 +423,6 @@
     {
       "dt": 1793048400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:56",
-      "flight_no": "BA940",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793048400.0,
-      "time_scheduled": "22:00",
       "time_estimated": "22:00",
       "flight_no": "EW9671",
       "airline": "Eurowings",
@@ -471,6 +452,25 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793048400.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "21:56",
+      "flight_no": "BA940",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -594,7 +594,7 @@
     {
       "dt": 1793049300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:30",
+      "time_estimated": "22:45",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -604,11 +604,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 30
     },
     {
       "dt": 1793049300.0,
@@ -870,9 +870,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 34
     },
@@ -955,7 +955,7 @@
     {
       "dt": 1793051100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:51",
+      "time_estimated": "22:48",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -965,11 +965,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793051100.0,
