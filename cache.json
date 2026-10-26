@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 09:00",
+  "updated_at": "26.10.2026 09:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -339,15 +339,15 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 20
     },
     {
       "dt": 1793001900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:01",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -357,9 +357,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1793002500.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:19",
+      "time_estimated": "09:18",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -396,10 +396,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1793002500.0,
@@ -491,15 +491,15 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793003400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:39",
+      "time_estimated": "09:40",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -513,7 +513,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 10
     },
     {
       "dt": 1793003700.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1793003700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:47",
+      "time_estimated": "09:44",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -548,10 +548,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 9
     },
     {
       "dt": 1793004000.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1793009100.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "11:11",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -912,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793009400.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793011800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "12:04",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1793011800.0,
@@ -1937,6 +1937,63 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793019900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:05",
+      "flight_no": "AF1506",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793019900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:05",
+      "flight_no": "XR406",
+      "airline": "Corendon Airlines Europe",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793019900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:05",
+      "flight_no": "EW9083",
+      "airline": "Eurowings",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
