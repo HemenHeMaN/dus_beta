@@ -1,26 +1,7 @@
 {
-  "updated_at": "26.10.2026 15:45",
+  "updated_at": "26.10.2026 15:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793018400.0,
-      "time_scheduled": "13:40",
-      "time_estimated": "13:45",
-      "flight_no": "EW9591",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
-    },
     {
       "dt": 1793019000.0,
       "time_scheduled": "13:50",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 29
-    },
-    {
-      "dt": 1793019300.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "13:49",
-      "flight_no": "SM2926",
-      "airline": "Air Cairo",
-      "city": "Marsa Alam",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793019300.0,
@@ -423,7 +385,7 @@
     {
       "dt": 1793025300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:51",
+      "time_estimated": "15:54",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -437,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 20
     },
     {
       "dt": 1793025600.0,
@@ -499,7 +461,7 @@
     {
       "dt": 1793026500.0,
       "time_scheduled": "15:55",
-      "time_estimated": "16:02",
+      "time_estimated": "16:03",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -510,10 +472,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1793026500.0,
@@ -613,7 +575,7 @@
     {
       "dt": 1793028000.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:11",
+      "time_estimated": "16:01",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -623,16 +585,16 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793028600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:55",
+      "time_estimated": "17:04",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -646,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 26
+      "delay": 35
     },
     {
       "dt": 1793028600.0,
@@ -708,7 +670,7 @@
     {
       "dt": 1793030100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:05",
+      "time_estimated": "17:08",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -722,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 13
     },
     {
       "dt": 1793030400.0,
@@ -784,7 +746,7 @@
     {
       "dt": 1793031600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:33",
+      "time_estimated": "17:39",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -798,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 19
     },
     {
       "dt": 1793032200.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793033400.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:10",
+      "time_estimated": "18:04",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -947,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 15
     },
     {
       "dt": 1793033700.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1793037000.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:31",
+      "time_estimated": "18:44",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1221,7 +1183,7 @@
     {
       "dt": 1793037300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:48",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1525,7 +1487,7 @@
     {
       "dt": 1793041800.0,
       "time_scheduled": "20:10",
-      "time_estimated": "19:49",
+      "time_estimated": "20:18",
       "flight_no": "DE1873",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -1536,10 +1498,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793041800.0,
