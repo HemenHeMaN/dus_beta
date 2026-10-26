@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 08:40",
+  "updated_at": "26.10.2026 08:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -214,7 +214,7 @@
     {
       "dt": 1793000700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:50",
+      "time_estimated": "08:56",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -228,7 +228,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 12
     },
     {
       "dt": 1793000700.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793001000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:47",
+      "time_estimated": "08:41",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -262,9 +262,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -290,7 +290,7 @@
     {
       "dt": 1793001000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:16",
+      "time_estimated": "09:22",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -304,7 +304,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 32
     },
     {
       "dt": 1793001300.0,
@@ -396,8 +396,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -472,8 +472,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793004000.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:51",
+      "time_estimated": "09:48",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -586,10 +586,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 8
     },
     {
       "dt": 1793004600.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1793007000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:28",
+      "time_estimated": "10:20",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793010300.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:25",
+      "time_estimated": "11:45",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1793010300.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793010600.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:30",
+      "time_estimated": "12:27",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 58
     },
     {
       "dt": 1793010600.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1793011200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:45",
       "flight_no": "X32915",
       "airline": "Tuifly",
       "city": "Ibiza",
@@ -1216,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793011200.0,
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793011800.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1793011800.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:48",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1777,6 +1777,44 @@
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793018700.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "EW9641",
+      "airline": "Eurowings",
+      "city": "Porto",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793018700.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "LH074",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
