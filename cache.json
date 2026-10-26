@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 19:00",
+  "updated_at": "26.10.2026 19:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,6 +233,25 @@
     {
       "dt": 1793033700.0,
       "time_scheduled": "17:55",
+      "time_estimated": "17:49",
+      "flight_no": "AY1395",
+      "airline": "Finnair",
+      "city": "Helsinki",
+      "country": "Finnland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793033700.0,
+      "time_scheduled": "17:55",
       "time_estimated": "17:52",
       "flight_no": "KL1803",
       "airline": "KLM",
@@ -267,25 +286,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1793033700.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:49",
-      "flight_no": "AY1395",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793034000.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793037900.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:22",
+      "time_estimated": "19:15",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -570,7 +570,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 10
     },
     {
       "dt": 1793037900.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793038200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:08",
+      "time_estimated": "19:03",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -623,9 +623,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793046300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:26",
+      "time_estimated": "21:23",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1023,15 +1023,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793046300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:29",
+      "time_estimated": "21:41",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1045,12 +1045,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 16
     },
     {
       "dt": 1793046600.0,
       "time_scheduled": "21:30",
-      "time_estimated": "22:01",
+      "time_estimated": "21:55",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1061,10 +1061,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 26
     },
     {
       "dt": 1793046900.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1793048400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:44",
+      "time_estimated": "21:49",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1365,15 +1365,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793048400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "22:02",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793048400.0,
@@ -1734,7 +1734,7 @@
     {
       "dt": 1793050500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:35",
+      "time_estimated": "22:31",
       "flight_no": "X3117",
       "airline": "Tuifly",
       "city": "Dalaman",
@@ -1745,8 +1745,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
