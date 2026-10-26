@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 17:15",
+  "updated_at": "26.10.2026 17:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,25 +43,6 @@
     {
       "dt": 1793024100.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:15",
-      "flight_no": "VL2020",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
-      "dt": 1793024100.0,
-      "time_scheduled": "15:15",
       "time_estimated": "15:36",
       "flight_no": "EW9425",
       "airline": "Eurowings",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 21
-    },
-    {
-      "dt": 1793025300.0,
-      "time_scheduled": "15:35",
-      "time_estimated": "15:18",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793025300.0,
@@ -404,7 +366,7 @@
     {
       "dt": 1793030400.0,
       "time_scheduled": "17:00",
-      "time_estimated": "17:27",
+      "time_estimated": "17:32",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -415,10 +377,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 27
+      "delay": 33
     },
     {
       "dt": 1793031000.0,
@@ -453,8 +415,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -566,9 +528,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -585,16 +547,16 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
     {
       "dt": 1793033100.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:39",
+      "time_estimated": "17:34",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -604,9 +566,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1793034000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:12",
+      "time_estimated": "18:18",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -722,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 18
     },
     {
       "dt": 1793034000.0,
@@ -756,16 +718,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793034300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:26",
+      "time_estimated": "18:22",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -776,10 +738,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 17
     },
     {
       "dt": 1793034600.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1793037900.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:11",
+      "time_estimated": "19:22",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -969,12 +931,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 18
     },
     {
       "dt": 1793037900.0,
       "time_scheduled": "19:05",
-      "time_estimated": "18:59",
+      "time_estimated": "19:09",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -988,12 +950,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793038200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:09",
+      "time_estimated": "19:08",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1004,15 +966,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793038200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:09",
+      "time_estimated": "19:08",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1088,7 +1050,7 @@
     {
       "dt": 1793040300.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:38",
+      "time_estimated": "19:39",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1297,7 +1259,7 @@
     {
       "dt": 1793043000.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:30",
+      "time_estimated": "20:43",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1311,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1793043900.0,
@@ -2010,6 +1972,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793049600.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "X34573",
+      "airline": "Tuifly",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
