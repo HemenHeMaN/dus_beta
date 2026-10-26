@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 12:50",
+  "updated_at": "26.10.2026 12:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -461,7 +461,7 @@
     {
       "dt": 1793013600.0,
       "time_scheduled": "12:20",
-      "time_estimated": "13:46",
+      "time_estimated": "13:37",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -475,7 +475,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 86
+      "delay": 78
     },
     {
       "dt": 1793014200.0,
@@ -547,9 +547,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 31
     },
@@ -661,16 +661,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 18
     },
     {
       "dt": 1793016000.0,
       "time_scheduled": "13:00",
-      "time_estimated": "12:55",
+      "time_estimated": "12:52",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -680,16 +680,16 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793016300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:56",
+      "time_estimated": "12:54",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -699,9 +699,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -737,9 +737,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793016900.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:25",
+      "time_estimated": "13:26",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -798,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 12
     },
     {
       "dt": 1793016900.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793018100.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:21",
+      "time_estimated": "13:22",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793019900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:04",
+      "time_estimated": "14:01",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793019900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:10",
+      "time_estimated": "14:32",
       "flight_no": "XR406",
       "airline": "Corendon Airlines Europe",
       "city": "Rhodos",
@@ -1102,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 27
     },
     {
       "dt": 1793019900.0,
@@ -1468,7 +1468,7 @@
     {
       "dt": 1793026500.0,
       "time_scheduled": "15:55",
-      "time_estimated": "15:59",
+      "time_estimated": "15:56",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1482,7 +1482,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 2
     },
     {
       "dt": 1793026500.0,
@@ -1913,6 +1913,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793033700.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "AY1395",
+      "airline": "Finnair",
+      "city": "Helsinki",
+      "country": "Finnland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793033700.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "KL1803",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793033700.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:55",
+      "flight_no": "EW9421",
+      "airline": "Eurowings",
+      "city": "Nizza",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
