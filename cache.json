@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 08:30",
+  "updated_at": "26.10.2026 08:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -214,7 +214,7 @@
     {
       "dt": 1793000100.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:37",
+      "time_estimated": "08:33",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -224,11 +224,11 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793000700.0,
@@ -263,8 +263,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -282,8 +282,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793003400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:48",
+      "time_estimated": "09:47",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -548,10 +548,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 17
     },
     {
       "dt": 1793003700.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793004000.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:49",
+      "time_estimated": "09:51",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 11
     },
     {
       "dt": 1793004600.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793010300.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:25",
+      "time_estimated": "11:35",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793010600.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1793010900.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:35",
+      "time_estimated": "11:36",
       "flight_no": "EW9517",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -1178,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793011200.0,
@@ -1744,6 +1744,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793018100.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:35",
+      "flight_no": "DE1615",
+      "airline": "Condor",
+      "city": "Chania (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
