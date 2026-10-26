@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 07:20",
+  "updated_at": "26.10.2026 07:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,25 +81,6 @@
     {
       "dt": 1792993200.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:05",
-      "flight_no": "XQ1370",
-      "airline": "Sun Express",
-      "city": "Mersin-Çukurova",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1792993200.0,
-      "time_scheduled": "06:40",
       "time_estimated": "09:19",
       "flight_no": "XQ1350",
       "airline": "Sun Express",
@@ -115,6 +96,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 159
+    },
+    {
+      "dt": 1792993200.0,
+      "time_scheduled": "06:40",
+      "time_estimated": "06:05",
+      "flight_no": "XQ1370",
+      "airline": "Sun Express",
+      "city": "Mersin-Çukurova",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1792995000.0,
@@ -167,9 +167,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -186,9 +186,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -206,8 +206,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -290,7 +290,7 @@
     {
       "dt": 1793000100.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:47",
+      "time_estimated": "08:42",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -304,7 +304,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 8
     },
     {
       "dt": 1793000700.0,
@@ -656,11 +656,11 @@
       "airline": "Lufthansa",
       "city": "Frankfurt",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -708,7 +708,7 @@
     {
       "dt": 1793004600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:08",
+      "time_estimated": "10:18",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 29
     },
     {
       "dt": 1793005200.0,
@@ -1462,6 +1462,25 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793014200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:24",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
