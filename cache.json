@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 19:40",
+  "updated_at": "26.10.2026 19:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
-    },
-    {
-      "dt": 1793033100.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "17:44",
-      "flight_no": "LX1024",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793033400.0,
@@ -186,25 +167,6 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793034000.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "17:42",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -490,9 +452,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 27
     },
@@ -528,9 +490,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -585,9 +547,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -642,9 +604,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -719,8 +681,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +803,7 @@
     {
       "dt": 1793045700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:34",
+      "time_estimated": "21:21",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -855,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 7
     },
     {
       "dt": 1793046300.0,
@@ -866,10 +828,10 @@
       "city": "Pristina",
       "country": "Kosovo",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -974,7 +936,7 @@
     {
       "dt": 1793047200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:41",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -988,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1793047500.0,
@@ -1164,7 +1126,7 @@
     {
       "dt": 1793048100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:59",
+      "time_estimated": "22:16",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1178,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 21
     },
     {
       "dt": 1793048100.0,
