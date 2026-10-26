@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 16:40",
+  "updated_at": "26.10.2026 16:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -415,15 +415,15 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 31
     },
     {
       "dt": 1793028600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:48",
+      "time_estimated": "16:42",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -433,11 +433,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 12
     },
     {
       "dt": 1793028900.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793029200.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:51",
+      "time_estimated": "16:43",
       "flight_no": "BJ2022",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -471,11 +471,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 4
     },
     {
       "dt": 1793030100.0,
@@ -491,8 +491,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1793034300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:12",
+      "time_estimated": "18:20",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 15
     },
     {
       "dt": 1793034600.0,
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793040300.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793040600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:50",
+      "time_estimated": "19:48",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1625,6 +1625,63 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793047500.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793047500.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9503",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793047500.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
