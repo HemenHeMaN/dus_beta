@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 07:30",
+  "updated_at": "26.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -149,8 +149,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -205,9 +205,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -233,7 +233,7 @@
     {
       "dt": 1792998900.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:06",
+      "time_estimated": "08:07",
       "flight_no": "EW4200",
       "airline": "Eurowings",
       "city": "Prag",
@@ -461,7 +461,7 @@
     {
       "dt": 1793001900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:05",
+      "time_estimated": "09:06",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793002200.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793008500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:39",
+      "time_estimated": "10:37",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1497,6 +1497,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793014500.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "XQ184",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793014500.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "EW9685",
+      "airline": "Eurowings",
+      "city": "Kavala",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
