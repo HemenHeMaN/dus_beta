@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 11:40",
+  "updated_at": "26.10.2026 11:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 79
     },
     {
-      "dt": 1793004000.0,
-      "time_scheduled": "09:40",
-      "time_estimated": "09:41",
-      "flight_no": "LH2006",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
       "dt": 1793004600.0,
       "time_scheduled": "09:50",
       "time_estimated": "09:48",
@@ -52,25 +33,6 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793005200.0,
-      "time_scheduled": "10:00",
-      "time_estimated": "09:45",
-      "flight_no": "4M148",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -471,9 +433,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -510,8 +472,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 34
     },
@@ -537,7 +499,7 @@
     {
       "dt": 1793010900.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:53",
+      "time_estimated": "11:59",
       "flight_no": "EW9573",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -551,7 +513,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 24
     },
     {
       "dt": 1793010900.0,
@@ -575,7 +537,7 @@
     {
       "dt": 1793011200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:44",
+      "time_estimated": "11:41",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -585,11 +547,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1793011200.0,
@@ -700,8 +662,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793012400.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:22",
+      "time_estimated": "12:23",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -741,12 +703,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 23
     },
     {
       "dt": 1793012700.0,
       "time_scheduled": "12:05",
-      "time_estimated": "11:54",
+      "time_estimated": "11:53",
       "flight_no": "EW9739",
       "airline": "Eurowings",
       "city": "Tallinn",
@@ -784,7 +746,7 @@
     {
       "dt": 1793014200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:22",
+      "time_estimated": "12:20",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -961,9 +923,9 @@
       "city": "Malaga",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1017,11 +979,11 @@
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1297,7 +1259,7 @@
     {
       "dt": 1793019300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:01",
+      "time_estimated": "13:54",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1311,7 +1273,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793019300.0,
@@ -1487,7 +1449,7 @@
     {
       "dt": 1793021700.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:35",
+      "time_estimated": "14:44",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -1501,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793022000.0,
@@ -1544,7 +1506,7 @@
     {
       "dt": 1793022300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:45",
+      "time_estimated": "14:44",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
