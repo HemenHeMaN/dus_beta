@@ -1,5 +1,5 @@
 {
-  "updated_at": "26.10.2026 16:10",
+  "updated_at": "26.10.2026 16:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -453,8 +453,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -689,7 +689,7 @@
     {
       "dt": 1793032500.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:40",
+      "time_estimated": "17:38",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -703,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793032500.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793034300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:03",
+      "time_estimated": "18:13",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793034600.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793036100.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:55",
+      "time_estimated": "18:45",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 10
     },
     {
       "dt": 1793037000.0,
@@ -1118,8 +1118,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 12
     },
@@ -1567,6 +1567,25 @@
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793045700.0,
+      "time_scheduled": "21:15",
+      "time_estimated": "21:15",
+      "flight_no": "EW9037",
+      "airline": "Eurowings",
+      "city": "Hamburg",
       "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
