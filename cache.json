@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 22:45",
+  "updated_at": "27.10.2026 22:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 19
-    },
-    {
-      "dt": 1793131200.0,
-      "time_scheduled": "21:00",
-      "time_estimated": "20:48",
-      "flight_no": "EW9085",
-      "airline": "Eurowings",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793131800.0,
@@ -480,25 +461,6 @@
     {
       "dt": 1793134800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:52",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793134800.0,
-      "time_scheduled": "22:00",
       "time_estimated": "22:22",
       "flight_no": "EW9631",
       "airline": "Eurowings",
@@ -514,6 +476,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 22
+    },
+    {
+      "dt": 1793134800.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "21:52",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793134800.0,
@@ -928,8 +909,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 19
     },
