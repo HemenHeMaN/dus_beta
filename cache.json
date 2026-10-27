@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 12:30",
+  "updated_at": "27.10.2026 12:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -34,25 +34,6 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793094300.0,
-      "time_scheduled": "10:45",
-      "time_estimated": "10:30",
-      "flight_no": "EW9959",
-      "airline": "Eurowings",
-      "city": "Split",
-      "country": "Kroatien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -404,7 +385,7 @@
     {
       "dt": 1793098500.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:34",
+      "time_estimated": "12:33",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -414,11 +395,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 40
+      "delay": 38
     },
     {
       "dt": 1793098800.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793100600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:38",
+      "time_estimated": "12:30",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -528,11 +509,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 1
     },
     {
       "dt": 1793100600.0,
@@ -566,9 +547,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 25
     },
@@ -643,15 +624,15 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793102700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:41",
+      "time_estimated": "12:47",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -662,8 +643,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1793103300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:06",
+      "time_estimated": "13:08",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -765,7 +746,7 @@
     {
       "dt": 1793103300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:09",
+      "time_estimated": "13:11",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1240,7 +1221,7 @@
     {
       "dt": 1793108700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:01",
+      "time_estimated": "14:06",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1725,6 +1706,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793118900.0,
+      "time_scheduled": "17:35",
+      "time_estimated": "17:35",
+      "flight_no": "EW9975",
+      "airline": "Eurowings",
+      "city": "Tel Aviv-Ben Gurion",
+      "country": "Israel",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
