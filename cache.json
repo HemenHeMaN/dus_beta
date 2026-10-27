@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 19:45",
+  "updated_at": "27.10.2026 19:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,25 +24,6 @@
     {
       "dt": 1793120100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:49",
-      "flight_no": "AY1395",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793120100.0,
-      "time_scheduled": "17:55",
       "time_estimated": "17:59",
       "flight_no": "KL1803",
       "airline": "KLM",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 4
-    },
-    {
-      "dt": 1793120400.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "17:46",
-      "flight_no": "LH076",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793120700.0,
@@ -547,16 +509,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793128200.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:08",
+      "time_estimated": "20:01",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -567,15 +529,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793128500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "19:54",
+      "time_estimated": "19:49",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -585,9 +547,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1793131200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:57",
+      "time_estimated": "20:55",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -879,7 +841,7 @@
     {
       "dt": 1793133600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:41",
+      "time_estimated": "21:37",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -893,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793133600.0,
@@ -1145,7 +1107,7 @@
     {
       "dt": 1793134800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:01",
+      "time_estimated": "22:05",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1156,10 +1118,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 5
     },
     {
       "dt": 1793134800.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1793135100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:23",
+      "time_estimated": "22:06",
       "flight_no": "EW9855",
       "airline": "Eurowings",
       "city": "Brindisi",
@@ -1292,7 +1254,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 2
     },
     {
       "dt": 1793135400.0,
@@ -1411,7 +1373,7 @@
     {
       "dt": 1793136300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:35",
+      "time_estimated": "22:34",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1425,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1793136300.0,
@@ -1479,8 +1441,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1525,7 +1487,7 @@
     {
       "dt": 1793136900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:16",
+      "time_estimated": "22:18",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
