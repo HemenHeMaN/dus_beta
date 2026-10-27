@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 14:20",
+  "updated_at": "27.10.2026 14:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
-    },
-    {
-      "dt": 1793100600.0,
-      "time_scheduled": "12:30",
-      "time_estimated": "12:23",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793100600.0,
@@ -642,30 +623,30 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1793108100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:38",
+      "time_estimated": "14:37",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
       "country": "Italien",
       "type": "Charter",
       "type_source": "Ausgang",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1793108400.0,
@@ -680,9 +661,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -700,8 +681,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1793110200.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:51",
+      "time_estimated": "15:52",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -760,12 +741,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 41
+      "delay": 42
     },
     {
       "dt": 1793110200.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:06",
+      "time_estimated": "15:07",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -803,7 +784,7 @@
     {
       "dt": 1793110800.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:00",
+      "time_estimated": "15:02",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793117100.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:19",
+      "time_estimated": "17:21",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 17
     },
     {
       "dt": 1793117100.0,
@@ -1354,7 +1335,7 @@
     {
       "dt": 1793120400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:30",
+      "time_estimated": "17:25",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793121600.0,
       "time_scheduled": "18:20",
-      "time_estimated": "17:31",
+      "time_estimated": "17:28",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
