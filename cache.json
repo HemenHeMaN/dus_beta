@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 20:55",
+  "updated_at": "27.10.2026 21:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1793127300.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:44",
-      "flight_no": "BA938",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793127300.0,
-      "time_scheduled": "19:55",
       "time_estimated": "20:12",
       "flight_no": "AF1006",
       "airline": "Air France",
@@ -191,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
+    },
+    {
+      "dt": 1793127300.0,
+      "time_scheduled": "19:55",
+      "time_estimated": "19:44",
+      "flight_no": "BA938",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793127300.0,
@@ -338,9 +338,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -414,9 +414,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -452,9 +452,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +974,7 @@
     {
       "dt": 1793135400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:18",
+      "time_estimated": "22:08",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793135700.0,
