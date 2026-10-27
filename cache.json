@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 05:45",
+  "updated_at": "27.10.2026 05:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -35,8 +35,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -404,7 +404,7 @@
     {
       "dt": 1793087400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:51",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -418,12 +418,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793087700.0,
       "time_scheduled": "08:55",
-      "time_estimated": "09:05",
+      "time_estimated": "08:53",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1793088000.0,
