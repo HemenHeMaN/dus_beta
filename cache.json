@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 08:30",
+  "updated_at": "27.10.2026 08:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793087100.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:34",
+      "time_estimated": "08:39",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -282,8 +282,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793089800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:31",
+      "time_estimated": "09:30",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -529,10 +529,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793090100.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1793090400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:37",
+      "time_estimated": "09:39",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -1164,7 +1164,7 @@
     {
       "dt": 1793097600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:37",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1202,7 +1202,7 @@
     {
       "dt": 1793097600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:33",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1687,6 +1687,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793104500.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:35",
+      "flight_no": "EW9581",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
