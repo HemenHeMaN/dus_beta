@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 06:25",
+  "updated_at": "27.10.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793081400.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:02",
+      "time_estimated": "07:04",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -138,7 +138,7 @@
     {
       "dt": 1793082900.0,
       "time_scheduled": "07:35",
-      "time_estimated": "06:57",
+      "time_estimated": "06:58",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -233,7 +233,7 @@
     {
       "dt": 1793085300.0,
       "time_scheduled": "08:15",
-      "time_estimated": "07:49",
+      "time_estimated": "07:53",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -404,7 +404,7 @@
     {
       "dt": 1793087400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:51",
+      "time_estimated": "09:01",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -418,7 +418,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 12
     },
     {
       "dt": 1793087700.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793088000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:11",
+      "time_estimated": "09:09",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1793088300.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793089200.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:06",
+      "time_estimated": "09:14",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -567,8 +567,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1231,6 +1231,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793097000.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
