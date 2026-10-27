@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 16:40",
+  "updated_at": "27.10.2026 16:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 113
-    },
-    {
-      "dt": 1793108400.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "14:41",
-      "flight_no": "EW9463",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1793110200.0,
@@ -347,7 +328,7 @@
     {
       "dt": 1793116500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:44",
+      "time_estimated": "16:54",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -366,7 +347,7 @@
     {
       "dt": 1793116800.0,
       "time_scheduled": "17:00",
-      "time_estimated": "16:47",
+      "time_estimated": "16:53",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -385,7 +366,7 @@
     {
       "dt": 1793116800.0,
       "time_scheduled": "17:00",
-      "time_estimated": "16:43",
+      "time_estimated": "16:42",
       "flight_no": "BJ2344",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -395,9 +376,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -414,9 +395,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -442,7 +423,7 @@
     {
       "dt": 1793117400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:45",
+      "time_estimated": "16:44",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -452,9 +433,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1793119500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:27",
+      "time_estimated": "17:26",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -632,7 +613,7 @@
     {
       "dt": 1793120400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:08",
+      "time_estimated": "18:09",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -646,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 10
     },
     {
       "dt": 1793120400.0,
@@ -1582,6 +1563,25 @@
     {
       "dt": 1793133900.0,
       "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "X34589",
+      "airline": "Tuifly",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793133900.0,
+      "time_scheduled": "21:45",
       "time_estimated": "21:21",
       "flight_no": "X36643",
       "airline": "Tuifly",
@@ -1595,6 +1595,44 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793133900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793133900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9545",
+      "airline": "Eurowings",
+      "city": "La Palma",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
