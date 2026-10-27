@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 10:40",
+  "updated_at": "27.10.2026 10:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 45
-    },
-    {
-      "dt": 1793087100.0,
-      "time_scheduled": "08:45",
-      "time_estimated": "08:44",
-      "flight_no": "JU360",
-      "airline": "Air Serbia",
-      "city": "Belgrad",
-      "country": "Serbien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793087400.0,
@@ -661,16 +642,16 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
     {
       "dt": 1793095200.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:26",
+      "time_estimated": "11:27",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -684,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 27
     },
     {
       "dt": 1793095200.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1793095800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:17",
+      "time_estimated": "11:18",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1793095800.0,
@@ -757,8 +738,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1793096100.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:22",
+      "time_estimated": "11:23",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 9
     },
     {
       "dt": 1793096100.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793096400.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:19",
+      "time_estimated": "11:20",
       "flight_no": "EW9831",
       "airline": "Eurowings",
       "city": "Florenz",
@@ -855,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793097000.0,
@@ -1487,7 +1468,7 @@
     {
       "dt": 1793105100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:46",
+      "time_estimated": "13:49",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -1498,10 +1479,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 5
     },
     {
       "dt": 1793105100.0,
@@ -1829,7 +1810,7 @@
     {
       "dt": 1793108700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:45",
+      "time_estimated": "14:01",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1840,8 +1821,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1941,13 +1922,13 @@
       "delay": 0
     },
     {
-      "dt": 1793111700.0,
-      "time_scheduled": "15:35",
-      "time_estimated": "15:35",
-      "flight_no": "EW9613",
+      "dt": 1793112300.0,
+      "time_scheduled": "15:45",
+      "time_estimated": "15:45",
+      "flight_no": "EW9511",
       "airline": "Eurowings",
-      "city": "Korfu",
-      "country": "Griechenland",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
