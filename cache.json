@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 17:40",
+  "updated_at": "27.10.2026 17:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,7 +271,7 @@
     {
       "dt": 1793117100.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:47",
+      "time_estimated": "17:44",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -281,11 +281,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 42
+      "delay": 39
     },
     {
       "dt": 1793117400.0,
@@ -471,9 +471,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793120700.0,
       "time_scheduled": "18:05",
-      "time_estimated": "17:58",
+      "time_estimated": "17:50",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -566,9 +566,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -643,8 +643,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793124300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:07",
+      "time_estimated": "19:13",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -798,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 8
     },
     {
       "dt": 1793124300.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793131800.0,
       "time_scheduled": "21:10",
-      "time_estimated": "21:35",
+      "time_estimated": "21:40",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -1194,10 +1194,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 31
     },
     {
       "dt": 1793132100.0,
@@ -1285,7 +1285,7 @@
       "country": "Zypern",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1855,7 +1855,7 @@
       "country": "Großbritannien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -1943,7 +1943,7 @@
     {
       "dt": 1793136900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:24",
+      "time_estimated": "22:29",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -2010,6 +2010,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793137500.0,
+      "time_scheduled": "22:45",
+      "time_estimated": "22:45",
+      "flight_no": "DE1617",
+      "airline": "Condor",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793137500.0,
+      "time_scheduled": "22:45",
+      "time_estimated": "22:45",
+      "flight_no": "DE1623",
+      "airline": "Condor",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
