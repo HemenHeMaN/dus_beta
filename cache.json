@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 10:00",
+  "updated_at": "27.10.2026 10:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1793091900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:09",
+      "time_estimated": "10:04",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -547,11 +547,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793092500.0,
@@ -642,16 +642,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
     {
       "dt": 1793093400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:19",
+      "time_estimated": "10:11",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -746,7 +746,7 @@
     {
       "dt": 1793094300.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:37",
+      "time_estimated": "10:38",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -828,9 +828,9 @@
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -866,9 +866,9 @@
       "city": "Oslo - Gardermoen",
       "country": "Norwegen",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1145,7 +1145,7 @@
     {
       "dt": 1793098800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:30",
+      "time_estimated": "12:28",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 28
     },
     {
       "dt": 1793099100.0,
@@ -1387,12 +1387,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793102700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:54",
+      "time_estimated": "12:50",
       "flight_no": "EW9665",
       "airline": "Eurowings",
       "city": "Preveza-Aktion",
@@ -1403,8 +1403,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1487,7 +1487,7 @@
     {
       "dt": 1793103600.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:09",
+      "time_estimated": "13:05",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
