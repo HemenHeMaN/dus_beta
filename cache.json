@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 06:05",
+  "updated_at": "27.10.2026 06:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1793079300.0,
       "time_scheduled": "06:35",
-      "time_estimated": "06:10",
+      "time_estimated": "06:09",
       "flight_no": "XQ1390",
       "airline": "Sun Express",
       "city": "Gaziantep",
@@ -53,16 +53,16 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793079300.0,
       "time_scheduled": "06:35",
-      "time_estimated": "06:10",
+      "time_estimated": "06:06",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -72,16 +72,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793079600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:12",
+      "time_estimated": "06:13",
       "flight_no": "XQ1320",
       "airline": "Sun Express",
       "city": "Kayseri",
@@ -290,7 +290,7 @@
     {
       "dt": 1793085900.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:37",
+      "time_estimated": "08:21",
       "flight_no": "H7403",
       "airline": "Hi Sky",
       "city": "Chisinau",
@@ -304,7 +304,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 0
     },
     {
       "dt": 1793086800.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1793088000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:54",
+      "time_estimated": "09:02",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -453,15 +453,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793088000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:00",
+      "time_estimated": "09:11",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793088300.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793091600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "09:16",
       "flight_no": "4M211",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -776,8 +776,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1093,6 +1093,44 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793095800.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793095800.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "SK818",
+      "airline": "Scandinavian Airlines",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
