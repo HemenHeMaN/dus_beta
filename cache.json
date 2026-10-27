@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 17:00",
+  "updated_at": "27.10.2026 17:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -347,7 +347,7 @@
     {
       "dt": 1793117100.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:51",
+      "time_estimated": "17:49",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -361,7 +361,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 46
+      "delay": 44
     },
     {
       "dt": 1793117400.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793118600.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:06",
+      "time_estimated": "17:02",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -433,9 +433,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1793121600.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:18",
+      "time_estimated": "18:17",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -727,7 +727,7 @@
     {
       "dt": 1793122500.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:11",
+      "time_estimated": "19:09",
       "flight_no": "EW9669",
       "airline": "Eurowings",
       "city": "Kalamata",
@@ -741,7 +741,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 36
+      "delay": 34
     },
     {
       "dt": 1793123400.0,
@@ -1704,6 +1704,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793135100.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9765",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793135100.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9853",
+      "airline": "Eurowings",
+      "city": "Lamezia Terme (Kalabrien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793135100.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9855",
+      "airline": "Eurowings",
+      "city": "Brindisi",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
