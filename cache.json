@@ -1,26 +1,7 @@
 {
-  "updated_at": "27.10.2026 20:15",
+  "updated_at": "27.10.2026 20:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793120700.0,
-      "time_scheduled": "18:05",
-      "time_estimated": "18:20",
-      "flight_no": "EW9467",
-      "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 15
-    },
     {
       "dt": 1793121600.0,
       "time_scheduled": "18:20",
@@ -537,7 +518,7 @@
     {
       "dt": 1793131200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:22",
+      "time_estimated": "20:19",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -547,9 +528,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +841,7 @@
     {
       "dt": 1793133900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:33",
+      "time_estimated": "21:37",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -871,8 +852,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1373,7 +1354,7 @@
     {
       "dt": 1793136900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:24",
+      "time_estimated": "22:39",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1387,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793137200.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793138100.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:20",
+      "time_estimated": "23:19",
       "flight_no": "X32119",
       "airline": "Tuifly",
       "city": "Teneriffa Süd",
@@ -1463,7 +1444,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 24
     }
   ]
 }
