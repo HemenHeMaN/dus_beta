@@ -1,64 +1,7 @@
 {
-  "updated_at": "27.10.2026 09:30",
+  "updated_at": "27.10.2026 09:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793083200.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:33",
-      "flight_no": "LH2000",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793083200.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:35",
-      "flight_no": "KL1797",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793084400.0,
-      "time_scheduled": "08:00",
-      "time_estimated": "07:31",
-      "flight_no": "PC5001",
-      "airline": "Pegasus Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793085300.0,
       "time_scheduled": "08:15",
@@ -499,7 +442,7 @@
     {
       "dt": 1793090400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:40",
+      "time_estimated": "09:32",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -509,11 +452,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793091000.0,
@@ -556,7 +499,7 @@
     {
       "dt": 1793091000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:57",
+      "time_estimated": "09:52",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -567,10 +510,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 8
+      "delay": 2
     },
     {
       "dt": 1793091600.0,
@@ -613,7 +556,7 @@
     {
       "dt": 1793091900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:08",
+      "time_estimated": "10:09",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -627,12 +570,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793092500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:09",
+      "time_estimated": "10:10",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -689,15 +632,15 @@
     {
       "dt": 1793093100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:11",
+      "time_estimated": "10:13",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
       "country": "Dänemark",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -841,7 +784,7 @@
     {
       "dt": 1793094900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:51",
+      "time_estimated": "10:56",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -855,12 +798,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793095200.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:20",
+      "time_estimated": "11:26",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -874,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 26
     },
     {
       "dt": 1793095200.0,
@@ -1145,7 +1088,7 @@
     {
       "dt": 1793098200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:35",
+      "time_estimated": "11:33",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1156,8 +1099,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1221,7 +1164,7 @@
     {
       "dt": 1793098800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:28",
+      "time_estimated": "12:29",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1235,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 29
     },
     {
       "dt": 1793099100.0,
@@ -1308,8 +1251,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1910,6 +1853,44 @@
       "airline": "Eurowings",
       "city": "Kos",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793108100.0,
+      "time_scheduled": "14:35",
+      "time_estimated": "14:35",
+      "flight_no": "PC1003",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793108100.0,
+      "time_scheduled": "14:35",
+      "time_estimated": "14:35",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
