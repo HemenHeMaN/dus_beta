@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 20:25",
+  "updated_at": "27.10.2026 20:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -309,25 +309,6 @@
     {
       "dt": 1793127300.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:44",
-      "flight_no": "BA938",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793127300.0,
-      "time_scheduled": "19:55",
       "time_estimated": "20:12",
       "flight_no": "AF1006",
       "airline": "Air France",
@@ -343,6 +324,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 17
+    },
+    {
+      "dt": 1793127300.0,
+      "time_scheduled": "19:55",
+      "time_estimated": "19:44",
+      "flight_no": "BA938",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793127300.0,
@@ -471,9 +471,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793133600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:34",
+      "time_estimated": "21:32",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -879,7 +879,7 @@
     {
       "dt": 1793134200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:51",
+      "time_estimated": "21:52",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1793134200.0,
@@ -909,8 +909,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 22
     },
@@ -936,7 +936,7 @@
     {
       "dt": 1793134500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:44",
+      "time_estimated": "21:50",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793138100.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:19",
+      "time_estimated": "23:24",
       "flight_no": "X32119",
       "airline": "Tuifly",
       "city": "Teneriffa Süd",
@@ -1425,7 +1425,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 29
     }
   ]
 }
