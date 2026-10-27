@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 12:10",
+  "updated_at": "27.10.2026 12:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1793099100.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:20",
+      "time_estimated": "12:14",
       "flight_no": "X34429",
       "airline": "Tuifly",
       "city": "Korfu",
@@ -547,11 +547,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 10
     },
     {
       "dt": 1793100000.0,
@@ -624,8 +624,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -694,11 +694,11 @@
       "airline": "Eurowings",
       "city": "Malaga",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -708,7 +708,7 @@
     {
       "dt": 1793102400.0,
       "time_scheduled": "13:00",
-      "time_estimated": "12:52",
+      "time_estimated": "12:48",
       "flight_no": "DE1557",
       "airline": "Condor",
       "city": "Jerez de la Frontera",
@@ -727,7 +727,7 @@
     {
       "dt": 1793102700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:40",
+      "time_estimated": "12:41",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -765,7 +765,7 @@
     {
       "dt": 1793102700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:42",
+      "time_estimated": "12:43",
       "flight_no": "EW9665",
       "airline": "Eurowings",
       "city": "Preveza-Aktion",
@@ -790,9 +790,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -808,11 +808,11 @@
       "airline": "Air Cairo",
       "city": "Hurghada",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -847,9 +847,9 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -865,11 +865,11 @@
       "airline": "Egypt Air",
       "city": "Kairo",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793106900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:17",
+      "time_estimated": "14:15",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 1
     },
     {
       "dt": 1793107200.0,
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793110800.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793111700.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:35",
+      "time_estimated": "15:19",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
