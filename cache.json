@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 20:40",
+  "updated_at": "27.10.2026 20:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,44 +52,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793123700.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:44",
-      "flight_no": "LH2028",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793124300.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "18:42",
-      "flight_no": "DE869",
-      "airline": "Condor",
-      "city": "Beirut",
-      "country": "Libanon",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -376,9 +338,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 22
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1793130300.0,
       "time_scheduled": "20:45",
-      "time_estimated": "20:55",
+      "time_estimated": "20:44",
       "flight_no": "EW9517",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -433,11 +395,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 0
     },
     {
       "dt": 1793130900.0,
@@ -518,7 +480,7 @@
     {
       "dt": 1793132100.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:21",
+      "time_estimated": "21:16",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -532,7 +494,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1793132100.0,
@@ -651,7 +613,7 @@
     {
       "dt": 1793133600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:43",
+      "time_estimated": "21:49",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -665,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1793133600.0,
