@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 06:55",
+  "updated_at": "27.10.2026 07:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793082900.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:03",
+      "time_estimated": "06:58",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -148,9 +148,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1793083200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:41",
+      "time_estimated": "07:39",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -190,12 +190,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793084400.0,
       "time_scheduled": "08:00",
-      "time_estimated": "07:33",
+      "time_estimated": "07:34",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -214,7 +214,7 @@
     {
       "dt": 1793084400.0,
       "time_scheduled": "08:00",
-      "time_estimated": "07:32",
+      "time_estimated": "07:33",
       "flight_no": "XC244",
       "airline": "Corendon Airlines",
       "city": "Gazipaşa-Alanya",
@@ -404,7 +404,7 @@
     {
       "dt": 1793087400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:01",
+      "time_estimated": "08:54",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -418,7 +418,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 5
     },
     {
       "dt": 1793087700.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793088300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:56",
+      "time_estimated": "09:08",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -494,7 +494,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793088600.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793090100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:26",
+      "time_estimated": "09:20",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -727,7 +727,7 @@
     {
       "dt": 1793091000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "10:03",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1793091600.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1793091900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:01",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -803,7 +803,7 @@
     {
       "dt": 1793092500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:05",
+      "time_estimated": "10:10",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -1362,6 +1362,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793098800.0,
+      "time_scheduled": "12:00",
+      "time_estimated": "12:00",
+      "flight_no": "EW5703",
+      "airline": "Eurowings",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793098800.0,
+      "time_scheduled": "12:00",
+      "time_estimated": "12:00",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
