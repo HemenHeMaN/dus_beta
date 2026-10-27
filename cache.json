@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 06:35",
+  "updated_at": "27.10.2026 06:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1793083200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:41",
+      "time_estimated": "07:38",
       "flight_no": "LH2000",
       "airline": "Lufthansa",
       "city": "München",
@@ -168,15 +168,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793083200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:40",
+      "time_estimated": "07:41",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793084400.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793088600.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:55",
+      "time_estimated": "08:49",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -727,7 +727,7 @@
     {
       "dt": 1793091000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:40",
+      "time_estimated": "09:39",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -955,7 +955,7 @@
     {
       "dt": 1793093700.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:35",
+      "time_estimated": "09:58",
       "flight_no": "4M247",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -966,8 +966,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1269,6 +1269,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793097600.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793097600.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "BA932",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793097600.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32313",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
