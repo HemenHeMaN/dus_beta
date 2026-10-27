@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 21:40",
+  "updated_at": "27.10.2026 21:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1793127300.0,
-      "time_scheduled": "19:55",
-      "time_estimated": "19:44",
-      "flight_no": "BA938",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793127300.0,
@@ -404,7 +385,7 @@
     {
       "dt": 1793133600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:42",
+      "time_estimated": "21:43",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -414,11 +395,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1793133600.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1793133900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:54",
+      "time_estimated": "21:44",
       "flight_no": "EW9545",
       "airline": "Eurowings",
       "city": "La Palma",
@@ -566,11 +547,11 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1793134200.0,
@@ -657,13 +638,13 @@
       "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -681,15 +662,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793134800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:48",
+      "time_estimated": "21:41",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -699,9 +680,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1793135100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:29",
+      "time_estimated": "22:38",
       "flight_no": "EW9853",
       "airline": "Eurowings",
       "city": "Lamezia Terme (Kalabrien)",
@@ -779,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 33
     },
     {
       "dt": 1793135100.0,
@@ -809,9 +790,9 @@
       "city": "Brindisi",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -833,8 +814,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
