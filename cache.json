@@ -1,5 +1,5 @@
 {
-  "updated_at": "27.10.2026 16:50",
+  "updated_at": "27.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 26
-    },
-    {
-      "dt": 1793110200.0,
-      "time_scheduled": "15:10",
-      "time_estimated": "14:53",
-      "flight_no": "EW9421",
-      "airline": "Eurowings",
-      "city": "Nizza",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793110500.0,
@@ -328,7 +309,7 @@
     {
       "dt": 1793116500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:54",
+      "time_estimated": "16:50",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -338,9 +319,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -448,9 +429,9 @@
       "city": "Valencia",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -471,9 +452,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -491,8 +472,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -562,9 +543,9 @@
       "city": "Zürich",
       "country": "Schweiz",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1031,7 +1012,7 @@
     {
       "dt": 1793126700.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:58",
+      "time_estimated": "19:59",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 15
     },
     {
       "dt": 1793127000.0,
@@ -1088,7 +1069,7 @@
     {
       "dt": 1793127300.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:55",
+      "time_estimated": "19:57",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793127300.0,
@@ -1126,7 +1107,7 @@
     {
       "dt": 1793127300.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:55",
+      "time_estimated": "19:58",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1140,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793128200.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793129700.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:52",
+      "time_estimated": "20:51",
       "flight_no": "EW9917",
       "airline": "Eurowings",
       "city": "Tirana",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 16
     },
     {
       "dt": 1793130000.0,
@@ -1666,6 +1647,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793134500.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "XR440",
+      "airline": "Corendon Airlines Europe",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793134500.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9469",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
