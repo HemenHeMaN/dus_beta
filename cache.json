@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 16:10",
+  "updated_at": "28.10.2026 16:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 102
     },
     {
-      "dt": 1793189700.0,
-      "time_scheduled": "13:15",
-      "time_estimated": "14:12",
-      "flight_no": "SM2928",
-      "airline": "Air Cairo",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 58
-    },
-    {
       "dt": 1793192400.0,
       "time_scheduled": "14:00",
       "time_estimated": "14:23",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 23
-    },
-    {
-      "dt": 1793192400.0,
-      "time_scheduled": "14:00",
-      "time_estimated": "14:14",
-      "flight_no": "EW9571",
-      "airline": "Eurowings",
-      "city": "Jerez de la Frontera",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 14
     },
     {
       "dt": 1793193600.0,
@@ -480,7 +442,7 @@
     {
       "dt": 1793201400.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:18",
+      "time_estimated": "16:24",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -993,7 +955,7 @@
     {
       "dt": 1793207100.0,
       "time_scheduled": "18:05",
-      "time_estimated": "17:55",
+      "time_estimated": "18:06",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1007,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793207100.0,
@@ -1411,7 +1373,7 @@
     {
       "dt": 1793213400.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:50",
+      "time_estimated": "19:32",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1422,8 +1384,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1744,6 +1706,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793218500.0,
+      "time_scheduled": "21:15",
+      "time_estimated": "21:15",
+      "flight_no": "XR502",
+      "airline": "Corendon Airlines Europe",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
