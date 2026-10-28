@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 10:20",
+  "updated_at": "28.10.2026 10:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793175000.0,
       "time_scheduled": "09:10",
-      "time_estimated": "10:26",
+      "time_estimated": "10:21",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -186,11 +186,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 76
+      "delay": 71
     },
     {
       "dt": 1793175600.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793180700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:50",
+      "time_estimated": "10:52",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -608,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1793180700.0,
@@ -623,9 +623,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -700,8 +700,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793187000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:38",
+      "time_estimated": "12:40",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1080,10 +1080,10 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 11
     },
     {
       "dt": 1793187300.0,
@@ -1156,8 +1156,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 19
     },
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793189100.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:01",
+      "time_estimated": "13:03",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1398,9 +1398,9 @@
       "city": "Samos",
       "country": "Griechenland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1416,11 +1416,11 @@
       "airline": "Eurowings",
       "city": "Athen",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1582,7 +1582,7 @@
     {
       "dt": 1793192100.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "13:41",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -1593,15 +1593,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793192400.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:00",
+      "time_estimated": "13:35",
       "flight_no": "DE1795",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1612,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
