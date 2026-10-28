@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 09:50",
+  "updated_at": "28.10.2026 09:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -224,9 +224,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 44
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1793177700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:00",
+      "time_estimated": "09:51",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -395,11 +395,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793178000.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1793178600.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:12",
+      "time_estimated": "10:11",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -453,10 +453,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1793178900.0,
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -585,9 +585,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1793181900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:09",
+      "time_estimated": "11:08",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -738,15 +738,15 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1793182200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:28",
+      "time_estimated": "11:34",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -760,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 24
     },
     {
       "dt": 1793182200.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793184900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:46",
+      "time_estimated": "11:49",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -947,8 +947,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793187300.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:42",
+      "time_estimated": "12:39",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 5
     },
     {
       "dt": 1793188200.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1793188200.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:50",
+      "time_estimated": "13:00",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793188500.0,
@@ -1327,8 +1327,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
