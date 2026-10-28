@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 16:20",
+  "updated_at": "28.10.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 102
-    },
-    {
-      "dt": 1793192400.0,
-      "time_scheduled": "14:00",
-      "time_estimated": "14:23",
-      "flight_no": "RJ129",
-      "airline": "Royal Jordanian",
-      "city": "Amman-Queen Alia",
-      "country": "Jordanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 23
-    },
-    {
-      "dt": 1793194500.0,
-      "time_scheduled": "14:35",
-      "time_estimated": "14:21",
-      "flight_no": "PC1003",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793194800.0,
@@ -471,9 +433,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793205900.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:10",
+      "time_estimated": "18:04",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -741,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 20
     },
     {
       "dt": 1793206500.0,
@@ -784,7 +746,7 @@
     {
       "dt": 1793206800.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:54",
+      "time_estimated": "18:00",
       "flight_no": "BA936",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -798,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793206800.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1793207100.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:06",
+      "time_estimated": "18:05",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -931,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793207100.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793209800.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:47",
+      "time_estimated": "18:46",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1563,7 +1525,7 @@
     {
       "dt": 1793216100.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:47",
+      "time_estimated": "20:46",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -1577,7 +1539,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 11
     },
     {
       "dt": 1793216100.0,
@@ -1680,6 +1642,44 @@
       "time_estimated": "21:15",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793219100.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793219100.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
