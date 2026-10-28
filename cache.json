@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 12:15",
+  "updated_at": "28.10.2026 12:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -548,8 +548,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1793188500.0,
       "time_scheduled": "12:55",
-      "time_estimated": "13:00",
+      "time_estimated": "12:55",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -608,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1793188800.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793190000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:41",
+      "time_estimated": "13:39",
       "flight_no": "EW9767",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 20
     },
     {
       "dt": 1793190600.0,
@@ -1430,7 +1430,7 @@
     {
       "dt": 1793199900.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:36",
+      "time_estimated": "16:05",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1444,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 31
+      "delay": 0
     },
     {
       "dt": 1793200200.0,
@@ -1620,7 +1620,7 @@
     {
       "dt": 1793202300.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:45",
+      "time_estimated": "16:48",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -1634,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793202300.0,
@@ -1818,6 +1818,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793204400.0,
+      "time_scheduled": "17:20",
+      "time_estimated": "17:20",
+      "flight_no": "OS165",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
