@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 14:30",
+  "updated_at": "28.10.2026 14:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 60
-    },
-    {
-      "dt": 1793187300.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "12:32",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793188200.0,
@@ -746,7 +727,7 @@
     {
       "dt": 1793195100.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:38",
+      "time_estimated": "14:33",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -756,9 +737,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793200800.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:22",
+      "time_estimated": "16:23",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793201100.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1793207100.0,
       "time_scheduled": "18:05",
-      "time_estimated": "17:23",
+      "time_estimated": "17:26",
       "flight_no": "XQ1328",
       "airline": "Sun Express",
       "city": "Zonguldak",
@@ -1574,8 +1555,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1896,6 +1877,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793212500.0,
+      "time_scheduled": "19:35",
+      "time_estimated": "19:35",
+      "flight_no": "EW4338",
+      "airline": "Eurowings",
+      "city": "Salzburg",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
