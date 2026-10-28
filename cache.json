@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 09:15",
+  "updated_at": "28.10.2026 09:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -281,16 +281,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793176500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:55",
+      "time_estimated": "09:56",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -301,10 +301,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 22
     },
     {
       "dt": 1793176800.0,
@@ -320,8 +320,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -338,9 +338,9 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793179800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:24",
+      "time_estimated": "10:21",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -586,8 +586,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +917,7 @@
     {
       "dt": 1793184300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:29",
+      "time_estimated": "11:33",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -947,8 +947,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1742,6 +1742,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793193600.0,
+      "time_scheduled": "14:20",
+      "time_estimated": "14:20",
+      "flight_no": "EW9643",
+      "airline": "Eurowings",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
