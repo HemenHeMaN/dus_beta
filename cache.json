@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 07:50",
+  "updated_at": "28.10.2026 07:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,7 +290,7 @@
     {
       "dt": 1793174700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:54",
+      "time_estimated": "08:55",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -594,7 +594,7 @@
     {
       "dt": 1793178000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:22",
+      "time_estimated": "09:27",
       "flight_no": "4M396",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -651,7 +651,7 @@
     {
       "dt": 1793179500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:24",
+      "time_estimated": "10:10",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -678,7 +678,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -727,21 +727,21 @@
     {
       "dt": 1793179800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:29",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793179800.0,
@@ -1307,6 +1307,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793188500.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "X32815",
+      "airline": "Tuifly",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
