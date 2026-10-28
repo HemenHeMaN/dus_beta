@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 20:00",
+  "updated_at": "28.10.2026 20:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 50
-    },
-    {
-      "dt": 1793206800.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "18:03",
-      "flight_no": "LH076",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1793207100.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1793214600.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:05",
+      "time_estimated": "20:00",
       "flight_no": "VL2032",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -566,9 +547,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -586,8 +567,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -604,9 +585,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1793214900.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:04",
+      "time_estimated": "20:10",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -860,7 +841,7 @@
     {
       "dt": 1793220000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:41",
+      "time_estimated": "21:34",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -874,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793220000.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1793220300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:49",
+      "time_estimated": "21:42",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -931,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793220300.0,
@@ -1042,8 +1023,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 19
     },
