@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 10:10",
+  "updated_at": "28.10.2026 10:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793175000.0,
       "time_scheduled": "09:10",
-      "time_estimated": "10:25",
+      "time_estimated": "10:26",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -187,10 +187,10 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 75
+      "delay": 76
     },
     {
       "dt": 1793175600.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793179500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:21",
+      "time_estimated": "10:11",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1793179800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:23",
+      "time_estimated": "10:14",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -566,9 +566,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1793181300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:52",
+      "time_estimated": "10:53",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1145,7 +1145,7 @@
     {
       "dt": 1793188200.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:00",
+      "time_estimated": "13:08",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1159,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 19
     },
     {
       "dt": 1793188500.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793189700.0,
       "time_scheduled": "13:15",
-      "time_estimated": "14:57",
+      "time_estimated": "14:58",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1311,7 +1311,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 102
+      "delay": 103
     },
     {
       "dt": 1793189700.0,
@@ -1856,6 +1856,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793196900.0,
+      "time_scheduled": "15:15",
+      "time_estimated": "15:15",
+      "flight_no": "LH2020",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793196900.0,
+      "time_scheduled": "15:15",
+      "time_estimated": "15:15",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
