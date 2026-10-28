@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 07:25",
+  "updated_at": "28.10.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,7 +195,7 @@
     {
       "dt": 1793173800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:42",
+      "time_estimated": "08:40",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -309,7 +309,7 @@
     {
       "dt": 1793174700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:10",
+      "time_estimated": "09:08",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793174700.0,
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793179800.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793181300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:47",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -814,8 +814,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1126,7 +1126,7 @@
     {
       "dt": 1793185200.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "12:28",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 28
     },
     {
       "dt": 1793186400.0,
@@ -1196,6 +1196,44 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793187000.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793187000.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
