@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 09:10",
+  "updated_at": "28.10.2026 09:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -453,8 +453,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793179500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:39",
+      "time_estimated": "10:25",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -529,10 +529,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 1
     },
     {
       "dt": 1793179500.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793182200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:36",
+      "time_estimated": "11:28",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -779,12 +779,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 18
     },
     {
       "dt": 1793182200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:06",
+      "time_estimated": "11:12",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -798,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793182500.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793186400.0,
       "time_scheduled": "12:20",
-      "time_estimated": "12:20",
+      "time_estimated": "12:24",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793186700.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793187300.0,
       "time_scheduled": "12:35",
-      "time_estimated": "11:58",
+      "time_estimated": "11:57",
       "flight_no": "XQ184",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1720,6 +1720,25 @@
       "airline": "Easy Jet",
       "city": "London-Gatwick",
       "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793193300.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:15",
+      "flight_no": "OS163",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
