@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 07:35",
+  "updated_at": "28.10.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1793169600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:36",
+      "time_estimated": "07:35",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -167,9 +167,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -480,7 +480,7 @@
     {
       "dt": 1793176800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:41",
+      "time_estimated": "09:51",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -494,7 +494,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 11
     },
     {
       "dt": 1793177100.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793177700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:50",
+      "time_estimated": "10:00",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -567,10 +567,10 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793178000.0,
@@ -618,11 +618,11 @@
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -670,7 +670,7 @@
     {
       "dt": 1793179500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:39",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1793179500.0,
@@ -752,9 +752,9 @@
       "city": "Mailand-Linate",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -765,7 +765,7 @@
     {
       "dt": 1793180700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:41",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
