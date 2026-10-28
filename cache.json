@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 11:15",
+  "updated_at": "28.10.2026 11:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 36
-    },
-    {
-      "dt": 1793176200.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:20",
-      "flight_no": "EW9081",
-      "airline": "Eurowings",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793176500.0,
@@ -491,8 +472,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1793182200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:35",
+      "time_estimated": "11:26",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -570,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 16
     },
     {
       "dt": 1793182200.0,
@@ -613,7 +594,7 @@
     {
       "dt": 1793182800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:19",
+      "time_estimated": "11:16",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -623,9 +604,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1793183100.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:28",
+      "time_estimated": "11:19",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -661,11 +642,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793183400.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1793183400.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:19",
+      "time_estimated": "11:25",
       "flight_no": "KM352",
       "airline": "KM Malta Airlines",
       "city": "Malta",
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793192400.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:09",
+      "time_estimated": "14:19",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -1463,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 19
     },
     {
       "dt": 1793192700.0,
@@ -1582,7 +1563,7 @@
     {
       "dt": 1793194500.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:35",
+      "time_estimated": "14:25",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1910,6 +1891,25 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793200800.0,
+      "time_scheduled": "16:20",
+      "time_estimated": "16:20",
+      "flight_no": "EW9465",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
