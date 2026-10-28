@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 09:35",
+  "updated_at": "28.10.2026 09:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,6 +119,25 @@
     {
       "dt": 1793174700.0,
       "time_scheduled": "09:05",
+      "time_estimated": "09:05",
+      "flight_no": "UD437",
+      "airline": "UR Airlines",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
+      "delay": 0
+    },
+    {
+      "dt": 1793174700.0,
+      "time_scheduled": "09:05",
       "time_estimated": "08:53",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
@@ -152,25 +171,6 @@
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793174700.0,
-      "time_scheduled": "09:05",
-      "time_estimated": "09:05",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "cancelled",
-      "status_text": "annulliert",
-      "status_detail": "annulliert, annulliert",
-      "remark": "annulliert",
       "delay": 0
     },
     {
@@ -328,7 +328,7 @@
     {
       "dt": 1793177100.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:41",
+      "time_estimated": "09:36",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -338,9 +338,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -395,9 +395,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -548,8 +548,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1793180700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:39",
+      "time_estimated": "10:49",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793180700.0,
@@ -621,7 +621,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
+      "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -640,8 +640,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -727,7 +727,7 @@
     {
       "dt": 1793181900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "11:09",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793182200.0,
@@ -846,11 +846,11 @@
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1042,8 +1042,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793187300.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:35",
+      "time_estimated": "12:42",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793188200.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793189400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:29",
+      "time_estimated": "13:25",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -1273,7 +1273,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 16
     },
     {
       "dt": 1793189700.0,
@@ -1761,6 +1761,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793194800.0,
+      "time_scheduled": "14:40",
+      "time_estimated": "14:40",
+      "flight_no": "EW9463",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
