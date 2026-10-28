@@ -1,26 +1,7 @@
 {
-  "updated_at": "28.10.2026 20:50",
+  "updated_at": "28.10.2026 20:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793210100.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:51",
-      "flight_no": "PC1005",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793210700.0,
       "time_scheduled": "19:05",
@@ -537,7 +518,7 @@
     {
       "dt": 1793217300.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:56",
+      "time_estimated": "20:50",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -547,11 +528,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793217600.0,
@@ -567,8 +548,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -623,9 +604,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1793220900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:53",
+      "time_estimated": "21:59",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -798,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793220900.0,
@@ -993,7 +974,7 @@
     {
       "dt": 1793222100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:07",
+      "time_estimated": "22:03",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1031,7 +1012,7 @@
     {
       "dt": 1793222100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:05",
+      "time_estimated": "22:06",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1042,8 +1023,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1793222100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:02",
+      "time_estimated": "22:04",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1080,8 +1061,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
