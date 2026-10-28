@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 07:10",
+  "updated_at": "28.10.2026 07:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1793169600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:39",
+      "time_estimated": "07:42",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -168,10 +168,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793173200.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793174400.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:07",
+      "time_estimated": "09:06",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -266,7 +266,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1793174400.0,
@@ -347,7 +347,7 @@
     {
       "dt": 1793175000.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:10",
+      "time_estimated": "10:18",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -361,7 +361,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 68
     },
     {
       "dt": 1793175600.0,
@@ -390,11 +390,11 @@
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
       "country": "Dänemark",
-      "type": "Linie",
+      "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -505,9 +505,9 @@
       "city": "Hamburg",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -518,16 +518,16 @@
     {
       "dt": 1793177400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:39",
+      "time_estimated": "09:40",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
       "country": "Irland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -714,10 +714,10 @@
       "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -746,7 +746,7 @@
     {
       "dt": 1793179800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:15",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
