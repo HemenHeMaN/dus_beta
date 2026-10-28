@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 14:40",
+  "updated_at": "28.10.2026 14:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,25 +119,6 @@
     {
       "dt": 1793189100.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:44",
-      "flight_no": "TK1525",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793189100.0,
-      "time_scheduled": "13:05",
       "time_estimated": "13:13",
       "flight_no": "EW9815",
       "airline": "Eurowings",
@@ -224,9 +205,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 105
     },
@@ -936,7 +917,7 @@
     {
       "dt": 1793200200.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:02",
+      "time_estimated": "16:01",
       "flight_no": "DE1427",
       "airline": "Condor",
       "city": "La Palma",
@@ -955,7 +936,7 @@
     {
       "dt": 1793200500.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:15",
+      "time_estimated": "16:14",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -969,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793200500.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1793200500.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:10",
+      "time_estimated": "16:06",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1037,9 +1018,9 @@
       "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1164,7 +1145,7 @@
     {
       "dt": 1793202600.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:03",
+      "time_estimated": "17:10",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 20
     },
     {
       "dt": 1793202600.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793206500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:55",
+      "time_estimated": "17:49",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1929,6 +1910,25 @@
       "airline": "Eurowings",
       "city": "Barcelona",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793213100.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "EW8046",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
