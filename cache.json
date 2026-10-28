@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 12:30",
+  "updated_at": "28.10.2026 12:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 34
-    },
-    {
-      "dt": 1793181300.0,
-      "time_scheduled": "10:55",
-      "time_estimated": "10:34",
-      "flight_no": "BJ214",
-      "airline": "Nouvelair",
-      "city": "Monastir",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793181900.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793187300.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:43",
+      "time_estimated": "12:32",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -528,11 +509,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793188200.0,
@@ -585,9 +566,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -604,9 +585,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -624,8 +605,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +737,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1793190000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:40",
+      "time_estimated": "13:34",
       "flight_no": "EW9767",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 15
     },
     {
       "dt": 1793190600.0,
@@ -1839,6 +1820,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793205300.0,
+      "time_scheduled": "17:35",
+      "time_estimated": "17:35",
+      "flight_no": "EW9519",
+      "airline": "Eurowings",
+      "city": "Bilbao",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
