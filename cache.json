@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 08:15",
+  "updated_at": "28.10.2026 08:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1793173200.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:39",
+      "time_estimated": "08:31",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -73,8 +73,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -241,7 +241,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -271,7 +271,7 @@
     {
       "dt": 1793176200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:26",
+      "time_estimated": "09:41",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -285,12 +285,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793176200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:28",
+      "time_estimated": "09:26",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -499,7 +499,7 @@
     {
       "dt": 1793178600.0,
       "time_scheduled": "10:10",
-      "time_estimated": "10:11",
+      "time_estimated": "10:15",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -513,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 6
     },
     {
       "dt": 1793178900.0,
@@ -545,7 +545,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "7",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -860,7 +860,7 @@
     {
       "dt": 1793182800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:20",
+      "time_estimated": "11:18",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -879,7 +879,7 @@
     {
       "dt": 1793182800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:07",
+      "time_estimated": "11:12",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1383,6 +1383,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793190000.0,
+      "time_scheduled": "13:20",
+      "time_estimated": "13:20",
+      "flight_no": "EW9767",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
