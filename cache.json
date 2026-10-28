@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 08:45",
+  "updated_at": "28.10.2026 08:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -92,8 +92,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -129,9 +129,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -187,8 +187,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1793176200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:55",
+      "time_estimated": "10:04",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -266,7 +266,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 34
     },
     {
       "dt": 1793176200.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793176500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:42",
+      "time_estimated": "09:52",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 18
     },
     {
       "dt": 1793176800.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793177100.0,
       "time_scheduled": "09:45",
-      "time_estimated": "09:48",
+      "time_estimated": "09:43",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -380,7 +380,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793177400.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793177400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:57",
+      "time_estimated": "09:56",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -415,10 +415,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1793177700.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793179800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:07",
+      "time_estimated": "10:05",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -746,7 +746,7 @@
     {
       "dt": 1793181900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:21",
+      "time_estimated": "11:15",
       "flight_no": "MI4752",
       "airline": "Freebird Airlines Europe",
       "city": "Hurghada",
@@ -760,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1793181900.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793182800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:12",
+      "time_estimated": "11:10",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1552,6 +1552,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793191800.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "KL1801",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
