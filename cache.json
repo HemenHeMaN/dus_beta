@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 11:20",
+  "updated_at": "28.10.2026 11:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,25 +138,6 @@
     {
       "dt": 1793177400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:24",
-      "flight_no": "EI692",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793177400.0,
-      "time_scheduled": "09:50",
       "time_estimated": "09:43",
       "flight_no": "EW9761",
       "airline": "Eurowings",
@@ -205,25 +186,6 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793178000.0,
-      "time_scheduled": "10:00",
-      "time_estimated": "09:22",
-      "flight_no": "4M396",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -537,7 +499,7 @@
     {
       "dt": 1793182200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:26",
+      "time_estimated": "11:24",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -547,11 +509,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1793182200.0,
@@ -670,7 +632,7 @@
     {
       "dt": 1793183400.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:25",
+      "time_estimated": "11:22",
       "flight_no": "KM352",
       "airline": "KM Malta Airlines",
       "city": "Malta",
@@ -680,9 +642,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1793184300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:21",
+      "time_estimated": "11:29",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1544,7 +1506,7 @@
     {
       "dt": 1793193600.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:20",
+      "time_estimated": "14:23",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1558,7 +1520,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793194500.0,
@@ -1913,6 +1875,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793201100.0,
+      "time_scheduled": "16:25",
+      "time_estimated": "16:25",
+      "flight_no": "EW9543",
+      "airline": "Eurowings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
