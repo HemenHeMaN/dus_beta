@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 07:30",
+  "updated_at": "28.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -214,7 +214,7 @@
     {
       "dt": 1793173800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:59",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -228,7 +228,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793174100.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1793179500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:35",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -703,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793179800.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1793181900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:26",
+      "time_estimated": "11:20",
       "flight_no": "MI4752",
       "airline": "Freebird Airlines Europe",
       "city": "Hurghada",
@@ -893,7 +893,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 16
     },
     {
       "dt": 1793181900.0,
@@ -1231,6 +1231,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793187300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "XQ184",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793187300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
