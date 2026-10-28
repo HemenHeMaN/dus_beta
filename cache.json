@@ -1,5 +1,5 @@
 {
-  "updated_at": "28.10.2026 22:20",
+  "updated_at": "28.10.2026 22:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -71,25 +71,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793216700.0,
-      "time_scheduled": "20:45",
-      "time_estimated": "20:22",
-      "flight_no": "EW9735",
-      "airline": "Eurowings",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -195,25 +176,6 @@
     {
       "dt": 1793220000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:48",
-      "flight_no": "EW9727",
-      "airline": "Eurowings",
-      "city": "Graz",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 8
-    },
-    {
-      "dt": 1793220000.0,
-      "time_scheduled": "21:40",
       "time_estimated": "21:23",
       "flight_no": "AF1106",
       "airline": "Air France",
@@ -248,6 +210,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793220000.0,
+      "time_scheduled": "21:40",
+      "time_estimated": "21:48",
+      "flight_no": "EW9727",
+      "airline": "Eurowings",
+      "city": "Graz",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 8
     },
     {
       "dt": 1793220300.0,
@@ -537,7 +518,7 @@
     {
       "dt": 1793221800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:44",
+      "time_estimated": "22:23",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -547,11 +528,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 34
+      "delay": 13
     },
     {
       "dt": 1793222100.0,
@@ -613,7 +594,7 @@
     {
       "dt": 1793222100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:31",
+      "time_estimated": "22:24",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -623,11 +604,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 9
     },
     {
       "dt": 1793222100.0,
@@ -681,8 +662,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1793223300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:25",
+      "time_estimated": "22:30",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -833,8 +814,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +860,7 @@
     {
       "dt": 1793223900.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:31",
+      "time_estimated": "22:36",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -898,7 +879,7 @@
     {
       "dt": 1793223900.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:25",
+      "time_estimated": "22:33",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
