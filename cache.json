@@ -1,26 +1,7 @@
 {
-  "updated_at": "28.10.2026 16:55",
+  "updated_at": "28.10.2026 17:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793189700.0,
-      "time_scheduled": "13:15",
-      "time_estimated": "14:57",
-      "flight_no": "NE720",
-      "airline": "Nesma Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 102
-    },
     {
       "dt": 1793196600.0,
       "time_scheduled": "15:10",
@@ -81,25 +62,6 @@
     {
       "dt": 1793197200.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:00",
-      "flight_no": "EW9845",
-      "airline": "Eurowings",
-      "city": "Olbia (Sardinien)",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793197200.0,
-      "time_scheduled": "15:20",
       "time_estimated": "15:05",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
@@ -149,8 +111,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 68
     },
@@ -366,7 +328,7 @@
     {
       "dt": 1793202300.0,
       "time_scheduled": "16:45",
-      "time_estimated": "17:02",
+      "time_estimated": "17:00",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -376,11 +338,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 18
+      "delay": 15
     },
     {
       "dt": 1793202300.0,
@@ -442,7 +404,7 @@
     {
       "dt": 1793202600.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:15",
+      "time_estimated": "17:09",
       "flight_no": "GQ590",
       "airline": "Sky Express",
       "city": "Thessaloniki",
@@ -456,12 +418,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 19
     },
     {
       "dt": 1793202900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:01",
+      "time_estimated": "16:58",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -471,11 +433,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 3
     },
     {
       "dt": 1793203800.0,
@@ -491,8 +453,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -547,9 +509,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -585,9 +547,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +860,7 @@
     {
       "dt": 1793207400.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:23",
+      "time_estimated": "18:14",
       "flight_no": "EW9045",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -912,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 5
     },
     {
       "dt": 1793208600.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793210100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:56",
+      "time_estimated": "18:43",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1023,10 +985,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793210100.0,
@@ -1335,7 +1297,7 @@
     {
       "dt": 1793214000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "20:02",
       "flight_no": "EW9505",
       "airline": "Eurowings",
       "city": "Menorca",
@@ -1349,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793214600.0,
@@ -1411,7 +1373,7 @@
     {
       "dt": 1793214900.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:08",
+      "time_estimated": "20:06",
       "flight_no": "DE235",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1867,6 +1829,25 @@
     {
       "dt": 1793221200.0,
       "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "DE1613",
+      "airline": "Condor",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793221200.0,
+      "time_scheduled": "22:00",
       "time_estimated": "21:37",
       "flight_no": "EW9997",
       "airline": "Eurowings",
@@ -1880,6 +1861,25 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793221200.0,
+      "time_scheduled": "22:00",
+      "time_estimated": "22:00",
+      "flight_no": "EW9631",
+      "airline": "Eurowings",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
