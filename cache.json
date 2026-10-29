@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 07:00",
+  "updated_at": "29.10.2026 07:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1793253600.0,
       "time_scheduled": "07:00",
-      "time_estimated": "07:06",
+      "time_estimated": "07:02",
       "flight_no": "NE722",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -72,11 +72,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 2
     },
     {
       "dt": 1793254200.0,
@@ -138,7 +138,7 @@
     {
       "dt": 1793256000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:48",
+      "time_estimated": "07:46",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 6
     },
     {
       "dt": 1793257200.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1793259300.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:38",
+      "time_estimated": "08:33",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -209,7 +209,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793259600.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793261700.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:31",
+      "time_estimated": "09:36",
       "flight_no": "DE1061",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 22
     },
     {
       "dt": 1793261700.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793263800.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "10:05",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1793264100.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1793265300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "10:06",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1191,6 +1191,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793271900.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:05",
+      "flight_no": "EW9595",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
