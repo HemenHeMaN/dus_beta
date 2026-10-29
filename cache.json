@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 10:25",
+  "updated_at": "29.10.2026 10:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -79,25 +79,6 @@
       "delay": 4
     },
     {
-      "dt": 1793259900.0,
-      "time_scheduled": "08:45",
-      "time_estimated": "08:25",
-      "flight_no": "JU360",
-      "airline": "Air Serbia",
-      "city": "Belgrad",
-      "country": "Serbien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793260200.0,
       "time_scheduled": "08:50",
       "time_estimated": "08:48",
@@ -136,25 +117,6 @@
       "delay": 1
     },
     {
-      "dt": 1793260500.0,
-      "time_scheduled": "08:55",
-      "time_estimated": "08:29",
-      "flight_no": "XQ3580",
-      "airline": "Sun Express",
-      "city": "Dalaman",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793260800.0,
       "time_scheduled": "09:00",
       "time_estimated": "10:46",
@@ -167,9 +129,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 106
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1793265900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:47",
+      "time_estimated": "10:28",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -623,11 +585,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 4
     },
     {
       "dt": 1793265900.0,
@@ -727,7 +689,7 @@
     {
       "dt": 1793268300.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:41",
+      "time_estimated": "11:42",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -738,10 +700,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 37
+      "delay": 38
     },
     {
       "dt": 1793268600.0,
@@ -1278,7 +1240,7 @@
     {
       "dt": 1793274900.0,
       "time_scheduled": "12:55",
-      "time_estimated": "12:50",
+      "time_estimated": "12:43",
       "flight_no": "EW9853",
       "airline": "Eurowings",
       "city": "Lamezia Terme (Kalabrien)",
@@ -1289,8 +1251,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1392,7 +1354,7 @@
     {
       "dt": 1793275800.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:16",
+      "time_estimated": "13:36",
       "flight_no": "EW9685",
       "airline": "Eurowings",
       "city": "Kavala",
@@ -1406,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 26
     },
     {
       "dt": 1793275800.0,
@@ -1563,7 +1525,7 @@
     {
       "dt": 1793277900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:45",
+      "time_estimated": "13:40",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1574,8 +1536,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1696,7 +1658,7 @@
     {
       "dt": 1793278500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:29",
+      "time_estimated": "13:30",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
