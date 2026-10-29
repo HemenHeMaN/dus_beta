@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 09:05",
+  "updated_at": "29.10.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -366,7 +366,7 @@
     {
       "dt": 1793262300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:21",
+      "time_estimated": "09:15",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -404,7 +404,7 @@
     {
       "dt": 1793262600.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:04",
+      "time_estimated": "09:05",
       "flight_no": "XC108",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -414,9 +414,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -433,9 +433,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793268300.0,
       "time_scheduled": "11:05",
-      "time_estimated": "10:59",
+      "time_estimated": "11:04",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -822,7 +822,7 @@
     {
       "dt": 1793268900.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:10",
+      "time_estimated": "11:12",
       "flight_no": "X32405",
       "airline": "Tuifly",
       "city": "Menorca",
@@ -833,8 +833,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793270400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:52",
+      "time_estimated": "11:47",
       "flight_no": "X32915",
       "airline": "Tuifly",
       "city": "Ibiza",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 7
     },
     {
       "dt": 1793270700.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793273700.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:35",
+      "time_estimated": "12:21",
       "flight_no": "XQ184",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1232,8 +1232,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1791,7 +1791,7 @@
     {
       "dt": 1793278800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:00",
+      "time_estimated": "14:04",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1805,7 +1805,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793278800.0,
@@ -1856,6 +1856,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793279400.0,
+      "time_scheduled": "14:10",
+      "time_estimated": "14:10",
+      "flight_no": "DE1757",
+      "airline": "Condor",
+      "city": "Samos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793279400.0,
+      "time_scheduled": "14:10",
+      "time_estimated": "14:10",
+      "flight_no": "BJ214",
+      "airline": "Nouvelair",
+      "city": "Monastir",
+      "country": "Tunesien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
