@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 11:35",
+  "updated_at": "29.10.2026 11:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -71,25 +71,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793264400.0,
-      "time_scheduled": "10:00",
-      "time_estimated": "09:37",
-      "flight_no": "4M496",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -290,7 +271,7 @@
     {
       "dt": 1793268300.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:42",
+      "time_estimated": "11:35",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -300,11 +281,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 38
+      "delay": 31
     },
     {
       "dt": 1793268600.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793270400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:45",
+      "time_estimated": "11:37",
       "flight_no": "X32915",
       "airline": "Tuifly",
       "city": "Ibiza",
@@ -528,11 +509,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793270700.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1793278500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:24",
+      "time_estimated": "13:29",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1525,7 +1506,7 @@
     {
       "dt": 1793281500.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:45",
+      "time_estimated": "14:40",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1639,7 +1620,7 @@
     {
       "dt": 1793283600.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:20",
+      "time_estimated": "14:56",
       "flight_no": "FH1065",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1650,8 +1631,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1818,6 +1799,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793288400.0,
+      "time_scheduled": "16:40",
+      "time_estimated": "16:40",
+      "flight_no": "TP542",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
