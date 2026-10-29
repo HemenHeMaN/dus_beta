@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 07:50",
+  "updated_at": "29.10.2026 07:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -263,8 +263,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -309,7 +309,7 @@
     {
       "dt": 1793260200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:52",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -320,10 +320,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 3
     },
     {
       "dt": 1793260500.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793263200.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:43",
+      "time_estimated": "09:48",
       "flight_no": "VL2006",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 8
     },
     {
       "dt": 1793263800.0,
@@ -1419,6 +1419,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793274900.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "EW9853",
+      "airline": "Eurowings",
+      "city": "Lamezia Terme (Kalabrien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
