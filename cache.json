@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 17:05",
+  "updated_at": "29.10.2026 17:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 64
-    },
-    {
-      "dt": 1793284500.0,
-      "time_scheduled": "15:35",
-      "time_estimated": "15:06",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793285100.0,
@@ -309,7 +290,7 @@
     {
       "dt": 1793289000.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:24",
+      "time_estimated": "17:09",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -319,11 +300,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 35
+      "delay": 20
     },
     {
       "dt": 1793289300.0,
@@ -415,8 +396,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 30
     },
@@ -452,9 +433,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -510,8 +491,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +518,7 @@
     {
       "dt": 1793291400.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:09",
+      "time_estimated": "17:07",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -547,9 +528,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +974,7 @@
     {
       "dt": 1793296500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:03",
+      "time_estimated": "19:00",
       "flight_no": "VL2028",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -1007,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 5
     },
     {
       "dt": 1793296500.0,
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793297400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:12",
+      "time_estimated": "19:10",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1121,12 +1102,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 1
     },
     {
       "dt": 1793297400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:07",
+      "time_estimated": "19:09",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1278,7 +1259,7 @@
     {
       "dt": 1793301000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:10",
+      "time_estimated": "20:11",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -1292,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793301000.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1793301300.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:15",
+      "time_estimated": "20:11",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1891,6 +1872,63 @@
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793308200.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9825",
+      "airline": "Eurowings",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793308200.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9337",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793308200.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "KL1805",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
