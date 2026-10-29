@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 15:25",
+  "updated_at": "29.10.2026 15:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -661,9 +661,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -746,7 +746,7 @@
     {
       "dt": 1793287200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:25",
+      "time_estimated": "16:31",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -757,10 +757,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 11
     },
     {
       "dt": 1793287800.0,
@@ -789,11 +789,11 @@
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
       "country": "Israel",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793293200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:31",
+      "time_estimated": "17:30",
       "flight_no": "DE1707",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1934,6 +1934,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793302200.0,
+      "time_scheduled": "20:30",
+      "time_estimated": "20:30",
+      "flight_no": "DE1613",
+      "airline": "Condor",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
