@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 18:10",
+  "updated_at": "29.10.2026 18:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -737,9 +737,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 31
     },
@@ -756,16 +756,16 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1793294700.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:19",
+      "time_estimated": "18:20",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793299800.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:46",
+      "time_estimated": "19:39",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -1080,8 +1080,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793300100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:58",
+      "time_estimated": "19:51",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793300100.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793301300.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:25",
+      "time_estimated": "20:23",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1232,10 +1232,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 8
     },
     {
       "dt": 1793301600.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793305500.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:25",
+      "time_estimated": "21:20",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
