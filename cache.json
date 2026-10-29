@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 17:50",
+  "updated_at": "29.10.2026 17:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1793288100.0,
       "time_scheduled": "16:35",
-      "time_estimated": "17:56",
+      "time_estimated": "17:50",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -129,11 +129,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 81
+      "delay": 76
     },
     {
       "dt": 1793288400.0,
@@ -566,9 +566,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 24
     },
@@ -657,13 +657,13 @@
       "city": "Hurghada",
       "country": "Ägypten",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -681,8 +681,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793293500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "17:56",
+      "time_estimated": "17:52",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -718,9 +718,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793294700.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:30",
+      "time_estimated": "18:24",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -798,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793295000.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793297100.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:15",
+      "time_estimated": "19:40",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 36
     },
     {
       "dt": 1793297100.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793301000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:05",
+      "time_estimated": "20:08",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -1373,7 +1373,7 @@
     {
       "dt": 1793303700.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:55",
+      "time_estimated": "20:59",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793304000.0,
@@ -1559,6 +1559,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793306700.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "22:55",
+      "flight_no": "EW6840",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 70
     },
     {
       "dt": 1793306700.0,
@@ -2176,6 +2195,44 @@
       "airline": "Condor",
       "city": "Kos",
       "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793310900.0,
+      "time_scheduled": "22:55",
+      "time_estimated": "22:55",
+      "flight_no": "X34553",
+      "airline": "Tuifly",
+      "city": "Larnaca (Zypern)",
+      "country": "Zypern",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793310900.0,
+      "time_scheduled": "22:55",
+      "time_estimated": "22:55",
+      "flight_no": "X32119",
+      "airline": "Tuifly",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
