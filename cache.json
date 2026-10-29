@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 16:20",
+  "updated_at": "29.10.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -72,25 +72,6 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793282400.0,
-      "time_scheduled": "15:00",
-      "time_estimated": "14:20",
-      "flight_no": "XC8106",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -290,7 +271,7 @@
     {
       "dt": 1793286900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:25",
+      "time_estimated": "16:21",
       "flight_no": "EW9601",
       "airline": "Eurowings",
       "city": "Funchal (Madeira)",
@@ -300,11 +281,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 7
     },
     {
       "dt": 1793286900.0,
@@ -328,7 +309,7 @@
     {
       "dt": 1793287200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:25",
+      "time_estimated": "16:24",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -338,11 +319,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793287800.0,
@@ -461,7 +442,7 @@
     {
       "dt": 1793289300.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:08",
+      "time_estimated": "17:02",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -475,7 +456,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 7
     },
     {
       "dt": 1793289600.0,
@@ -490,9 +471,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1240,7 +1221,7 @@
     {
       "dt": 1793297400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "18:54",
+      "time_estimated": "19:02",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1663,6 +1644,44 @@
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793305500.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793305500.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "EW9603",
+      "airline": "Eurowings",
+      "city": "Lissabon",
+      "country": "Portugal",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
