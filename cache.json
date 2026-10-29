@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 08:50",
+  "updated_at": "29.10.2026 08:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,7 +233,7 @@
     {
       "dt": 1793260200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:52",
+      "time_estimated": "08:50",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -243,11 +243,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 1
     },
     {
       "dt": 1793260500.0,
@@ -377,8 +377,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -414,9 +414,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -434,8 +434,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -452,9 +452,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -632,7 +632,7 @@
     {
       "dt": 1793265300.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:05",
+      "time_estimated": "10:00",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -746,7 +746,7 @@
     {
       "dt": 1793266200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:23",
+      "time_estimated": "10:18",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -860,7 +860,7 @@
     {
       "dt": 1793268900.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:09",
+      "time_estimated": "11:10",
       "flight_no": "X32405",
       "airline": "Tuifly",
       "city": "Menorca",
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793270400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:19",
+      "time_estimated": "11:18",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1023,8 +1023,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1601,7 +1601,7 @@
     {
       "dt": 1793276400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:20",
+      "time_estimated": "13:16",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -1612,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1804,6 +1804,44 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793278500.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:55",
+      "flight_no": "KK117",
+      "airline": "LEAV Aviation",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793278500.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:55",
+      "flight_no": "KK321",
+      "airline": "LEAV Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
