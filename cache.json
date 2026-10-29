@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 06:45",
+  "updated_at": "29.10.2026 06:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -72,9 +72,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -130,15 +130,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793256000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:47",
+      "time_estimated": "07:40",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793257200.0,
@@ -233,7 +233,7 @@
     {
       "dt": 1793259900.0,
       "time_scheduled": "08:45",
-      "time_estimated": "09:04",
+      "time_estimated": "08:57",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -244,10 +244,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 12
     },
     {
       "dt": 1793259900.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793260200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:51",
+      "time_estimated": "08:49",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793260500.0,
