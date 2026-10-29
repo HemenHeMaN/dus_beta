@@ -1,11 +1,11 @@
 {
-  "updated_at": "29.10.2026 05:25",
+  "updated_at": "29.10.2026 05:30",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793250300.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:05",
+      "time_estimated": "06:06",
       "flight_no": "XC266",
       "airline": "Corendon Airlines",
       "city": "Kayseri",
@@ -19,7 +19,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793252100.0,
@@ -808,6 +808,44 @@
       "airline": "Eurowings",
       "city": "Kopenhagen",
       "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793266200.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:30",
+      "flight_no": "EW9461",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793266200.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:30",
+      "flight_no": "EW9841",
+      "airline": "Eurowings",
+      "city": "Mailand-Linate",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
