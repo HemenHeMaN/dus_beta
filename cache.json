@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 17:55",
+  "updated_at": "29.10.2026 18:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1793292300.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:01",
+      "time_estimated": "17:59",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -547,11 +547,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1793292300.0,
@@ -562,9 +562,9 @@
       "city": "Dublin",
       "country": "Irland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
@@ -651,7 +651,7 @@
     {
       "dt": 1793293200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:04",
+      "time_estimated": "18:05",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -665,12 +665,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793293200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:02",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -684,7 +684,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 3
     },
     {
       "dt": 1793293200.0,
@@ -746,21 +746,21 @@
     {
       "dt": 1793293800.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:39",
+      "time_estimated": "18:41",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
       "country": "Portugal",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 31
     },
     {
       "dt": 1793294700.0,
@@ -771,10 +771,10 @@
       "city": "Marsa Alam",
       "country": "Ägypten",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -790,9 +790,9 @@
       "city": "Hamburg",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -822,21 +822,21 @@
     {
       "dt": 1793295300.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:35",
+      "time_estimated": "18:36",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793296200.0,
@@ -879,21 +879,21 @@
     {
       "dt": 1793296500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:03",
+      "time_estimated": "19:00",
       "flight_no": "VL2028",
       "airline": "Lufthansa City Airlines",
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 5
     },
     {
       "dt": 1793296500.0,
@@ -904,9 +904,9 @@
       "city": "Kopenhagen",
       "country": "Dänemark",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1018,9 +1018,9 @@
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1202,7 +1202,7 @@
     {
       "dt": 1793301000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:07",
+      "time_estimated": "20:08",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793301300.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:11",
+      "time_estimated": "20:09",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1696,7 +1696,7 @@
     {
       "dt": 1793307600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "22:20",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -1707,10 +1707,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1793307600.0,
