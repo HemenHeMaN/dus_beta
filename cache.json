@@ -1,26 +1,7 @@
 {
-  "updated_at": "29.10.2026 20:05",
+  "updated_at": "29.10.2026 20:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793292300.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "18:07",
-      "flight_no": "EW9395",
-      "airline": "Eurowings",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 22
-    },
     {
       "dt": 1793293800.0,
       "time_scheduled": "18:10",
@@ -138,25 +119,6 @@
     {
       "dt": 1793296500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:56",
-      "flight_no": "EK057",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1793296500.0,
-      "time_scheduled": "18:55",
       "time_estimated": "19:18",
       "flight_no": "EW8046",
       "airline": "Eurowings",
@@ -172,6 +134,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 23
+    },
+    {
+      "dt": 1793296500.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:56",
+      "flight_no": "EK057",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 2
     },
     {
       "dt": 1793296500.0,
@@ -442,7 +423,7 @@
     {
       "dt": 1793301000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:31",
+      "time_estimated": "20:10",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -452,16 +433,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 0
     },
     {
       "dt": 1793301000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:12",
+      "time_estimated": "20:06",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -471,11 +452,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793301000.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793301300.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:23",
+      "time_estimated": "20:08",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -528,16 +509,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793301600.0,
       "time_scheduled": "20:20",
-      "time_estimated": "20:23",
+      "time_estimated": "20:18",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -548,10 +529,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793302200.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1793304000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:07",
+      "time_estimated": "21:14",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -684,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 14
     },
     {
       "dt": 1793304900.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793305500.0,
       "time_scheduled": "21:25",
-      "time_estimated": "22:15",
+      "time_estimated": "22:05",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -722,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 40
     },
     {
       "dt": 1793305500.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793306400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:34",
+      "time_estimated": "21:31",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -936,7 +917,7 @@
     {
       "dt": 1793307300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:26",
+      "time_estimated": "22:27",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -947,10 +928,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 32
     },
     {
       "dt": 1793307600.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1793309700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:35",
+      "time_estimated": "22:33",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1384,10 +1365,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793309700.0,
