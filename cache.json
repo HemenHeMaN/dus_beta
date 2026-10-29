@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 07:55",
+  "updated_at": "29.10.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -34,25 +34,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793252400.0,
-      "time_scheduled": "06:40",
-      "time_estimated": "06:00",
-      "flight_no": "XQ1320",
-      "airline": "Sun Express",
-      "city": "Kayseri",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -252,7 +233,7 @@
     {
       "dt": 1793259900.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:07",
+      "time_estimated": "08:06",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -290,7 +271,7 @@
     {
       "dt": 1793260200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:52",
+      "time_estimated": "08:49",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -301,10 +282,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793260200.0,
@@ -347,7 +328,7 @@
     {
       "dt": 1793260800.0,
       "time_scheduled": "09:00",
-      "time_estimated": "10:34",
+      "time_estimated": "10:46",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -358,10 +339,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 94
+      "delay": 106
     },
     {
       "dt": 1793260800.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1793263800.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:05",
+      "time_estimated": "09:59",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -665,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 9
     },
     {
       "dt": 1793264100.0,
@@ -898,7 +879,7 @@
     {
       "dt": 1793268300.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "10:59",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1438,6 +1419,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793275200.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "EW9917",
+      "airline": "Eurowings",
+      "city": "Tirana",
+      "country": "Albanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
