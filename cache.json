@@ -1,26 +1,7 @@
 {
-  "updated_at": "29.10.2026 20:45",
+  "updated_at": "29.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793295000.0,
-      "time_scheduled": "18:30",
-      "time_estimated": "18:45",
-      "flight_no": "EW9587",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
-    },
     {
       "dt": 1793296200.0,
       "time_scheduled": "18:50",
@@ -309,25 +290,6 @@
     {
       "dt": 1793301000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:10",
-      "flight_no": "LH2032",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793301000.0,
-      "time_scheduled": "20:10",
       "time_estimated": "20:06",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
@@ -338,6 +300,25 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793301000.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "20:10",
+      "flight_no": "LH2032",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -499,7 +480,7 @@
     {
       "dt": 1793303700.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:51",
+      "time_estimated": "20:48",
       "flight_no": "XR440",
       "airline": "Corendon Airlines Europe",
       "city": "Korfu",
@@ -509,16 +490,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793303700.0,
       "time_scheduled": "20:55",
-      "time_estimated": "21:24",
+      "time_estimated": "21:27",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -532,7 +513,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 33
     },
     {
       "dt": 1793304000.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793306700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "23:08",
+      "time_estimated": "23:28",
       "flight_no": "EW6840",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -722,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 83
+      "delay": 104
     },
     {
       "dt": 1793306700.0,
@@ -833,8 +814,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 23
     },
@@ -974,7 +955,7 @@
     {
       "dt": 1793308200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:05",
+      "time_estimated": "22:33",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -988,12 +969,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 24
     },
     {
       "dt": 1793308500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:01",
+      "time_estimated": "22:02",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1004,8 +985,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1259,7 +1240,7 @@
     {
       "dt": 1793309700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "23:09",
+      "time_estimated": "23:13",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -1270,10 +1251,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 34
+      "delay": 38
     },
     {
       "dt": 1793309700.0,
@@ -1297,7 +1278,7 @@
     {
       "dt": 1793310000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:43",
+      "time_estimated": "23:03",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -1311,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 24
     },
     {
       "dt": 1793310300.0,
