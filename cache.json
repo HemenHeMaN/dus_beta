@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 16:10",
+  "updated_at": "29.10.2026 16:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 314
     },
     {
-      "dt": 1793278500.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "14:12",
-      "flight_no": "KK321",
-      "airline": "LEAV Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 18
-    },
-    {
       "dt": 1793279400.0,
       "time_scheduled": "14:10",
       "time_estimated": "14:54",
@@ -60,25 +41,6 @@
       "delay": 45
     },
     {
-      "dt": 1793279400.0,
-      "time_scheduled": "14:10",
-      "time_estimated": "14:11",
-      "flight_no": "DE1757",
-      "airline": "Condor",
-      "city": "Samos",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
       "dt": 1793280000.0,
       "time_scheduled": "14:20",
       "time_estimated": "14:18",
@@ -91,25 +53,6 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793280600.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:14",
-      "flight_no": "PC1003",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -404,7 +347,7 @@
     {
       "dt": 1793287200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:31",
+      "time_estimated": "16:25",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -415,15 +358,15 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1793287800.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:23",
+      "time_estimated": "16:29",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -434,8 +377,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +708,7 @@
     {
       "dt": 1793291400.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:51",
+      "time_estimated": "17:53",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -779,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 24
     },
     {
       "dt": 1793291400.0,
@@ -936,7 +879,7 @@
     {
       "dt": 1793292900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:55",
+      "time_estimated": "17:47",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -950,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793293200.0,
@@ -1031,7 +974,7 @@
     {
       "dt": 1793293500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:02",
+      "time_estimated": "18:04",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1720,6 +1663,25 @@
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793304900.0,
+      "time_scheduled": "21:15",
+      "time_estimated": "21:15",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
