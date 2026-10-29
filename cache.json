@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 12:45",
+  "updated_at": "29.10.2026 12:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -490,9 +490,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 34
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1793274600.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:12",
+      "time_estimated": "13:04",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -567,10 +567,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 22
+      "delay": 15
     },
     {
       "dt": 1793274900.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793275200.0,
       "time_scheduled": "13:00",
-      "time_estimated": "13:00",
+      "time_estimated": "12:59",
       "flight_no": "EW9917",
       "airline": "Eurowings",
       "city": "Tirana",
@@ -608,7 +608,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793275500.0,
@@ -737,9 +737,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793276100.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:55",
+      "time_estimated": "12:48",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -793,6 +793,25 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793276400.0,
+      "time_scheduled": "13:20",
+      "time_estimated": "13:10",
+      "flight_no": "MS733",
+      "airline": "Egypt Air",
+      "city": "Kairo",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
@@ -803,26 +822,7 @@
     {
       "dt": 1793276400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:16",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793276400.0,
-      "time_scheduled": "13:20",
-      "time_estimated": "13:22",
+      "time_estimated": "13:23",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -836,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793276400.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793278500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:29",
+      "time_estimated": "13:30",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -1316,7 +1316,7 @@
     {
       "dt": 1793282700.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:30",
+      "time_estimated": "15:15",
       "flight_no": "IB1321",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1330,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 10
     },
     {
       "dt": 1793282700.0,
@@ -1468,7 +1468,7 @@
     {
       "dt": 1793285700.0,
       "time_scheduled": "15:55",
-      "time_estimated": "15:55",
+      "time_estimated": "15:50",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
