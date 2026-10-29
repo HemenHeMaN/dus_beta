@@ -1,26 +1,7 @@
 {
-  "updated_at": "29.10.2026 13:35",
+  "updated_at": "29.10.2026 13:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793268300.0,
-      "time_scheduled": "11:05",
-      "time_estimated": "11:35",
-      "flight_no": "EW9751",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 31
-    },
     {
       "dt": 1793269200.0,
       "time_scheduled": "11:20",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 38
-    },
-    {
-      "dt": 1793270400.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:37",
-      "flight_no": "X32915",
-      "airline": "Tuifly",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793270700.0,
@@ -510,8 +472,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -651,7 +613,7 @@
     {
       "dt": 1793277900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:42",
+      "time_estimated": "13:38",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -661,16 +623,16 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793277900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:18",
+      "time_estimated": "14:19",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -684,7 +646,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 34
+      "delay": 35
     },
     {
       "dt": 1793277900.0,
@@ -756,9 +718,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -775,9 +737,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -822,7 +784,7 @@
     {
       "dt": 1793278500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:15",
+      "time_estimated": "14:16",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -836,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 21
     },
     {
       "dt": 1793278800.0,
@@ -852,8 +814,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -903,21 +865,21 @@
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
       "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793279400.0,
       "time_scheduled": "14:10",
-      "time_estimated": "14:10",
+      "time_estimated": "14:11",
       "flight_no": "DE1757",
       "airline": "Condor",
       "city": "Samos",
@@ -931,7 +893,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793279400.0,
@@ -998,11 +960,11 @@
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
       "country": "Schweden",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1031,7 +993,7 @@
     {
       "dt": 1793280600.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:16",
+      "time_estimated": "14:17",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1080,8 +1042,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1392,7 +1354,7 @@
     {
       "dt": 1793288400.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:40",
+      "time_estimated": "16:44",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1406,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793288700.0,
@@ -1563,7 +1525,7 @@
     {
       "dt": 1793290200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:10",
+      "time_estimated": "16:41",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1677,7 +1639,7 @@
     {
       "dt": 1793291400.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:09",
       "flight_no": "XC106",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1688,8 +1650,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2015,6 +1977,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793294700.0,
+      "time_scheduled": "18:25",
+      "time_estimated": "18:30",
+      "flight_no": "XR6442",
+      "airline": "Corendon Airlines Europe",
+      "city": "Marsa Alam",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 5
     },
     {
       "dt": 1793294700.0,
