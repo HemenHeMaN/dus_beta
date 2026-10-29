@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 06:35",
+  "updated_at": "29.10.2026 06:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1793254200.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:16",
+      "time_estimated": "07:18",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -95,12 +95,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1793254200.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:42",
+      "time_estimated": "06:35",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -233,7 +233,7 @@
     {
       "dt": 1793259900.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:55",
+      "time_estimated": "09:04",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -247,7 +247,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 19
     },
     {
       "dt": 1793259900.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793261700.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:29",
+      "time_estimated": "09:31",
       "flight_no": "DE1061",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 17
     },
     {
       "dt": 1793261700.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793262300.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:18",
+      "time_estimated": "09:13",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -632,7 +632,7 @@
     {
       "dt": 1793263800.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "09:40",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -1079,6 +1079,63 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793270400.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793270400.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32313",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793270400.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32915",
+      "airline": "Tuifly",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
