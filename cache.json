@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 08:40",
+  "updated_at": "29.10.2026 08:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -214,7 +214,7 @@
     {
       "dt": 1793260200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:49",
+      "time_estimated": "08:54",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -228,7 +228,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793260200.0,
@@ -244,8 +244,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -290,7 +290,7 @@
     {
       "dt": 1793260800.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:50",
+      "time_estimated": "08:44",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -300,16 +300,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793261100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:02",
+      "time_estimated": "08:51",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -338,9 +338,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -395,9 +395,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793263200.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:46",
+      "time_estimated": "09:47",
       "flight_no": "VL2006",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -548,10 +548,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 7
     },
     {
       "dt": 1793263800.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1793263800.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:59",
+      "time_estimated": "09:58",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1793264100.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793270400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:31",
+      "time_estimated": "11:19",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793270400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:44",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1045,12 +1045,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793270400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:52",
       "flight_no": "X32915",
       "airline": "Tuifly",
       "city": "Ibiza",
@@ -1064,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1793270700.0,
@@ -1644,6 +1644,63 @@
       "airline": "Eurowings",
       "city": "Sevilla",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793277900.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "XR402",
+      "airline": "Corendon Airlines Europe",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793277900.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "EW9581",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793277900.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:45",
+      "flight_no": "LH074",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
