@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 21:50",
+  "updated_at": "29.10.2026 21:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -366,7 +366,7 @@
     {
       "dt": 1793306700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:56",
+      "time_estimated": "21:54",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -376,11 +376,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 9
     },
     {
       "dt": 1793306700.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793307300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:12",
+      "time_estimated": "22:06",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -494,26 +494,26 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1793307300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:13",
+      "time_estimated": "22:01",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 6
     },
     {
       "dt": 1793307600.0,
@@ -548,8 +548,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -566,9 +566,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1793307900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:55",
+      "time_estimated": "21:50",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -604,9 +604,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -642,9 +642,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -689,21 +689,21 @@
     {
       "dt": 1793308500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:02",
+      "time_estimated": "22:15",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793308500.0,
@@ -719,8 +719,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,19 +784,19 @@
     {
       "dt": 1793308800.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:16",
+      "time_estimated": "22:05",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -870,9 +870,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +974,7 @@
     {
       "dt": 1793309700.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:48",
+      "time_estimated": "22:46",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -985,15 +985,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 12
     },
     {
       "dt": 1793310000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "23:03",
+      "time_estimated": "23:07",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 28
     },
     {
       "dt": 1793310300.0,
@@ -1022,9 +1022,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
