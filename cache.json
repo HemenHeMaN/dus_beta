@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 14:30",
+  "updated_at": "29.10.2026 14:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -765,7 +765,7 @@
     {
       "dt": 1793281500.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:38",
+      "time_estimated": "14:31",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -775,9 +775,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -832,9 +832,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1793283600.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:14",
+      "time_estimated": "15:16",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -917,7 +917,7 @@
     {
       "dt": 1793284500.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:06",
+      "time_estimated": "15:07",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793287200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:23",
+      "time_estimated": "16:18",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793287800.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793288100.0,
       "time_scheduled": "16:35",
-      "time_estimated": "17:47",
+      "time_estimated": "17:52",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -1083,7 +1083,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 72
+      "delay": 78
     },
     {
       "dt": 1793288400.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1793291100.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:25",
+      "time_estimated": "17:34",
       "flight_no": "EW9045",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793291400.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793291400.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:35",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1425,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793291700.0,
@@ -1525,7 +1525,7 @@
     {
       "dt": 1793292900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:55",
+      "time_estimated": "17:33",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1639,7 +1639,7 @@
     {
       "dt": 1793293200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:38",
+      "time_estimated": "17:35",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1677,7 +1677,7 @@
     {
       "dt": 1793293800.0,
       "time_scheduled": "18:10",
-      "time_estimated": "17:36",
+      "time_estimated": "17:35",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1688,8 +1688,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
