@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 11:30",
+  "updated_at": "29.10.2026 11:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -60,44 +60,6 @@
       "delay": 18
     },
     {
-      "dt": 1793263200.0,
-      "time_scheduled": "09:40",
-      "time_estimated": "09:34",
-      "flight_no": "VL2006",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793263800.0,
-      "time_scheduled": "09:50",
-      "time_estimated": "09:31",
-      "flight_no": "EI692",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793263800.0,
       "time_scheduled": "09:50",
       "time_estimated": "09:41",
@@ -110,25 +72,6 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793264100.0,
-      "time_scheduled": "09:55",
-      "time_estimated": "09:32",
-      "flight_no": "VF029",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -480,7 +423,7 @@
     {
       "dt": 1793269800.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:33",
+      "time_estimated": "11:30",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -490,11 +433,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1793270100.0,
@@ -605,8 +548,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -1335,7 +1278,7 @@
     {
       "dt": 1793278500.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:58",
+      "time_estimated": "13:54",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -1346,10 +1289,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793278500.0,
@@ -1411,7 +1354,7 @@
     {
       "dt": 1793279100.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:24",
+      "time_estimated": "14:12",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1425,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 7
     },
     {
       "dt": 1793279100.0,
