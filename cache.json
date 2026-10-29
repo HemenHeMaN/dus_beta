@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 09:55",
+  "updated_at": "29.10.2026 10:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -507,7 +507,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "4",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -613,7 +613,7 @@
     {
       "dt": 1793265900.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:24",
+      "time_estimated": "10:30",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -627,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793265900.0,
@@ -661,9 +661,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -681,8 +681,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +746,7 @@
     {
       "dt": 1793268300.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:22",
+      "time_estimated": "11:31",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 27
     },
     {
       "dt": 1793268600.0,
@@ -1991,6 +1991,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793282400.0,
+      "time_scheduled": "15:00",
+      "time_estimated": "15:00",
+      "flight_no": "XC8106",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
