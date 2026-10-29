@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 06:15",
+  "updated_at": "29.10.2026 06:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793256000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:36",
+      "time_estimated": "07:47",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793257200.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793262000.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:04",
+      "time_estimated": "09:00",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -472,8 +472,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793262900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:23",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -689,7 +689,7 @@
     {
       "dt": 1793264400.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "09:35",
       "flight_no": "4M496",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -700,8 +700,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -960,6 +960,44 @@
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793269200.0,
+      "time_scheduled": "11:20",
+      "time_estimated": "11:20",
+      "flight_no": "IB1319",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793269200.0,
+      "time_scheduled": "11:20",
+      "time_estimated": "11:20",
+      "flight_no": "EW9831",
+      "airline": "Eurowings",
+      "city": "Florenz",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
