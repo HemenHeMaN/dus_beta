@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 17:25",
+  "updated_at": "29.10.2026 17:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -309,7 +309,7 @@
     {
       "dt": 1793289900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:44",
+      "time_estimated": "17:29",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -319,11 +319,11 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 39
+      "delay": 24
     },
     {
       "dt": 1793289900.0,
@@ -453,8 +453,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 16
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793291700.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:29",
+      "time_estimated": "17:27",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -547,9 +547,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -567,8 +567,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -642,9 +642,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -661,9 +661,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -776,8 +776,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1793294700.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:29",
+      "time_estimated": "18:26",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -836,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1793295000.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793297100.0,
       "time_scheduled": "19:05",
-      "time_estimated": "18:56",
+      "time_estimated": "19:11",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793297400.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793299200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:50",
+      "time_estimated": "19:54",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 15
     },
     {
       "dt": 1793299500.0,
@@ -1316,7 +1316,7 @@
     {
       "dt": 1793302200.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:22",
+      "time_estimated": "20:30",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -2024,6 +2024,44 @@
       "airline": "Eurowings",
       "city": "Graz",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793309400.0,
+      "time_scheduled": "22:30",
+      "time_estimated": "22:30",
+      "flight_no": "TK1529",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793309400.0,
+      "time_scheduled": "22:30",
+      "time_estimated": "22:30",
+      "flight_no": "LO405",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
