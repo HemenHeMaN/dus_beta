@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 13:15",
+  "updated_at": "29.10.2026 13:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,6 +271,25 @@
     {
       "dt": 1793273400.0,
       "time_scheduled": "12:30",
+      "time_estimated": "12:22",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793273400.0,
+      "time_scheduled": "12:30",
       "time_estimated": "12:05",
       "flight_no": "EK055",
       "airline": "Emirates",
@@ -319,25 +338,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793273400.0,
-      "time_scheduled": "12:30",
-      "time_estimated": "12:22",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -510,8 +510,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 26
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1793275800.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:45",
+      "time_estimated": "13:53",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -608,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 35
+      "delay": 43
     },
     {
       "dt": 1793276100.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1793276400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:23",
+      "time_estimated": "13:18",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -718,16 +718,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793276400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:55",
+      "time_estimated": "13:49",
       "flight_no": "EW9569",
       "airline": "Eurowings",
       "city": "Sevilla",
@@ -741,7 +741,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 35
+      "delay": 30
     },
     {
       "dt": 1793277900.0,
@@ -813,9 +813,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +936,7 @@
     {
       "dt": 1793278800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:52",
+      "time_estimated": "13:53",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -961,9 +961,9 @@
       "city": "Sylt (Westerland)",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1077,7 +1077,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "5",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793283600.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:22",
+      "time_estimated": "15:15",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793283600.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1793286300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:35",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 31
     },
     {
       "dt": 1793286900.0,
