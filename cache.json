@@ -1,5 +1,5 @@
 {
-  "updated_at": "29.10.2026 07:15",
+  "updated_at": "29.10.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793256000.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:44",
+      "time_estimated": "07:45",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793257200.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1793259300.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:33",
+      "time_estimated": "08:39",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -206,10 +206,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793259600.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793266200.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:18",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1215,6 +1215,63 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793272800.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793272800.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793273400.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:17",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
