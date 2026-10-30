@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 07:55",
+  "updated_at": "30.10.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -243,9 +243,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 25
     },
@@ -377,8 +377,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1793349600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:46",
+      "time_estimated": "09:53",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 14
     },
     {
       "dt": 1793349600.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1793350200.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:07",
+      "time_estimated": "10:01",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 12
     },
     {
       "dt": 1793350500.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:31",
+      "time_estimated": "11:21",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -912,12 +912,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 52
     },
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:14",
+      "time_estimated": "10:07",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793354700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "11:04",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1126,7 +1126,7 @@
     {
       "dt": 1793355000.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:01",
       "flight_no": "EW9043",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1682,6 +1682,25 @@
       "airline": "Eurowings",
       "city": "Thessaloniki",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793361600.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "DY1132",
+      "airline": "Norwegian",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
