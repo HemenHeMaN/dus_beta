@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 06:25",
+  "updated_at": "30.10.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793338500.0,
       "time_scheduled": "06:35",
-      "time_estimated": "06:48",
+      "time_estimated": "06:29",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -110,11 +110,11 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 0
     },
     {
       "dt": 1793338500.0,
@@ -157,7 +157,7 @@
     {
       "dt": 1793340600.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:45",
+      "time_estimated": "06:40",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -168,8 +168,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1793343300.0,
       "time_scheduled": "07:55",
-      "time_estimated": "09:10",
+      "time_estimated": "10:11",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -266,7 +266,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 75
+      "delay": 136
     },
     {
       "dt": 1793343600.0,
@@ -279,8 +279,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -290,7 +290,7 @@
     {
       "dt": 1793344500.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:04",
+      "time_estimated": "08:01",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -355,8 +355,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -613,7 +613,7 @@
     {
       "dt": 1793349000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:29",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -765,7 +765,7 @@
     {
       "dt": 1793350800.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:33",
+      "time_estimated": "09:32",
       "flight_no": "4M597",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -1193,6 +1193,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793356200.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
