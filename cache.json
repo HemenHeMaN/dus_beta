@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 13:55",
+  "updated_at": "30.10.2026 14:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,25 +119,6 @@
     {
       "dt": 1793359800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:11",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793359800.0,
-      "time_scheduled": "12:30",
       "time_estimated": "13:01",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
@@ -153,6 +134,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 32
+    },
+    {
+      "dt": 1793359800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:11",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793359800.0,
@@ -290,25 +290,6 @@
     {
       "dt": 1793361000.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:44",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793361000.0,
-      "time_scheduled": "12:50",
       "time_estimated": "12:53",
       "flight_no": "EW9655",
       "airline": "Eurowings",
@@ -324,6 +305,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 4
+    },
+    {
+      "dt": 1793361000.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:44",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793361600.0,
@@ -423,25 +423,6 @@
     {
       "dt": 1793362500.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:42",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793362500.0,
-      "time_scheduled": "13:15",
       "time_estimated": "13:31",
       "flight_no": "XQ958",
       "airline": "Sun Express",
@@ -470,6 +451,25 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793362500.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "12:42",
+      "flight_no": "MS733",
+      "airline": "Egypt Air",
+      "city": "Kairo",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 52
     },
@@ -605,8 +605,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 30
     },
@@ -632,7 +632,7 @@
     {
       "dt": 1793364600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:10",
+      "time_estimated": "14:05",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -646,7 +646,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 15
     },
     {
       "dt": 1793364600.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793366100.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:25",
+      "time_estimated": "14:19",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -779,7 +779,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1793366400.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793366400.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:28",
+      "time_estimated": "14:37",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -817,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 17
     },
     {
       "dt": 1793366400.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793367300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:34",
+      "time_estimated": "14:35",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -874,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793367900.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1793369700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:21",
+      "time_estimated": "15:26",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1793370600.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793373600.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:19",
+      "time_estimated": "16:20",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1392,7 +1392,7 @@
     {
       "dt": 1793375400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:55",
+      "time_estimated": "16:56",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1406,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793375700.0,
@@ -1487,7 +1487,7 @@
     {
       "dt": 1793376600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:43",
+      "time_estimated": "16:52",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1498,8 +1498,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
