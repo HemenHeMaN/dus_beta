@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 16:20",
+  "updated_at": "30.10.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 54
-    },
-    {
-      "dt": 1793366400.0,
-      "time_scheduled": "14:20",
-      "time_estimated": "14:21",
-      "flight_no": "QS4474",
-      "airline": "Smartwings",
-      "city": "Fuerteventura",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1793366400.0,
@@ -176,7 +157,7 @@
     {
       "dt": 1793369100.0,
       "time_scheduled": "15:05",
-      "time_estimated": "16:45",
+      "time_estimated": "16:40",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -186,11 +167,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 101
+      "delay": 96
     },
     {
       "dt": 1793369400.0,
@@ -1316,7 +1297,7 @@
     {
       "dt": 1793382600.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:50",
+      "time_estimated": "19:29",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1330,12 +1311,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 39
     },
     {
       "dt": 1793382600.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:54",
+      "time_estimated": "19:04",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1349,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 14
     },
     {
       "dt": 1793382900.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1793385600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:31",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -2046,6 +2027,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793391900.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793391900.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "EW9613",
+      "airline": "Eurowings",
+      "city": "Korfu",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
