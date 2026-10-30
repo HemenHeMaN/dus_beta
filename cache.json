@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 21:40",
+  "updated_at": "30.10.2026 21:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 131
-    },
-    {
-      "dt": 1793383800.0,
-      "time_scheduled": "19:10",
-      "time_estimated": "19:45",
-      "flight_no": "LX1026",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 35
-    },
-    {
-      "dt": 1793385600.0,
-      "time_scheduled": "19:40",
-      "time_estimated": "19:43",
-      "flight_no": "BA938",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1793386200.0,
@@ -376,9 +338,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 73
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1793390400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:46",
+      "time_estimated": "21:41",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -433,11 +395,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 47
+      "delay": 41
     },
     {
       "dt": 1793390400.0,
@@ -575,7 +537,7 @@
     {
       "dt": 1793393400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:50",
+      "time_estimated": "22:09",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -589,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 19
     },
     {
       "dt": 1793393400.0,
@@ -727,7 +689,7 @@
     {
       "dt": 1793393700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:47",
+      "time_estimated": "21:44",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -737,16 +699,16 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793393700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:06",
+      "time_estimated": "21:57",
       "flight_no": "EW6840",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -756,11 +718,11 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 3
     },
     {
       "dt": 1793394000.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1793394900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:03",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -927,9 +889,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1042,8 +1004,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
