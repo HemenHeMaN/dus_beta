@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 09:05",
+  "updated_at": "30.10.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793346600.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:09",
+      "time_estimated": "09:06",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -262,11 +262,11 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 17
     },
     {
       "dt": 1793346600.0,
@@ -328,7 +328,7 @@
     {
       "dt": 1793347500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:13",
+      "time_estimated": "09:09",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -338,11 +338,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 5
     },
     {
       "dt": 1793347500.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793349000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:26",
+      "time_estimated": "09:20",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -434,8 +434,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1793349300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:40",
+      "time_estimated": "09:28",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -475,7 +475,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793349600.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793352300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:26",
+      "time_estimated": "10:22",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -681,10 +681,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793352300.0,
@@ -1023,8 +1023,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 7
     },
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793357700.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:08",
+      "time_estimated": "12:10",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1793358000.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793358300.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:05",
+      "time_estimated": "12:14",
       "flight_no": "EW9533",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793359200.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793359500.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:25",
+      "time_estimated": "12:13",
       "flight_no": "XR418",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1901,6 +1901,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793365200.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:06",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 6
     },
     {
       "dt": 1793365500.0,
