@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 13:45",
+  "updated_at": "30.10.2026 13:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1793359800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "13:01",
-      "flight_no": "NE720",
-      "airline": "Nesma Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 32
-    },
-    {
-      "dt": 1793359800.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:11",
       "flight_no": "EK055",
       "airline": "Emirates",
@@ -191,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793359800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "13:01",
+      "flight_no": "NE720",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 32
     },
     {
       "dt": 1793359800.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793363700.0,
       "time_scheduled": "13:35",
-      "time_estimated": "14:25",
+      "time_estimated": "14:27",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -570,7 +570,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 50
+      "delay": 52
     },
     {
       "dt": 1793364000.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793364300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:04",
+      "time_estimated": "14:10",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -608,7 +608,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 25
     },
     {
       "dt": 1793364300.0,
@@ -642,16 +642,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 30
     },
     {
       "dt": 1793364300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:01",
+      "time_estimated": "13:47",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -661,11 +661,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 2
     },
     {
       "dt": 1793364600.0,
@@ -680,16 +680,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
     {
       "dt": 1793364600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:13",
+      "time_estimated": "14:08",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -699,11 +699,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 18
     },
     {
       "dt": 1793364600.0,
@@ -794,9 +794,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +917,7 @@
     {
       "dt": 1793367900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:49",
+      "time_estimated": "14:51",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -928,10 +928,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 7
     },
     {
       "dt": 1793367900.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793370600.0,
       "time_scheduled": "15:30",
-      "time_estimated": "16:11",
+      "time_estimated": "16:02",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 42
+      "delay": 33
     },
     {
       "dt": 1793370900.0,
@@ -1335,7 +1335,7 @@
     {
       "dt": 1793374500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:35",
+      "time_estimated": "16:55",
       "flight_no": "PC5305",
       "airline": "Pegasus Airlines",
       "city": "Izmir",
@@ -1349,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793374800.0,
@@ -1829,7 +1829,7 @@
     {
       "dt": 1793379600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:27",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -1840,10 +1840,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 27
     },
     {
       "dt": 1793379600.0,
@@ -2065,6 +2065,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793382600.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:50",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793382600.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:50",
+      "flight_no": "IV8222",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793382600.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:50",
+      "flight_no": "IB755",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
