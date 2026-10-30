@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 15:15",
+  "updated_at": "30.10.2026 15:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -415,8 +415,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 62
     },
@@ -528,16 +528,16 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 26
     },
     {
       "dt": 1793369700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:22",
+      "time_estimated": "15:18",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -547,11 +547,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 4
     },
     {
       "dt": 1793370600.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793371200.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:21",
+      "time_estimated": "15:17",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -623,16 +623,16 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793371200.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:47",
+      "time_estimated": "15:35",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -642,11 +642,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793371500.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1793373300.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:32",
+      "time_estimated": "16:30",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -795,10 +795,10 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 15
     },
     {
       "dt": 1793373300.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793375400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:52",
+      "time_estimated": "16:56",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 6
     },
     {
       "dt": 1793375700.0,
@@ -1599,6 +1599,25 @@
       "delay": 0
     },
     {
+      "dt": 1793382000.0,
+      "time_scheduled": "18:40",
+      "time_estimated": "20:17",
+      "flight_no": "EW9445",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 97
+    },
+    {
       "dt": 1793382600.0,
       "time_scheduled": "18:50",
       "time_estimated": "18:50",
@@ -1753,7 +1772,7 @@
     {
       "dt": 1793383500.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:05",
+      "time_estimated": "18:27",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -2089,6 +2108,25 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793388300.0,
+      "time_scheduled": "20:25",
+      "time_estimated": "20:04",
+      "flight_no": "EW9983",
+      "airline": "Eurowings",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
