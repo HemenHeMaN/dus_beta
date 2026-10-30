@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 11:00",
+  "updated_at": "30.10.2026 11:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 54
-    },
-    {
-      "dt": 1793348400.0,
-      "time_scheduled": "09:20",
-      "time_estimated": "09:02",
-      "flight_no": "TK1523",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793349000.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1793354700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:36",
+      "time_estimated": "11:37",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -570,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 33
     },
     {
       "dt": 1793354700.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1793355300.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:04",
+      "time_estimated": "11:00",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -661,9 +642,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -700,8 +681,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1793356500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:40",
+      "time_estimated": "11:41",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793356800.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793356800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:38",
+      "time_estimated": "11:39",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1373,7 +1354,7 @@
     {
       "dt": 1793363700.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:56",
+      "time_estimated": "14:02",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -1384,10 +1365,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 27
     },
     {
       "dt": 1793363700.0,
@@ -1601,7 +1582,7 @@
     {
       "dt": 1793365500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:05",
+      "time_estimated": "14:15",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1615,7 +1596,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793365500.0,
@@ -1991,6 +1972,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793372700.0,
+      "time_scheduled": "16:05",
+      "time_estimated": "16:05",
+      "flight_no": "EW9845",
+      "airline": "Eurowings",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
