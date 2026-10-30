@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 15:40",
+  "updated_at": "30.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -153,44 +153,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 15
-    },
-    {
-      "dt": 1793364600.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:43",
-      "flight_no": "BJ2340",
-      "airline": "Nouvelair",
-      "city": "Djerba",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793365200.0,
-      "time_scheduled": "14:00",
-      "time_estimated": "13:40",
-      "flight_no": "RJ129",
-      "airline": "Royal Jordanian",
-      "city": "Amman-Queen Alia",
-      "country": "Jordanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793365500.0,
@@ -404,7 +366,7 @@
     {
       "dt": 1793369100.0,
       "time_scheduled": "15:05",
-      "time_estimated": "16:49",
+      "time_estimated": "16:48",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -415,10 +377,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 104
+      "delay": 103
     },
     {
       "dt": 1793369400.0,
@@ -556,7 +518,7 @@
     {
       "dt": 1793371500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:46",
+      "time_estimated": "16:53",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -570,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 62
+      "delay": 69
     },
     {
       "dt": 1793372400.0,
@@ -605,8 +567,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -719,8 +681,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +746,7 @@
     {
       "dt": 1793374800.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:45",
+      "time_estimated": "16:44",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -795,10 +757,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 5
     },
     {
       "dt": 1793375100.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793376900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:52",
+      "time_estimated": "17:46",
       "flight_no": "KK491",
       "airline": "LEAV Aviation",
       "city": "Damaskus",
@@ -1026,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 37
+      "delay": 31
     },
     {
       "dt": 1793377200.0,
@@ -2105,6 +2067,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793389500.0,
+      "time_scheduled": "20:45",
+      "time_estimated": "20:45",
+      "flight_no": "XR502",
+      "airline": "Corendon Airlines Europe",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
