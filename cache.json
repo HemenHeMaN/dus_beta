@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 19:15",
+  "updated_at": "30.10.2026 19:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
-    },
-    {
-      "dt": 1793377200.0,
-      "time_scheduled": "17:20",
-      "time_estimated": "17:19",
-      "flight_no": "OS165",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793377200.0,
@@ -594,7 +575,7 @@
     {
       "dt": 1793382600.0,
       "time_scheduled": "18:50",
-      "time_estimated": "19:43",
+      "time_estimated": "19:37",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -604,11 +585,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 54
+      "delay": 48
     },
     {
       "dt": 1793382600.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1793382900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:21",
+      "time_estimated": "19:18",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -661,11 +642,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 26
+      "delay": 24
     },
     {
       "dt": 1793382900.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793383800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:54",
+      "time_estimated": "19:49",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -779,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 44
+      "delay": 39
     },
     {
       "dt": 1793383800.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793385600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:22",
+      "time_estimated": "19:21",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -860,7 +841,7 @@
     {
       "dt": 1793385900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:20",
+      "time_estimated": "19:16",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -870,9 +851,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793389200.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:51",
+      "time_estimated": "20:52",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -1156,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1793389500.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793389800.0,
       "time_scheduled": "20:50",
-      "time_estimated": "20:47",
+      "time_estimated": "20:36",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -1194,8 +1175,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1354,7 +1335,7 @@
     {
       "dt": 1793391900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:17",
+      "time_estimated": "21:27",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1368,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793391900.0,
@@ -1658,7 +1639,7 @@
     {
       "dt": 1793394300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:05",
+      "time_estimated": "22:20",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1672,7 +1653,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793394300.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1793394600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:21",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -1710,7 +1691,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793394600.0,
@@ -1753,7 +1734,7 @@
     {
       "dt": 1793394900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:20",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1767,7 +1748,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793394900.0,
@@ -1791,7 +1772,7 @@
     {
       "dt": 1793394900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:25",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1805,7 +1786,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793394900.0,
@@ -1924,7 +1905,7 @@
     {
       "dt": 1793395800.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:10",
+      "time_estimated": "21:59",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1935,8 +1916,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -2057,7 +2038,7 @@
     {
       "dt": 1793396700.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:51",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -2068,10 +2049,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793396700.0,
