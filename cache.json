@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 09:10",
+  "updated_at": "30.10.2026 09:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1793349000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:20",
+      "time_estimated": "09:26",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -471,9 +471,9 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -604,9 +604,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1793352300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:44",
+      "time_estimated": "10:34",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 9
     },
     {
       "dt": 1793352300.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:33",
+      "time_estimated": "10:37",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -798,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1793353500.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793354700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:04",
+      "time_estimated": "11:07",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -874,12 +874,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793354700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:39",
+      "time_estimated": "11:38",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 35
+      "delay": 34
     },
     {
       "dt": 1793354700.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793356800.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:27",
+      "time_estimated": "11:31",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1080,8 +1080,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793358000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "12:16",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793358300.0,
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793359500.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:13",
+      "time_estimated": "12:15",
       "flight_no": "XR418",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1308,8 +1308,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1449,7 +1449,7 @@
     {
       "dt": 1793360400.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:48",
+      "time_estimated": "12:18",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -1463,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793361000.0,
@@ -1953,6 +1953,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793366100.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:15",
+      "flight_no": "OS163",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
