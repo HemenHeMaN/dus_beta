@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 17:55",
+  "updated_at": "30.10.2026 18:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -518,7 +518,7 @@
     {
       "dt": 1793377200.0,
       "time_scheduled": "17:20",
-      "time_estimated": "18:16",
+      "time_estimated": "17:59",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -528,11 +528,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 56
+      "delay": 40
     },
     {
       "dt": 1793377200.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793378400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:57",
+      "time_estimated": "17:56",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -623,9 +623,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 17
     },
@@ -680,16 +680,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 41
     },
     {
       "dt": 1793378700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:21",
+      "time_estimated": "17:58",
       "flight_no": "EW9083",
       "airline": "Eurowings",
       "city": "München",
@@ -699,11 +699,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 36
+      "delay": 13
     },
     {
       "dt": 1793379300.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793379900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:04",
+      "time_estimated": "18:11",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -874,7 +874,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793380200.0,
@@ -890,15 +890,15 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
     {
       "dt": 1793380500.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:38",
+      "time_estimated": "18:39",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -912,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 25
     },
     {
       "dt": 1793381700.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793382600.0,
       "time_scheduled": "18:50",
-      "time_estimated": "19:44",
+      "time_estimated": "19:43",
       "flight_no": "IV8222",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1449,7 +1449,7 @@
     {
       "dt": 1793387700.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:26",
+      "time_estimated": "20:48",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1463,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 34
     },
     {
       "dt": 1793388300.0,
@@ -1601,7 +1601,7 @@
     {
       "dt": 1793390100.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:47",
+      "time_estimated": "20:32",
       "flight_no": "DE1613",
       "airline": "Condor",
       "city": "Korfu",
@@ -1696,7 +1696,7 @@
     {
       "dt": 1793390400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:00",
+      "time_estimated": "21:01",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -1710,7 +1710,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793391300.0,
@@ -2485,6 +2485,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793397600.0,
+      "time_scheduled": "23:00",
+      "time_estimated": "23:00",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
