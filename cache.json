@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 18:05",
+  "updated_at": "30.10.2026 18:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,25 +62,6 @@
     {
       "dt": 1793373300.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:05",
-      "flight_no": "DE869",
-      "airline": "Condor",
-      "city": "Beirut",
-      "country": "Libanon",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793373300.0,
-      "time_scheduled": "16:15",
       "time_estimated": "17:41",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
@@ -110,25 +91,6 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793373300.0,
-      "time_scheduled": "16:15",
-      "time_estimated": "16:07",
-      "flight_no": "X32115",
-      "airline": "Tuifly",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -537,7 +499,7 @@
     {
       "dt": 1793377500.0,
       "time_scheduled": "17:25",
-      "time_estimated": "18:27",
+      "time_estimated": "18:18",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -551,7 +513,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 63
+      "delay": 53
     },
     {
       "dt": 1793377800.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1793379900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:35",
+      "time_estimated": "18:27",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -813,11 +775,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 31
+      "delay": 23
     },
     {
       "dt": 1793379900.0,
@@ -860,7 +822,7 @@
     {
       "dt": 1793380200.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:15",
+      "time_estimated": "18:06",
       "flight_no": "QS4395",
       "airline": "Smartwings",
       "city": "Teneriffa Süd",
@@ -870,11 +832,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793380500.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793382000.0,
       "time_scheduled": "18:40",
-      "time_estimated": "20:39",
+      "time_estimated": "20:48",
       "flight_no": "EW9445",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -950,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 120
+      "delay": 128
     },
     {
       "dt": 1793382600.0,
@@ -1031,7 +993,7 @@
     {
       "dt": 1793382900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:23",
+      "time_estimated": "19:22",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1045,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 28
     },
     {
       "dt": 1793382900.0,
@@ -1069,7 +1031,7 @@
     {
       "dt": 1793382900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:15",
+      "time_estimated": "19:18",
       "flight_no": "LH2028",
       "airline": "Lufthansa",
       "city": "München",
@@ -1083,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 23
     },
     {
       "dt": 1793383500.0,
@@ -1117,9 +1079,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1620,7 +1582,7 @@
     {
       "dt": 1793390400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:14",
+      "time_estimated": "21:12",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1634,7 +1596,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 12
     },
     {
       "dt": 1793390400.0,
@@ -1715,7 +1677,7 @@
     {
       "dt": 1793391600.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:08",
+      "time_estimated": "21:20",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1753,7 +1715,7 @@
     {
       "dt": 1793391900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:25",
+      "time_estimated": "21:12",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -2000,7 +1962,7 @@
     {
       "dt": 1793394000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "22:29",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -2014,7 +1976,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 29
     },
     {
       "dt": 1793394300.0,
