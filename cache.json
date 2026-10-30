@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 22:20",
+  "updated_at": "30.10.2026 22:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -134,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1793389200.0,
-      "time_scheduled": "20:40",
-      "time_estimated": "20:23",
-      "flight_no": "EW9413",
-      "airline": "Eurowings",
-      "city": "Lyon",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793389500.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1793393700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:38",
+      "time_estimated": "22:30",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -570,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 43
+      "delay": 36
     },
     {
       "dt": 1793393700.0,
@@ -613,7 +594,7 @@
     {
       "dt": 1793394000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:27",
+      "time_estimated": "22:24",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -623,11 +604,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 28
+      "delay": 25
     },
     {
       "dt": 1793394300.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793394600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:24",
+      "time_estimated": "22:21",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -718,30 +699,30 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 14
+      "delay": 12
     },
     {
       "dt": 1793394600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:48",
+      "time_estimated": "22:39",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
       "country": "Schweden",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 39
+      "delay": 30
     },
     {
       "dt": 1793394900.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1793396100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:48",
+      "time_estimated": "22:41",
       "flight_no": "X3117",
       "airline": "Tuifly",
       "city": "Dalaman",
@@ -946,11 +927,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 6
     },
     {
       "dt": 1793396100.0,
@@ -984,16 +965,16 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
     {
       "dt": 1793396100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:27",
+      "time_estimated": "22:23",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1003,9 +984,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -1023,8 +1004,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1079,9 +1060,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1093,11 +1074,11 @@
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
       "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Airline",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
