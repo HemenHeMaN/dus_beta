@@ -1,11 +1,11 @@
 {
-  "updated_at": "30.10.2026 06:05",
+  "updated_at": "30.10.2026 06:10",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793336700.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:29",
+      "time_estimated": "06:08",
       "flight_no": "XC266",
       "airline": "Corendon Airlines",
       "city": "Kayseri",
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 3
     },
     {
       "dt": 1793336700.0,
@@ -43,7 +43,7 @@
     {
       "dt": 1793337000.0,
       "time_scheduled": "06:10",
-      "time_estimated": "06:00",
+      "time_estimated": "06:17",
       "flight_no": "XC110",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -57,7 +57,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793337000.0,
@@ -81,7 +81,7 @@
     {
       "dt": 1793337300.0,
       "time_scheduled": "06:15",
-      "time_estimated": "06:10",
+      "time_estimated": "06:16",
       "flight_no": "0S8130",
       "airline": "Sky Vision Airlines",
       "city": "Hurghada",
@@ -95,7 +95,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793338500.0,
@@ -130,15 +130,15 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793338800.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:13",
+      "time_estimated": "06:16",
       "flight_no": "XQ1350",
       "airline": "Sun Express",
       "city": "Samsun",
@@ -252,7 +252,7 @@
     {
       "dt": 1793343300.0,
       "time_scheduled": "07:55",
-      "time_estimated": "09:00",
+      "time_estimated": "09:09",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -266,7 +266,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 65
+      "delay": 74
     },
     {
       "dt": 1793343600.0,
@@ -1077,6 +1077,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793355000.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793355000.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "SK818",
+      "airline": "Scandinavian Airlines",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793355000.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "EW9043",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
