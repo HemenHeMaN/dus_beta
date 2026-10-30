@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 22:05",
+  "updated_at": "30.10.2026 22:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793390400.0,
       "time_scheduled": "21:00",
-      "time_estimated": "22:08",
+      "time_estimated": "22:07",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -262,9 +262,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 68
     },
@@ -623,16 +623,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 35
     },
     {
       "dt": 1793394300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:20",
+      "time_estimated": "22:27",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -646,12 +646,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 16
+      "delay": 23
     },
     {
       "dt": 1793394300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:20",
+      "time_estimated": "22:09",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -659,13 +659,13 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "6",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 4
     },
     {
       "dt": 1793394300.0,
@@ -681,8 +681,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793394600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:30",
+      "time_estimated": "22:24",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -718,11 +718,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 14
     },
     {
       "dt": 1793394600.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1793394900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:23",
+      "time_estimated": "22:06",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -756,11 +756,11 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793394900.0,
@@ -789,14 +789,14 @@
       "airline": "Eurowings",
       "city": "Manchester",
       "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -814,8 +814,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -965,16 +965,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793396100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:49",
+      "time_estimated": "22:44",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -988,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 9
     },
     {
       "dt": 1793396100.0,
@@ -1003,9 +1003,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -1075,9 +1075,9 @@
       "city": "Dresden",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
