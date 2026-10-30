@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 06:40",
+  "updated_at": "30.10.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1793340600.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:45",
+      "time_estimated": "06:40",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -167,9 +167,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -404,7 +404,7 @@
     {
       "dt": 1793346300.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:48",
+      "time_estimated": "08:57",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -418,7 +418,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 13
     },
     {
       "dt": 1793346600.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793349600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:40",
+      "time_estimated": "09:47",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793349600.0,
@@ -1286,6 +1286,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793357100.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "BQ1952",
+      "airline": "Sky Alps",
+      "city": "Bozen",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793357100.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "EW9505",
+      "airline": "Eurowings",
+      "city": "Menorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
