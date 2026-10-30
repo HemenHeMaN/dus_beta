@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 15:35",
+  "updated_at": "30.10.2026 15:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1793369400.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:42",
+      "time_estimated": "15:37",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
@@ -433,11 +433,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 32
+      "delay": 28
     },
     {
       "dt": 1793369700.0,
@@ -491,8 +491,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793371200.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:40",
+      "time_estimated": "15:36",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -547,11 +547,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793371500.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793372700.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:04",
+      "time_estimated": "15:56",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -604,9 +604,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -718,16 +718,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793373600.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:48",
+      "time_estimated": "16:54",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 34
     },
     {
       "dt": 1793374200.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793377500.0,
       "time_scheduled": "17:25",
-      "time_estimated": "18:30",
+      "time_estimated": "18:26",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1118,10 +1118,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 66
+      "delay": 62
     },
     {
       "dt": 1793377800.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793378400.0,
       "time_scheduled": "17:40",
-      "time_estimated": "18:07",
+      "time_estimated": "18:05",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1194,10 +1194,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 27
+      "delay": 25
     },
     {
       "dt": 1793378400.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793379300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:44",
+      "time_estimated": "17:42",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793379900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:08",
+      "time_estimated": "18:19",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1425,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 14
     },
     {
       "dt": 1793380200.0,
@@ -1620,7 +1620,7 @@
     {
       "dt": 1793382900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:43",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1696,7 +1696,7 @@
     {
       "dt": 1793383800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "18:44",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -2086,6 +2086,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793389200.0,
+      "time_scheduled": "20:40",
+      "time_estimated": "20:40",
+      "flight_no": "EW9413",
+      "airline": "Eurowings",
+      "city": "Lyon",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
