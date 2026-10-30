@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 07:15",
+  "updated_at": "30.10.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793342100.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:15",
+      "time_estimated": "07:18",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -186,9 +186,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -928,15 +928,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:21",
       "flight_no": "EW9243",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -955,7 +955,7 @@
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:41",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793353500.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793354100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:24",
+      "time_estimated": "10:21",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1438,6 +1438,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793359200.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
