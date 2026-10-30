@@ -1,26 +1,7 @@
 {
-  "updated_at": "30.10.2026 13:25",
+  "updated_at": "30.10.2026 13:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793352300.0,
-      "time_scheduled": "10:25",
-      "time_estimated": "11:25",
-      "flight_no": "EW9425",
-      "airline": "Eurowings",
-      "city": "Marseille",
-      "country": "Frankreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 61
-    },
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
@@ -79,25 +60,6 @@
       "delay": 16
     },
     {
-      "dt": 1793356200.0,
-      "time_scheduled": "11:30",
-      "time_estimated": "11:27",
-      "flight_no": "XC104",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793356500.0,
       "time_scheduled": "11:35",
       "time_estimated": "11:36",
@@ -128,25 +90,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793356800.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:29",
-      "flight_no": "X32313",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -366,25 +309,6 @@
     {
       "dt": 1793359800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:11",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793359800.0,
-      "time_scheduled": "12:30",
       "time_estimated": "13:01",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
@@ -400,6 +324,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 32
+    },
+    {
+      "dt": 1793359800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:11",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793359800.0,
@@ -632,7 +575,7 @@
     {
       "dt": 1793362200.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:53",
+      "time_estimated": "13:28",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -642,11 +585,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 44
+      "delay": 19
     },
     {
       "dt": 1793362500.0,
@@ -803,7 +746,7 @@
     {
       "dt": 1793364300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:07",
+      "time_estimated": "14:04",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -817,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 19
     },
     {
       "dt": 1793364300.0,
@@ -879,7 +822,7 @@
     {
       "dt": 1793364600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:09",
+      "time_estimated": "14:10",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -893,7 +836,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 20
     },
     {
       "dt": 1793364600.0,
@@ -927,16 +870,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
     {
       "dt": 1793364900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:34",
+      "time_estimated": "13:26",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -946,9 +889,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -966,15 +909,15 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793365500.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:17",
+      "time_estimated": "14:20",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -985,10 +928,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1793365500.0,
@@ -1031,7 +974,7 @@
     {
       "dt": 1793366400.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:32",
+      "time_estimated": "14:31",
       "flight_no": "QS4474",
       "airline": "Smartwings",
       "city": "Fuerteventura",
@@ -1045,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 11
     },
     {
       "dt": 1793366400.0,
@@ -1126,7 +1069,7 @@
     {
       "dt": 1793367900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:50",
+      "time_estimated": "14:47",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1140,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 3
     },
     {
       "dt": 1793367900.0,
