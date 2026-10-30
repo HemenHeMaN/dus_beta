@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 20:40",
+  "updated_at": "30.10.2026 20:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,25 +43,6 @@
     {
       "dt": 1793382000.0,
       "time_scheduled": "18:40",
-      "time_estimated": "20:56",
-      "flight_no": "EW9445",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
-      "remark": "",
-      "delay": 136
-    },
-    {
-      "dt": 1793382000.0,
-      "time_scheduled": "18:40",
       "time_estimated": "18:45",
       "flight_no": "EW9589",
       "airline": "Eurowings",
@@ -77,6 +58,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
+    },
+    {
+      "dt": 1793382000.0,
+      "time_scheduled": "18:40",
+      "time_estimated": "20:56",
+      "flight_no": "EW9445",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
+      "remark": "",
+      "delay": 136
     },
     {
       "dt": 1793382600.0,
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 41
-    },
-    {
-      "dt": 1793382600.0,
-      "time_scheduled": "18:50",
-      "time_estimated": "18:43",
-      "flight_no": "EW9583",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793382600.0,
@@ -442,7 +423,7 @@
     {
       "dt": 1793386800.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:47",
+      "time_estimated": "20:44",
       "flight_no": "EW7066",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -452,11 +433,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 48
+      "delay": 45
     },
     {
       "dt": 1793387100.0,
@@ -480,7 +461,7 @@
     {
       "dt": 1793387400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:47",
+      "time_estimated": "21:07",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -494,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 37
+      "delay": 57
     },
     {
       "dt": 1793387700.0,
@@ -548,8 +529,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 32
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1793388900.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:48",
+      "time_estimated": "20:42",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -585,11 +566,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 8
     },
     {
       "dt": 1793389200.0,
@@ -993,7 +974,7 @@
     {
       "dt": 1793393700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:53",
+      "time_estimated": "21:59",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -1004,10 +985,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793393700.0,
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793394300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:16",
+      "time_estimated": "22:24",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 20
     },
     {
       "dt": 1793394300.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793394600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:11",
+      "time_estimated": "22:36",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -1197,12 +1178,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 27
     },
     {
       "dt": 1793394900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:07",
+      "time_estimated": "22:04",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793396100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:46",
+      "time_estimated": "22:39",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1463,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 5
     },
     {
       "dt": 1793396100.0,
