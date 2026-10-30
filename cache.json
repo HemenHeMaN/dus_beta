@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 13:20",
+  "updated_at": "30.10.2026 13:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -632,7 +632,7 @@
     {
       "dt": 1793362200.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:33",
+      "time_estimated": "13:53",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -646,7 +646,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 44
     },
     {
       "dt": 1793362500.0,
@@ -700,8 +700,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1793363400.0,
       "time_scheduled": "13:30",
-      "time_estimated": "13:41",
+      "time_estimated": "13:35",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -738,15 +738,15 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1793363700.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:59",
+      "time_estimated": "14:00",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -760,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 25
     },
     {
       "dt": 1793363700.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1793364300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:41",
+      "time_estimated": "13:23",
       "flight_no": "QS4462",
       "airline": "Smartwings",
       "city": "Teneriffa Süd",
@@ -832,9 +832,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +879,7 @@
     {
       "dt": 1793364600.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:15",
+      "time_estimated": "14:09",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -893,7 +893,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 19
     },
     {
       "dt": 1793364600.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793364900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:41",
+      "time_estimated": "13:34",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -965,9 +965,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793366400.0,
       "time_scheduled": "14:20",
-      "time_estimated": "15:09",
+      "time_estimated": "15:03",
       "flight_no": "EW9821",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -1083,12 +1083,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 44
     },
     {
       "dt": 1793366700.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:44",
+      "time_estimated": "15:28",
       "flight_no": "EW4674",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 64
     },
     {
       "dt": 1793367300.0,
@@ -1468,7 +1468,7 @@
     {
       "dt": 1793373300.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:07",
+      "time_estimated": "16:34",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1482,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793373300.0,
@@ -2200,6 +2200,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793381100.0,
+      "time_scheduled": "18:25",
+      "time_estimated": "18:25",
+      "flight_no": "AP1037",
+      "airline": "Alba Star",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
