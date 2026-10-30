@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 13:05",
+  "updated_at": "30.10.2026 13:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 34
-    },
-    {
-      "dt": 1793355000.0,
-      "time_scheduled": "11:10",
-      "time_estimated": "11:07",
-      "flight_no": "EW9043",
-      "airline": "Eurowings",
-      "city": "Berlin-Brandenburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793355300.0,
@@ -480,25 +461,6 @@
     {
       "dt": 1793360100.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:20",
-      "flight_no": "XQ184",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793360100.0,
-      "time_scheduled": "12:35",
       "time_estimated": "12:46",
       "flight_no": "EW9885",
       "airline": "Eurowings",
@@ -514,6 +476,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
+    },
+    {
+      "dt": 1793360100.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:20",
+      "flight_no": "XQ184",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793360400.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1793361900.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:12",
+      "time_estimated": "13:08",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -661,11 +642,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 3
     },
     {
       "dt": 1793362200.0,
@@ -870,9 +851,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +879,7 @@
     {
       "dt": 1793364300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:55",
+      "time_estimated": "14:03",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -912,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 18
     },
     {
       "dt": 1793364600.0,
@@ -984,16 +965,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793365200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:49",
+      "time_estimated": "13:50",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793366400.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:54",
+      "time_estimated": "15:09",
       "flight_no": "EW9821",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 34
+      "delay": 50
     },
     {
       "dt": 1793366700.0,
@@ -2200,6 +2181,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793380200.0,
+      "time_scheduled": "18:10",
+      "time_estimated": "18:10",
+      "flight_no": "QS4395",
+      "airline": "Smartwings",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
