@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 18:30",
+  "updated_at": "30.10.2026 18:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -803,7 +803,7 @@
     {
       "dt": 1793382000.0,
       "time_scheduled": "18:40",
-      "time_estimated": "18:59",
+      "time_estimated": "18:52",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -813,11 +813,11 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 12
     },
     {
       "dt": 1793382000.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793382600.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:59",
+      "time_estimated": "18:49",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -852,10 +852,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1793382600.0,
@@ -889,16 +889,16 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
     {
       "dt": 1793382900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:34",
+      "time_estimated": "18:30",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -908,9 +908,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -946,9 +946,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1278,7 +1278,7 @@
     {
       "dt": 1793387100.0,
       "time_scheduled": "20:05",
-      "time_estimated": "19:52",
+      "time_estimated": "19:56",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1289,15 +1289,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793387400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:14",
+      "time_estimated": "20:24",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -1311,7 +1311,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 14
     },
     {
       "dt": 1793387700.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793389200.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:57",
+      "time_estimated": "21:01",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -1425,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 21
     },
     {
       "dt": 1793389500.0,
@@ -1441,8 +1441,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 4
     },
@@ -1772,7 +1772,7 @@
     {
       "dt": 1793393400.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:33",
+      "time_estimated": "21:37",
       "flight_no": "EW9677",
       "airline": "Eurowings",
       "city": "Chania (Kreta)",
@@ -1783,15 +1783,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793393700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:40",
+      "time_estimated": "21:39",
       "flight_no": "X36643",
       "airline": "Tuifly",
       "city": "Marsa Alam",
