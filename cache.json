@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 16:50",
+  "updated_at": "30.10.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -453,8 +453,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -471,9 +471,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793375700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:54",
+      "time_estimated": "16:53",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -548,8 +548,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1793376600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:12",
+      "time_estimated": "16:50",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -604,11 +604,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793376900.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1793379300.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:11",
+      "time_estimated": "17:51",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -912,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 0
     },
     {
       "dt": 1793379600.0,
@@ -1525,7 +1525,7 @@
     {
       "dt": 1793386500.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:55",
+      "time_estimated": "19:58",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1539,7 +1539,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793386800.0,
@@ -2095,7 +2095,7 @@
     {
       "dt": 1793393700.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:46",
+      "time_estimated": "21:40",
       "flight_no": "X36643",
       "airline": "Tuifly",
       "city": "Marsa Alam",
@@ -2108,6 +2108,82 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793393700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9365",
+      "airline": "Eurowings",
+      "city": "Edinburgh",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793393700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9443",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793393700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9469",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793393700.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW6840",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
