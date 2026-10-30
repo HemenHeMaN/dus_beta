@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 09:20",
+  "updated_at": "30.10.2026 09:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,7 +404,7 @@
     {
       "dt": 1793349000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:26",
+      "time_estimated": "09:21",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -414,9 +414,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1793349300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:28",
+      "time_estimated": "10:00",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -456,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1793349600.0,
@@ -509,9 +509,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -529,8 +529,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "11:37",
+      "time_estimated": "11:57",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 68
+      "delay": 88
     },
     {
       "dt": 1793352600.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793352600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:43",
+      "time_estimated": "10:41",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -776,10 +776,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 11
     },
     {
       "dt": 1793353500.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793354700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:07",
+      "time_estimated": "11:01",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793354700.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793356500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:41",
+      "time_estimated": "11:49",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 15
     },
     {
       "dt": 1793356800.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793358000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:35",
+      "time_estimated": "13:32",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 35
+      "delay": 92
     },
     {
       "dt": 1793358000.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793359200.0,
       "time_scheduled": "12:20",
-      "time_estimated": "12:20",
+      "time_estimated": "12:33",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1273,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1793359500.0,
@@ -1886,7 +1886,7 @@
     {
       "dt": 1793365200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:06",
+      "time_estimated": "13:52",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1897,10 +1897,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793365500.0,
@@ -2008,6 +2008,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793366700.0,
+      "time_scheduled": "14:25",
+      "time_estimated": "14:25",
+      "flight_no": "EW4674",
+      "airline": "Eurowings",
+      "city": "Stockholm-Arlanda",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
