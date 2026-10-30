@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 07:20",
+  "updated_at": "30.10.2026 07:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793343300.0,
       "time_scheduled": "07:55",
-      "time_estimated": "10:11",
+      "time_estimated": "10:25",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -266,7 +266,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 136
+      "delay": 150
     },
     {
       "dt": 1793343600.0,
@@ -319,9 +319,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793347500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:03",
+      "time_estimated": "08:57",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -537,7 +537,7 @@
     {
       "dt": 1793347800.0,
       "time_scheduled": "09:10",
-      "time_estimated": "10:05",
+      "time_estimated": "10:01",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -551,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 55
+      "delay": 51
     },
     {
       "dt": 1793348400.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793351700.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:15",
+      "time_estimated": "10:30",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1793352300.0,
@@ -1459,6 +1459,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793359500.0,
+      "time_scheduled": "12:25",
+      "time_estimated": "12:25",
+      "flight_no": "XR418",
+      "airline": "Corendon Airlines Europe",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
