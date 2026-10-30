@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 18:00",
+  "updated_at": "30.10.2026 18:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 58
-    },
-    {
-      "dt": 1793372400.0,
-      "time_scheduled": "16:00",
-      "time_estimated": "16:02",
-      "flight_no": "DE1421",
-      "airline": "Condor",
-      "city": "Lanzarote-Arrecife",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1793373300.0,
@@ -566,9 +547,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 63
     },
@@ -670,7 +651,7 @@
     {
       "dt": 1793378700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "18:25",
+      "time_estimated": "18:16",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -681,10 +662,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 41
+      "delay": 31
     },
     {
       "dt": 1793378700.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793379600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:03",
+      "time_estimated": "18:01",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -775,11 +756,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1793379600.0,
@@ -822,7 +803,7 @@
     {
       "dt": 1793379900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:34",
+      "time_estimated": "18:35",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -836,7 +817,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 31
     },
     {
       "dt": 1793379900.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1793379900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:11",
+      "time_estimated": "18:03",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -870,16 +851,16 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793380200.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:23",
+      "time_estimated": "18:15",
       "flight_no": "QS4395",
       "airline": "Smartwings",
       "city": "Teneriffa Süd",
@@ -893,7 +874,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 5
     },
     {
       "dt": 1793380500.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793383800.0,
       "time_scheduled": "19:10",
-      "time_estimated": "18:39",
+      "time_estimated": "18:40",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1221,7 +1202,7 @@
     {
       "dt": 1793385600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "20:02",
+      "time_estimated": "20:01",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 22
     },
     {
       "dt": 1793385600.0,
@@ -1734,7 +1715,7 @@
     {
       "dt": 1793391600.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:20",
+      "time_estimated": "21:08",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
