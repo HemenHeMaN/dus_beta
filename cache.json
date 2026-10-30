@@ -1,26 +1,7 @@
 {
-  "updated_at": "30.10.2026 15:25",
+  "updated_at": "30.10.2026 15:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793362200.0,
-      "time_scheduled": "13:10",
-      "time_estimated": "13:28",
-      "flight_no": "QR085",
-      "airline": "Qatar Airways",
-      "city": "Doha",
-      "country": "Katar",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
     {
       "dt": 1793362500.0,
       "time_scheduled": "13:15",
@@ -231,25 +212,6 @@
       "delay": 0
     },
     {
-      "dt": 1793364900.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "13:26",
-      "flight_no": "KK321",
-      "airline": "LEAV Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793365200.0,
       "time_scheduled": "14:00",
       "time_estimated": "13:40",
@@ -385,7 +347,7 @@
     {
       "dt": 1793366700.0,
       "time_scheduled": "14:25",
-      "time_estimated": "15:26",
+      "time_estimated": "15:27",
       "flight_no": "EW4674",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -395,11 +357,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 62
+      "delay": 63
     },
     {
       "dt": 1793367300.0,
@@ -651,7 +613,7 @@
     {
       "dt": 1793372400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:14",
+      "time_estimated": "16:04",
       "flight_no": "DE1421",
       "airline": "Condor",
       "city": "Lanzarote-Arrecife",
@@ -665,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 5
     },
     {
       "dt": 1793372700.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793375400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:56",
+      "time_estimated": "16:54",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -947,10 +909,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793375700.0,
@@ -1107,7 +1069,7 @@
     {
       "dt": 1793377200.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:15",
+      "time_estimated": "17:44",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1121,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 24
     },
     {
       "dt": 1793377200.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1793377500.0,
       "time_scheduled": "17:25",
-      "time_estimated": "18:25",
+      "time_estimated": "18:30",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1197,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 61
+      "delay": 66
     },
     {
       "dt": 1793377800.0,
@@ -1468,7 +1430,7 @@
     {
       "dt": 1793379900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:18",
+      "time_estimated": "18:04",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -1482,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 0
     },
     {
       "dt": 1793379900.0,
@@ -1525,7 +1487,7 @@
     {
       "dt": 1793380500.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:28",
+      "time_estimated": "18:33",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -1536,10 +1498,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 18
     },
     {
       "dt": 1793381700.0,
@@ -1578,25 +1540,6 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1793382000.0,
-      "time_scheduled": "18:40",
-      "time_estimated": "20:17",
-      "flight_no": "EW9445",
-      "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 97
     },
     {
       "dt": 1793382600.0,
@@ -2124,6 +2067,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793388600.0,
+      "time_scheduled": "20:30",
+      "time_estimated": "20:30",
+      "flight_no": "DE1779",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
