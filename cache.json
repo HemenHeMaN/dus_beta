@@ -1,5 +1,5 @@
 {
-  "updated_at": "30.10.2026 22:10",
+  "updated_at": "30.10.2026 22:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -566,9 +566,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 43
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793394000.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:35",
+      "time_estimated": "22:24",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -627,12 +627,12 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 35
+      "delay": 24
     },
     {
       "dt": 1793394300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:27",
+      "time_estimated": "22:12",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -642,11 +642,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 23
+      "delay": 8
     },
     {
       "dt": 1793394300.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793394300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:27",
+      "time_estimated": "22:21",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -678,13 +678,13 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "18",
+      "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 16
     },
     {
       "dt": 1793394600.0,
@@ -719,8 +719,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1793394900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:17",
+      "time_estimated": "22:22",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -817,7 +817,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 8
     },
     {
       "dt": 1793395200.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793395500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:15",
+      "time_estimated": "22:10",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -870,9 +870,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -966,8 +966,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -979,11 +979,11 @@
       "airline": "Iberia",
       "city": "Madrid-Barajas",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -993,21 +993,21 @@
     {
       "dt": 1793396100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:40",
+      "time_estimated": "22:27",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
       "country": "Frankreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793396100.0,
@@ -1022,9 +1022,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1058,7 +1058,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "19",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
