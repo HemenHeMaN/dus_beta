@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 09:45",
+  "updated_at": "31.10.2026 09:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,25 +176,6 @@
     {
       "dt": 1793433600.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:17",
-      "flight_no": "PC1007",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 17
-    },
-    {
-      "dt": 1793433600.0,
-      "time_scheduled": "09:00",
       "time_estimated": "08:37",
       "flight_no": "XC244",
       "airline": "Corendon Airlines",
@@ -210,6 +191,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793433600.0,
+      "time_scheduled": "09:00",
+      "time_estimated": "09:17",
+      "flight_no": "PC1007",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 17
     },
     {
       "dt": 1793433900.0,
@@ -271,6 +271,25 @@
     {
       "dt": 1793434200.0,
       "time_scheduled": "09:10",
+      "time_estimated": "08:54",
+      "flight_no": "AY1391",
+      "airline": "Finnair",
+      "city": "Helsinki",
+      "country": "Finnland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793434200.0,
+      "time_scheduled": "09:10",
       "time_estimated": "08:57",
       "flight_no": "QS4610",
       "airline": "Smartwings",
@@ -299,25 +318,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793434200.0,
-      "time_scheduled": "09:10",
-      "time_estimated": "08:54",
-      "flight_no": "AY1391",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -423,7 +423,7 @@
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "10:18",
+      "time_estimated": "10:06",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -433,16 +433,16 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 43
+      "delay": 32
     },
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:52",
+      "time_estimated": "09:46",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -452,11 +452,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1793436000.0,
@@ -510,15 +510,15 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:56",
+      "time_estimated": "09:50",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -528,11 +528,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793436900.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:15",
+      "time_estimated": "10:08",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -646,7 +646,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 3
     },
     {
       "dt": 1793437500.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793443500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "13:37",
+      "time_estimated": "13:30",
       "flight_no": "RSX8565",
       "airline": "Red Sea Airlines",
       "city": "Hurghada",
@@ -1121,7 +1121,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 112
+      "delay": 106
     },
     {
       "dt": 1793443500.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793447400.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:50",
+      "time_estimated": "13:01",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -1425,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793447700.0,
@@ -2081,6 +2081,44 @@
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
       "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793454600.0,
+      "time_scheduled": "14:50",
+      "time_estimated": "14:50",
+      "flight_no": "EW9639",
+      "airline": "Eurowings",
+      "city": "Samos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793454600.0,
+      "time_scheduled": "14:50",
+      "time_estimated": "14:50",
+      "flight_no": "EW9845",
+      "airline": "Eurowings",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
