@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 11:45",
+  "updated_at": "31.10.2026 11:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1793435700.0,
-      "time_scheduled": "09:35",
-      "time_estimated": "09:46",
-      "flight_no": "KK117",
-      "airline": "LEAV Aviation",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 12
     },
     {
       "dt": 1793436000.0,
@@ -96,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 13
-    },
-    {
-      "dt": 1793436600.0,
-      "time_scheduled": "09:50",
-      "time_estimated": "09:50",
-      "flight_no": "EW9761",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793436900.0,
@@ -699,9 +661,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 25
     },
@@ -909,8 +871,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1544,7 +1506,7 @@
     {
       "dt": 1793453400.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:32",
+      "time_estimated": "14:36",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1558,12 +1520,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 6
     },
     {
       "dt": 1793453400.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:51",
+      "time_estimated": "14:35",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1577,12 +1539,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 5
     },
     {
       "dt": 1793453700.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:29",
+      "time_estimated": "15:04",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1596,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 29
     },
     {
       "dt": 1793454000.0,
@@ -1658,7 +1620,7 @@
     {
       "dt": 1793454600.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:44",
+      "time_estimated": "14:55",
       "flight_no": "EW9639",
       "airline": "Eurowings",
       "city": "Samos",
@@ -1672,12 +1634,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793454600.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:50",
+      "time_estimated": "15:10",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -1691,7 +1653,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793454900.0,
@@ -1715,7 +1677,7 @@
     {
       "dt": 1793455200.0,
       "time_scheduled": "15:00",
-      "time_estimated": "15:20",
+      "time_estimated": "15:22",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -1729,7 +1691,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 23
     },
     {
       "dt": 1793455800.0,
@@ -1772,7 +1734,7 @@
     {
       "dt": 1793457300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:01",
+      "time_estimated": "14:59",
       "flight_no": "TK3334",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -1934,6 +1896,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793461800.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:50",
+      "flight_no": "EW9543",
+      "airline": "Eurowings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793461800.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:50",
+      "flight_no": "TK3366",
+      "airline": "Turkish Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
