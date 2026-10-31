@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 08:00",
+  "updated_at": "31.10.2026 08:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1793423100.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:01",
-      "flight_no": "EW9899",
-      "airline": "Eurowings",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793424000.0,
@@ -263,8 +244,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -309,7 +290,7 @@
     {
       "dt": 1793432700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "09:19",
+      "time_estimated": "09:21",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -323,7 +304,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 34
+      "delay": 36
     },
     {
       "dt": 1793432700.0,
@@ -472,8 +453,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 20
     },
@@ -632,7 +613,7 @@
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:30",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -643,10 +624,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793435700.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1793438700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:53",
+      "time_estimated": "11:02",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -950,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 38
     },
     {
       "dt": 1793439000.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1793439000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:52",
+      "time_estimated": "10:46",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -988,12 +969,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 17
     },
     {
       "dt": 1793439600.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:58",
+      "time_estimated": "10:52",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -1007,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1793439900.0,
@@ -1685,6 +1666,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793448300.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "TK1525",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793448300.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "EW9691",
+      "airline": "Eurowings",
+      "city": "Malta",
+      "country": "Malta",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793448300.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "EW9687",
+      "airline": "Eurowings",
+      "city": "Volos",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
