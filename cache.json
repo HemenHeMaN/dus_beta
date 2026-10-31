@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 08:05",
+  "updated_at": "31.10.2026 08:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,25 +53,6 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793424900.0,
-      "time_scheduled": "06:35",
-      "time_estimated": "06:05",
-      "flight_no": "XQ188",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -252,7 +233,7 @@
     {
       "dt": 1793431500.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:12",
+      "time_estimated": "08:35",
       "flight_no": "VF5125",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -266,7 +247,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793432100.0,
@@ -319,9 +300,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +879,7 @@
     {
       "dt": 1793438700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:35",
+      "time_estimated": "10:38",
       "flight_no": "AP1633",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -912,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 13
     },
     {
       "dt": 1793438700.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1793439000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "11:02",
+      "time_estimated": "10:46",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -950,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 33
+      "delay": 16
     },
     {
       "dt": 1793439000.0,
@@ -1031,7 +1012,7 @@
     {
       "dt": 1793440500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "11:14",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793440500.0,
@@ -1069,7 +1050,7 @@
     {
       "dt": 1793440800.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:05",
+      "time_estimated": "11:27",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1083,12 +1064,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 27
     },
     {
       "dt": 1793441100.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:09",
+      "time_estimated": "11:02",
       "flight_no": "EW9921",
       "airline": "Eurowings",
       "city": "Mostar",
@@ -1102,12 +1083,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793441100.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:04",
+      "time_estimated": "11:01",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793442000.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:20",
+      "time_estimated": "11:23",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1159,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793442300.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793442600.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:18",
+      "time_estimated": "11:16",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1723,6 +1704,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793448600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "VL2016",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793448600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "EW9815",
+      "airline": "Eurowings",
+      "city": "Catania (Sizilien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
