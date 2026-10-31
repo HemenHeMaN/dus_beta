@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 21:40",
+  "updated_at": "31.10.2026 21:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,7 +290,7 @@
     {
       "dt": 1793478300.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:46",
+      "time_estimated": "21:42",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -300,11 +300,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 18
     },
     {
       "dt": 1793479200.0,
@@ -328,7 +328,7 @@
     {
       "dt": 1793479500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:48",
+      "time_estimated": "21:52",
       "flight_no": "EW9669",
       "airline": "Eurowings",
       "city": "Kalamata",
@@ -342,7 +342,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1793479800.0,
@@ -377,8 +377,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -528,9 +528,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -561,11 +561,11 @@
       "airline": "Eurowings",
       "city": "Kairo",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -613,7 +613,7 @@
     {
       "dt": 1793481300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:07",
+      "time_estimated": "22:01",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -623,9 +623,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -737,9 +737,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +879,7 @@
     {
       "dt": 1793482800.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:48",
+      "time_estimated": "22:46",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -890,10 +890,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 7
     },
     {
       "dt": 1793483100.0,
