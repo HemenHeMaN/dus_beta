@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 12:20",
+  "updated_at": "31.10.2026 12:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1793440500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "11:16",
-      "flight_no": "FH1193",
-      "airline": "Freebird Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 21
-    },
-    {
-      "dt": 1793440500.0,
-      "time_scheduled": "10:55",
       "time_estimated": "10:58",
       "flight_no": "DE1827",
       "airline": "Condor",
@@ -210,6 +191,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 26
+    },
+    {
+      "dt": 1793440500.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "11:16",
+      "flight_no": "FH1193",
+      "airline": "Freebird Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 21
     },
     {
       "dt": 1793440800.0,
@@ -366,6 +366,25 @@
     {
       "dt": 1793443200.0,
       "time_scheduled": "11:40",
+      "time_estimated": "11:25",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793443200.0,
+      "time_scheduled": "11:40",
       "time_estimated": "11:39",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
@@ -394,25 +413,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793443200.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:25",
-      "flight_no": "X32323",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -566,16 +566,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 36
     },
     {
       "dt": 1793445000.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:41",
+      "time_estimated": "12:23",
       "flight_no": "EW9855",
       "airline": "Eurowings",
       "city": "Brindisi",
@@ -585,16 +585,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 31
+      "delay": 13
     },
     {
       "dt": 1793445300.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:41",
+      "time_estimated": "12:31",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -605,10 +605,10 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 27
+      "delay": 16
     },
     {
       "dt": 1793446200.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1793446200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:45",
+      "time_estimated": "12:20",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -642,11 +642,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 0
     },
     {
       "dt": 1793446200.0,
@@ -680,9 +680,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 19
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793446800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:25",
+      "time_estimated": "12:27",
       "flight_no": "QS4664",
       "airline": "Smartwings",
       "city": "Rhodos",
@@ -719,15 +719,15 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793446800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:25",
+      "time_estimated": "12:30",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -917,7 +917,7 @@
     {
       "dt": 1793448900.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:10",
+      "time_estimated": "13:12",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793451900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:09",
+      "time_estimated": "14:12",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 8
     },
     {
       "dt": 1793451900.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1793453400.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:35",
+      "time_estimated": "14:29",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1368,7 +1368,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793453700.0,
@@ -1487,7 +1487,7 @@
     {
       "dt": 1793454900.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:33",
+      "time_estimated": "15:32",
       "flight_no": "XQ284",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1501,7 +1501,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 37
     },
     {
       "dt": 1793455200.0,
@@ -1858,6 +1858,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793463900.0,
+      "time_scheduled": "17:25",
+      "time_estimated": "17:25",
+      "flight_no": "NP6490",
+      "airline": "Nile Air",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
