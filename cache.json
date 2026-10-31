@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 05:40",
+  "updated_at": "31.10.2026 05:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -34,16 +34,16 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
     {
       "dt": 1793423100.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:02",
+      "time_estimated": "06:08",
       "flight_no": "EW9899",
       "airline": "Eurowings",
       "city": "Tunis",
@@ -53,11 +53,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793424000.0,
@@ -81,7 +81,7 @@
     {
       "dt": 1793424900.0,
       "time_scheduled": "06:35",
-      "time_estimated": "05:53",
+      "time_estimated": "05:59",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -385,7 +385,7 @@
     {
       "dt": 1793433300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:55",
+      "time_estimated": "08:58",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -399,7 +399,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793433600.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793434200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:10",
+      "time_estimated": "08:55",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -518,7 +518,7 @@
     {
       "dt": 1793434200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:10",
+      "time_estimated": "09:03",
       "flight_no": "QS4610",
       "airline": "Smartwings",
       "city": "Heraklion (Kreta)",
@@ -1001,6 +1001,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793439900.0,
+      "time_scheduled": "10:45",
+      "time_estimated": "10:45",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
