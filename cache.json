@@ -1,26 +1,7 @@
 {
-  "updated_at": "31.10.2026 15:30",
+  "updated_at": "31.10.2026 15:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793443500.0,
-      "time_scheduled": "11:45",
-      "time_estimated": "13:35",
-      "flight_no": "RSX8565",
-      "airline": "Red Sea Airlines",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 110
-    },
     {
       "dt": 1793448300.0,
       "time_scheduled": "13:05",
@@ -96,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1793450100.0,
-      "time_scheduled": "13:35",
-      "time_estimated": "13:33",
-      "flight_no": "EW9671",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793450100.0,
@@ -347,25 +309,6 @@
     {
       "dt": 1793453100.0,
       "time_scheduled": "14:25",
-      "time_estimated": "14:21",
-      "flight_no": "QS4510",
-      "airline": "Smartwings",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793453100.0,
-      "time_scheduled": "14:25",
       "time_estimated": "14:05",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
@@ -383,18 +326,18 @@
       "delay": 0
     },
     {
-      "dt": 1793453400.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:23",
-      "flight_no": "VY1094",
-      "airline": "Vueling",
-      "city": "Barcelona",
+      "dt": 1793453100.0,
+      "time_scheduled": "14:25",
+      "time_estimated": "14:21",
+      "flight_no": "QS4510",
+      "airline": "Smartwings",
+      "city": "Gran Canaria",
       "country": "Spanien",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -419,6 +362,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
+    },
+    {
+      "dt": 1793453400.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:23",
+      "flight_no": "VY1094",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793453700.0,
@@ -585,9 +547,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 40
     },
@@ -661,9 +623,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -765,7 +727,7 @@
     {
       "dt": 1793460900.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:38",
+      "time_estimated": "16:43",
       "flight_no": "LH2022",
       "airline": "Lufthansa",
       "city": "München",
@@ -779,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 8
     },
     {
       "dt": 1793461200.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1793463600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "18:05",
+      "time_estimated": "18:12",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -931,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 45
+      "delay": 52
     },
     {
       "dt": 1793463900.0,
@@ -1069,7 +1031,7 @@
     {
       "dt": 1793465700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:27",
+      "time_estimated": "17:32",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1080,8 +1042,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
