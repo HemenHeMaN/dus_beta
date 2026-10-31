@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 18:35",
+  "updated_at": "31.10.2026 18:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -339,8 +339,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 50
     },
@@ -586,15 +586,15 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 13
     },
     {
       "dt": 1793469300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:41",
+      "time_estimated": "18:35",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -604,16 +604,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793469300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:56",
+      "time_estimated": "18:51",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -624,10 +624,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793469300.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793475600.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:52",
+      "time_estimated": "20:53",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -871,10 +871,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 14
     },
     {
       "dt": 1793476200.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793477700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:17",
+      "time_estimated": "21:04",
       "flight_no": "XR440",
       "airline": "Corendon Airlines Europe",
       "city": "Korfu",
@@ -1045,7 +1045,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793478000.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793479200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:45",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1121,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793479500.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793480100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:51",
+      "time_estimated": "21:50",
       "flight_no": "EW9985",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793480100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:25",
+      "time_estimated": "22:30",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 35
     },
     {
       "dt": 1793480400.0,
@@ -1772,7 +1772,7 @@
     {
       "dt": 1793483700.0,
       "time_scheduled": "22:55",
-      "time_estimated": "22:55",
+      "time_estimated": "22:59",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1783,10 +1783,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 5
     }
   ]
 }
