@@ -1,26 +1,7 @@
 {
-  "updated_at": "31.10.2026 08:55",
+  "updated_at": "31.10.2026 09:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793427000.0,
-      "time_scheduled": "07:10",
-      "time_estimated": "07:37",
-      "flight_no": "EY133",
-      "airline": "Etihad Airways",
-      "city": "Abu Dhabi",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 27
-    },
     {
       "dt": 1793427000.0,
       "time_scheduled": "07:10",
@@ -39,6 +20,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793427000.0,
+      "time_scheduled": "07:10",
+      "time_estimated": "07:37",
+      "flight_no": "EY133",
+      "airline": "Etihad Airways",
+      "city": "Abu Dhabi",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 27
     },
     {
       "dt": 1793427600.0,
@@ -72,25 +72,6 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793428500.0,
-      "time_scheduled": "07:35",
-      "time_estimated": "06:57",
-      "flight_no": "XQ282",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -205,9 +186,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -328,7 +309,7 @@
     {
       "dt": 1793433900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:16",
+      "time_estimated": "09:06",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -342,7 +323,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 2
     },
     {
       "dt": 1793433900.0,
@@ -357,9 +338,9 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -404,7 +385,7 @@
     {
       "dt": 1793434200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:58",
+      "time_estimated": "08:57",
       "flight_no": "QS4610",
       "airline": "Smartwings",
       "city": "Heraklion (Kreta)",
@@ -414,9 +395,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -453,8 +434,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -480,7 +461,7 @@
     {
       "dt": 1793435400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:13",
+      "time_estimated": "09:08",
       "flight_no": "4M611",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -632,7 +613,7 @@
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:07",
+      "time_estimated": "10:10",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -643,10 +624,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 20
     },
     {
       "dt": 1793436900.0,
@@ -822,7 +803,7 @@
     {
       "dt": 1793438700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:48",
+      "time_estimated": "10:46",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -836,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 22
     },
     {
       "dt": 1793439000.0,
@@ -1164,7 +1145,7 @@
     {
       "dt": 1793443200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:46",
+      "time_estimated": "11:48",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1178,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 9
     },
     {
       "dt": 1793443500.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1793443500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:52",
+      "time_estimated": "11:54",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1254,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 9
     },
     {
       "dt": 1793444100.0,
@@ -1967,6 +1948,25 @@
       "airline": "LEAV Aviation",
       "city": "Antalya",
       "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793451600.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:00",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
