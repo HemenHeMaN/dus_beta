@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 07:25",
+  "updated_at": "31.10.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793428500.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:40",
+      "time_estimated": "07:34",
       "flight_no": "DE3843",
       "airline": "Condor",
       "city": "La Romana",
@@ -190,7 +190,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793428500.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793433000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:44",
+      "time_estimated": "08:37",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -860,7 +860,7 @@
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:49",
+      "time_estimated": "10:31",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 45
+      "delay": 26
     },
     {
       "dt": 1793437500.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1793438700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:33",
       "flight_no": "AP1633",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -931,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793438700.0,
@@ -1476,6 +1476,82 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "DE1781",
+      "airline": "Condor",
+      "city": "Preveza-Aktion",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:27",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "EW9575",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
