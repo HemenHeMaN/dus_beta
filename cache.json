@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 14:25",
+  "updated_at": "31.10.2026 14:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -117,25 +117,6 @@
       "delay": 0
     },
     {
-      "dt": 1793446800.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "12:28",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793447100.0,
       "time_scheduled": "12:45",
       "time_estimated": "12:52",
@@ -214,25 +195,6 @@
     {
       "dt": 1793448300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:54",
-      "flight_no": "EW9691",
-      "airline": "Eurowings",
-      "city": "Malta",
-      "country": "Malta",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 49
-    },
-    {
-      "dt": 1793448300.0,
-      "time_scheduled": "13:05",
       "time_estimated": "12:44",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
@@ -248,6 +210,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793448300.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:54",
+      "flight_no": "EW9691",
+      "airline": "Eurowings",
+      "city": "Malta",
+      "country": "Malta",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 49
     },
     {
       "dt": 1793448300.0,
@@ -575,7 +556,7 @@
     {
       "dt": 1793451000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:36",
+      "time_estimated": "14:30",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -585,11 +566,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 46
+      "delay": 40
     },
     {
       "dt": 1793451300.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1793454000.0,
       "time_scheduled": "14:40",
-      "time_estimated": "15:00",
+      "time_estimated": "15:01",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -798,12 +779,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 22
     },
     {
       "dt": 1793454000.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:34",
+      "time_estimated": "14:58",
       "flight_no": "EW9959",
       "airline": "Eurowings",
       "city": "Split",
@@ -817,12 +798,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793454300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:51",
+      "time_estimated": "14:46",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -832,11 +813,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1793454600.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1793454600.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:43",
+      "time_estimated": "14:55",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -871,10 +852,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793454900.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1793457300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:01",
+      "time_estimated": "15:02",
       "flight_no": "TK3334",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -974,7 +955,7 @@
     {
       "dt": 1793457300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:08",
+      "time_estimated": "15:09",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1088,7 +1069,7 @@
     {
       "dt": 1793460000.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:58",
+      "time_estimated": "16:52",
       "flight_no": "EW9853",
       "airline": "Eurowings",
       "city": "Lamezia Terme (Kalabrien)",
@@ -1099,10 +1080,10 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 32
     },
     {
       "dt": 1793460900.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793465700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:55",
+      "time_estimated": "17:32",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
