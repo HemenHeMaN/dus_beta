@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 08:25",
+  "updated_at": "31.10.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -148,9 +148,9 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 33
     },
@@ -195,7 +195,7 @@
     {
       "dt": 1793432100.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:57",
+      "time_estimated": "08:48",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -205,11 +205,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 14
     },
     {
       "dt": 1793432700.0,
@@ -233,7 +233,7 @@
     {
       "dt": 1793432700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:26",
+      "time_estimated": "08:28",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -243,16 +243,16 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793432700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:48",
+      "time_estimated": "08:39",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -263,15 +263,15 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793433000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:46",
+      "time_estimated": "08:37",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -301,8 +301,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -480,21 +480,21 @@
     {
       "dt": 1793435100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:31",
+      "time_estimated": "09:32",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
       "country": "Österreich",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 8
     },
     {
       "dt": 1793435400.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793435400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:45",
+      "time_estimated": "09:42",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 13
     },
     {
       "dt": 1793435700.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:44",
+      "time_estimated": "10:02",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 54
+      "delay": 12
     },
     {
       "dt": 1793436900.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793440500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "11:20",
+      "time_estimated": "11:15",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 25
+      "delay": 20
     },
     {
       "dt": 1793440500.0,
@@ -1061,8 +1061,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 8
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793442300.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:25",
+      "time_estimated": "11:45",
       "flight_no": "AP1037",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -1102,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793442600.0,
@@ -1164,7 +1164,7 @@
     {
       "dt": 1793443200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:34",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793443200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:46",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793443500.0,
@@ -1777,6 +1777,25 @@
       "airline": "Egypt Air",
       "city": "Kairo",
       "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793449800.0,
+      "time_scheduled": "13:30",
+      "time_estimated": "13:30",
+      "flight_no": "BJ214",
+      "airline": "Nouvelair",
+      "city": "Monastir",
+      "country": "Tunesien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
