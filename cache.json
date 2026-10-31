@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 07:35",
+  "updated_at": "31.10.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793427000.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:39",
+      "time_estimated": "07:37",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -148,11 +148,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 30
+      "delay": 27
     },
     {
       "dt": 1793427600.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1793433900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:29",
+      "time_estimated": "09:20",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 15
     },
     {
       "dt": 1793433900.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "10:03",
+      "time_estimated": "09:59",
       "flight_no": "KK117",
       "airline": "LEAV Aviation",
       "city": "Palma de Mallorca",
@@ -681,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 25
     },
     {
       "dt": 1793436000.0,
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793440500.0,
@@ -1449,7 +1449,7 @@
     {
       "dt": 1793445000.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:10",
+      "time_estimated": "12:26",
       "flight_no": "EW9855",
       "airline": "Eurowings",
       "city": "Brindisi",
@@ -1463,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793445300.0,
@@ -1573,6 +1573,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446800.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:40",
+      "flight_no": "QS4664",
+      "airline": "Smartwings",
+      "city": "Rhodos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446800.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:40",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
