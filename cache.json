@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 15:40",
+  "updated_at": "31.10.2026 15:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 42
-    },
-    {
-      "dt": 1793450100.0,
-      "time_scheduled": "13:35",
-      "time_estimated": "13:41",
-      "flight_no": "EW9535",
-      "airline": "Eurowings",
-      "city": "Malaga",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
     },
     {
       "dt": 1793450700.0,
@@ -271,6 +252,25 @@
     {
       "dt": 1793453100.0,
       "time_scheduled": "14:25",
+      "time_estimated": "14:21",
+      "flight_no": "QS4510",
+      "airline": "Smartwings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793453100.0,
+      "time_scheduled": "14:25",
       "time_estimated": "14:05",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
@@ -288,18 +288,18 @@
       "delay": 0
     },
     {
-      "dt": 1793453100.0,
-      "time_scheduled": "14:25",
-      "time_estimated": "14:21",
-      "flight_no": "QS4510",
-      "airline": "Smartwings",
-      "city": "Gran Canaria",
+      "dt": 1793453400.0,
+      "time_scheduled": "14:30",
+      "time_estimated": "14:23",
+      "flight_no": "VY1094",
+      "airline": "Vueling",
+      "city": "Barcelona",
       "country": "Spanien",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -324,25 +324,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1793453400.0,
-      "time_scheduled": "14:30",
-      "time_estimated": "14:23",
-      "flight_no": "VY1094",
-      "airline": "Vueling",
-      "city": "Barcelona",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793453700.0,
@@ -575,7 +556,7 @@
     {
       "dt": 1793457600.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:56",
+      "time_estimated": "15:43",
       "flight_no": "EW9601",
       "airline": "Eurowings",
       "city": "Funchal (Madeira)",
@@ -585,11 +566,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 4
     },
     {
       "dt": 1793457900.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1793463900.0,
       "time_scheduled": "17:25",
-      "time_estimated": "19:25",
+      "time_estimated": "19:26",
       "flight_no": "NP6490",
       "airline": "Nile Air",
       "city": "Hurghada",
@@ -874,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 120
+      "delay": 121
     },
     {
       "dt": 1793464200.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1793465400.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:07",
+      "time_estimated": "18:08",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -988,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 19
     },
     {
       "dt": 1793465700.0,
@@ -1088,7 +1069,7 @@
     {
       "dt": 1793466000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:41",
+      "time_estimated": "17:42",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793466000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:30",
+      "time_estimated": "18:41",
       "flight_no": "BJ2334",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -1118,10 +1099,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 41
     },
     {
       "dt": 1793466300.0,
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 10
     },
     {
       "dt": 1793467500.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1793469300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:51",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1354,7 +1335,7 @@
     {
       "dt": 1793469300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:49",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1506,7 +1487,7 @@
     {
       "dt": 1793472600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:50",
+      "time_estimated": "19:10",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1517,8 +1498,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
