@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 22:25",
+  "updated_at": "31.10.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -613,7 +613,7 @@
     {
       "dt": 1793481600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:28",
+      "time_estimated": "22:26",
       "flight_no": "EW9665",
       "airline": "Eurowings",
       "city": "Preveza-Aktion",
@@ -623,16 +623,16 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 6
     },
     {
       "dt": 1793481600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:39",
+      "time_estimated": "22:29",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -642,11 +642,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 9
     },
     {
       "dt": 1793481600.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793482500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:33",
+      "time_estimated": "22:27",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -775,9 +775,9 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -832,16 +832,16 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
     {
       "dt": 1793482800.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:34",
+      "time_estimated": "22:48",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -852,10 +852,10 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793483100.0,
@@ -890,8 +890,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
