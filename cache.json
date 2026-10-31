@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 09:20",
+  "updated_at": "31.10.2026 09:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,7 +290,7 @@
     {
       "dt": 1793433900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:24",
+      "time_estimated": "09:21",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -300,11 +300,11 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 16
     },
     {
       "dt": 1793433900.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793435100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:27",
+      "time_estimated": "09:50",
       "flight_no": "EW9717",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -418,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 26
     },
     {
       "dt": 1793435400.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:23",
+      "time_estimated": "09:24",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -471,16 +471,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "10:25",
+      "time_estimated": "10:19",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -494,7 +494,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 44
     },
     {
       "dt": 1793435700.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:10",
+      "time_estimated": "10:01",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -589,7 +589,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 12
     },
     {
       "dt": 1793436900.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793443200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:42",
+      "time_estimated": "11:39",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1080,10 +1080,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793443200.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793446800.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:27",
+      "time_estimated": "12:25",
       "flight_no": "QS4664",
       "airline": "Smartwings",
       "city": "Rhodos",
@@ -1924,7 +1924,7 @@
     {
       "dt": 1793451600.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:00",
+      "time_estimated": "14:16",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1938,7 +1938,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793451900.0,
@@ -1991,6 +1991,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793453100.0,
+      "time_scheduled": "14:25",
+      "time_estimated": "14:25",
+      "flight_no": "QS4510",
+      "airline": "Smartwings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
