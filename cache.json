@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 05:35",
+  "updated_at": "31.10.2026 05:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -91,16 +91,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793425200.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:19",
+      "time_estimated": "06:21",
       "flight_no": "XQ1334",
       "airline": "Sun Express",
       "city": "Elazig",
@@ -366,7 +366,7 @@
     {
       "dt": 1793433000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:44",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -979,6 +979,25 @@
       "airline": "Eurowings",
       "city": "London-Heathrow",
       "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793439600.0,
+      "time_scheduled": "10:40",
+      "time_estimated": "10:40",
+      "flight_no": "EW9395",
+      "airline": "Eurowings",
+      "city": "Dublin",
+      "country": "Irland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
