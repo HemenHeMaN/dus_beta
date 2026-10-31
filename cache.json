@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 06:30",
+  "updated_at": "31.10.2026 06:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 29
+      "delay": 30
     },
     {
       "dt": 1793423100.0,
@@ -347,7 +347,7 @@
     {
       "dt": 1793432700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:37",
+      "time_estimated": "08:41",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -556,7 +556,7 @@
     {
       "dt": 1793434500.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:22",
+      "time_estimated": "09:17",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -567,10 +567,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 3
     },
     {
       "dt": 1793435100.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793436900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:48",
+      "time_estimated": "09:50",
       "flight_no": "TK3368",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -776,8 +776,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
