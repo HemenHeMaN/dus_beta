@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 07:05",
+  "updated_at": "31.10.2026 07:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -167,9 +167,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1793433300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:39",
+      "time_estimated": "08:44",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -396,8 +396,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:34",
+      "time_estimated": "10:49",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 45
     },
     {
       "dt": 1793437500.0,
@@ -1434,6 +1434,25 @@
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793445000.0,
+      "time_scheduled": "12:10",
+      "time_estimated": "12:10",
+      "flight_no": "EW9855",
+      "airline": "Eurowings",
+      "city": "Brindisi",
       "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
