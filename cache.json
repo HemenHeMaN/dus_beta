@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 20:25",
+  "updated_at": "31.10.2026 20:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 121
     },
     {
-      "dt": 1793465100.0,
-      "time_scheduled": "17:45",
-      "time_estimated": "18:28",
-      "flight_no": "QS4397",
-      "airline": "Smartwings",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 44
-    },
-    {
       "dt": 1793466000.0,
       "time_scheduled": "18:00",
       "time_estimated": "18:52",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 53
-    },
-    {
-      "dt": 1793466000.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "18:27",
-      "flight_no": "BJ2334",
-      "airline": "Nouvelair",
-      "city": "Djerba",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 27
     },
     {
       "dt": 1793467500.0,
@@ -433,9 +395,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 31
     },
@@ -452,9 +414,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -490,9 +452,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -529,8 +491,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +651,7 @@
     {
       "dt": 1793479200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:38",
+      "time_estimated": "21:36",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1107,7 +1069,7 @@
     {
       "dt": 1793481900.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:35",
+      "time_estimated": "22:09",
       "flight_no": "EW9433",
       "airline": "Eurowings",
       "city": "Bastia (Korsika)",
@@ -1121,7 +1083,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1793482200.0,
@@ -1297,7 +1259,7 @@
     {
       "dt": 1793483100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:52",
+      "time_estimated": "22:48",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1308,10 +1270,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 4
     },
     {
       "dt": 1793483400.0,
