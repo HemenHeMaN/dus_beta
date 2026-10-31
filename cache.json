@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 20:45",
+  "updated_at": "31.10.2026 20:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,44 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1793469000.0,
-      "time_scheduled": "18:50",
-      "time_estimated": "18:46",
-      "flight_no": "IB755",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793469300.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:49",
-      "flight_no": "SK627",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793469600.0,
@@ -347,7 +309,7 @@
     {
       "dt": 1793475600.0,
       "time_scheduled": "20:40",
-      "time_estimated": "21:04",
+      "time_estimated": "20:46",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -357,11 +319,11 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 6
     },
     {
       "dt": 1793476200.0,
@@ -385,7 +347,7 @@
     {
       "dt": 1793476500.0,
       "time_scheduled": "20:55",
-      "time_estimated": "21:10",
+      "time_estimated": "20:47",
       "flight_no": "DE235",
       "airline": "Condor",
       "city": "Hurghada",
@@ -395,11 +357,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 0
     },
     {
       "dt": 1793476500.0,
@@ -499,7 +461,7 @@
     {
       "dt": 1793477700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "20:50",
+      "time_estimated": "20:49",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -509,9 +471,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -528,9 +490,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
