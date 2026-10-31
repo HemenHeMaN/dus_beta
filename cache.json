@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 22:30",
+  "updated_at": "31.10.2026 22:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -518,7 +518,7 @@
     {
       "dt": 1793481000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:41",
+      "time_estimated": "22:31",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -528,11 +528,11 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 32
+      "delay": 21
     },
     {
       "dt": 1793481000.0,
@@ -670,21 +670,21 @@
     {
       "dt": 1793481900.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:37",
+      "time_estimated": "22:33",
       "flight_no": "EW9503",
       "airline": "Eurowings",
       "city": "Ibiza",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 8
     },
     {
       "dt": 1793481900.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1793482200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:27",
+      "time_estimated": "22:34",
       "flight_no": "DE1795",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -718,11 +718,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793482200.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1793482500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:51",
+      "time_estimated": "22:44",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -833,10 +833,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 16
+      "delay": 10
     },
     {
       "dt": 1793482800.0,
@@ -868,8 +868,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -879,26 +879,26 @@
     {
       "dt": 1793483100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:48",
+      "time_estimated": "22:43",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793483400.0,
       "time_scheduled": "22:50",
-      "time_estimated": "22:54",
+      "time_estimated": "23:00",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -908,11 +908,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1793483700.0,
@@ -946,9 +946,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     }
