@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 06:05",
+  "updated_at": "31.10.2026 06:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1793423100.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:06",
+      "time_estimated": "06:18",
       "flight_no": "XC268",
       "airline": "Corendon Airlines",
       "city": "Mersin-Çukurova",
@@ -38,7 +38,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 13
     },
     {
       "dt": 1793423100.0,
@@ -62,7 +62,7 @@
     {
       "dt": 1793424000.0,
       "time_scheduled": "06:20",
-      "time_estimated": "06:06",
+      "time_estimated": "06:18",
       "flight_no": "PC1591",
       "airline": "Pegasus Airlines",
       "city": "Mersin-Çukurova",
@@ -81,7 +81,7 @@
     {
       "dt": 1793424900.0,
       "time_scheduled": "06:35",
-      "time_estimated": "06:10",
+      "time_estimated": "06:05",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -91,9 +91,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -111,8 +111,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1131,6 +1131,25 @@
       "airline": "KLM",
       "city": "Amsterdam",
       "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793441400.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
