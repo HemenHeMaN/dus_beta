@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 22:15",
+  "updated_at": "31.10.2026 22:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -433,11 +433,11 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 20
+      "delay": 19
     },
     {
       "dt": 1793480400.0,
@@ -526,11 +526,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "12",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1793481000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:40",
+      "time_estimated": "22:17",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -566,11 +566,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 30
+      "delay": 8
     },
     {
       "dt": 1793481300.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793481600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:22",
+      "time_estimated": "22:34",
       "flight_no": "EW9665",
       "airline": "Eurowings",
       "city": "Preveza-Aktion",
@@ -624,15 +624,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 15
     },
     {
       "dt": 1793481600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:33",
+      "time_estimated": "22:39",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -643,29 +643,29 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 19
     },
     {
       "dt": 1793481600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:22",
+      "time_estimated": "22:47",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
       "country": "Zypern",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 27
     },
     {
       "dt": 1793481900.0,
@@ -716,7 +716,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "10",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "Im Anflug",
@@ -727,7 +727,7 @@
     {
       "dt": 1793482200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:19",
+      "time_estimated": "22:16",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -737,9 +737,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -776,15 +776,15 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793482500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:33",
+      "time_estimated": "22:25",
       "flight_no": "EW9869",
       "airline": "Eurowings",
       "city": "Cagliari (Sardinien)",
@@ -841,7 +841,7 @@
     {
       "dt": 1793482800.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:46",
+      "time_estimated": "22:34",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -851,16 +851,16 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793483100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:33",
+      "time_estimated": "22:26",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -868,7 +868,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
