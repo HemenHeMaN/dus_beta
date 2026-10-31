@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 10:00",
+  "updated_at": "31.10.2026 10:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -491,15 +491,15 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 31
     },
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:08",
+      "time_estimated": "10:02",
       "flight_no": "PC5001",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -509,11 +509,11 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1793436600.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793436900.0,
       "time_scheduled": "09:55",
-      "time_estimated": "10:05",
+      "time_estimated": "10:00",
       "flight_no": "VF029",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -566,11 +566,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1793437200.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793439600.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:47",
+      "time_estimated": "10:39",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -779,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793439900.0,
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793443500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "13:30",
+      "time_estimated": "13:32",
       "flight_no": "RSX8565",
       "airline": "Red Sea Airlines",
       "city": "Hurghada",
@@ -1121,12 +1121,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 106
+      "delay": 108
     },
     {
       "dt": 1793443500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:49",
+      "time_estimated": "12:05",
       "flight_no": "EW9861",
       "airline": "Eurowings",
       "city": "Neapel",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 20
     },
     {
       "dt": 1793444100.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793445300.0,
       "time_scheduled": "12:15",
-      "time_estimated": "12:21",
+      "time_estimated": "12:40",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1254,12 +1254,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 26
     },
     {
       "dt": 1793446200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:13",
+      "time_estimated": "12:18",
       "flight_no": "DE1781",
       "airline": "Condor",
       "city": "Preveza-Aktion",
@@ -1316,7 +1316,7 @@
     {
       "dt": 1793446200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:53",
+      "time_estimated": "12:52",
       "flight_no": "EW9575",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1330,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 23
     },
     {
       "dt": 1793446500.0,
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793447400.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:01",
+      "time_estimated": "13:02",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -1422,10 +1422,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1793447700.0,
@@ -1449,7 +1449,7 @@
     {
       "dt": 1793447700.0,
       "time_scheduled": "12:55",
-      "time_estimated": "12:55",
+      "time_estimated": "13:05",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1463,12 +1463,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793448300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:52",
+      "time_estimated": "12:47",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1479,15 +1479,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793448300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:22",
+      "time_estimated": "13:08",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -1501,7 +1501,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 3
     },
     {
       "dt": 1793448300.0,
@@ -1520,7 +1520,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793448600.0,
@@ -1639,7 +1639,7 @@
     {
       "dt": 1793449200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:10",
+      "time_estimated": "13:06",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
