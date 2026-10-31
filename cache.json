@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 06:15",
+  "updated_at": "31.10.2026 06:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -100,7 +100,7 @@
     {
       "dt": 1793425200.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:19",
+      "time_estimated": "06:18",
       "flight_no": "XQ1334",
       "airline": "Sun Express",
       "city": "Elazig",
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -309,7 +309,7 @@
     {
       "dt": 1793432700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:45",
+      "time_estimated": "09:24",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 39
     },
     {
       "dt": 1793432700.0,
@@ -434,10 +434,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1793433900.0,
@@ -1150,6 +1150,25 @@
       "airline": "Aegean Airlines",
       "city": "Athen",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793442000.0,
+      "time_scheduled": "11:20",
+      "time_estimated": "11:20",
+      "flight_no": "IB1319",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
