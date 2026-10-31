@@ -1,26 +1,7 @@
 {
-  "updated_at": "31.10.2026 11:40",
+  "updated_at": "31.10.2026 11:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793435400.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:42",
-      "flight_no": "SK1629",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
-    },
     {
       "dt": 1793435700.0,
       "time_scheduled": "09:35",
@@ -442,7 +423,7 @@
     {
       "dt": 1793440800.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:43",
+      "time_estimated": "11:41",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -452,11 +433,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 43
+      "delay": 42
     },
     {
       "dt": 1793441100.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1793443500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:50",
+      "time_estimated": "11:44",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -680,11 +661,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793443500.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1793444100.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:16",
+      "time_estimated": "12:18",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 24
     },
     {
       "dt": 1793444400.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1793446200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:28",
+      "time_estimated": "12:30",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -927,9 +908,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1734,7 +1715,7 @@
     {
       "dt": 1793455200.0,
       "time_scheduled": "15:00",
-      "time_estimated": "15:00",
+      "time_estimated": "15:20",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -1745,10 +1726,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1793455800.0,
