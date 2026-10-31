@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 09:55",
+  "updated_at": "31.10.2026 10:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,25 +176,6 @@
     {
       "dt": 1793433600.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:37",
-      "flight_no": "XC244",
-      "airline": "Corendon Airlines",
-      "city": "Gazipaşa-Alanya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793433600.0,
-      "time_scheduled": "09:00",
       "time_estimated": "09:17",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
@@ -212,18 +193,18 @@
       "delay": 17
     },
     {
-      "dt": 1793433900.0,
-      "time_scheduled": "09:05",
-      "time_estimated": "09:01",
-      "flight_no": "BA930",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
+      "dt": 1793433600.0,
+      "time_scheduled": "09:00",
+      "time_estimated": "08:37",
+      "flight_no": "XC244",
+      "airline": "Corendon Airlines",
+      "city": "Gazipaşa-Alanya",
+      "country": "Türkei",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -252,6 +233,25 @@
     {
       "dt": 1793433900.0,
       "time_scheduled": "09:05",
+      "time_estimated": "09:01",
+      "flight_no": "BA930",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793433900.0,
+      "time_scheduled": "09:05",
       "time_estimated": "09:05",
       "flight_no": "UD437",
       "airline": "UR Airlines",
@@ -266,6 +266,25 @@
       "status_text": "annulliert",
       "status_detail": "annulliert, annulliert",
       "remark": "annulliert",
+      "delay": 0
+    },
+    {
+      "dt": 1793434200.0,
+      "time_scheduled": "09:10",
+      "time_estimated": "09:08",
+      "flight_no": "NP855",
+      "airline": "Nile Air",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
       "delay": 0
     },
     {
@@ -299,25 +318,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793434200.0,
-      "time_scheduled": "09:10",
-      "time_estimated": "09:08",
-      "flight_no": "NP855",
-      "airline": "Nile Air",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -461,7 +461,7 @@
     {
       "dt": 1793436000.0,
       "time_scheduled": "09:40",
-      "time_estimated": "10:16",
+      "time_estimated": "09:57",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -471,16 +471,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 37
+      "delay": 17
     },
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:14",
+      "time_estimated": "10:20",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -494,7 +494,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 31
     },
     {
       "dt": 1793436600.0,
@@ -623,9 +623,9 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 22
     },
@@ -643,8 +643,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1793440500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "11:45",
+      "time_estimated": "11:31",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -836,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 37
     },
     {
       "dt": 1793440500.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793440800.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:37",
+      "time_estimated": "11:50",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 37
+      "delay": 50
     },
     {
       "dt": 1793441100.0,
@@ -1392,7 +1392,7 @@
     {
       "dt": 1793447100.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:45",
+      "time_estimated": "13:04",
       "flight_no": "DE1849",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1406,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793447400.0,
@@ -2143,6 +2143,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793455200.0,
+      "time_scheduled": "15:00",
+      "time_estimated": "15:00",
+      "flight_no": "PC1619",
+      "airline": "Pegasus Airlines",
+      "city": "Kayseri",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
