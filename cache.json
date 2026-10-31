@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 15:55",
+  "updated_at": "31.10.2026 16:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 42
     },
     {
-      "dt": 1793450700.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "13:58",
-      "flight_no": "LH074",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
-    },
-    {
       "dt": 1793451000.0,
       "time_scheduled": "13:50",
       "time_estimated": "14:07",
@@ -81,25 +62,6 @@
     {
       "dt": 1793451000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:00",
-      "flight_no": "LX1018",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 10
-    },
-    {
-      "dt": 1793451000.0,
-      "time_scheduled": "13:50",
       "time_estimated": "14:30",
       "flight_no": "KL1801",
       "airline": "KLM",
@@ -115,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 40
-    },
-    {
-      "dt": 1793451300.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "13:56",
-      "flight_no": "KK321",
-      "airline": "LEAV Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1793451900.0,
@@ -528,9 +471,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -547,16 +490,16 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 24
     },
     {
       "dt": 1793459100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:03",
+      "time_estimated": "15:59",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
@@ -566,9 +509,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -586,8 +529,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -681,8 +624,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +803,7 @@
     {
       "dt": 1793465400.0,
       "time_scheduled": "17:50",
-      "time_estimated": "17:42",
+      "time_estimated": "17:39",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -1107,7 +1050,7 @@
     {
       "dt": 1793467500.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:35",
+      "time_estimated": "18:30",
       "flight_no": "AP1757",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -1121,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1793467500.0,
@@ -1183,7 +1126,7 @@
     {
       "dt": 1793467800.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:59",
+      "time_estimated": "19:05",
       "flight_no": "EW9585",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1197,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 36
     },
     {
       "dt": 1793468100.0,
@@ -1297,7 +1240,7 @@
     {
       "dt": 1793469600.0,
       "time_scheduled": "19:00",
-      "time_estimated": "19:00",
+      "time_estimated": "19:04",
       "flight_no": "LH2028",
       "airline": "Lufthansa",
       "city": "München",
@@ -1311,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793469900.0,
@@ -1373,7 +1316,7 @@
     {
       "dt": 1793470200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:04",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -1392,7 +1335,7 @@
     {
       "dt": 1793470800.0,
       "time_scheduled": "19:20",
-      "time_estimated": "19:20",
+      "time_estimated": "19:07",
       "flight_no": "XQ3580",
       "airline": "Sun Express",
       "city": "Dalaman",
@@ -1430,7 +1373,7 @@
     {
       "dt": 1793472600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:10",
+      "time_estimated": "19:05",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1590,6 +1533,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793476800.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:00",
+      "flight_no": "DE1621",
+      "airline": "Condor",
+      "city": "Kos",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793476800.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:00",
+      "flight_no": "EW9577",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
