@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 05:25",
+  "updated_at": "31.10.2026 05:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1793424000.0,
       "time_scheduled": "06:20",
-      "time_estimated": "06:05",
+      "time_estimated": "06:06",
       "flight_no": "PC1591",
       "airline": "Pegasus Airlines",
       "city": "Mersin-Çukurova",
@@ -328,7 +328,7 @@
     {
       "dt": 1793432700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:22",
+      "time_estimated": "08:25",
       "flight_no": "XC198",
       "airline": "Corendon Airlines",
       "city": "Izmir",
@@ -339,8 +339,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793434200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:13",
+      "time_estimated": "09:07",
       "flight_no": "NP855",
       "airline": "Nile Air",
       "city": "Hurghada",
@@ -551,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793434500.0,
@@ -944,6 +944,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793439000.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:30",
+      "flight_no": "DE1011",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793439000.0,
+      "time_scheduled": "10:30",
+      "time_estimated": "10:30",
+      "flight_no": "EW9461",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
