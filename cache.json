@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 07:50",
+  "updated_at": "31.10.2026 07:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -281,16 +281,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793432100.0,
       "time_scheduled": "08:35",
-      "time_estimated": "09:00",
+      "time_estimated": "08:57",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -301,10 +301,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 23
     },
     {
       "dt": 1793432700.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1793433900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:20",
+      "time_estimated": "09:16",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 12
     },
     {
       "dt": 1793433900.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793440500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "11:20",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1793440500.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793440500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "11:16",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1793440800.0,
@@ -1647,6 +1647,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793447700.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "X32253",
+      "airline": "Tuifly",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793447700.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
