@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 07:30",
+  "updated_at": "31.10.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793428500.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:34",
+      "time_estimated": "07:32",
       "flight_no": "DE3843",
       "airline": "Condor",
       "city": "La Romana",
@@ -186,9 +186,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -290,7 +290,7 @@
     {
       "dt": 1793432100.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:36",
+      "time_estimated": "08:51",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -304,7 +304,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 17
     },
     {
       "dt": 1793432700.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793433000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:37",
+      "time_estimated": "08:38",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -556,7 +556,7 @@
     {
       "dt": 1793434500.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:17",
+      "time_estimated": "09:10",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -570,7 +570,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793435100.0,
@@ -1554,6 +1554,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793446500.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "XQ184",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
