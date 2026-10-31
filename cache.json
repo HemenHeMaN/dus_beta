@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 21:00",
+  "updated_at": "31.10.2026 21:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 42
     },
     {
-      "dt": 1793467800.0,
-      "time_scheduled": "18:30",
-      "time_estimated": "19:01",
-      "flight_no": "EW9585",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 31
-    },
-    {
       "dt": 1793468100.0,
       "time_scheduled": "18:35",
       "time_estimated": "19:06",
@@ -77,44 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1793469600.0,
-      "time_scheduled": "19:00",
-      "time_estimated": "19:04",
-      "flight_no": "LH2028",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
-    },
-    {
-      "dt": 1793469900.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "19:02",
-      "flight_no": "LX1026",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793470200.0,
@@ -319,9 +262,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 31
     },
@@ -404,7 +347,7 @@
     {
       "dt": 1793476800.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:19",
+      "time_estimated": "21:25",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -418,7 +361,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 25
     },
     {
       "dt": 1793477400.0,
@@ -461,7 +404,7 @@
     {
       "dt": 1793477700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:05",
+      "time_estimated": "21:03",
       "flight_no": "XR440",
       "airline": "Corendon Airlines Europe",
       "city": "Korfu",
@@ -471,16 +414,16 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793478000.0,
       "time_scheduled": "21:20",
-      "time_estimated": "21:20",
+      "time_estimated": "21:26",
       "flight_no": "EW9645",
       "airline": "Eurowings",
       "city": "Faro",
@@ -490,11 +433,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 7
     },
     {
       "dt": 1793478300.0,
