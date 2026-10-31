@@ -1,45 +1,7 @@
 {
-  "updated_at": "31.10.2026 19:05",
+  "updated_at": "31.10.2026 19:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793461800.0,
-      "time_scheduled": "16:50",
-      "time_estimated": "17:06",
-      "flight_no": "EW9543",
-      "airline": "Eurowings",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 17
-    },
-    {
-      "dt": 1793463000.0,
-      "time_scheduled": "17:10",
-      "time_estimated": "17:08",
-      "flight_no": "XQ988",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793463600.0,
       "time_scheduled": "17:20",
@@ -72,9 +34,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 121
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1793467800.0,
       "time_scheduled": "18:30",
-      "time_estimated": "19:04",
+      "time_estimated": "19:33",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -437,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 35
+      "delay": 64
     },
     {
       "dt": 1793467800.0,
@@ -461,7 +423,7 @@
     {
       "dt": 1793468100.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:11",
+      "time_estimated": "19:06",
       "flight_no": "EW9561",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -471,11 +433,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 36
+      "delay": 31
     },
     {
       "dt": 1793469000.0,
@@ -605,8 +567,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -632,7 +594,7 @@
     {
       "dt": 1793470200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:01",
+      "time_estimated": "19:07",
       "flight_no": "EW9613",
       "airline": "Eurowings",
       "city": "Korfu",
@@ -642,9 +604,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +651,7 @@
     {
       "dt": 1793472600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:05",
+      "time_estimated": "19:34",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -727,7 +689,7 @@
     {
       "dt": 1793474400.0,
       "time_scheduled": "20:20",
-      "time_estimated": "20:21",
+      "time_estimated": "20:13",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -738,10 +700,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793474700.0,
@@ -795,8 +757,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 37
     },
@@ -898,7 +860,7 @@
     {
       "dt": 1793477400.0,
       "time_scheduled": "21:10",
-      "time_estimated": "21:37",
+      "time_estimated": "21:41",
       "flight_no": "EW9589",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -912,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 31
     },
     {
       "dt": 1793477700.0,
@@ -1240,7 +1202,7 @@
     {
       "dt": 1793480700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:11",
+      "time_estimated": "22:09",
       "flight_no": "EW9605",
       "airline": "Eurowings",
       "city": "Funchal (Madeira)",
@@ -1254,7 +1216,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 5
     },
     {
       "dt": 1793481000.0,
@@ -1316,7 +1278,7 @@
     {
       "dt": 1793481300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:12",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -1601,7 +1563,7 @@
     {
       "dt": 1793483100.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "22:22",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1612,8 +1574,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
