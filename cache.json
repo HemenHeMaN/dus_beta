@@ -1,26 +1,7 @@
 {
-  "updated_at": "31.10.2026 13:40",
+  "updated_at": "31.10.2026 13:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793440800.0,
-      "time_scheduled": "11:00",
-      "time_estimated": "11:41",
-      "flight_no": "EW9751",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 42
-    },
     {
       "dt": 1793443500.0,
       "time_scheduled": "11:45",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 110
-    },
-    {
-      "dt": 1793443500.0,
-      "time_scheduled": "11:45",
-      "time_estimated": "11:44",
-      "flight_no": "DE1515",
-      "airline": "Condor",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793443500.0,
@@ -176,25 +138,6 @@
     {
       "dt": 1793446200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:36",
-      "flight_no": "EW9575",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 6
-    },
-    {
-      "dt": 1793446200.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:18",
       "flight_no": "DE1781",
       "airline": "Condor",
@@ -248,6 +191,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1793446200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:36",
+      "flight_no": "EW9575",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 6
     },
     {
       "dt": 1793446500.0,
@@ -415,8 +377,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 53
     },
@@ -547,9 +509,9 @@
       "terminal": "C",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 52
     },
@@ -594,7 +556,7 @@
     {
       "dt": 1793450100.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:54",
+      "time_estimated": "13:41",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -604,11 +566,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 6
     },
     {
       "dt": 1793450100.0,
@@ -651,7 +613,7 @@
     {
       "dt": 1793450700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:58",
+      "time_estimated": "13:53",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -665,12 +627,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 8
     },
     {
       "dt": 1793450700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "14:09",
+      "time_estimated": "14:01",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -684,7 +646,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 24
+      "delay": 17
     },
     {
       "dt": 1793451000.0,
@@ -737,9 +699,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -803,7 +765,7 @@
     {
       "dt": 1793451900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:14",
+      "time_estimated": "14:16",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -817,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 12
     },
     {
       "dt": 1793451900.0,
@@ -1335,7 +1297,7 @@
     {
       "dt": 1793461800.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:04",
+      "time_estimated": "16:10",
       "flight_no": "TK3366",
       "airline": "Turkish Airlines",
       "city": "Antalya",
