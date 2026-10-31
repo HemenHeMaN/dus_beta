@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 22:00",
+  "updated_at": "31.10.2026 22:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -125,10 +125,10 @@
       "city": "Kos",
       "country": "Griechenland",
       "type": "Charter",
-      "type_source": "Ausgang",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -361,7 +361,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 25
+      "delay": 24
     },
     {
       "dt": 1793480100.0,
@@ -377,8 +377,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 22
     },
@@ -433,16 +433,16 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
     {
       "dt": 1793480400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:19",
+      "time_estimated": "22:11",
       "flight_no": "EW9587",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -456,12 +456,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 11
     },
     {
       "dt": 1793480700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:06",
+      "time_estimated": "22:04",
       "flight_no": "EW9925",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -471,11 +471,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793480700.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793480700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:07",
+      "time_estimated": "22:02",
       "flight_no": "EW9605",
       "airline": "Eurowings",
       "city": "Funchal (Madeira)",
@@ -509,11 +509,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793481000.0,
@@ -543,20 +543,20 @@
       "city": "Alicante",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
     {
       "dt": 1793481000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:26",
+      "time_estimated": "22:19",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -566,11 +566,11 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 16
+      "delay": 10
     },
     {
       "dt": 1793481300.0,
@@ -585,16 +585,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793481300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:05",
+      "time_estimated": "22:14",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -621,7 +621,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "4",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -870,9 +870,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
