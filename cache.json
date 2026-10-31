@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 13:45",
+  "updated_at": "31.10.2026 13:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -613,7 +613,7 @@
     {
       "dt": 1793450700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:53",
+      "time_estimated": "13:49",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -623,11 +623,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 5
     },
     {
       "dt": 1793450700.0,
@@ -643,8 +643,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793451000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:31",
+      "time_estimated": "14:33",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -722,12 +722,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 41
+      "delay": 43
     },
     {
       "dt": 1793451300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:01",
+      "time_estimated": "13:56",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -738,15 +738,15 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1793451600.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:54",
+      "time_estimated": "13:48",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -756,9 +756,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -851,9 +851,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -955,7 +955,7 @@
     {
       "dt": 1793454300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:48",
+      "time_estimated": "14:50",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -966,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1793454600.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793457000.0,
       "time_scheduled": "15:30",
-      "time_estimated": "15:37",
+      "time_estimated": "15:34",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 5
     },
     {
       "dt": 1793457300.0,
@@ -1525,7 +1525,7 @@
     {
       "dt": 1793465400.0,
       "time_scheduled": "17:50",
-      "time_estimated": "17:50",
+      "time_estimated": "18:09",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1536,10 +1536,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793465700.0,
@@ -1833,6 +1833,25 @@
       "flight_no": "EW9561",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793469000.0,
+      "time_scheduled": "18:50",
+      "time_estimated": "18:50",
+      "flight_no": "IB755",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
