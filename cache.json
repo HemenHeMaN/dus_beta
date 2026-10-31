@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 05:50",
+  "updated_at": "31.10.2026 05:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -35,15 +35,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
     {
       "dt": 1793423100.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:08",
+      "time_estimated": "06:06",
       "flight_no": "EW9899",
       "airline": "Eurowings",
       "city": "Tunis",
@@ -54,10 +54,10 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1793424000.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793433600.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:21",
+      "time_estimated": "09:09",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 10
     },
     {
       "dt": 1793433900.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793434500.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:15",
+      "time_estimated": "09:22",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -570,7 +570,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793435100.0,
@@ -1022,6 +1022,63 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793440500.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "10:55",
+      "flight_no": "DE1827",
+      "airline": "Condor",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793440500.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "10:55",
+      "flight_no": "EW9811",
+      "airline": "Eurowings",
+      "city": "Venedig-Tessera",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793440500.0,
+      "time_scheduled": "10:55",
+      "time_estimated": "10:55",
+      "flight_no": "FH1193",
+      "airline": "Freebird Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
