@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 15:00",
+  "updated_at": "31.10.2026 15:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,25 +195,6 @@
     {
       "dt": 1793450100.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:36",
-      "flight_no": "EW9643",
-      "airline": "Eurowings",
-      "city": "Faro",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1793450100.0,
-      "time_scheduled": "13:35",
       "time_estimated": "13:33",
       "flight_no": "EW9671",
       "airline": "Eurowings",
@@ -231,23 +212,23 @@
       "delay": 0
     },
     {
-      "dt": 1793450700.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "13:58",
-      "flight_no": "LH074",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
+      "dt": 1793450100.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:36",
+      "flight_no": "EW9643",
+      "airline": "Eurowings",
+      "city": "Faro",
+      "country": "Portugal",
+      "type": "Charter",
       "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 13
+      "delay": 2
     },
     {
       "dt": 1793450700.0,
@@ -269,6 +250,25 @@
       "delay": 5
     },
     {
+      "dt": 1793450700.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:58",
+      "flight_no": "LH074",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 13
+    },
+    {
       "dt": 1793451000.0,
       "time_scheduled": "13:50",
       "time_estimated": "13:39",
@@ -286,6 +286,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793451000.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "14:30",
+      "flight_no": "KL1801",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 40
     },
     {
       "dt": 1793451000.0,
@@ -324,25 +343,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 10
-    },
-    {
-      "dt": 1793451000.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "14:30",
-      "flight_no": "KL1801",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 40
     },
     {
       "dt": 1793451300.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793455200.0,
       "time_scheduled": "15:00",
-      "time_estimated": "15:10",
+      "time_estimated": "15:08",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -659,13 +659,13 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1793455800.0,
@@ -678,7 +678,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "12",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -708,7 +708,7 @@
     {
       "dt": 1793457300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:01",
+      "time_estimated": "15:00",
       "flight_no": "TK3334",
       "airline": "Turkish Airlines",
       "city": "Antalya",
@@ -718,16 +718,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793457300.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:09",
+      "time_estimated": "15:08",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -830,7 +830,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "11",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793463600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:47",
+      "time_estimated": "17:58",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 38
     },
     {
       "dt": 1793463900.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1793465400.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:09",
+      "time_estimated": "18:07",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1159,7 +1159,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 18
     },
     {
       "dt": 1793465700.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793465700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:53",
+      "time_estimated": "17:49",
       "flight_no": "KM352",
       "airline": "KM Malta Airlines",
       "city": "Malta",
@@ -1194,8 +1194,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793466000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:08",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793466000.0,
@@ -1373,7 +1373,7 @@
     {
       "dt": 1793467500.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:28",
+      "time_estimated": "18:30",
       "flight_no": "NE722",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1387,7 +1387,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 6
     },
     {
       "dt": 1793467800.0,
@@ -1687,6 +1687,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793473500.0,
+      "time_scheduled": "20:05",
+      "time_estimated": "20:05",
+      "flight_no": "EW9817",
+      "airline": "Eurowings",
+      "city": "Catania (Sizilien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
