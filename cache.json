@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 06:55",
+  "updated_at": "31.10.2026 07:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1793427000.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:03",
+      "time_estimated": "07:09",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -195,7 +195,7 @@
     {
       "dt": 1793428500.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:01",
+      "time_estimated": "06:57",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -205,9 +205,9 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1793433300.0,
       "time_scheduled": "08:55",
-      "time_estimated": "08:52",
+      "time_estimated": "08:39",
       "flight_no": "EW4672",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -841,7 +841,7 @@
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:46",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -855,12 +855,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 42
     },
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:34",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 29
     },
     {
       "dt": 1793437500.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793438700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:43",
+      "time_estimated": "10:58",
       "flight_no": "EW9423",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 33
     },
     {
       "dt": 1793439000.0,
@@ -1383,6 +1383,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793444400.0,
+      "time_scheduled": "12:00",
+      "time_estimated": "12:00",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793444400.0,
+      "time_scheduled": "12:00",
+      "time_estimated": "12:00",
+      "flight_no": "6K375",
+      "airline": "Air Anka",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
