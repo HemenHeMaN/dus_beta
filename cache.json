@@ -1,7 +1,26 @@
 {
-  "updated_at": "31.10.2026 07:40",
+  "updated_at": "31.10.2026 07:45",
   "source": "Dus.com",
   "flights": [
+    {
+      "dt": 1793423100.0,
+      "time_scheduled": "06:05",
+      "time_estimated": "06:01",
+      "flight_no": "EW9899",
+      "airline": "Eurowings",
+      "city": "Tunis",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
     {
       "dt": 1793423100.0,
       "time_scheduled": "06:05",
@@ -39,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 6
-    },
-    {
-      "dt": 1793423100.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:01",
-      "flight_no": "EW9899",
-      "airline": "Eurowings",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793424000.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793433000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:38",
+      "time_estimated": "08:34",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -377,8 +377,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:31",
+      "time_estimated": "10:20",
       "flight_no": "EW9009",
       "airline": "Eurowings",
       "city": "Sylt (Westerland)",
@@ -874,12 +874,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 26
+      "delay": 16
     },
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:19",
+      "time_estimated": "10:32",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 27
     },
     {
       "dt": 1793438100.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1793438700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:33",
+      "time_estimated": "10:35",
       "flight_no": "AP1633",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -931,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 10
     },
     {
       "dt": 1793438700.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793439000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "11:02",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 33
     },
     {
       "dt": 1793439000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793439600.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:40",
+      "time_estimated": "10:58",
       "flight_no": "EW9395",
       "airline": "Eurowings",
       "city": "Dublin",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793439900.0,
@@ -1611,6 +1611,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793447100.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "DE1849",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
