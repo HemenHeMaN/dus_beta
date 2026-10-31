@@ -1,5 +1,5 @@
 {
-  "updated_at": "31.10.2026 06:50",
+  "updated_at": "31.10.2026 06:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1793434200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:50",
+      "time_estimated": "08:52",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -510,8 +510,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +879,7 @@
     {
       "dt": 1793437500.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:30",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1793438100.0,
@@ -1362,6 +1362,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793444100.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "11:55",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
