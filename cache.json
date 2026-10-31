@@ -1,26 +1,7 @@
 {
-  "updated_at": "31.10.2026 12:05",
+  "updated_at": "31.10.2026 12:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793435700.0,
-      "time_scheduled": "09:35",
-      "time_estimated": "10:05",
-      "flight_no": "LH072",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 31
-    },
     {
       "dt": 1793436600.0,
       "time_scheduled": "09:50",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
-    },
-    {
-      "dt": 1793437500.0,
-      "time_scheduled": "10:05",
-      "time_estimated": "10:09",
-      "flight_no": "EW9009",
-      "airline": "Eurowings",
-      "city": "Sylt (Westerland)",
-      "country": "Deutschland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1793437500.0,
@@ -594,7 +556,7 @@
     {
       "dt": 1793444100.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:18",
+      "time_estimated": "12:29",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -608,12 +570,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 24
+      "delay": 34
     },
     {
       "dt": 1793444400.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:21",
+      "time_estimated": "12:08",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -623,11 +585,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 8
     },
     {
       "dt": 1793444400.0,
@@ -719,8 +681,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -738,8 +700,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -756,9 +718,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -813,9 +775,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -832,9 +794,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +955,7 @@
     {
       "dt": 1793448600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:08",
+      "time_estimated": "13:14",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -1007,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793448900.0,
@@ -1582,7 +1544,7 @@
     {
       "dt": 1793454900.0,
       "time_scheduled": "14:55",
-      "time_estimated": "14:55",
+      "time_estimated": "15:33",
       "flight_no": "XQ284",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1593,10 +1555,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 39
     },
     {
       "dt": 1793455200.0,
@@ -1909,6 +1871,44 @@
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793463000.0,
+      "time_scheduled": "17:10",
+      "time_estimated": "17:10",
+      "flight_no": "XQ988",
+      "airline": "Sun Express",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793463000.0,
+      "time_scheduled": "17:10",
+      "time_estimated": "17:10",
+      "flight_no": "PC7257",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
