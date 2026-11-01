@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 12:10",
+  "updated_at": "01.11.2026 12:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,25 +43,6 @@
     {
       "dt": 1793526000.0,
       "time_scheduled": "10:40",
-      "time_estimated": "11:54",
-      "flight_no": "EW9577",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 75
-    },
-    {
-      "dt": 1793526000.0,
-      "time_scheduled": "10:40",
       "time_estimated": "10:25",
       "flight_no": "QS4664",
       "airline": "Smartwings",
@@ -77,6 +58,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793526000.0,
+      "time_scheduled": "10:40",
+      "time_estimated": "11:54",
+      "flight_no": "EW9577",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 75
     },
     {
       "dt": 1793526000.0,
@@ -548,8 +548,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793531400.0,
       "time_scheduled": "12:10",
-      "time_estimated": "12:55",
+      "time_estimated": "12:57",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -589,7 +589,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 46
+      "delay": 48
     },
     {
       "dt": 1793531700.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793532600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:32",
+      "time_estimated": "12:10",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -661,11 +661,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793532600.0,
@@ -680,9 +680,9 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -1060,9 +1060,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1373,7 +1373,7 @@
     {
       "dt": 1793538900.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:21",
+      "time_estimated": "14:17",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1387,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1793539200.0,
@@ -1544,7 +1544,7 @@
     {
       "dt": 1793542500.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:15",
+      "time_estimated": "15:16",
       "flight_no": "VL2020",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -1558,7 +1558,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793543400.0,
@@ -1620,7 +1620,7 @@
     {
       "dt": 1793544000.0,
       "time_scheduled": "15:40",
-      "time_estimated": "14:47",
+      "time_estimated": "15:15",
       "flight_no": "VF005",
       "airline": "A Jet",
       "city": "Ankara-Esenboğa",
@@ -2048,6 +2048,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793549700.0,
+      "time_scheduled": "17:15",
+      "time_estimated": "17:15",
+      "flight_no": "EW9547",
+      "airline": "Eurowings",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
