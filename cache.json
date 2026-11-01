@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 19:50",
+  "updated_at": "01.11.2026 19:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -98,25 +98,6 @@
       "delay": 7
     },
     {
-      "dt": 1793552400.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "17:50",
-      "flight_no": "LH076",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793552700.0,
       "time_scheduled": "18:05",
       "time_estimated": "18:44",
@@ -157,25 +138,6 @@
     {
       "dt": 1793553000.0,
       "time_scheduled": "18:10",
-      "time_estimated": "19:01",
-      "flight_no": "EW9583",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 52
-    },
-    {
-      "dt": 1793553000.0,
-      "time_scheduled": "18:10",
       "time_estimated": "17:57",
       "flight_no": "XQ1360",
       "airline": "Sun Express",
@@ -191,6 +153,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793553000.0,
+      "time_scheduled": "18:10",
+      "time_estimated": "19:01",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 52
     },
     {
       "dt": 1793553900.0,
@@ -547,9 +528,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 33
     },
@@ -632,7 +613,7 @@
     {
       "dt": 1793559000.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:00",
+      "time_estimated": "19:53",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -642,11 +623,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 3
     },
     {
       "dt": 1793559300.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1793559600.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:59",
+      "time_estimated": "20:05",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -703,7 +684,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793560200.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:53",
+      "time_estimated": "22:07",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1793566500.0,
@@ -1354,7 +1335,7 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:41",
+      "time_estimated": "22:58",
       "flight_no": "EW9775",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1368,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 53
     },
     {
       "dt": 1793567100.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1793568900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:55",
+      "time_estimated": "22:49",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -1710,12 +1691,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 14
     },
     {
       "dt": 1793569200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:40",
+      "time_estimated": "23:19",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1729,7 +1710,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 40
     },
     {
       "dt": 1793569200.0,
