@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 17:35",
+  "updated_at": "01.11.2026 17:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -556,7 +556,7 @@
     {
       "dt": 1793550600.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:41",
+      "time_estimated": "17:36",
       "flight_no": "EW9559",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -566,11 +566,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 7
     },
     {
       "dt": 1793550900.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793550900.0,
       "time_scheduled": "17:35",
-      "time_estimated": "18:12",
+      "time_estimated": "18:13",
       "flight_no": "EW9549",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -608,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 37
+      "delay": 38
     },
     {
       "dt": 1793550900.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793552100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "18:03",
+      "time_estimated": "17:38",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -661,16 +661,16 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793552100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:41",
+      "time_estimated": "17:47",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -689,7 +689,7 @@
     {
       "dt": 1793552400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:05",
+      "time_estimated": "18:06",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -703,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793552400.0,
@@ -757,8 +757,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793552700.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:54",
+      "time_estimated": "19:03",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -798,12 +798,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 50
+      "delay": 59
     },
     {
       "dt": 1793552700.0,
       "time_scheduled": "18:05",
-      "time_estimated": "19:02",
+      "time_estimated": "19:05",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 58
+      "delay": 61
     },
     {
       "dt": 1793553000.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793555700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:47",
+      "time_estimated": "18:50",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793556300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:07",
+      "time_estimated": "19:06",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1080,10 +1080,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 1
     },
     {
       "dt": 1793556300.0,
@@ -1449,7 +1449,7 @@
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:25",
+      "time_estimated": "20:31",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1463,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 16
     },
     {
       "dt": 1793561400.0,
@@ -2312,6 +2312,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793569200.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "DE1517",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793569200.0,
+      "time_scheduled": "22:40",
+      "time_estimated": "22:40",
+      "flight_no": "LH2040",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
