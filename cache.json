@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 22:25",
+  "updated_at": "01.11.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,44 +96,6 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 215
-    },
-    {
-      "dt": 1793561400.0,
-      "time_scheduled": "20:30",
-      "time_estimated": "20:25",
-      "flight_no": "X36753",
-      "airline": "Tuifly",
-      "city": "Sharm El Sheikh",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793562600.0,
-      "time_scheduled": "20:50",
-      "time_estimated": "20:29",
-      "flight_no": "DE1457",
-      "airline": "Condor",
-      "city": "Fuerteventura",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793562900.0,
@@ -442,7 +404,7 @@
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:32",
+      "time_estimated": "22:37",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -456,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 37
+      "delay": 43
     },
     {
       "dt": 1793566500.0,
@@ -504,14 +466,14 @@
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 42
     },
@@ -543,13 +505,13 @@
       "city": "Salzburg",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 44
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:52",
+      "time_estimated": "22:30",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -623,11 +585,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 48
+      "delay": 25
     },
     {
       "dt": 1793567100.0,
@@ -651,21 +613,21 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:46",
+      "time_estimated": "22:52",
       "flight_no": "EW9579",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 42
+      "delay": 47
     },
     {
       "dt": 1793567400.0,
@@ -773,7 +735,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "14",
+      "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
       "status_text": "Im Anflug",
@@ -860,7 +822,7 @@
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:34",
+      "time_estimated": "22:28",
       "flight_no": "X32293",
       "airline": "Tuifly",
       "city": "Lanzarote-Arrecife",
@@ -870,16 +832,16 @@
       "terminal": "B",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:32",
+      "time_estimated": "22:26",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -889,16 +851,16 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "23:12",
+      "time_estimated": "23:06",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -912,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 43
+      "delay": 37
     },
     {
       "dt": 1793568900.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793569200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:49",
+      "time_estimated": "22:43",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -1026,7 +988,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 4
     },
     {
       "dt": 1793569500.0,
@@ -1075,13 +1037,13 @@
       "city": "Funchal (Madeira)",
       "country": "Portugal",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1098,9 +1060,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -1126,7 +1088,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:44",
+      "time_estimated": "22:37",
       "flight_no": "EW9987",
       "airline": "Eurowings",
       "city": "Marsa Alam",
@@ -1172,7 +1134,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
+      "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
