@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 08:30",
+  "updated_at": "01.11.2026 08:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 55
     },
@@ -205,9 +205,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -225,8 +225,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1793519400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:47",
+      "time_estimated": "08:43",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -300,9 +300,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -357,9 +357,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -414,9 +414,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793522400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:42",
+      "time_estimated": "09:44",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -551,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 5
     },
     {
       "dt": 1793523000.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793529300.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:35",
+      "time_estimated": "11:39",
       "flight_no": "DE3539",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793529300.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1793530800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "11:36",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -1601,6 +1601,25 @@
     {
       "dt": 1793535000.0,
       "time_scheduled": "13:10",
+      "time_estimated": "13:32",
+      "flight_no": "QR085",
+      "airline": "Qatar Airways",
+      "city": "Doha",
+      "country": "Katar",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 23
+    },
+    {
+      "dt": 1793535000.0,
+      "time_scheduled": "13:10",
       "time_estimated": "13:10",
       "flight_no": "EW9531",
       "airline": "Eurowings",
@@ -1720,6 +1739,25 @@
       "airline": "Eurowings",
       "city": "Athen",
       "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793536500.0,
+      "time_scheduled": "13:35",
+      "time_estimated": "13:35",
+      "flight_no": "EW9535",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
