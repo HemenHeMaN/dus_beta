@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 20:25",
+  "updated_at": "01.11.2026 20:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -96,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 7
-    },
-    {
-      "dt": 1793553900.0,
-      "time_scheduled": "18:25",
-      "time_estimated": "18:29",
-      "flight_no": "AP1757",
-      "airline": "Alba Star",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
     },
     {
       "dt": 1793554200.0,
@@ -604,9 +585,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 39
     },
@@ -643,15 +624,15 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 34
     },
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:48",
+      "time_estimated": "20:38",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -665,12 +646,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 33
+      "delay": 24
     },
     {
       "dt": 1793561400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:31",
+      "time_estimated": "20:25",
       "flight_no": "X36753",
       "airline": "Tuifly",
       "city": "Sharm El Sheikh",
@@ -680,11 +661,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793561400.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793562600.0,
       "time_scheduled": "20:50",
-      "time_estimated": "20:31",
+      "time_estimated": "20:29",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -718,9 +699,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +784,7 @@
     {
       "dt": 1793565300.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:33",
+      "time_estimated": "21:34",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -814,15 +795,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793565600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:37",
+      "time_estimated": "21:33",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -830,7 +811,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "11",
+      "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
@@ -903,11 +884,11 @@
       "airline": "Eurowings",
       "city": "Malaga",
       "country": "Spanien",
-      "type": "Linie",
+      "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -925,8 +906,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -963,7 +944,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "10",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1001,7 +982,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:24",
+      "time_estimated": "22:19",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1064,12 +1045,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 25
     },
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:27",
+      "time_estimated": "22:29",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -1080,15 +1061,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 34
     },
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:44",
+      "time_estimated": "22:46",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 49
+      "delay": 51
     },
     {
       "dt": 1793566800.0,
@@ -1169,11 +1150,11 @@
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
       "country": "Schweden",
-      "type": "Charter",
-      "type_source": "Ausgang",
+      "type": "Linie",
+      "type_source": "Airline",
       "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1316,7 +1297,7 @@
     {
       "dt": 1793567700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:04",
+      "time_estimated": "22:03",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1354,7 +1335,7 @@
     {
       "dt": 1793568000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:17",
+      "time_estimated": "22:15",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1476,8 +1457,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1601,7 +1582,7 @@
     {
       "dt": 1793569200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:51",
+      "time_estimated": "22:41",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -1615,7 +1596,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 2
     },
     {
       "dt": 1793569500.0,
@@ -1639,7 +1620,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:03",
+      "time_estimated": "23:01",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1653,7 +1634,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 16
     },
     {
       "dt": 1793569500.0,
@@ -1715,7 +1696,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:38",
+      "time_estimated": "22:39",
       "flight_no": "EW9987",
       "airline": "Eurowings",
       "city": "Marsa Alam",
