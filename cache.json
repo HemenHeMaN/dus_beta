@@ -1,11 +1,11 @@
 {
-  "updated_at": "01.11.2026 08:15",
+  "updated_at": "01.11.2026 08:20",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793513400.0,
       "time_scheduled": "07:10",
-      "time_estimated": "08:22",
+      "time_estimated": "08:28",
       "flight_no": "0S8130",
       "airline": "Sky Vision Airlines",
       "city": "Hurghada",
@@ -19,7 +19,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 73
+      "delay": 79
     },
     {
       "dt": 1793513400.0,
@@ -300,9 +300,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1793521800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:16",
+      "time_estimated": "09:20",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -453,8 +453,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1793523000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:38",
+      "time_estimated": "09:39",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -567,8 +567,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793526000.0,
       "time_scheduled": "10:40",
-      "time_estimated": "11:42",
+      "time_estimated": "11:22",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 62
+      "delay": 42
     },
     {
       "dt": 1793526000.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1793526000.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:51",
+      "time_estimated": "10:57",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -757,10 +757,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 17
     },
     {
       "dt": 1793526300.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793527800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:18",
+      "time_estimated": "11:11",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -852,15 +852,15 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 2
     },
     {
       "dt": 1793528100.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:15",
+      "time_estimated": "11:30",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -871,10 +871,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 15
     },
     {
       "dt": 1793528400.0,
@@ -1668,6 +1668,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793535600.0,
+      "time_scheduled": "13:20",
+      "time_estimated": "13:20",
+      "flight_no": "MS733",
+      "airline": "Egypt Air",
+      "city": "Kairo",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
