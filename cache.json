@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 11:15",
+  "updated_at": "01.11.2026 11:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 47
-    },
-    {
-      "dt": 1793521800.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:17",
-      "flight_no": "SK1629",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793522100.0,
@@ -442,7 +423,7 @@
     {
       "dt": 1793528100.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:25",
+      "time_estimated": "11:26",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -456,7 +437,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 12
     },
     {
       "dt": 1793528400.0,
@@ -528,9 +509,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -566,9 +547,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -632,7 +613,7 @@
     {
       "dt": 1793530200.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:34",
+      "time_estimated": "11:40",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -727,7 +708,7 @@
     {
       "dt": 1793530800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "11:50",
+      "time_estimated": "11:52",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -746,7 +727,7 @@
     {
       "dt": 1793530800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "11:56",
+      "time_estimated": "11:58",
       "flight_no": "EW9919",
       "airline": "Eurowings",
       "city": "Tivat",
@@ -784,7 +765,7 @@
     {
       "dt": 1793531100.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:51",
+      "time_estimated": "12:45",
       "flight_no": "X32313",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 46
+      "delay": 41
     },
     {
       "dt": 1793531400.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1793537400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "15:57",
+      "time_estimated": "16:02",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1482,7 +1463,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 127
+      "delay": 132
     },
     {
       "dt": 1793537400.0,
@@ -1563,7 +1544,7 @@
     {
       "dt": 1793538000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:01",
+      "time_estimated": "14:04",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1574,10 +1555,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 5
     },
     {
       "dt": 1793538300.0,
@@ -1620,7 +1601,7 @@
     {
       "dt": 1793539200.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:30",
+      "time_estimated": "14:28",
       "flight_no": "QS4474",
       "airline": "Smartwings",
       "city": "Fuerteventura",
@@ -1634,7 +1615,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 9
     },
     {
       "dt": 1793539800.0,
@@ -1972,6 +1953,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793546400.0,
+      "time_scheduled": "16:20",
+      "time_estimated": "16:20",
+      "flight_no": "QS4510",
+      "airline": "Smartwings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
