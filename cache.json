@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 13:45",
+  "updated_at": "01.11.2026 13:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1793530500.0,
-      "time_scheduled": "11:55",
-      "time_estimated": "11:48",
-      "flight_no": "PC1001",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793530800.0,
@@ -252,25 +233,6 @@
     {
       "dt": 1793532600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:53",
-      "flight_no": "EW9815",
-      "airline": "Eurowings",
-      "city": "Catania (Sizilien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 24
-    },
-    {
-      "dt": 1793532600.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:10",
       "flight_no": "EK055",
       "airline": "Emirates",
@@ -305,6 +267,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 4
+    },
+    {
+      "dt": 1793532600.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:53",
+      "flight_no": "EW9815",
+      "airline": "Eurowings",
+      "city": "Catania (Sizilien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 24
     },
     {
       "dt": 1793532900.0,
@@ -366,25 +347,6 @@
     {
       "dt": 1793533500.0,
       "time_scheduled": "12:45",
-      "time_estimated": "14:11",
-      "flight_no": "EW9589",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 86
-    },
-    {
-      "dt": 1793533500.0,
-      "time_scheduled": "12:45",
       "time_estimated": "12:19",
       "flight_no": "DE1149",
       "airline": "Condor",
@@ -421,23 +383,23 @@
       "delay": 0
     },
     {
-      "dt": 1793533800.0,
-      "time_scheduled": "12:50",
-      "time_estimated": "12:57",
-      "flight_no": "EW9925",
+      "dt": 1793533500.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "14:11",
+      "flight_no": "EW9589",
       "airline": "Eurowings",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
+      "terminal": "A",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 86
     },
     {
       "dt": 1793533800.0,
@@ -457,6 +419,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793533800.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:57",
+      "flight_no": "EW9925",
+      "airline": "Eurowings",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 7
     },
     {
       "dt": 1793534100.0,
@@ -719,8 +700,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 27
     },
@@ -776,8 +757,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -822,7 +803,7 @@
     {
       "dt": 1793537100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:52",
+      "time_estimated": "13:45",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -832,11 +813,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1793537400.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1793537400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:53",
+      "time_estimated": "13:48",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -870,11 +851,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793537700.0,
@@ -898,7 +879,7 @@
     {
       "dt": 1793538000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:06",
+      "time_estimated": "14:00",
       "flight_no": "DE1623",
       "airline": "Condor",
       "city": "Rhodos",
@@ -912,7 +893,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793538000.0,
@@ -927,9 +908,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -947,15 +928,15 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
     {
       "dt": 1793538300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:22",
+      "time_estimated": "14:23",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -969,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 18
     },
     {
       "dt": 1793538900.0,
@@ -984,16 +965,16 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
     {
       "dt": 1793539200.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:18",
+      "time_estimated": "14:28",
       "flight_no": "QS4474",
       "airline": "Smartwings",
       "city": "Fuerteventura",
@@ -1007,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793539800.0,
@@ -1022,9 +1003,9 @@
       "terminal": "A",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793540700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:45",
+      "time_estimated": "14:49",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -1118,15 +1099,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 5
     },
     {
       "dt": 1793541000.0,
       "time_scheduled": "14:50",
-      "time_estimated": "15:11",
+      "time_estimated": "15:25",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1140,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 36
     },
     {
       "dt": 1793542500.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793547600.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:48",
+      "time_estimated": "16:46",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1425,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 7
     },
     {
       "dt": 1793547600.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793547900.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:45",
+      "time_estimated": "16:55",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -1463,7 +1444,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793548200.0,
@@ -1620,7 +1601,7 @@
     {
       "dt": 1793549400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:48",
+      "time_estimated": "16:50",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1631,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
