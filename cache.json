@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 18:45",
+  "updated_at": "01.11.2026 18:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 23
-    },
-    {
-      "dt": 1793547900.0,
-      "time_scheduled": "16:45",
-      "time_estimated": "16:47",
-      "flight_no": "VL2022",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
     },
     {
       "dt": 1793548200.0,
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1793549400.0,
-      "time_scheduled": "17:10",
-      "time_estimated": "16:50",
-      "flight_no": "TK1527",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793549400.0,
@@ -528,9 +490,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 61
     },
@@ -651,7 +613,7 @@
     {
       "dt": 1793554200.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:56",
+      "time_estimated": "18:49",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -661,16 +623,16 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 27
+      "delay": 20
     },
     {
       "dt": 1793554500.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:54",
+      "time_estimated": "18:59",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -684,7 +646,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 24
     },
     {
       "dt": 1793554500.0,
@@ -765,7 +727,7 @@
     {
       "dt": 1793555700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:18",
+      "time_estimated": "18:48",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -775,11 +737,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 0
     },
     {
       "dt": 1793556000.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1793556300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:08",
+      "time_estimated": "19:02",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -817,7 +779,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793556300.0,
@@ -833,8 +795,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -852,8 +814,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -870,9 +832,9 @@
       "terminal": "A",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -898,7 +860,7 @@
     {
       "dt": 1793556900.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:23",
+      "time_estimated": "19:26",
       "flight_no": "XR506",
       "airline": "Corendon Airlines Europe",
       "city": "Fuerteventura",
@@ -912,7 +874,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 11
     },
     {
       "dt": 1793557200.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1793558400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:29",
+      "time_estimated": "19:31",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1259,7 +1221,7 @@
     {
       "dt": 1793562900.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:57",
+      "time_estimated": "20:59",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1270,10 +1232,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793563200.0,
@@ -1373,7 +1335,7 @@
     {
       "dt": 1793565600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:43",
+      "time_estimated": "21:58",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -1387,7 +1349,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 18
     },
     {
       "dt": 1793565600.0,
@@ -1449,7 +1411,7 @@
     {
       "dt": 1793565900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:41",
+      "time_estimated": "21:46",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1463,7 +1425,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793566200.0,
@@ -1582,7 +1544,7 @@
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:55",
+      "time_estimated": "21:53",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1639,7 +1601,7 @@
     {
       "dt": 1793566800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:58",
+      "time_estimated": "21:53",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -1650,8 +1612,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1677,7 +1639,7 @@
     {
       "dt": 1793566800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:00",
+      "time_estimated": "21:52",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
