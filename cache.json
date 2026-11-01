@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 06:25",
+  "updated_at": "01.11.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793513400.0,
       "time_scheduled": "07:10",
-      "time_estimated": "08:20",
+      "time_estimated": "08:22",
       "flight_no": "0S8130",
       "airline": "Sky Vision Airlines",
       "city": "Hurghada",
@@ -152,7 +152,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 71
+      "delay": 73
     },
     {
       "dt": 1793513400.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1793515200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:49",
+      "time_estimated": "07:55",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -209,7 +209,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 15
     },
     {
       "dt": 1793515500.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793517600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:22",
+      "time_estimated": "08:06",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -266,7 +266,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793517900.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793517900.0,
       "time_scheduled": "08:25",
-      "time_estimated": "07:59",
+      "time_estimated": "08:01",
       "flight_no": "VF5125",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -518,7 +518,7 @@
     {
       "dt": 1793521200.0,
       "time_scheduled": "09:20",
-      "time_estimated": "09:14",
+      "time_estimated": "09:07",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -529,8 +529,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1793521800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:03",
+      "time_estimated": "09:02",
       "flight_no": "XC108",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -841,7 +841,7 @@
     {
       "dt": 1793526000.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:40",
+      "time_estimated": "11:18",
       "flight_no": "EW9577",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 38
     },
     {
       "dt": 1793526000.0,
@@ -1022,6 +1022,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793529000.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "SK818",
+      "airline": "Scandinavian Airlines",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793529000.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "XC104",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
