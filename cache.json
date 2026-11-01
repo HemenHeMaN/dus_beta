@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 19:40",
+  "updated_at": "01.11.2026 19:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 28
-    },
-    {
-      "dt": 1793552100.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:44",
-      "flight_no": "KL1803",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793552400.0,
@@ -480,25 +461,6 @@
     {
       "dt": 1793556600.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:08",
-      "flight_no": "OS167",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793556600.0,
-      "time_scheduled": "19:10",
       "time_estimated": "18:58",
       "flight_no": "BT233",
       "airline": "Air Baltic",
@@ -509,6 +471,25 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793556600.0,
+      "time_scheduled": "19:10",
+      "time_estimated": "19:08",
+      "flight_no": "OS167",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -613,7 +594,7 @@
     {
       "dt": 1793558700.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:58",
+      "time_estimated": "19:53",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -624,10 +605,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 9
     },
     {
       "dt": 1793559000.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1793559000.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:07",
+      "time_estimated": "20:00",
       "flight_no": "EW9591",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -681,10 +662,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 11
     },
     {
       "dt": 1793559300.0,
@@ -737,9 +718,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +765,7 @@
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:26",
+      "time_estimated": "20:28",
       "flight_no": "VL2032",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 14
     },
     {
       "dt": 1793560500.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793565900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:10",
+      "time_estimated": "22:04",
       "flight_no": "EW9587",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1061,10 +1042,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 20
     },
     {
       "dt": 1793565900.0,
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793566200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:07",
+      "time_estimated": "22:05",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1118,10 +1099,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 15
     },
     {
       "dt": 1793566200.0,
@@ -1468,7 +1449,7 @@
     {
       "dt": 1793567700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:10",
+      "time_estimated": "22:18",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1482,7 +1463,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793567700.0,
@@ -1791,7 +1772,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "23:13",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -1805,12 +1786,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 28
     },
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:45",
+      "time_estimated": "23:02",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -1824,7 +1805,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 18
     },
     {
       "dt": 1793569500.0,
@@ -1916,8 +1897,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 27
     },
