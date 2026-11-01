@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 22:20",
+  "updated_at": "01.11.2026 22:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,6 +233,25 @@
     {
       "dt": 1793565600.0,
       "time_scheduled": "21:40",
+      "time_estimated": "21:25",
+      "flight_no": "AF1106",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793565600.0,
+      "time_scheduled": "21:40",
       "time_estimated": "21:36",
       "flight_no": "EW9421",
       "airline": "Eurowings",
@@ -267,25 +286,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
-    },
-    {
-      "dt": 1793565600.0,
-      "time_scheduled": "21:40",
-      "time_estimated": "21:25",
-      "flight_no": "AF1106",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793565900.0,
@@ -453,8 +453,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 37
     },
@@ -480,7 +480,7 @@
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:34",
+      "time_estimated": "22:24",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -490,16 +490,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 40
+      "delay": 30
     },
     {
       "dt": 1793566500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:42",
+      "time_estimated": "22:37",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -513,7 +513,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 47
+      "delay": 42
     },
     {
       "dt": 1793566800.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:30",
+      "time_estimated": "22:52",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -627,12 +627,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 26
+      "delay": 48
     },
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "23:20",
+      "time_estimated": "23:14",
       "flight_no": "EW9775",
       "airline": "Eurowings",
       "city": "Prag",
@@ -646,7 +646,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 75
+      "delay": 69
     },
     {
       "dt": 1793567100.0,
@@ -662,8 +662,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 42
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:46",
+      "time_estimated": "22:22",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -851,16 +851,16 @@
       "terminal": "C",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 0
     },
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:32",
+      "time_estimated": "22:34",
       "flight_no": "X32293",
       "airline": "Tuifly",
       "city": "Lanzarote-Arrecife",
@@ -874,12 +874,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:27",
+      "time_estimated": "22:32",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -893,7 +893,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793568600.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793568900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:37",
+      "time_estimated": "22:21",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -946,11 +946,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793568900.0,
@@ -980,13 +980,13 @@
       "city": "Bologna",
       "country": "Italien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -1022,9 +1022,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -1126,7 +1126,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:32",
+      "time_estimated": "22:44",
       "flight_no": "EW9987",
       "airline": "Eurowings",
       "city": "Marsa Alam",
@@ -1137,8 +1137,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
