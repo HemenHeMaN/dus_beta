@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 16:40",
+  "updated_at": "01.11.2026 16:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1793547600.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:44",
+      "time_estimated": "16:40",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -395,11 +395,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1793547600.0,
@@ -537,21 +537,21 @@
     {
       "dt": 1793548800.0,
       "time_scheduled": "17:00",
-      "time_estimated": "18:52",
+      "time_estimated": "18:54",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 113
+      "delay": 115
     },
     {
       "dt": 1793549100.0,
@@ -605,8 +605,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1793550900.0,
       "time_scheduled": "17:35",
-      "time_estimated": "19:00",
+      "time_estimated": "18:53",
       "flight_no": "BA936",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 86
+      "delay": 79
     },
     {
       "dt": 1793550900.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793552700.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:43",
+      "time_estimated": "18:33",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 39
+      "delay": 29
     },
     {
       "dt": 1793552700.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793556300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:15",
+      "time_estimated": "19:12",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1254,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 8
     },
     {
       "dt": 1793556600.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1793558400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:46",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1368,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793558400.0,
@@ -1392,7 +1392,7 @@
     {
       "dt": 1793558700.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:45",
+      "time_estimated": "19:44",
       "flight_no": "EW4676",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -1411,7 +1411,7 @@
     {
       "dt": 1793559000.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:50",
+      "time_estimated": "19:47",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -1620,7 +1620,7 @@
     {
       "dt": 1793561400.0,
       "time_scheduled": "20:30",
-      "time_estimated": "20:41",
+      "time_estimated": "20:33",
       "flight_no": "X36753",
       "airline": "Tuifly",
       "city": "Sharm El Sheikh",
@@ -1634,7 +1634,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 4
     },
     {
       "dt": 1793561400.0,
@@ -1818,6 +1818,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793565900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9587",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793565900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793565900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9603",
+      "airline": "Eurowings",
+      "city": "Lissabon",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
