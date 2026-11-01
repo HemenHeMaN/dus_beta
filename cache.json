@@ -1,11 +1,11 @@
 {
-  "updated_at": "01.11.2026 06:05",
+  "updated_at": "01.11.2026 06:10",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793509500.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:14",
+      "time_estimated": "06:06",
       "flight_no": "EW9895",
       "airline": "Eurowings",
       "city": "Marrakesch",
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 2
     },
     {
       "dt": 1793509800.0,
@@ -43,7 +43,7 @@
     {
       "dt": 1793510700.0,
       "time_scheduled": "06:25",
-      "time_estimated": "06:33",
+      "time_estimated": "06:08",
       "flight_no": "PC1665",
       "airline": "Pegasus Airlines",
       "city": "Gaziantep",
@@ -53,11 +53,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793511300.0,
@@ -81,7 +81,7 @@
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:15",
+      "time_estimated": "06:21",
       "flight_no": "XQ1370",
       "airline": "Sun Express",
       "city": "Mersin-Çukurova",
@@ -965,6 +965,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793527800.0,
+      "time_scheduled": "11:10",
+      "time_estimated": "11:10",
+      "flight_no": "A3840",
+      "airline": "Aegean Airlines",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
