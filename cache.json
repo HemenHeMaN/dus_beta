@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 23:00",
+  "updated_at": "01.11.2026 23:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -472,8 +472,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 69
     },
@@ -518,25 +518,6 @@
     {
       "dt": 1793567400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:11",
-      "flight_no": "EW9337",
-      "airline": "Eurowings",
-      "city": "Birmingham",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1793567400.0,
-      "time_scheduled": "22:10",
       "time_estimated": "22:19",
       "flight_no": "KL1805",
       "airline": "KLM",
@@ -552,6 +533,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 10
+    },
+    {
+      "dt": 1793567400.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:11",
+      "flight_no": "EW9337",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "5",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 2
     },
     {
       "dt": 1793567700.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793569200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "23:09",
+      "time_estimated": "23:03",
       "flight_no": "DE1517",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -851,11 +851,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 30
+      "delay": 23
     },
     {
       "dt": 1793569200.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:07",
+      "time_estimated": "23:30",
       "flight_no": "DE1617",
       "airline": "Condor",
       "city": "Heraklion (Kreta)",
@@ -890,10 +890,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 23
+      "delay": 46
     },
     {
       "dt": 1793569500.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "23:05",
+      "time_estimated": "23:36",
       "flight_no": "EW8046",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -969,7 +969,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 52
     },
     {
       "dt": 1793569500.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793570100.0,
       "time_scheduled": "22:55",
-      "time_estimated": "23:07",
+      "time_estimated": "23:01",
       "flight_no": "X34553",
       "airline": "Tuifly",
       "city": "Larnaca (Zypern)",
@@ -1022,11 +1022,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 6
     }
   ]
 }
