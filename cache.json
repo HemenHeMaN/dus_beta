@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 05:40",
+  "updated_at": "01.11.2026 05:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -347,7 +347,7 @@
     {
       "dt": 1793519100.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:45",
+      "time_estimated": "08:48",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -361,7 +361,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793519100.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793520000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:00",
+      "time_estimated": "08:49",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -887,6 +887,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793526300.0,
+      "time_scheduled": "10:45",
+      "time_estimated": "10:45",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
