@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 07:45",
+  "updated_at": "01.11.2026 07:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,25 +100,6 @@
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:10",
-      "flight_no": "XQ1340",
-      "airline": "Sun Express",
-      "city": "Trabzon",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793511600.0,
-      "time_scheduled": "06:40",
       "time_estimated": "06:02",
       "flight_no": "TK3364",
       "airline": "Turkish Airlines",
@@ -129,6 +110,25 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793511600.0,
+      "time_scheduled": "06:40",
+      "time_estimated": "06:10",
+      "flight_no": "XQ1340",
+      "airline": "Sun Express",
+      "city": "Trabzon",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -157,7 +157,7 @@
     {
       "dt": 1793513400.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:48",
+      "time_estimated": "07:47",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -167,11 +167,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 38
+      "delay": 37
     },
     {
       "dt": 1793514900.0,
@@ -206,8 +206,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 38
     },
@@ -263,8 +263,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -309,7 +309,7 @@
     {
       "dt": 1793517900.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:02",
+      "time_estimated": "07:57",
       "flight_no": "VF5125",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -385,7 +385,7 @@
     {
       "dt": 1793519400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:38",
+      "time_estimated": "08:41",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -396,8 +396,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1793520000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:53",
+      "time_estimated": "09:54",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -456,7 +456,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 53
+      "delay": 54
     },
     {
       "dt": 1793520300.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793525700.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:42",
+      "time_estimated": "10:43",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 9
     },
     {
       "dt": 1793526000.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1793526900.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:53",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793529000.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:02",
+      "time_estimated": "10:56",
       "flight_no": "XC104",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1554,6 +1554,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793533800.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "GQ890",
+      "airline": "Sky Express",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793533800.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "EW9925",
+      "airline": "Eurowings",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
