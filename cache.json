@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 15:45",
+  "updated_at": "01.11.2026 15:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -136,25 +136,6 @@
       "delay": 7
     },
     {
-      "dt": 1793537100.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "13:45",
-      "flight_no": "LH074",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
       "dt": 1793537400.0,
       "time_scheduled": "13:50",
       "time_estimated": "15:57",
@@ -168,29 +149,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 128
-    },
-    {
-      "dt": 1793537400.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:48",
-      "flight_no": "KL1801",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793538000.0,
@@ -567,8 +529,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -623,16 +585,16 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
     {
       "dt": 1793546100.0,
       "time_scheduled": "16:15",
-      "time_estimated": "15:52",
+      "time_estimated": "15:57",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -822,7 +784,7 @@
     {
       "dt": 1793548500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:09",
+      "time_estimated": "17:18",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -836,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 14
+      "delay": 23
     },
     {
       "dt": 1793548800.0,
@@ -974,7 +936,7 @@
     {
       "dt": 1793549700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:19",
+      "time_estimated": "17:27",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -988,12 +950,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 13
     },
     {
       "dt": 1793550000.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:14",
+      "time_estimated": "17:15",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1050,7 +1012,7 @@
     {
       "dt": 1793550900.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:40",
+      "time_estimated": "18:00",
       "flight_no": "BA936",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1064,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 26
     },
     {
       "dt": 1793550900.0,
@@ -1487,7 +1449,7 @@
     {
       "dt": 1793555700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:55",
+      "time_estimated": "18:52",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1951,6 +1913,25 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793562600.0,
+      "time_scheduled": "20:50",
+      "time_estimated": "20:50",
+      "flight_no": "DE1457",
+      "airline": "Condor",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
