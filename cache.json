@@ -1,11 +1,11 @@
 {
-  "updated_at": "01.11.2026 08:20",
+  "updated_at": "01.11.2026 08:25",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793513400.0,
       "time_scheduled": "07:10",
-      "time_estimated": "08:28",
+      "time_estimated": "08:22",
       "flight_no": "0S8130",
       "airline": "Sky Vision Airlines",
       "city": "Hurghada",
@@ -15,11 +15,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 79
+      "delay": 72
     },
     {
       "dt": 1793513400.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793519400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:41",
+      "time_estimated": "08:47",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -262,9 +262,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -301,8 +301,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1793525700.0,
       "time_scheduled": "10:35",
-      "time_estimated": "10:45",
+      "time_estimated": "10:43",
       "flight_no": "DE1011",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -681,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1793526000.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1793529000.0,
       "time_scheduled": "11:30",
-      "time_estimated": "11:30",
+      "time_estimated": "11:25",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -993,7 +993,7 @@
     {
       "dt": 1793529600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:36",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -1685,6 +1685,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793535900.0,
+      "time_scheduled": "13:25",
+      "time_estimated": "13:25",
+      "flight_no": "EW9571",
+      "airline": "Eurowings",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
