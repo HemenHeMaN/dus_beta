@@ -1,45 +1,7 @@
 {
-  "updated_at": "01.11.2026 08:05",
+  "updated_at": "01.11.2026 08:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793509500.0,
-      "time_scheduled": "06:05",
-      "time_estimated": "06:06",
-      "flight_no": "EW9895",
-      "airline": "Eurowings",
-      "city": "Marrakesch",
-      "country": "Marokko",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1793510700.0,
-      "time_scheduled": "06:25",
-      "time_estimated": "06:08",
-      "flight_no": "PC1665",
-      "airline": "Pegasus Airlines",
-      "city": "Gaziantep",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
@@ -60,25 +22,6 @@
       "delay": 0
     },
     {
-      "dt": 1793511600.0,
-      "time_scheduled": "06:40",
-      "time_estimated": "06:10",
-      "flight_no": "XQ1340",
-      "airline": "Sun Express",
-      "city": "Trabzon",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793513400.0,
       "time_scheduled": "07:10",
       "time_estimated": "08:22",
@@ -91,9 +34,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 73
     },
@@ -138,7 +81,7 @@
     {
       "dt": 1793515200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "08:11",
+      "time_estimated": "08:16",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +95,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 31
+      "delay": 37
     },
     {
       "dt": 1793515500.0,
@@ -214,7 +157,7 @@
     {
       "dt": 1793517900.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:12",
+      "time_estimated": "08:11",
       "flight_no": "XR404",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -917,7 +860,7 @@
     {
       "dt": 1793527800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:18",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -931,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793528100.0,
@@ -955,7 +898,7 @@
     {
       "dt": 1793528400.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:20",
+      "time_estimated": "11:12",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1662,6 +1605,25 @@
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793535000.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
