@@ -1,26 +1,7 @@
 {
-  "updated_at": "01.11.2026 18:15",
+  "updated_at": "01.11.2026 18:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793540400.0,
-      "time_scheduled": "14:40",
-      "time_estimated": "16:18",
-      "flight_no": "PC5011",
-      "airline": "Pegasus Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 99
-    },
     {
       "dt": 1793545500.0,
       "time_scheduled": "16:05",
@@ -461,7 +442,7 @@
     {
       "dt": 1793551800.0,
       "time_scheduled": "17:50",
-      "time_estimated": "18:45",
+      "time_estimated": "18:18",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -471,30 +452,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "remark": "",
-      "delay": 56
-    },
-    {
-      "dt": 1793552100.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:38",
-      "flight_no": "AY1395",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 28
     },
     {
       "dt": 1793552100.0,
@@ -509,6 +471,25 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793552100.0,
+      "time_scheduled": "17:55",
+      "time_estimated": "17:38",
+      "flight_no": "AY1395",
+      "airline": "Finnair",
+      "city": "Helsinki",
+      "country": "Finnland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -699,16 +680,16 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
     {
       "dt": 1793553900.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:22",
+      "time_estimated": "18:16",
       "flight_no": "XR6442",
       "airline": "Corendon Airlines Europe",
       "city": "Marsa Alam",
@@ -718,9 +699,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -737,9 +718,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -936,7 +917,7 @@
     {
       "dt": 1793556600.0,
       "time_scheduled": "19:10",
-      "time_estimated": "18:54",
+      "time_estimated": "18:55",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -974,7 +955,7 @@
     {
       "dt": 1793556900.0,
       "time_scheduled": "19:15",
-      "time_estimated": "19:30",
+      "time_estimated": "19:26",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -985,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 11
     },
     {
       "dt": 1793556900.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:31",
+      "time_estimated": "20:35",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 21
     },
     {
       "dt": 1793560500.0,
@@ -1601,7 +1582,7 @@
     {
       "dt": 1793566200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:50",
+      "time_estimated": "21:27",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -1612,8 +1593,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
