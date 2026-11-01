@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 13:05",
+  "updated_at": "01.11.2026 13:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1793528400.0,
-      "time_scheduled": "11:20",
-      "time_estimated": "11:10",
-      "flight_no": "IB1319",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793529000.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793534700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:21",
+      "time_estimated": "13:07",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -718,11 +699,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 16
+      "delay": 3
     },
     {
       "dt": 1793534700.0,
@@ -746,7 +727,7 @@
     {
       "dt": 1793534700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:24",
+      "time_estimated": "13:29",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -760,7 +741,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 25
     },
     {
       "dt": 1793535000.0,
@@ -795,8 +776,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -860,7 +841,7 @@
     {
       "dt": 1793535600.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:43",
+      "time_estimated": "13:49",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -874,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 29
     },
     {
       "dt": 1793535900.0,
@@ -889,9 +870,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793537400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:55",
+      "time_estimated": "13:59",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 10
     },
     {
       "dt": 1793537700.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793538300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:13",
+      "time_estimated": "14:17",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -1159,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 12
     },
     {
       "dt": 1793538900.0,
@@ -2176,6 +2157,44 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793553000.0,
+      "time_scheduled": "18:10",
+      "time_estimated": "18:10",
+      "flight_no": "XQ1360",
+      "airline": "Sun Express",
+      "city": "Diyarbakir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793553000.0,
+      "time_scheduled": "18:10",
+      "time_estimated": "18:10",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
