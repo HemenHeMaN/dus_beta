@@ -1,26 +1,7 @@
 {
-  "updated_at": "01.11.2026 22:45",
+  "updated_at": "01.11.2026 22:50",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793559300.0,
-      "time_scheduled": "19:55",
-      "time_estimated": "20:46",
-      "flight_no": "EW9817",
-      "airline": "Eurowings",
-      "city": "Catania (Sizilien)",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 51
-    },
     {
       "dt": 1793561400.0,
       "time_scheduled": "20:30",
@@ -39,25 +20,6 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 215
-    },
-    {
-      "dt": 1793562900.0,
-      "time_scheduled": "20:55",
-      "time_estimated": "20:49",
-      "flight_no": "EW9511",
-      "airline": "Eurowings",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793563200.0,
@@ -499,25 +461,6 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "21:57",
-      "flight_no": "EW9673",
-      "airline": "Eurowings",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793567100.0,
-      "time_scheduled": "22:05",
       "time_estimated": "22:30",
       "flight_no": "EW9883",
       "airline": "Eurowings",
@@ -571,6 +514,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 30
+    },
+    {
+      "dt": 1793567100.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "21:57",
+      "flight_no": "EW9673",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793567400.0,
@@ -689,7 +651,7 @@
     {
       "dt": 1793568000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:51",
+      "time_estimated": "23:04",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -703,12 +665,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 31
+      "delay": 44
     },
     {
       "dt": 1793568000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "23:58",
+      "time_estimated": "00:04",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -719,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 98
+      "delay": 104
     },
     {
       "dt": 1793568300.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "23:06",
+      "time_estimated": "23:12",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -814,10 +776,10 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 37
+      "delay": 43
     },
     {
       "dt": 1793568900.0,
@@ -832,9 +794,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 44
     },
@@ -860,7 +822,7 @@
     {
       "dt": 1793568900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:55",
+      "time_estimated": "22:50",
       "flight_no": "EW5523",
       "airline": "Eurowings",
       "city": "La Palma",
@@ -870,11 +832,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 20
+      "delay": 15
     },
     {
       "dt": 1793568900.0,
@@ -908,9 +870,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 36
     },
@@ -955,7 +917,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:54",
+      "time_estimated": "22:48",
       "flight_no": "DE1515",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -965,11 +927,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 4
     },
     {
       "dt": 1793569500.0,
@@ -993,7 +955,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:56",
+      "time_estimated": "22:45",
       "flight_no": "X32853",
       "airline": "Tuifly",
       "city": "Funchal (Madeira)",
@@ -1003,11 +965,11 @@
       "terminal": "B",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 1
     },
     {
       "dt": 1793569500.0,
@@ -1022,9 +984,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -1080,8 +1042,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     }
