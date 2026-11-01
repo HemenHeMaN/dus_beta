@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 21:45",
+  "updated_at": "01.11.2026 21:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -404,7 +404,7 @@
     {
       "dt": 1793565900.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:04",
+      "time_estimated": "21:57",
       "flight_no": "EW9587",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -418,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 13
     },
     {
       "dt": 1793565900.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793566200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:05",
+      "time_estimated": "22:11",
       "flight_no": "DE1779",
       "airline": "Condor",
       "city": "Palma de Mallorca",
@@ -475,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 21
     },
     {
       "dt": 1793566200.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793566200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:03",
+      "time_estimated": "21:58",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -513,7 +513,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 9
     },
     {
       "dt": 1793566200.0,
@@ -547,9 +547,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 25
     },
@@ -632,7 +632,7 @@
     {
       "dt": 1793566800.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:54",
+      "time_estimated": "21:49",
       "flight_no": "DE1615",
       "airline": "Condor",
       "city": "Chania (Kreta)",
@@ -642,9 +642,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -678,7 +678,7 @@
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -708,21 +708,21 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:09",
+      "time_estimated": "21:56",
       "flight_no": "EW9673",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793567100.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1793567400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:20",
+      "time_estimated": "22:15",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -798,7 +798,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1793567400.0,
@@ -846,21 +846,21 @@
       "airline": "Eurowings",
       "city": "Budapest",
       "country": "Ungarn",
-      "type": "Charter",
+      "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793567700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:19",
+      "time_estimated": "22:20",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -871,10 +871,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1793568000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793568600.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:32",
+      "time_estimated": "22:27",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1007,7 +1007,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793568600.0,
@@ -1126,7 +1126,7 @@
     {
       "dt": 1793569200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:51",
+      "time_estimated": "22:49",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -1137,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1793569500.0,
