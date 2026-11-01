@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 16:20",
+  "updated_at": "01.11.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -16,8 +16,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 211
     },
@@ -319,9 +319,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 45
     },
@@ -376,16 +376,16 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 29
     },
     {
       "dt": 1793547000.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:27",
+      "time_estimated": "16:22",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -395,9 +395,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793548800.0,
       "time_scheduled": "17:00",
-      "time_estimated": "18:52",
+      "time_estimated": "18:58",
       "flight_no": "EW9593",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 113
+      "delay": 119
     },
     {
       "dt": 1793549100.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793550900.0,
       "time_scheduled": "17:35",
-      "time_estimated": "18:28",
+      "time_estimated": "18:37",
       "flight_no": "BA936",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 54
+      "delay": 63
     },
     {
       "dt": 1793550900.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793553900.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:47",
+      "time_estimated": "18:44",
       "flight_no": "AP1037",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -1061,10 +1061,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 23
+      "delay": 20
     },
     {
       "dt": 1793553900.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793553900.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:41",
+      "time_estimated": "18:38",
       "flight_no": "AP1757",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -1099,10 +1099,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 14
     },
     {
       "dt": 1793554200.0,
@@ -1753,7 +1753,7 @@
     {
       "dt": 1793563800.0,
       "time_scheduled": "21:10",
-      "time_estimated": "21:10",
+      "time_estimated": "21:09",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -1763,6 +1763,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793564700.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
