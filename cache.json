@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 06:10",
+  "updated_at": "01.11.2026 06:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:21",
+      "time_estimated": "06:12",
       "flight_no": "XQ1370",
       "airline": "Sun Express",
       "city": "Mersin-Çukurova",
@@ -91,9 +91,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -119,7 +119,7 @@
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:14",
+      "time_estimated": "06:10",
       "flight_no": "XQ1340",
       "airline": "Sun Express",
       "city": "Trabzon",
@@ -129,9 +129,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -252,7 +252,7 @@
     {
       "dt": 1793517600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:17",
+      "time_estimated": "08:22",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -266,7 +266,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793517900.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793520000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:49",
+      "time_estimated": "09:00",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -415,8 +415,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1793520000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:42",
+      "time_estimated": "09:52",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -456,7 +456,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 43
+      "delay": 52
     },
     {
       "dt": 1793520300.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793522100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:18",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -765,7 +765,7 @@
     {
       "dt": 1793524500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:11",
+      "time_estimated": "10:06",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -982,6 +982,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793528100.0,
+      "time_scheduled": "11:15",
+      "time_estimated": "11:15",
+      "flight_no": "BM560",
+      "airline": "Medsky Airways",
+      "city": "Tripolis-Mitiga",
+      "country": "Libyen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
