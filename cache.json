@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 14:10",
+  "updated_at": "01.11.2026 14:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -98,25 +98,6 @@
       "delay": 55
     },
     {
-      "dt": 1793531700.0,
-      "time_scheduled": "12:15",
-      "time_estimated": "12:15",
-      "flight_no": "BJ2874",
-      "airline": "Nouvelair",
-      "city": "Djerba",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793532600.0,
       "time_scheduled": "12:30",
       "time_estimated": "12:34",
@@ -176,6 +157,25 @@
     {
       "dt": 1793533500.0,
       "time_scheduled": "12:45",
+      "time_estimated": "14:02",
+      "flight_no": "EW9589",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 77
+    },
+    {
+      "dt": 1793533500.0,
+      "time_scheduled": "12:45",
       "time_estimated": "12:19",
       "flight_no": "DE1149",
       "airline": "Condor",
@@ -210,25 +210,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1793533500.0,
-      "time_scheduled": "12:45",
-      "time_estimated": "14:02",
-      "flight_no": "EW9589",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 77
     },
     {
       "dt": 1793533800.0,
@@ -309,6 +290,25 @@
     {
       "dt": 1793534700.0,
       "time_scheduled": "13:05",
+      "time_estimated": "16:37",
+      "flight_no": "EW9685",
+      "airline": "Eurowings",
+      "city": "Kavala",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 212
+    },
+    {
+      "dt": 1793534700.0,
+      "time_scheduled": "13:05",
       "time_estimated": "12:45",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
@@ -343,25 +343,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
-    },
-    {
-      "dt": 1793534700.0,
-      "time_scheduled": "13:05",
-      "time_estimated": "16:37",
-      "flight_no": "EW9685",
-      "airline": "Eurowings",
-      "city": "Kavala",
-      "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
-      "remark": "",
-      "delay": 212
     },
     {
       "dt": 1793534700.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793538300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:19",
+      "time_estimated": "14:11",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -775,11 +756,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 14
+      "delay": 7
     },
     {
       "dt": 1793538900.0,
@@ -803,7 +784,7 @@
     {
       "dt": 1793539200.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:28",
+      "time_estimated": "14:13",
       "flight_no": "QS4474",
       "airline": "Smartwings",
       "city": "Fuerteventura",
@@ -813,11 +794,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793539800.0,
@@ -870,9 +851,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +898,7 @@
     {
       "dt": 1793540700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:49",
+      "time_estimated": "14:50",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -931,12 +912,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793541000.0,
       "time_scheduled": "14:50",
-      "time_estimated": "15:25",
+      "time_estimated": "15:41",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -950,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 52
     },
     {
       "dt": 1793542500.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793544600.0,
       "time_scheduled": "15:50",
-      "time_estimated": "15:57",
+      "time_estimated": "16:01",
       "flight_no": "DE3543",
       "airline": "Condor",
       "city": "Marseille",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1793544600.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793549400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:45",
+      "time_estimated": "16:53",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1422,8 +1403,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1487,7 +1468,7 @@
     {
       "dt": 1793549700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:20",
+      "time_estimated": "17:19",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1501,7 +1482,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 5
     },
     {
       "dt": 1793550000.0,
@@ -2124,6 +2105,44 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793556900.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "LX1026",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793556900.0,
+      "time_scheduled": "19:15",
+      "time_estimated": "19:15",
+      "flight_no": "XR506",
+      "airline": "Corendon Airlines Europe",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
