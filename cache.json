@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 18:20",
+  "updated_at": "01.11.2026 18:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 18
-    },
-    {
-      "dt": 1793547000.0,
-      "time_scheduled": "16:30",
-      "time_estimated": "16:22",
-      "flight_no": "AF1406",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793547600.0,
@@ -518,25 +499,6 @@
     {
       "dt": 1793552400.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:50",
-      "flight_no": "LH076",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793552400.0,
-      "time_scheduled": "18:00",
       "time_estimated": "17:34",
       "flight_no": "XQ182",
       "airline": "Sun Express",
@@ -573,6 +535,25 @@
       "delay": 0
     },
     {
+      "dt": 1793552400.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "17:50",
+      "flight_no": "LH076",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
       "dt": 1793552700.0,
       "time_scheduled": "18:05",
       "time_estimated": "17:30",
@@ -594,7 +575,7 @@
     {
       "dt": 1793552700.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:56",
+      "time_estimated": "18:57",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -608,7 +589,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 52
+      "delay": 53
     },
     {
       "dt": 1793552700.0,
@@ -619,9 +600,9 @@
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -681,8 +662,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1793553900.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:40",
+      "time_estimated": "18:45",
       "flight_no": "AP1757",
       "airline": "Alba Star",
       "city": "Palma de Mallorca",
@@ -722,12 +703,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 21
     },
     {
       "dt": 1793554200.0,
       "time_scheduled": "18:30",
-      "time_estimated": "19:03",
+      "time_estimated": "19:06",
       "flight_no": "DE1827",
       "airline": "Condor",
       "city": "Olbia (Sardinien)",
@@ -741,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 36
     },
     {
       "dt": 1793554500.0,
@@ -751,11 +732,11 @@
       "airline": "Sky Alps",
       "city": "Bozen",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -813,9 +794,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -832,9 +813,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,21 +841,21 @@
     {
       "dt": 1793556000.0,
       "time_scheduled": "19:00",
-      "time_estimated": "19:02",
+      "time_estimated": "19:03",
       "flight_no": "VL2028",
       "airline": "Lufthansa City Airlines",
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 3
     },
     {
       "dt": 1793556300.0,
@@ -885,9 +866,9 @@
       "city": "Warschau",
       "country": "Polen",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -922,11 +903,11 @@
       "airline": "Air Baltic",
       "city": "Riga",
       "country": "Lettland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1012,7 +993,7 @@
     {
       "dt": 1793558400.0,
       "time_scheduled": "19:40",
-      "time_estimated": "20:06",
+      "time_estimated": "20:00",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1026,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 21
     },
     {
       "dt": 1793558400.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793560200.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:20",
+      "time_estimated": "20:29",
       "flight_no": "VY4235",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1194,15 +1175,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 20
     },
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:35",
+      "time_estimated": "20:21",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1216,12 +1197,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 6
     },
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:25",
+      "time_estimated": "20:20",
       "flight_no": "VL2032",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 6
     },
     {
       "dt": 1793560500.0,
@@ -1316,7 +1297,7 @@
     {
       "dt": 1793562900.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:50",
+      "time_estimated": "20:57",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -1330,12 +1311,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793563200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:01",
+      "time_estimated": "21:00",
       "flight_no": "EW9527",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1346,10 +1327,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793563800.0,
@@ -2319,6 +2300,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793570100.0,
+      "time_scheduled": "22:55",
+      "time_estimated": "23:22",
+      "flight_no": "X32115",
+      "airline": "Tuifly",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 27
     },
     {
       "dt": 1793570100.0,
