@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 10:00",
+  "updated_at": "01.11.2026 10:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,25 +157,6 @@
     {
       "dt": 1793520000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:04",
-      "flight_no": "PC1007",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
-    },
-    {
-      "dt": 1793520000.0,
-      "time_scheduled": "09:00",
       "time_estimated": "09:47",
       "flight_no": "UD437",
       "airline": "UR Airlines",
@@ -191,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 47
+    },
+    {
+      "dt": 1793520000.0,
+      "time_scheduled": "09:00",
+      "time_estimated": "09:04",
+      "flight_no": "PC1007",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 4
     },
     {
       "dt": 1793520000.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793524500.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:30",
+      "time_estimated": "10:03",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -528,11 +528,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 0
     },
     {
       "dt": 1793525400.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793526000.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:38",
+      "time_estimated": "10:39",
       "flight_no": "EW9831",
       "airline": "Eurowings",
       "city": "Florenz",
@@ -841,7 +841,7 @@
     {
       "dt": 1793529300.0,
       "time_scheduled": "11:35",
-      "time_estimated": "12:07",
+      "time_estimated": "12:06",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -852,10 +852,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 33
+      "delay": 32
     },
     {
       "dt": 1793529300.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793530800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:35",
+      "time_estimated": "12:38",
       "flight_no": "VY4070",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 39
     },
     {
       "dt": 1793531100.0,
@@ -1563,7 +1563,7 @@
     {
       "dt": 1793535300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:51",
+      "time_estimated": "13:05",
       "flight_no": "XQ958",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1574,8 +1574,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
