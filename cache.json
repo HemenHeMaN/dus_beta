@@ -1,11 +1,11 @@
 {
-  "updated_at": "01.11.2026 05:30",
+  "updated_at": "01.11.2026 05:35",
   "source": "Dus.com",
   "flights": [
     {
       "dt": 1793509500.0,
       "time_scheduled": "06:05",
-      "time_estimated": "06:15",
+      "time_estimated": "06:17",
       "flight_no": "EW9895",
       "airline": "Eurowings",
       "city": "Marrakesch",
@@ -19,7 +19,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 12
     },
     {
       "dt": 1793509800.0,
@@ -81,7 +81,7 @@
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:08",
+      "time_estimated": "06:10",
       "flight_no": "XQ1370",
       "airline": "Sun Express",
       "city": "Mersin-Çukurova",
@@ -119,7 +119,7 @@
     {
       "dt": 1793511600.0,
       "time_scheduled": "06:40",
-      "time_estimated": "06:07",
+      "time_estimated": "06:08",
       "flight_no": "XQ1340",
       "airline": "Sun Express",
       "city": "Trabzon",
@@ -233,7 +233,7 @@
     {
       "dt": 1793516400.0,
       "time_scheduled": "08:00",
-      "time_estimated": "08:00",
+      "time_estimated": "08:55",
       "flight_no": "PC5677",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -244,10 +244,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 55
     },
     {
       "dt": 1793517600.0,
@@ -794,6 +794,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793525700.0,
+      "time_scheduled": "10:35",
+      "time_estimated": "10:35",
+      "flight_no": "DE1011",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
