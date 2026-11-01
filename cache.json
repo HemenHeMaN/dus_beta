@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 20:30",
+  "updated_at": "01.11.2026 20:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 52
-    },
-    {
-      "dt": 1793553900.0,
-      "time_scheduled": "18:25",
-      "time_estimated": "18:32",
-      "flight_no": "AP1037",
-      "airline": "Alba Star",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
     },
     {
       "dt": 1793554200.0,
@@ -442,25 +423,6 @@
     {
       "dt": 1793559000.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:53",
-      "flight_no": "EW9591",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
-    {
-      "dt": 1793559000.0,
-      "time_scheduled": "19:50",
       "time_estimated": "19:26",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
@@ -497,6 +459,25 @@
       "delay": 0
     },
     {
+      "dt": 1793559000.0,
+      "time_scheduled": "19:50",
+      "time_estimated": "19:53",
+      "flight_no": "EW9591",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 3
+    },
+    {
       "dt": 1793559300.0,
       "time_scheduled": "19:55",
       "time_estimated": "20:42",
@@ -510,8 +491,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 47
     },
@@ -586,8 +567,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 39
     },
@@ -613,7 +594,7 @@
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:48",
+      "time_estimated": "20:55",
       "flight_no": "XR502",
       "airline": "Corendon Airlines Europe",
       "city": "Palma de Mallorca",
@@ -627,12 +608,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 34
+      "delay": 40
     },
     {
       "dt": 1793560500.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:38",
+      "time_estimated": "20:32",
       "flight_no": "VY1096",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -642,11 +623,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 17
     },
     {
       "dt": 1793561400.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793565600.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:42",
+      "time_estimated": "21:46",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -852,10 +833,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 6
     },
     {
       "dt": 1793565900.0,
@@ -1151,9 +1132,9 @@
       "city": "Göteborg-Landvetter",
       "country": "Schweden",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1202,7 +1183,7 @@
     {
       "dt": 1793567100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:58",
+      "time_estimated": "23:14",
       "flight_no": "EW9775",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1216,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 53
+      "delay": 69
     },
     {
       "dt": 1793567100.0,
@@ -1335,7 +1316,7 @@
     {
       "dt": 1793568000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:15",
+      "time_estimated": "22:45",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1349,7 +1330,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1793568000.0,
@@ -1696,7 +1677,7 @@
     {
       "dt": 1793569500.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:39",
+      "time_estimated": "22:34",
       "flight_no": "EW9987",
       "airline": "Eurowings",
       "city": "Marsa Alam",
