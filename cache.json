@@ -1,5 +1,5 @@
 {
-  "updated_at": "01.11.2026 07:50",
+  "updated_at": "01.11.2026 07:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793517600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:12",
+      "time_estimated": "08:11",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -281,9 +281,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -309,7 +309,7 @@
     {
       "dt": 1793517900.0,
       "time_scheduled": "08:25",
-      "time_estimated": "07:57",
+      "time_estimated": "08:02",
       "flight_no": "VF5125",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -328,7 +328,7 @@
     {
       "dt": 1793518800.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:55",
+      "time_estimated": "08:57",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -342,7 +342,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 18
     },
     {
       "dt": 1793519100.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793519100.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:49",
+      "time_estimated": "08:55",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -377,10 +377,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 11
     },
     {
       "dt": 1793519400.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793520900.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:02",
+      "time_estimated": "08:57",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1373,6 +1373,25 @@
     {
       "dt": 1793531700.0,
       "time_scheduled": "12:15",
+      "time_estimated": "12:52",
+      "flight_no": "EW9575",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 37
+    },
+    {
+      "dt": 1793531700.0,
+      "time_scheduled": "12:15",
       "time_estimated": "12:15",
       "flight_no": "BJ2874",
       "airline": "Nouvelair",
@@ -1590,6 +1609,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793534100.0,
+      "time_scheduled": "12:55",
+      "time_estimated": "12:55",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
