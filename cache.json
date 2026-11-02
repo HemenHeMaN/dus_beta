@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 06:25",
+  "updated_at": "02.11.2026 06:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1793601000.0,
       "time_scheduled": "07:30",
-      "time_estimated": "08:06",
+      "time_estimated": "08:11",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -95,7 +95,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 36
+      "delay": 42
     },
     {
       "dt": 1793601300.0,
@@ -433,10 +433,10 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
+      "status": "cancelled",
+      "status_text": "annulliert",
+      "status_detail": "annulliert, annulliert",
+      "remark": "annulliert",
       "delay": 0
     },
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1793608200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:29",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -537,7 +537,7 @@
     {
       "dt": 1793608500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:18",
+      "time_estimated": "09:25",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -1060,6 +1060,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793615400.0,
+      "time_scheduled": "11:30",
+      "time_estimated": "11:30",
+      "flight_no": "DE1515",
+      "airline": "Condor",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
