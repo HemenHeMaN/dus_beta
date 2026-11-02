@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 08:35",
+  "updated_at": "02.11.2026 08:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,7 +195,7 @@
     {
       "dt": 1793605500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:40",
+      "time_estimated": "08:36",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -205,9 +205,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -281,9 +281,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -319,9 +319,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -423,7 +423,7 @@
     {
       "dt": 1793608200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:36",
+      "time_estimated": "09:32",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -434,10 +434,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 3
     },
     {
       "dt": 1793608200.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1793611800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:34",
+      "time_estimated": "10:28",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793611800.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793616000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:28",
+      "time_estimated": "11:31",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793616600.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:50",
+      "time_estimated": "11:40",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1500,6 +1500,44 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793623200.0,
+      "time_scheduled": "13:40",
+      "time_estimated": "13:40",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793624100.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:34",
+      "flight_no": "SM2926",
+      "airline": "Air Cairo",
+      "city": "Marsa Alam",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
