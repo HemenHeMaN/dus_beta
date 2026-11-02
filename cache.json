@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 07:55",
+  "updated_at": "02.11.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1793601600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:59",
+      "time_estimated": "07:56",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -129,11 +129,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 16
     },
     {
       "dt": 1793601600.0,
@@ -167,9 +167,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -214,7 +214,7 @@
     {
       "dt": 1793604300.0,
       "time_scheduled": "08:25",
-      "time_estimated": "08:13",
+      "time_estimated": "07:59",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -224,9 +224,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -480,7 +480,7 @@
     {
       "dt": 1793608200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:15",
+      "time_estimated": "09:14",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -613,7 +613,7 @@
     {
       "dt": 1793609400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:05",
+      "time_estimated": "10:02",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 13
     },
     {
       "dt": 1793610000.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793610000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:05",
+      "time_estimated": "09:57",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793610000.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1793613000.0,
       "time_scheduled": "10:50",
-      "time_estimated": "10:50",
+      "time_estimated": "11:00",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793613300.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793614200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:01",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -993,7 +993,7 @@
     {
       "dt": 1793614500.0,
       "time_scheduled": "11:15",
-      "time_estimated": "10:59",
+      "time_estimated": "11:09",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -1364,6 +1364,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793620800.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "DY1132",
+      "airline": "Norwegian",
+      "city": "Oslo - Gardermoen",
+      "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793620800.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "EW9735",
+      "airline": "Eurowings",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
