@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 07:35",
+  "updated_at": "02.11.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -129,9 +129,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 19
     },
@@ -149,8 +149,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1793602200.0,
       "time_scheduled": "07:50",
-      "time_estimated": "07:37",
+      "time_estimated": "07:38",
       "flight_no": "EW9213",
       "airline": "Eurowings",
       "city": "Stockholm-Arlanda",
@@ -186,9 +186,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -328,7 +328,7 @@
     {
       "dt": 1793605800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:01",
+      "time_estimated": "09:03",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -342,7 +342,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 14
     },
     {
       "dt": 1793606400.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793611500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:42",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1793611800.0,
@@ -1305,6 +1305,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793619600.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:40",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
