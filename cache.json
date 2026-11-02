@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 12:45",
+  "updated_at": "02.11.2026 12:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -472,8 +472,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1793620800.0,
       "time_scheduled": "13:00",
-      "time_estimated": "12:49",
+      "time_estimated": "13:19",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -513,7 +513,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793621100.0,
@@ -623,9 +623,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -643,8 +643,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +917,7 @@
     {
       "dt": 1793625300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:03",
+      "time_estimated": "14:04",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -928,15 +928,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793625600.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:14",
+      "time_estimated": "14:16",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -993,7 +993,7 @@
     {
       "dt": 1793626800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:44",
+      "time_estimated": "14:40",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1793627100.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793631300.0,
       "time_scheduled": "15:55",
-      "time_estimated": "15:55",
+      "time_estimated": "15:51",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1590,6 +1590,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793638200.0,
+      "time_scheduled": "17:50",
+      "time_estimated": "17:50",
+      "flight_no": "LX1024",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793638200.0,
+      "time_scheduled": "17:50",
+      "time_estimated": "17:50",
+      "flight_no": "EW9045",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
