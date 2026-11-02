@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 17:00",
+  "updated_at": "02.11.2026 17:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1793635800.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:06",
+      "time_estimated": "17:02",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -395,9 +395,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -415,15 +415,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793636400.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:07",
+      "time_estimated": "17:12",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -452,9 +452,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1793639100.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:14",
+      "time_estimated": "18:26",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 22
     },
     {
       "dt": 1793639100.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1793642700.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:16",
+      "time_estimated": "19:26",
       "flight_no": "EW6840",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -912,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 22
     },
     {
       "dt": 1793643000.0,
@@ -1628,6 +1628,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793653500.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9765",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793653500.0,
+      "time_scheduled": "22:05",
+      "time_estimated": "22:05",
+      "flight_no": "EW9885",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
