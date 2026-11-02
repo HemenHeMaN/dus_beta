@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 16:25",
+  "updated_at": "02.11.2026 16:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 81
-    },
-    {
-      "dt": 1793626500.0,
-      "time_scheduled": "14:35",
-      "time_estimated": "14:27",
-      "flight_no": "PC1003",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793626800.0,
@@ -117,25 +98,6 @@
       "delay": 0
     },
     {
-      "dt": 1793627700.0,
-      "time_scheduled": "14:55",
-      "time_estimated": "14:29",
-      "flight_no": "X36243",
-      "airline": "Tuifly",
-      "city": "Agadir",
-      "country": "Marokko",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793628300.0,
       "time_scheduled": "15:05",
       "time_estimated": "14:53",
@@ -195,25 +157,6 @@
     {
       "dt": 1793630100.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:09",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793630100.0,
-      "time_scheduled": "15:35",
       "time_estimated": "15:42",
       "flight_no": "EW9395",
       "airline": "Eurowings",
@@ -229,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
+    },
+    {
+      "dt": 1793630100.0,
+      "time_scheduled": "15:35",
+      "time_estimated": "15:09",
+      "flight_no": "VF027",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793630400.0,
@@ -472,8 +434,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -490,9 +452,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -510,8 +472,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793638500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:52",
+      "time_estimated": "17:53",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1050,7 +1012,7 @@
     {
       "dt": 1793643000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "18:55",
+      "time_estimated": "19:01",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1164,7 +1126,7 @@
     {
       "dt": 1793644200.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:30",
+      "time_estimated": "19:33",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -1178,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793644200.0,
@@ -1514,6 +1476,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793651400.0,
+      "time_scheduled": "21:30",
+      "time_estimated": "21:30",
+      "flight_no": "EW9815",
+      "airline": "Eurowings",
+      "city": "Catania (Sizilien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
