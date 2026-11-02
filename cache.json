@@ -1,26 +1,7 @@
 {
-  "updated_at": "02.11.2026 16:05",
+  "updated_at": "02.11.2026 16:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793624100.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "14:09",
-      "flight_no": "KK321",
-      "airline": "LEAV Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 15
-    },
     {
       "dt": 1793624400.0,
       "time_scheduled": "14:00",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 81
-    },
-    {
-      "dt": 1793624700.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:05",
-      "flight_no": "AF1506",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793625600.0,
@@ -491,8 +453,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -510,8 +472,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -528,9 +490,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1793636100.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:14",
+      "time_estimated": "17:17",
       "flight_no": "EW9343",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -624,10 +586,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793636400.0,
@@ -1031,7 +993,7 @@
     {
       "dt": 1793642100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:43",
+      "time_estimated": "18:56",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1042,10 +1004,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793642100.0,
@@ -1107,7 +1069,7 @@
     {
       "dt": 1793642700.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:05",
+      "time_estimated": "19:13",
       "flight_no": "EW6840",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1121,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793643000.0,
@@ -1164,7 +1126,7 @@
     {
       "dt": 1793643000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:11",
+      "time_estimated": "19:13",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -1178,7 +1140,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793643000.0,
@@ -1197,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793643300.0,
@@ -1216,7 +1178,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1793644200.0,
@@ -1511,6 +1473,25 @@
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793650200.0,
+      "time_scheduled": "21:10",
+      "time_estimated": "21:10",
+      "flight_no": "EW9845",
+      "airline": "Eurowings",
+      "city": "Olbia (Sardinien)",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
