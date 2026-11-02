@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 06:55",
+  "updated_at": "02.11.2026 07:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793601300.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:05",
+      "time_estimated": "06:59",
       "flight_no": "XQ282",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -110,9 +110,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -195,7 +195,7 @@
     {
       "dt": 1793603700.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:14",
+      "time_estimated": "08:09",
       "flight_no": "EW4200",
       "airline": "Eurowings",
       "city": "Prag",
@@ -328,7 +328,7 @@
     {
       "dt": 1793605800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "09:00",
+      "time_estimated": "08:54",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -342,7 +342,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1793606400.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793609400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "10:05",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793610000.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793610000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "10:05",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -665,12 +665,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793610000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "10:01",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -684,12 +684,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793610300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:00",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1191,6 +1191,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793617200.0,
+      "time_scheduled": "12:00",
+      "time_estimated": "12:00",
+      "flight_no": "EW9441",
+      "airline": "Eurowings",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
