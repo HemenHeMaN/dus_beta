@@ -1,26 +1,7 @@
 {
-  "updated_at": "02.11.2026 11:50",
+  "updated_at": "02.11.2026 11:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793610000.0,
-      "time_scheduled": "10:00",
-      "time_estimated": "09:53",
-      "flight_no": "EW4334",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793610300.0,
       "time_scheduled": "10:05",
@@ -613,7 +594,7 @@
     {
       "dt": 1793619000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:16",
+      "time_estimated": "12:07",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -624,8 +605,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -643,8 +624,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -661,9 +642,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1793624400.0,
       "time_scheduled": "14:00",
-      "time_estimated": "15:14",
+      "time_estimated": "15:21",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -1083,7 +1064,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 74
+      "delay": 81
     },
     {
       "dt": 1793624400.0,
@@ -1278,7 +1259,7 @@
     {
       "dt": 1793627700.0,
       "time_scheduled": "14:55",
-      "time_estimated": "14:55",
+      "time_estimated": "14:56",
       "flight_no": "EW9339",
       "airline": "Eurowings",
       "city": "Newcastle",
@@ -1292,7 +1273,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793627700.0,
@@ -1430,7 +1411,7 @@
     {
       "dt": 1793630700.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:05",
+      "time_estimated": "16:02",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1441,10 +1422,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 20
+      "delay": 18
     },
     {
       "dt": 1793630700.0,
@@ -1487,7 +1468,7 @@
     {
       "dt": 1793631600.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "15:50",
       "flight_no": "EW9981",
       "airline": "Eurowings",
       "city": "Beirut",
@@ -1498,8 +1479,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1647,6 +1628,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793634900.0,
+      "time_scheduled": "16:55",
+      "time_estimated": "16:55",
+      "flight_no": "EW9763",
+      "airline": "Eurowings",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
