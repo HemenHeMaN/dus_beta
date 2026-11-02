@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 16:40",
+  "updated_at": "02.11.2026 16:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 11
-    },
-    {
-      "dt": 1793627700.0,
-      "time_scheduled": "14:55",
-      "time_estimated": "14:42",
-      "flight_no": "EW9339",
-      "airline": "Eurowings",
-      "city": "Newcastle",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793628300.0,
@@ -385,7 +366,7 @@
     {
       "dt": 1793634000.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:48",
+      "time_estimated": "16:40",
       "flight_no": "BJ2022",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -395,16 +376,16 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 1
     },
     {
       "dt": 1793634900.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:47",
+      "time_estimated": "16:42",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -414,9 +395,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1793639100.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:25",
+      "time_estimated": "18:24",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -741,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 20
     },
     {
       "dt": 1793639100.0,
@@ -974,7 +955,7 @@
     {
       "dt": 1793643000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:01",
+      "time_estimated": "18:54",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
@@ -1031,7 +1012,7 @@
     {
       "dt": 1793643000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:16",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1045,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 7
     },
     {
       "dt": 1793643300.0,
@@ -1202,7 +1183,7 @@
     {
       "dt": 1793646000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "19:50",
+      "time_estimated": "19:48",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1495,6 +1476,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793652300.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "X32119",
+      "airline": "Tuifly",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793652300.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793652300.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9655",
+      "airline": "Eurowings",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
