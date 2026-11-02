@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 19:25",
+  "updated_at": "02.11.2026 19:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 20
-    },
-    {
-      "dt": 1793638200.0,
-      "time_scheduled": "17:50",
-      "time_estimated": "17:28",
-      "flight_no": "LX1024",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793638200.0,
@@ -566,9 +547,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -640,7 +621,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
+      "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -662,8 +643,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -681,8 +662,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 22
     },
@@ -714,10 +695,10 @@
       "city": "Hurghada",
       "country": "Ägypten",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -822,7 +803,7 @@
     {
       "dt": 1793649600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:36",
+      "time_estimated": "21:19",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -836,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 20
     },
     {
       "dt": 1793649600.0,
@@ -1354,7 +1335,7 @@
     {
       "dt": 1793654400.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:35",
+      "time_estimated": "22:34",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -1368,12 +1349,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 15
     },
     {
       "dt": 1793655000.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:32",
+      "time_estimated": "22:34",
       "flight_no": "DE1415",
       "airline": "Condor",
       "city": "Funchal (Madeira)",
@@ -1387,7 +1368,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793655000.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793655300.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:34",
+      "time_estimated": "22:32",
       "flight_no": "X32117",
       "airline": "Tuifly",
       "city": "Fuerteventura",
