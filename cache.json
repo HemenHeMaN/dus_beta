@@ -1,26 +1,7 @@
 {
-  "updated_at": "02.11.2026 11:05",
+  "updated_at": "02.11.2026 11:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793607300.0,
-      "time_scheduled": "09:15",
-      "time_estimated": "09:08",
-      "flight_no": "EW9031",
-      "airline": "Eurowings",
-      "city": "Hamburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793607300.0,
       "time_scheduled": "09:15",
@@ -537,7 +518,7 @@
     {
       "dt": 1793614200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:09",
+      "time_estimated": "11:05",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -547,16 +528,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793614200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:12",
+      "time_estimated": "11:08",
       "flight_no": "EW9767",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -566,11 +547,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793614500.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1793615100.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:21",
+      "time_estimated": "11:16",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -643,8 +624,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +689,7 @@
     {
       "dt": 1793616000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:15",
+      "time_estimated": "11:30",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -955,7 +936,7 @@
     {
       "dt": 1793620800.0,
       "time_scheduled": "13:00",
-      "time_estimated": "12:47",
+      "time_estimated": "12:49",
       "flight_no": "DY1132",
       "airline": "Norwegian",
       "city": "Oslo - Gardermoen",
@@ -966,8 +947,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1042,10 +1023,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 20
     },
     {
       "dt": 1793621400.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1793623800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:56",
+      "time_estimated": "13:54",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1273,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 5
     },
     {
       "dt": 1793624100.0,
@@ -1297,7 +1278,7 @@
     {
       "dt": 1793624100.0,
       "time_scheduled": "13:55",
-      "time_estimated": "14:16",
+      "time_estimated": "14:14",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -1311,7 +1292,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 21
+      "delay": 20
     },
     {
       "dt": 1793624400.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793625600.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:20",
+      "time_estimated": "14:14",
       "flight_no": "EW9733",
       "airline": "Eurowings",
       "city": "Krakau",
@@ -1739,6 +1720,25 @@
       "airline": "Eurowings",
       "city": "Beirut",
       "country": "Libanon",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793632200.0,
+      "time_scheduled": "16:10",
+      "time_estimated": "16:10",
+      "flight_no": "TU526",
+      "airline": "Tunisair",
+      "city": "Tunis",
+      "country": "Tunesien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
