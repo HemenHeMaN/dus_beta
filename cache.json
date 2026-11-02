@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 21:40",
+  "updated_at": "02.11.2026 21:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 20
-    },
-    {
-      "dt": 1793645400.0,
-      "time_scheduled": "19:50",
-      "time_estimated": "19:40",
-      "flight_no": "XQ180",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793645700.0,
@@ -338,9 +319,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -404,7 +385,7 @@
     {
       "dt": 1793652300.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:57",
+      "time_estimated": "21:51",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -415,10 +396,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 7
     },
     {
       "dt": 1793652300.0,
@@ -452,9 +433,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -518,7 +499,7 @@
     {
       "dt": 1793652900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:45",
+      "time_estimated": "21:40",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -528,16 +509,16 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793652900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:51",
+      "time_estimated": "21:52",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -585,9 +566,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -613,7 +594,7 @@
     {
       "dt": 1793653800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:06",
+      "time_estimated": "21:58",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -632,7 +613,7 @@
     {
       "dt": 1793653800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "21:48",
+      "time_estimated": "21:59",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -651,7 +632,7 @@
     {
       "dt": 1793653800.0,
       "time_scheduled": "22:10",
-      "time_estimated": "23:05",
+      "time_estimated": "23:15",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -665,12 +646,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 56
+      "delay": 66
     },
     {
       "dt": 1793654100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "21:52",
+      "time_estimated": "22:05",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -681,15 +662,15 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793654100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:12",
+      "time_estimated": "22:04",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -699,16 +680,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793654100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:27",
+      "time_estimated": "22:24",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -719,10 +700,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 12
+      "delay": 9
     },
     {
       "dt": 1793654100.0,
@@ -738,8 +719,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
