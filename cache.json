@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 15:10",
+  "updated_at": "02.11.2026 15:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 15
-    },
-    {
-      "dt": 1793621400.0,
-      "time_scheduled": "13:10",
-      "time_estimated": "13:13",
-      "flight_no": "LH2016",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1793622000.0,
@@ -366,15 +347,15 @@
     {
       "dt": 1793626800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:31",
-      "flight_no": "EW9463",
+      "time_estimated": "14:24",
+      "flight_no": "EW9725",
       "airline": "Eurowings",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
+      "city": "Graz",
+      "country": "Österreich",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -385,15 +366,15 @@
     {
       "dt": 1793626800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:24",
-      "flight_no": "EW9725",
+      "time_estimated": "14:31",
+      "flight_no": "EW9463",
       "airline": "Eurowings",
-      "city": "Graz",
-      "country": "Österreich",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "1",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -518,7 +499,7 @@
     {
       "dt": 1793628900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:17",
+      "time_estimated": "15:12",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -528,11 +509,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793630100.0,
@@ -727,7 +708,7 @@
     {
       "dt": 1793632800.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:49",
+      "time_estimated": "16:45",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -741,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 29
+      "delay": 25
     },
     {
       "dt": 1793632800.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793633400.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:28",
+      "time_estimated": "16:27",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -917,7 +898,7 @@
     {
       "dt": 1793636400.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:27",
+      "time_estimated": "17:31",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -931,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1793637300.0,
@@ -1666,6 +1647,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793646900.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:15",
+      "flight_no": "EJU3949",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793646900.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:15",
+      "flight_no": "VY1096",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
