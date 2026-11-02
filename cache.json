@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 06:30",
+  "updated_at": "02.11.2026 06:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793601600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:47",
+      "time_estimated": "07:53",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 14
     },
     {
       "dt": 1793601900.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793605500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:32",
+      "time_estimated": "08:23",
       "flight_no": "BT931",
       "airline": "Air Baltic",
       "city": "Vilnius",
@@ -263,15 +263,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793605500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:53",
+      "time_estimated": "08:51",
       "flight_no": "VY1094",
       "airline": "Vueling",
       "city": "Barcelona",
@@ -285,12 +285,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 6
     },
     {
       "dt": 1793605500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:36",
+      "time_estimated": "08:39",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1079,6 +1079,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793615700.0,
+      "time_scheduled": "11:35",
+      "time_estimated": "11:35",
+      "flight_no": "EW9869",
+      "airline": "Eurowings",
+      "city": "Cagliari (Sardinien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
