@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 09:50",
+  "updated_at": "02.11.2026 09:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,25 +176,6 @@
     {
       "dt": 1793605800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:44",
-      "flight_no": "LX1016",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793605800.0,
-      "time_scheduled": "08:50",
       "time_estimated": "08:30",
       "flight_no": "AF1306",
       "airline": "Air France",
@@ -205,6 +186,25 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793605800.0,
+      "time_scheduled": "08:50",
+      "time_estimated": "08:44",
+      "flight_no": "LX1016",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -537,7 +537,7 @@
     {
       "dt": 1793610000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:52",
+      "time_estimated": "09:53",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -547,9 +547,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -718,9 +718,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793616300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:46",
+      "time_estimated": "11:51",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 6
     },
     {
       "dt": 1793616600.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793620800.0,
       "time_scheduled": "13:00",
-      "time_estimated": "13:00",
+      "time_estimated": "12:55",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -1335,7 +1335,7 @@
     {
       "dt": 1793621400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:31",
+      "time_estimated": "13:30",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -1349,7 +1349,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 20
     },
     {
       "dt": 1793621400.0,
@@ -1801,6 +1801,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793627700.0,
+      "time_scheduled": "14:55",
+      "time_estimated": "14:55",
+      "flight_no": "EW9339",
+      "airline": "Eurowings",
+      "city": "Newcastle",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793627700.0,
+      "time_scheduled": "14:55",
+      "time_estimated": "14:55",
+      "flight_no": "X36243",
+      "airline": "Tuifly",
+      "city": "Agadir",
+      "country": "Marokko",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
