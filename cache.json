@@ -1,26 +1,7 @@
 {
-  "updated_at": "02.11.2026 14:55",
+  "updated_at": "02.11.2026 15:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793620500.0,
-      "time_scheduled": "12:55",
-      "time_estimated": "12:57",
-      "flight_no": "X36569",
-      "airline": "Tuifly",
-      "city": "Djerba",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
     {
       "dt": 1793621100.0,
       "time_scheduled": "13:05",
@@ -109,25 +90,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793621700.0,
-      "time_scheduled": "13:15",
-      "time_estimated": "12:59",
-      "flight_no": "XQ958",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -480,7 +442,7 @@
     {
       "dt": 1793627100.0,
       "time_scheduled": "14:45",
-      "time_estimated": "15:00",
+      "time_estimated": "14:55",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -490,11 +452,11 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 11
     },
     {
       "dt": 1793627400.0,
@@ -575,7 +537,7 @@
     {
       "dt": 1793628900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:15",
+      "time_estimated": "15:05",
       "flight_no": "VL2020",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -604,9 +566,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -624,8 +586,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -708,7 +670,7 @@
     {
       "dt": 1793631300.0,
       "time_scheduled": "15:55",
-      "time_estimated": "15:51",
+      "time_estimated": "15:52",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -719,8 +681,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +708,7 @@
     {
       "dt": 1793632200.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:19",
+      "time_estimated": "16:14",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -760,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 4
     },
     {
       "dt": 1793632500.0,
@@ -803,7 +765,7 @@
     {
       "dt": 1793632800.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:43",
+      "time_estimated": "16:49",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -817,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 29
     },
     {
       "dt": 1793632800.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793637300.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:40",
+      "time_estimated": "18:07",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1026,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 33
     },
     {
       "dt": 1793637300.0,
@@ -1050,7 +1012,7 @@
     {
       "dt": 1793637900.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "18:22",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -1064,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 37
     },
     {
       "dt": 1793638200.0,
@@ -1107,7 +1069,7 @@
     {
       "dt": 1793638500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:52",
+      "time_estimated": "17:47",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1202,7 +1164,7 @@
     {
       "dt": 1793638800.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:23",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1213,10 +1175,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1793639100.0,
@@ -1289,8 +1251,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1687,6 +1649,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793646000.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "19:50",
+      "flight_no": "DE069",
+      "airline": "Condor",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793646000.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "20:00",
+      "flight_no": "XR6598",
+      "airline": "Corendon Airlines Europe",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
