@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 14:30",
+  "updated_at": "02.11.2026 14:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,25 +252,6 @@
     {
       "dt": 1793623500.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:35",
-      "flight_no": "EW9009",
-      "airline": "Eurowings",
-      "city": "Sylt (Westerland)",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793623500.0,
-      "time_scheduled": "13:45",
       "time_estimated": "13:48",
       "flight_no": "EW9641",
       "airline": "Eurowings",
@@ -286,6 +267,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
+    },
+    {
+      "dt": 1793623500.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:35",
+      "flight_no": "EW9009",
+      "airline": "Eurowings",
+      "city": "Sylt (Westerland)",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793623500.0,
@@ -309,25 +309,6 @@
     {
       "dt": 1793623800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
-      "flight_no": "LX1018",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
-      "dt": 1793623800.0,
-      "time_scheduled": "13:50",
       "time_estimated": "13:57",
       "flight_no": "KL1801",
       "airline": "KLM",
@@ -345,23 +326,23 @@
       "delay": 8
     },
     {
-      "dt": 1793624100.0,
-      "time_scheduled": "13:55",
-      "time_estimated": "13:32",
-      "flight_no": "SM2926",
-      "airline": "Air Cairo",
-      "city": "Marsa Alam",
-      "country": "Ägypten",
-      "type": "Charter",
+      "dt": 1793623800.0,
+      "time_scheduled": "13:50",
+      "time_estimated": "13:50",
+      "flight_no": "LX1018",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793624100.0,
@@ -381,6 +362,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 15
+    },
+    {
+      "dt": 1793624100.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:32",
+      "flight_no": "SM2926",
+      "airline": "Air Cairo",
+      "city": "Marsa Alam",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793624400.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1793626800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:39",
+      "time_estimated": "14:31",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -547,9 +547,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793627400.0,
       "time_scheduled": "14:50",
-      "time_estimated": "14:48",
+      "time_estimated": "14:40",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -605,8 +605,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +689,7 @@
     {
       "dt": 1793630100.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:11",
+      "time_estimated": "15:13",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -879,7 +879,7 @@
     {
       "dt": 1793632800.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:58",
+      "time_estimated": "16:46",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 39
+      "delay": 27
     },
     {
       "dt": 1793632800.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793634000.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:55",
+      "time_estimated": "16:53",
       "flight_no": "BJ2022",
       "airline": "Nouvelair",
       "city": "Djerba",
@@ -969,7 +969,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 14
     },
     {
       "dt": 1793634900.0,
@@ -1354,7 +1354,7 @@
     {
       "dt": 1793639700.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:15",
+      "time_estimated": "17:39",
       "flight_no": "XQ1526",
       "airline": "Sun Express",
       "city": "Kütahya / Zafer",
