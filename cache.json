@@ -1,26 +1,7 @@
 {
-  "updated_at": "02.11.2026 19:50",
+  "updated_at": "02.11.2026 19:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793637300.0,
-      "time_scheduled": "17:35",
-      "time_estimated": "17:54",
-      "flight_no": "EW9519",
-      "airline": "Eurowings",
-      "city": "Bilbao",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 19
-    },
     {
       "dt": 1793637900.0,
       "time_scheduled": "17:45",
@@ -148,25 +129,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793639700.0,
-      "time_scheduled": "18:15",
-      "time_estimated": "17:52",
-      "flight_no": "XQ1526",
-      "airline": "Sun Express",
-      "city": "Kütahya / Zafer",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -575,7 +537,7 @@
     {
       "dt": 1793646000.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:11",
+      "time_estimated": "19:51",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -585,11 +547,11 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 0
     },
     {
       "dt": 1793646000.0,
@@ -613,7 +575,7 @@
     {
       "dt": 1793646600.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:07",
+      "time_estimated": "20:01",
       "flight_no": "VL2032",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -624,15 +586,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793646900.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:09",
+      "time_estimated": "20:00",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -699,9 +661,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793649600.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:00",
+      "time_estimated": "21:02",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -741,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 3
     },
     {
       "dt": 1793650200.0,
@@ -841,7 +803,7 @@
     {
       "dt": 1793652000.0,
       "time_scheduled": "21:40",
-      "time_estimated": "22:16",
+      "time_estimated": "22:09",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -855,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 29
     },
     {
       "dt": 1793652000.0,
@@ -1392,7 +1354,7 @@
     {
       "dt": 1793655900.0,
       "time_scheduled": "22:45",
-      "time_estimated": "22:51",
+      "time_estimated": "22:46",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -1403,10 +1365,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1793655900.0,
