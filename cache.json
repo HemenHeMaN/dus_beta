@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 17:05",
+  "updated_at": "02.11.2026 17:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,25 +24,6 @@
     {
       "dt": 1793628900.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:06",
-      "flight_no": "VL2020",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793628900.0,
-      "time_scheduled": "15:15",
       "time_estimated": "15:12",
       "flight_no": "EW9365",
       "airline": "Eurowings",
@@ -53,25 +34,6 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793630100.0,
-      "time_scheduled": "15:35",
-      "time_estimated": "15:09",
-      "flight_no": "VF027",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -423,7 +385,7 @@
     {
       "dt": 1793636400.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:12",
+      "time_estimated": "17:06",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -433,9 +395,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +499,7 @@
     {
       "dt": 1793638200.0,
       "time_scheduled": "17:50",
-      "time_estimated": "17:57",
+      "time_estimated": "18:00",
       "flight_no": "EW9045",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -548,10 +510,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1793638500.0,
@@ -841,7 +803,7 @@
     {
       "dt": 1793642100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:59",
+      "time_estimated": "18:55",
       "flight_no": "LH2028",
       "airline": "Lufthansa",
       "city": "München",
@@ -855,12 +817,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 1
     },
     {
       "dt": 1793642700.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:06",
+      "time_estimated": "19:11",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -874,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 6
     },
     {
       "dt": 1793642700.0,
@@ -912,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 22
+      "delay": 21
     },
     {
       "dt": 1793643000.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793643000.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:09",
+      "time_estimated": "19:10",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1240,7 +1202,7 @@
     {
       "dt": 1793648100.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:35",
+      "time_estimated": "21:18",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -1251,15 +1213,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 43
     },
     {
       "dt": 1793648100.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:20",
+      "time_estimated": "20:16",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -1666,6 +1628,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793653800.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9337",
+      "airline": "Eurowings",
+      "city": "Birmingham",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793653800.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "EW9785",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793653800.0,
+      "time_scheduled": "22:10",
+      "time_estimated": "22:10",
+      "flight_no": "KL1805",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
