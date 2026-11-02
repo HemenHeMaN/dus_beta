@@ -1,26 +1,7 @@
 {
-  "updated_at": "02.11.2026 22:05",
+  "updated_at": "02.11.2026 22:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793645400.0,
-      "time_scheduled": "19:50",
-      "time_estimated": "20:10",
-      "flight_no": "BA938",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 20
-    },
     {
       "dt": 1793645700.0,
       "time_scheduled": "19:55",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 30
-    },
-    {
-      "dt": 1793648100.0,
-      "time_scheduled": "20:35",
-      "time_estimated": "20:08",
-      "flight_no": "X36123",
-      "airline": "Tuifly",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793649600.0,
@@ -347,7 +309,7 @@
     {
       "dt": 1793652900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:11",
+      "time_estimated": "22:17",
       "flight_no": "EW9559",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -361,12 +323,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 23
     },
     {
       "dt": 1793652900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:14",
+      "time_estimated": "22:08",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -376,11 +338,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 14
     },
     {
       "dt": 1793652900.0,
@@ -442,7 +404,7 @@
     {
       "dt": 1793653200.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:31",
+      "time_estimated": "22:21",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -453,15 +415,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 32
+      "delay": 22
     },
     {
       "dt": 1793653500.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:09",
+      "time_estimated": "22:05",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -471,11 +433,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1793653500.0,
@@ -575,7 +537,7 @@
     {
       "dt": 1793654100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:12",
+      "time_estimated": "22:07",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -585,16 +547,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793654100.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:11",
+      "time_estimated": "22:37",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -608,7 +570,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 23
     },
     {
       "dt": 1793654100.0,
@@ -642,9 +604,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 15
     },
@@ -662,15 +624,15 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1793655000.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:14",
+      "time_estimated": "22:20",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -737,9 +699,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -814,8 +776,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     }
