@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 18:35",
+  "updated_at": "02.11.2026 18:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -34,25 +34,6 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793635200.0,
-      "time_scheduled": "17:00",
-      "time_estimated": "16:37",
-      "flight_no": "TK1527",
-      "airline": "Turkish Airlines",
-      "city": "Istanbul",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -461,7 +442,7 @@
     {
       "dt": 1793642100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:02",
+      "time_estimated": "18:40",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -471,16 +452,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793642100.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:56",
+      "time_estimated": "18:50",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -494,7 +475,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793642100.0,
@@ -509,9 +490,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -529,8 +510,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1793642700.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:22",
+      "time_estimated": "19:16",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -570,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1793642700.0,
@@ -605,8 +586,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1793645400.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:07",
+      "time_estimated": "20:14",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -779,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 25
     },
     {
       "dt": 1793645400.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1793646900.0,
       "time_scheduled": "20:15",
-      "time_estimated": "20:08",
+      "time_estimated": "20:05",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793651100.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:31",
+      "time_estimated": "21:25",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1064,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1793651400.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793652600.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:50",
+      "time_estimated": "22:06",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1197,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 16
     },
     {
       "dt": 1793652900.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1793652900.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:55",
+      "time_estimated": "21:44",
       "flight_no": "EW9961",
       "airline": "Eurowings",
       "city": "Split",
@@ -1506,7 +1487,7 @@
     {
       "dt": 1793655000.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:30",
+      "time_estimated": "22:32",
       "flight_no": "DE1415",
       "airline": "Condor",
       "city": "Funchal (Madeira)",
@@ -1517,10 +1498,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793655000.0,
