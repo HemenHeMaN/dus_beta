@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 09:55",
+  "updated_at": "02.11.2026 10:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 37
-    },
-    {
-      "dt": 1793601600.0,
-      "time_scheduled": "07:40",
-      "time_estimated": "07:56",
-      "flight_no": "EW7060",
-      "airline": "Eurowings",
-      "city": "Hamburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
     },
     {
       "dt": 1793601900.0,
@@ -71,25 +52,6 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793604300.0,
-      "time_scheduled": "08:25",
-      "time_estimated": "07:59",
-      "flight_no": "EJU3947",
-      "airline": "Easy Jet Europe",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -556,7 +518,7 @@
     {
       "dt": 1793610300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:01",
+      "time_estimated": "10:30",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -570,12 +532,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1793610300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "09:59",
+      "time_estimated": "09:58",
       "flight_no": "EW9023",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -585,9 +547,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -623,9 +585,9 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +613,7 @@
     {
       "dt": 1793611500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:33",
+      "time_estimated": "10:24",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -665,7 +627,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793611500.0,
@@ -699,28 +661,28 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793611800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:16",
+      "time_estimated": "10:11",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +803,7 @@
     {
       "dt": 1793614200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:22",
+      "time_estimated": "11:23",
       "flight_no": "EW9767",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -855,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 14
     },
     {
       "dt": 1793614500.0,
@@ -879,7 +841,7 @@
     {
       "dt": 1793614500.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:18",
+      "time_estimated": "11:12",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -893,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793614800.0,
@@ -1031,7 +993,7 @@
     {
       "dt": 1793616300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:51",
+      "time_estimated": "12:03",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1045,12 +1007,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 18
     },
     {
       "dt": 1793616600.0,
       "time_scheduled": "11:50",
-      "time_estimated": "11:40",
+      "time_estimated": "11:34",
       "flight_no": "EW9783",
       "airline": "Eurowings",
       "city": "Budapest",
