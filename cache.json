@@ -1,5 +1,5 @@
 {
-  "updated_at": "02.11.2026 10:15",
+  "updated_at": "02.11.2026 10:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1793610900.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:23",
+      "time_estimated": "10:18",
       "flight_no": "EW9743",
       "airline": "Eurowings",
       "city": "Genf",
@@ -509,16 +509,16 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1793611500.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:21",
+      "time_estimated": "10:15",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -548,8 +548,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -585,9 +585,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 17
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1793613300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "11:03",
+      "time_estimated": "11:02",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -684,12 +684,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1793613900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:29",
+      "time_estimated": "11:30",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -700,10 +700,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 25
+      "delay": 26
     },
     {
       "dt": 1793614200.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793616300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:50",
+      "time_estimated": "11:45",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793616600.0,
@@ -1380,7 +1380,7 @@
       "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
