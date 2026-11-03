@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 09:40",
+  "updated_at": "03.11.2026 09:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,7 +233,7 @@
     {
       "dt": 1793693100.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:57",
+      "time_estimated": "09:51",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -244,10 +244,10 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 52
+      "delay": 47
     },
     {
       "dt": 1793693100.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793694900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "10:09",
+      "time_estimated": "09:41",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -414,11 +414,11 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 35
+      "delay": 6
     },
     {
       "dt": 1793695200.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793695800.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:49",
+      "time_estimated": "09:43",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -471,9 +471,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -955,7 +955,7 @@
     {
       "dt": 1793704800.0,
       "time_scheduled": "12:20",
-      "time_estimated": "12:27",
+      "time_estimated": "12:26",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -966,10 +966,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1793705100.0,
@@ -1514,6 +1514,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793713500.0,
+      "time_scheduled": "14:45",
+      "time_estimated": "14:45",
+      "flight_no": "SK1621",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
