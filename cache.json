@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 09:05",
+  "updated_at": "03.11.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -338,9 +338,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -376,9 +376,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -395,9 +395,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -415,8 +415,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793696700.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:05",
+      "time_estimated": "10:10",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 6
     },
     {
       "dt": 1793697300.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1793699100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:52",
+      "time_estimated": "11:02",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -703,12 +703,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 18
     },
     {
       "dt": 1793699100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:58",
+      "time_estimated": "10:48",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 3
     },
     {
       "dt": 1793699700.0,
@@ -898,7 +898,7 @@
     {
       "dt": 1793702400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:24",
+      "time_estimated": "11:25",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -909,8 +909,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
