@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 06:10",
+  "updated_at": "03.11.2026 06:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1793693700.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:15",
+      "time_estimated": "09:18",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -399,7 +399,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793694000.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1793696400.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "09:33",
       "flight_no": "4M296",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -586,8 +586,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -865,6 +865,63 @@
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
       "country": "Norwegen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793700900.0,
+      "time_scheduled": "11:15",
+      "time_estimated": "11:15",
+      "flight_no": "BQ1952",
+      "airline": "Sky Alps",
+      "city": "Bozen",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793700900.0,
+      "time_scheduled": "11:15",
+      "time_estimated": "11:15",
+      "flight_no": "LH2012",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793700900.0,
+      "time_scheduled": "11:15",
+      "time_estimated": "11:15",
+      "flight_no": "EW9783",
+      "airline": "Eurowings",
+      "city": "Budapest",
+      "country": "Ungarn",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
