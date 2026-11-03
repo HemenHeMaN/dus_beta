@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 12:25",
+  "updated_at": "03.11.2026 12:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 23
-    },
-    {
-      "dt": 1793698800.0,
-      "time_scheduled": "10:40",
-      "time_estimated": "10:27",
-      "flight_no": "EW6894",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793699100.0,
@@ -490,9 +471,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +651,7 @@
     {
       "dt": 1793709900.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:47",
+      "time_estimated": "13:51",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -684,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 7
     },
     {
       "dt": 1793710200.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793710200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:58",
+      "time_estimated": "14:01",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -722,12 +703,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 12
     },
     {
       "dt": 1793710200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:43",
+      "time_estimated": "13:44",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -738,8 +719,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +974,7 @@
     {
       "dt": 1793716800.0,
       "time_scheduled": "15:40",
-      "time_estimated": "15:40",
+      "time_estimated": "15:35",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
