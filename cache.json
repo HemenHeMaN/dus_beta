@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 06:50",
+  "updated_at": "03.11.2026 06:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1793689200.0,
       "time_scheduled": "08:00",
-      "time_estimated": "07:55",
+      "time_estimated": "07:56",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -176,7 +176,7 @@
     {
       "dt": 1793689500.0,
       "time_scheduled": "08:05",
-      "time_estimated": "08:06",
+      "time_estimated": "07:58",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -187,10 +187,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793690100.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793691900.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:41",
+      "time_estimated": "08:35",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -263,15 +263,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793692200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:45",
+      "time_estimated": "08:38",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -290,7 +290,7 @@
     {
       "dt": 1793692200.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:46",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -304,7 +304,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793692800.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1793693700.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:18",
+      "time_estimated": "09:33",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -399,7 +399,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 18
     },
     {
       "dt": 1793694000.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793694900.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:41",
+      "time_estimated": "09:44",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -513,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 10
     },
     {
       "dt": 1793695200.0,
@@ -998,6 +998,25 @@
       "airline": "British Airways",
       "city": "London-Heathrow",
       "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793703300.0,
+      "time_scheduled": "11:55",
+      "time_estimated": "11:55",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
