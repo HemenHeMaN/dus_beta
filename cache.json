@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 22:00",
+  "updated_at": "03.11.2026 22:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,44 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 52
-    },
-    {
-      "dt": 1793733000.0,
-      "time_scheduled": "20:10",
-      "time_estimated": "20:02",
-      "flight_no": "VL2032",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793733000.0,
-      "time_scheduled": "20:10",
-      "time_estimated": "20:04",
-      "flight_no": "EW9037",
-      "airline": "Eurowings",
-      "city": "Hamburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793733600.0,
@@ -243,9 +205,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 52
     },
@@ -442,7 +404,7 @@
     {
       "dt": 1793739300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:21",
+      "time_estimated": "22:16",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -456,7 +418,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 27
+      "delay": 21
     },
     {
       "dt": 1793739300.0,
@@ -585,9 +547,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1793740500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:26",
+      "time_estimated": "22:19",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -627,7 +589,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 4
     },
     {
       "dt": 1793740500.0,
@@ -643,15 +605,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
     {
       "dt": 1793741100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:22",
+      "time_estimated": "22:15",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -662,8 +624,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -700,8 +662,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
