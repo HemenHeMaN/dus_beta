@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 14:55",
+  "updated_at": "03.11.2026 15:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,25 +233,6 @@
     {
       "dt": 1793710800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:48",
-      "flight_no": "RJ129",
-      "airline": "Royal Jordanian",
-      "city": "Amman-Queen Alia",
-      "country": "Jordanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793710800.0,
-      "time_scheduled": "14:00",
       "time_estimated": "14:18",
       "flight_no": "X34589",
       "airline": "Tuifly",
@@ -267,6 +248,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 19
+    },
+    {
+      "dt": 1793710800.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "13:48",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793710800.0,
@@ -309,25 +309,6 @@
     {
       "dt": 1793711700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:03",
-      "flight_no": "OS163",
-      "airline": "Austrian Airlines",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793711700.0,
-      "time_scheduled": "14:15",
       "time_estimated": "14:06",
       "flight_no": "EW9681",
       "airline": "Eurowings",
@@ -338,6 +319,25 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793711700.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:03",
+      "flight_no": "OS163",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -423,7 +423,7 @@
     {
       "dt": 1793715000.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:02",
+      "time_estimated": "14:57",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -433,9 +433,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -471,9 +471,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793718300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:06",
+      "time_estimated": "16:03",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793718900.0,
@@ -567,15 +567,15 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793719200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:12",
+      "time_estimated": "16:18",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -746,7 +746,7 @@
     {
       "dt": 1793721900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:12",
+      "time_estimated": "17:18",
       "flight_no": "EW6840",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 14
     },
     {
       "dt": 1793722200.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1793722500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:16",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -795,10 +795,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1793722800.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793725200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:00",
+      "time_estimated": "18:04",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793725500.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793727000.0,
       "time_scheduled": "18:30",
-      "time_estimated": "18:11",
+      "time_estimated": "18:10",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1042,8 +1042,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793728500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:04",
+      "time_estimated": "18:59",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -1102,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 4
     },
     {
       "dt": 1793728500.0,
@@ -1402,6 +1402,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793732400.0,
+      "time_scheduled": "20:00",
+      "time_estimated": "20:00",
+      "flight_no": "XR6598",
+      "airline": "Corendon Airlines Europe",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
