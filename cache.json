@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 12:20",
+  "updated_at": "03.11.2026 12:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 23
-    },
-    {
-      "dt": 1793697900.0,
-      "time_scheduled": "10:25",
-      "time_estimated": "10:22",
-      "flight_no": "EW9331",
-      "airline": "Eurowings",
-      "city": "Birmingham",
-      "country": "Großbritannien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793698800.0,
@@ -385,7 +366,7 @@
     {
       "dt": 1793705400.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:23",
+      "time_estimated": "12:20",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -395,9 +376,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +974,7 @@
     {
       "dt": 1793716500.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:13",
+      "time_estimated": "15:16",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1004,8 +985,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
