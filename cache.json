@@ -1,26 +1,7 @@
 {
-  "updated_at": "03.11.2026 15:05",
+  "updated_at": "03.11.2026 15:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793706600.0,
-      "time_scheduled": "12:50",
-      "time_estimated": "13:05",
-      "flight_no": "GQ890",
-      "airline": "Sky Express",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
-    },
     {
       "dt": 1793707500.0,
       "time_scheduled": "13:05",
@@ -480,7 +461,7 @@
     {
       "dt": 1793718300.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:03",
+      "time_estimated": "16:02",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -491,8 +472,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +518,7 @@
     {
       "dt": 1793719200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:12",
+      "time_estimated": "16:11",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -548,15 +529,15 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793719800.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:28",
+      "time_estimated": "16:38",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -570,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793720100.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1793721300.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:12",
+      "time_estimated": "17:06",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -646,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1793721600.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793721900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:18",
+      "time_estimated": "17:13",
       "flight_no": "EW6840",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -719,10 +700,10 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 9
     },
     {
       "dt": 1793722200.0,
@@ -860,7 +841,7 @@
     {
       "dt": 1793724900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:57",
+      "time_estimated": "17:52",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -874,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793725200.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1793732400.0,
       "time_scheduled": "20:00",
-      "time_estimated": "20:00",
+      "time_estimated": "19:53",
       "flight_no": "XR6598",
       "airline": "Corendon Airlines Europe",
       "city": "Hurghada",
@@ -1383,6 +1364,44 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793733000.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "20:10",
+      "flight_no": "VL2032",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793733000.0,
+      "time_scheduled": "20:10",
+      "time_estimated": "20:10",
+      "flight_no": "EW9037",
+      "airline": "Eurowings",
+      "city": "Hamburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
