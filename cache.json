@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 18:55",
+  "updated_at": "03.11.2026 19:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,25 +24,6 @@
     {
       "dt": 1793721900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:00",
-      "flight_no": "EW9547",
-      "airline": "Eurowings",
-      "city": "Fuerteventura",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793721900.0,
-      "time_scheduled": "17:05",
       "time_estimated": "17:02",
       "flight_no": "EW6840",
       "airline": "Eurowings",
@@ -53,25 +34,6 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793722200.0,
-      "time_scheduled": "17:10",
-      "time_estimated": "16:57",
-      "flight_no": "XQ988",
-      "airline": "Sun Express",
-      "city": "Izmir",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -214,25 +176,6 @@
     {
       "dt": 1793725200.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:52",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793725200.0,
-      "time_scheduled": "18:00",
       "time_estimated": "18:03",
       "flight_no": "LH076",
       "airline": "Lufthansa",
@@ -248,6 +191,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 4
+    },
+    {
+      "dt": 1793725200.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "17:52",
+      "flight_no": "XQ182",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793725200.0,
@@ -357,9 +319,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 44
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1793728500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:20",
+      "time_estimated": "19:10",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -434,10 +396,10 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 26
+      "delay": 16
     },
     {
       "dt": 1793728500.0,
@@ -509,9 +471,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -537,7 +499,7 @@
     {
       "dt": 1793729400.0,
       "time_scheduled": "19:10",
-      "time_estimated": "18:59",
+      "time_estimated": "19:04",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -585,9 +547,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +575,7 @@
     {
       "dt": 1793731800.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:17",
+      "time_estimated": "19:19",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -623,9 +585,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +632,7 @@
     {
       "dt": 1793732100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:46",
+      "time_estimated": "19:44",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -700,8 +662,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1240,7 +1202,7 @@
     {
       "dt": 1793739600.0,
       "time_scheduled": "22:00",
-      "time_estimated": "22:02",
+      "time_estimated": "22:03",
       "flight_no": "EW9881",
       "airline": "Eurowings",
       "city": "Agadir",
@@ -1254,7 +1216,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793739900.0,
