@@ -1,26 +1,7 @@
 {
-  "updated_at": "03.11.2026 10:40",
+  "updated_at": "03.11.2026 10:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793692200.0,
-      "time_scheduled": "08:50",
-      "time_estimated": "08:43",
-      "flight_no": "LX1016",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793692800.0,
       "time_scheduled": "09:00",
@@ -72,25 +53,6 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793693400.0,
-      "time_scheduled": "09:10",
-      "time_estimated": "08:41",
-      "flight_no": "AY1391",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -347,7 +309,7 @@
     {
       "dt": 1793697600.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:50",
+      "time_estimated": "10:43",
       "flight_no": "DE3753",
       "airline": "Condor",
       "city": "Bridgetown (Barbados)",
@@ -357,11 +319,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 30
+      "delay": 23
     },
     {
       "dt": 1793697900.0,
@@ -499,7 +461,7 @@
     {
       "dt": 1793699100.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:42",
+      "time_estimated": "10:50",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -513,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793699700.0,
@@ -529,8 +491,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -547,16 +509,16 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793700600.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:11",
+      "time_estimated": "11:03",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -566,11 +528,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793700600.0,
@@ -642,9 +604,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -866,9 +828,9 @@
       "city": "Pristina",
       "country": "Kosovo",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -936,7 +898,7 @@
     {
       "dt": 1793707500.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:14",
+      "time_estimated": "13:18",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -947,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 14
     },
     {
       "dt": 1793707500.0,
@@ -1088,7 +1050,7 @@
     {
       "dt": 1793709600.0,
       "time_scheduled": "13:40",
-      "time_estimated": "13:40",
+      "time_estimated": "13:48",
       "flight_no": "EW9569",
       "airline": "Eurowings",
       "city": "Sevilla",
@@ -1102,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793709900.0,
@@ -1126,7 +1088,7 @@
     {
       "dt": 1793710200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:51",
+      "time_estimated": "13:48",
       "flight_no": "X34479",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -1140,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793710200.0,
@@ -1438,6 +1400,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793717100.0,
+      "time_scheduled": "15:45",
+      "time_estimated": "15:45",
+      "flight_no": "EW9511",
+      "airline": "Eurowings",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
