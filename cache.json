@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 18:25",
+  "updated_at": "03.11.2026 18:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,15 +271,15 @@
     {
       "dt": 1793724900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:50",
-      "flight_no": "KL1803",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
+      "time_estimated": "17:37",
+      "flight_no": "AY1395",
+      "airline": "Finnair",
+      "city": "Helsinki",
+      "country": "Finnland",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "8",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -290,15 +290,15 @@
     {
       "dt": 1793724900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:37",
-      "flight_no": "AY1395",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
+      "time_estimated": "17:50",
+      "flight_no": "KL1803",
+      "airline": "KLM",
+      "city": "Amsterdam",
+      "country": "Niederlande",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -385,7 +385,7 @@
     {
       "dt": 1793726400.0,
       "time_scheduled": "18:20",
-      "time_estimated": "18:36",
+      "time_estimated": "18:54",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -399,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 35
     },
     {
       "dt": 1793726700.0,
@@ -471,16 +471,16 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
     {
       "dt": 1793728500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:57",
+      "time_estimated": "18:51",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -490,11 +490,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793728500.0,
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793729100.0,
       "time_scheduled": "19:05",
-      "time_estimated": "18:41",
+      "time_estimated": "18:36",
       "flight_no": "DE869",
       "airline": "Condor",
       "city": "Beirut",
@@ -586,8 +586,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -623,9 +623,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +765,7 @@
     {
       "dt": 1793732100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:51",
+      "time_estimated": "19:45",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -993,7 +993,7 @@
     {
       "dt": 1793736000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:06",
+      "time_estimated": "20:56",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793736000.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1793738400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:40",
+      "time_estimated": "21:31",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1506,7 +1506,7 @@
     {
       "dt": 1793741100.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:16",
+      "time_estimated": "22:10",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
