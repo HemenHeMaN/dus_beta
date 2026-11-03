@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 16:50",
+  "updated_at": "03.11.2026 16:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -290,7 +290,7 @@
     {
       "dt": 1793721900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:10",
+      "time_estimated": "16:54",
       "flight_no": "X32853",
       "airline": "Tuifly",
       "city": "Funchal (Madeira)",
@@ -300,16 +300,16 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793721900.0,
       "time_scheduled": "17:05",
-      "time_estimated": "16:58",
+      "time_estimated": "17:04",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -339,15 +339,15 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
     {
       "dt": 1793722200.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:57",
+      "time_estimated": "17:02",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -377,8 +377,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -396,8 +396,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -414,9 +414,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1793729700.0,
       "time_scheduled": "19:15",
-      "time_estimated": "20:04",
+      "time_estimated": "20:05",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -855,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 50
+      "delay": 51
     },
     {
       "dt": 1793731200.0,
@@ -955,7 +955,7 @@
     {
       "dt": 1793732100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:55",
+      "time_estimated": "19:59",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -969,12 +969,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793732100.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:55",
+      "time_estimated": "19:59",
       "flight_no": "AF1006",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793732400.0,
@@ -1333,6 +1333,25 @@
       "delay": 0
     },
     {
+      "dt": 1793738100.0,
+      "time_scheduled": "21:35",
+      "time_estimated": "21:55",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 20
+    },
+    {
       "dt": 1793738400.0,
       "time_scheduled": "21:40",
       "time_estimated": "21:40",
@@ -1434,6 +1453,44 @@
       "flight_no": "EW9545",
       "airline": "Eurowings",
       "city": "La Palma",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793739300.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9469",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793739300.0,
+      "time_scheduled": "21:55",
+      "time_estimated": "21:55",
+      "flight_no": "EW9443",
+      "airline": "Eurowings",
+      "city": "Barcelona",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
