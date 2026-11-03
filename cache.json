@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 22:15",
+  "updated_at": "03.11.2026 22:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793737500.0,
       "time_scheduled": "21:25",
-      "time_estimated": "22:17",
+      "time_estimated": "22:44",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
@@ -190,7 +190,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 52
+      "delay": 79
     },
     {
       "dt": 1793737800.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793738700.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:17",
+      "time_estimated": "22:25",
       "flight_no": "EW9545",
       "airline": "Eurowings",
       "city": "La Palma",
@@ -380,12 +380,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 33
+      "delay": 41
     },
     {
       "dt": 1793739300.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:21",
+      "time_estimated": "22:18",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -395,11 +395,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 27
+      "delay": 23
     },
     {
       "dt": 1793739300.0,
@@ -410,9 +410,9 @@
       "city": "Barcelona",
       "country": "Spanien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -480,21 +480,21 @@
     {
       "dt": 1793739900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:22",
+      "time_estimated": "22:29",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 24
     },
     {
       "dt": 1793740200.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793740500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:14",
+      "time_estimated": "22:19",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -566,11 +566,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793740500.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1793741400.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:21",
+      "time_estimated": "22:15",
       "flight_no": "TK1529",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -642,9 +642,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -656,33 +656,33 @@
       "airline": "Iberia",
       "city": "Madrid-Barajas",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793742000.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:32",
+      "time_estimated": "22:27",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     }
