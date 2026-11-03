@@ -1,26 +1,7 @@
 {
-  "updated_at": "03.11.2026 13:15",
+  "updated_at": "03.11.2026 13:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793700900.0,
-      "time_scheduled": "11:15",
-      "time_estimated": "11:18",
-      "flight_no": "LH2012",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
     {
       "dt": 1793701200.0,
       "time_scheduled": "11:20",
@@ -72,25 +53,6 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793702400.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:16",
-      "flight_no": "BA932",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -423,7 +385,7 @@
     {
       "dt": 1793708400.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:20",
+      "time_estimated": "13:17",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -433,9 +395,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -452,9 +414,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -509,9 +471,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793715000.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:14",
+      "time_estimated": "15:08",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -741,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793715000.0,
@@ -898,7 +860,7 @@
     {
       "dt": 1793719200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:20",
+      "time_estimated": "16:21",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -912,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793719800.0,
@@ -1307,6 +1269,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793726400.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "X36123",
+      "airline": "Tuifly",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
