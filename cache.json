@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 13:40",
+  "updated_at": "03.11.2026 13:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -376,9 +376,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 30
     },
@@ -423,7 +423,7 @@
     {
       "dt": 1793710200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:00",
+      "time_estimated": "13:55",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -437,12 +437,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 10
+      "delay": 6
     },
     {
       "dt": 1793710200.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:44",
+      "time_estimated": "13:42",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -452,9 +452,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -528,9 +528,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -860,7 +860,7 @@
     {
       "dt": 1793720400.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:58",
+      "time_estimated": "17:12",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 33
     },
     {
       "dt": 1793720700.0,
@@ -1212,25 +1212,6 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793726400.0,
-      "time_scheduled": "18:20",
-      "time_estimated": "18:20",
-      "flight_no": "X36123",
-      "airline": "Tuifly",
-      "city": "Hurghada",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Airline",
-      "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
