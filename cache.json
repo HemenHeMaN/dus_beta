@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 20:50",
+  "updated_at": "03.11.2026 20:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,44 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 15
-    },
-    {
-      "dt": 1793728500.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:51",
-      "flight_no": "LH2028",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793728800.0,
-      "time_scheduled": "19:00",
-      "time_estimated": "18:54",
-      "flight_no": "EW4338",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793729100.0,
@@ -509,9 +471,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -822,7 +784,7 @@
     {
       "dt": 1793739900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:15",
+      "time_estimated": "22:13",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -836,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 8
     },
     {
       "dt": 1793739900.0,
@@ -982,7 +944,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "19",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
