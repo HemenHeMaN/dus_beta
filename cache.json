@@ -1,45 +1,7 @@
 {
-  "updated_at": "03.11.2026 21:15",
+  "updated_at": "03.11.2026 21:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793727300.0,
-      "time_scheduled": "18:35",
-      "time_estimated": "19:20",
-      "flight_no": "EW9979",
-      "airline": "Eurowings",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 45
-    },
-    {
-      "dt": 1793729100.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "19:15",
-      "flight_no": "LX1026",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 11
-    },
     {
       "dt": 1793729700.0,
       "time_scheduled": "19:15",
@@ -72,25 +34,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793731800.0,
-      "time_scheduled": "19:50",
-      "time_estimated": "19:17",
-      "flight_no": "XQ180",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -347,7 +290,7 @@
     {
       "dt": 1793736000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:36",
+      "time_estimated": "21:20",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
@@ -357,11 +300,11 @@
       "terminal": "B",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 37
+      "delay": 20
     },
     {
       "dt": 1793736000.0,
@@ -423,7 +366,7 @@
     {
       "dt": 1793737500.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:39",
+      "time_estimated": "21:33",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -433,16 +376,16 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 9
     },
     {
       "dt": 1793737500.0,
       "time_scheduled": "21:25",
-      "time_estimated": "22:17",
+      "time_estimated": "22:23",
       "flight_no": "EW9903",
       "airline": "Eurowings",
       "city": "Larnaca (Zypern)",
@@ -456,12 +399,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 53
+      "delay": 58
     },
     {
       "dt": 1793737800.0,
       "time_scheduled": "21:30",
-      "time_estimated": "21:36",
+      "time_estimated": "21:30",
       "flight_no": "X37168",
       "airline": "Tuifly",
       "city": "Boa Vista (Kapverden)",
@@ -475,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793737800.0,
@@ -499,7 +442,7 @@
     {
       "dt": 1793738100.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:20",
+      "time_estimated": "21:16",
       "flight_no": "DE1421",
       "airline": "Condor",
       "city": "Lanzarote-Arrecife",
@@ -509,9 +452,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -547,9 +490,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -566,9 +509,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -623,9 +566,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +670,7 @@
     {
       "dt": 1793739900.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:10",
+      "time_estimated": "22:04",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -741,7 +684,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793739900.0,
@@ -765,7 +708,7 @@
     {
       "dt": 1793740200.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:06",
+      "time_estimated": "21:59",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
