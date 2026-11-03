@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 16:05",
+  "updated_at": "03.11.2026 16:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 19
-    },
-    {
-      "dt": 1793711700.0,
-      "time_scheduled": "14:15",
-      "time_estimated": "14:06",
-      "flight_no": "EW9681",
-      "airline": "Eurowings",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793712900.0,
@@ -252,7 +233,7 @@
     {
       "dt": 1793718900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:15",
+      "time_estimated": "16:36",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -266,12 +247,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 21
     },
     {
       "dt": 1793718900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:12",
+      "time_estimated": "16:09",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -281,9 +262,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -366,7 +347,7 @@
     {
       "dt": 1793720700.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:25",
+      "time_estimated": "16:19",
       "flight_no": "EW9867",
       "airline": "Eurowings",
       "city": "Salerno",
@@ -377,8 +358,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1793725500.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:06",
+      "time_estimated": "18:01",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -703,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793726400.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793728500.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:52",
+      "time_estimated": "19:12",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -855,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 18
     },
     {
       "dt": 1793728500.0,
@@ -993,7 +974,7 @@
     {
       "dt": 1793731200.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:15",
+      "time_estimated": "19:14",
       "flight_no": "XQ1330",
       "airline": "Sun Express",
       "city": "Ordu-Giresun",
@@ -1340,6 +1321,25 @@
       "airline": "Eurowings",
       "city": "München",
       "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793736600.0,
+      "time_scheduled": "21:10",
+      "time_estimated": "21:10",
+      "flight_no": "EW9555",
+      "airline": "Eurowings",
+      "city": "Lanzarote-Arrecife",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
