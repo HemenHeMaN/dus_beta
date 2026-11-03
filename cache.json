@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 19:45",
+  "updated_at": "03.11.2026 19:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 16
-    },
-    {
-      "dt": 1793724900.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:50",
-      "flight_no": "KL1803",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793725200.0,
@@ -72,25 +53,6 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793725200.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "17:48",
-      "flight_no": "EW9035",
-      "airline": "Eurowings",
-      "city": "Hamburg",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -395,9 +357,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 51
     },
@@ -423,7 +385,7 @@
     {
       "dt": 1793731800.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:51",
+      "time_estimated": "19:48",
       "flight_no": "EI698",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -433,11 +395,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793731800.0,
@@ -556,7 +518,7 @@
     {
       "dt": 1793733000.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:11",
+      "time_estimated": "20:02",
       "flight_no": "VL2032",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -566,11 +528,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793733000.0,
@@ -585,16 +547,16 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793733300.0,
       "time_scheduled": "20:15",
-      "time_estimated": "19:51",
+      "time_estimated": "19:45",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -604,16 +566,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793733600.0,
       "time_scheduled": "20:20",
-      "time_estimated": "20:35",
+      "time_estimated": "20:24",
       "flight_no": "DE1429",
       "airline": "Condor",
       "city": "Teneriffa Süd",
@@ -627,7 +589,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 4
     },
     {
       "dt": 1793733600.0,
@@ -643,8 +605,8 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +708,7 @@
     {
       "dt": 1793736000.0,
       "time_scheduled": "21:00",
-      "time_estimated": "20:52",
+      "time_estimated": "20:53",
       "flight_no": "EW9085",
       "airline": "Eurowings",
       "city": "München",
@@ -841,7 +803,7 @@
     {
       "dt": 1793737800.0,
       "time_scheduled": "21:30",
-      "time_estimated": "22:07",
+      "time_estimated": "21:52",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -855,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 38
+      "delay": 23
     },
     {
       "dt": 1793738100.0,
@@ -898,7 +860,7 @@
     {
       "dt": 1793738400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:34",
+      "time_estimated": "21:46",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -912,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793738400.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793738400.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:32",
+      "time_estimated": "21:23",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1183,7 +1145,7 @@
     {
       "dt": 1793740500.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:16",
+      "time_estimated": "22:23",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1197,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 8
     },
     {
       "dt": 1793740500.0,
