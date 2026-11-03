@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 14:40",
+  "updated_at": "03.11.2026 14:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -366,25 +366,6 @@
     {
       "dt": 1793711700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:06",
-      "flight_no": "EW9681",
-      "airline": "Eurowings",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793711700.0,
-      "time_scheduled": "14:15",
       "time_estimated": "14:03",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
@@ -395,6 +376,25 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793711700.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:06",
+      "flight_no": "EW9681",
+      "airline": "Eurowings",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -490,9 +490,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793718900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:14",
+      "time_estimated": "16:11",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -632,7 +632,7 @@
     {
       "dt": 1793719200.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:15",
+      "time_estimated": "16:12",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -936,7 +936,7 @@
     {
       "dt": 1793724900.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:35",
+      "time_estimated": "17:37",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
