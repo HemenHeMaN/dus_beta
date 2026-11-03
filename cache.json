@@ -1,5 +1,5 @@
 {
-  "updated_at": "03.11.2026 11:15",
+  "updated_at": "03.11.2026 11:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -52,25 +52,6 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793694900.0,
-      "time_scheduled": "09:35",
-      "time_estimated": "09:19",
-      "flight_no": "LO403",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -480,7 +461,7 @@
     {
       "dt": 1793700900.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:21",
+      "time_estimated": "11:18",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -490,11 +471,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 3
     },
     {
       "dt": 1793700900.0,
@@ -548,8 +529,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +556,7 @@
     {
       "dt": 1793702400.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:20",
+      "time_estimated": "11:16",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -585,9 +566,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +822,7 @@
     {
       "dt": 1793707800.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:13",
+      "time_estimated": "13:12",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -955,7 +936,7 @@
     {
       "dt": 1793709600.0,
       "time_scheduled": "13:40",
-      "time_estimated": "14:01",
+      "time_estimated": "14:10",
       "flight_no": "EW9569",
       "airline": "Eurowings",
       "city": "Sevilla",
@@ -969,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 30
     },
     {
       "dt": 1793709900.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793710800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:51",
+      "time_estimated": "13:45",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793711700.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:17",
+      "time_estimated": "14:12",
       "flight_no": "EW9681",
       "airline": "Eurowings",
       "city": "Athen",
@@ -1156,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793712900.0,
@@ -1378,6 +1359,25 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793719200.0,
+      "time_scheduled": "16:20",
+      "time_estimated": "16:20",
+      "flight_no": "EW9465",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
