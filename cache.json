@@ -1,26 +1,7 @@
 {
-  "updated_at": "03.11.2026 14:15",
+  "updated_at": "03.11.2026 14:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793704800.0,
-      "time_scheduled": "12:20",
-      "time_estimated": "12:18",
-      "flight_no": "TP540",
-      "airline": "TAP Portugal",
-      "city": "Lissabon",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793705400.0,
       "time_scheduled": "12:30",
@@ -263,8 +244,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 48
     },
@@ -347,7 +328,7 @@
     {
       "dt": 1793710800.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:19",
+      "time_estimated": "14:18",
       "flight_no": "X34589",
       "airline": "Tuifly",
       "city": "Rhodos",
@@ -357,11 +338,11 @@
       "terminal": "B",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 20
+      "delay": 19
     },
     {
       "dt": 1793710800.0,
@@ -453,8 +434,8 @@
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -490,9 +471,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1793718900.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:09",
+      "time_estimated": "16:14",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -746,7 +727,7 @@
     {
       "dt": 1793720700.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:30",
+      "time_estimated": "16:25",
       "flight_no": "EW9867",
       "airline": "Eurowings",
       "city": "Salerno",
@@ -757,8 +738,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -879,7 +860,7 @@
     {
       "dt": 1793722500.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:24",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -893,12 +874,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793722800.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:20",
+      "time_estimated": "17:19",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
