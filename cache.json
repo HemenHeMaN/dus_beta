@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 16:20",
+  "updated_at": "04.11.2026 16:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -301,15 +301,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 17
     },
     {
       "dt": 1793806200.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:37",
+      "time_estimated": "16:31",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -323,12 +323,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1793806500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:54",
+      "time_estimated": "16:43",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -338,11 +338,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 8
     },
     {
       "dt": 1793807100.0,
@@ -575,7 +575,7 @@
     {
       "dt": 1793809200.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:52",
+      "time_estimated": "17:46",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -586,10 +586,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 32
+      "delay": 26
     },
     {
       "dt": 1793809200.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1793811600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:01",
+      "time_estimated": "18:08",
       "flight_no": "BA936",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -703,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 9
     },
     {
       "dt": 1793811600.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793811900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:11",
+      "time_estimated": "18:25",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 20
     },
     {
       "dt": 1793811900.0,
@@ -1145,7 +1145,7 @@
     {
       "dt": 1793817600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:40",
+      "time_estimated": "19:28",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793818200.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:50",
+      "time_estimated": "19:51",
       "flight_no": "XQ180",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1232,10 +1232,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793818500.0,
@@ -1497,6 +1497,25 @@
       "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793823900.0,
+      "time_scheduled": "21:25",
+      "time_estimated": "21:25",
+      "flight_no": "ENT6063",
+      "airline": "Enter Air",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
