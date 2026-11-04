@@ -1,45 +1,7 @@
 {
-  "updated_at": "04.11.2026 13:30",
+  "updated_at": "04.11.2026 13:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793788500.0,
-      "time_scheduled": "11:35",
-      "time_estimated": "11:31",
-      "flight_no": "X32815",
-      "airline": "Tuifly",
-      "city": "Faro",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793788800.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:33",
-      "flight_no": "A3540",
-      "airline": "Aegean Airlines",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793789700.0,
       "time_scheduled": "11:55",
@@ -119,6 +81,25 @@
     {
       "dt": 1793791800.0,
       "time_scheduled": "12:30",
+      "time_estimated": "12:16",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793791800.0,
+      "time_scheduled": "12:30",
       "time_estimated": "12:32",
       "flight_no": "VF025",
       "airline": "A Jet",
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 41
-    },
-    {
-      "dt": 1793791800.0,
-      "time_scheduled": "12:30",
-      "time_estimated": "12:16",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793792100.0,
@@ -404,7 +366,7 @@
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:51",
+      "time_estimated": "13:56",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -418,12 +380,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 11
     },
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:38",
+      "time_estimated": "13:32",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -433,9 +395,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -452,9 +414,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -471,9 +433,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -490,9 +452,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793801400.0,
       "time_scheduled": "15:10",
-      "time_estimated": "15:13",
+      "time_estimated": "15:14",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -741,7 +703,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1793801700.0,
@@ -917,7 +879,7 @@
     {
       "dt": 1793805900.0,
       "time_scheduled": "16:25",
-      "time_estimated": "16:43",
+      "time_estimated": "16:42",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -931,7 +893,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 17
     },
     {
       "dt": 1793806200.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1793806500.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:35",
+      "time_estimated": "16:36",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -969,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793807100.0,
@@ -1481,6 +1443,44 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793813700.0,
+      "time_scheduled": "18:35",
+      "time_estimated": "18:35",
+      "flight_no": "DE139",
+      "airline": "Condor",
+      "city": "Agadir",
+      "country": "Marokko",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793814900.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:35",
+      "flight_no": "EK057",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
