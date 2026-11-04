@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 10:57",
+  "updated_at": "04.11.2026 11:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793779200.0,
-      "time_scheduled": "09:00",
-      "time_estimated": "08:57",
-      "flight_no": "PC1007",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793779800.0,
       "time_scheduled": "09:10",
@@ -480,7 +461,7 @@
     {
       "dt": 1793786700.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:21",
+      "time_estimated": "11:00",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -490,16 +471,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 0
     },
     {
       "dt": 1793787000.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:05",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -513,12 +494,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793787000.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:05",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -529,15 +510,15 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793787300.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:11",
+      "time_estimated": "11:05",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -993,7 +974,7 @@
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:46",
+      "time_estimated": "13:48",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1007,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793796300.0,
@@ -1362,6 +1343,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793804400.0,
+      "time_scheduled": "16:00",
+      "time_estimated": "16:00",
+      "flight_no": "TU526",
+      "airline": "Tunisair",
+      "city": "Tunis",
+      "country": "Tunesien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
