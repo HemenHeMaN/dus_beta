@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 11:20",
+  "updated_at": "04.11.2026 11:30",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793781000.0,
-      "time_scheduled": "09:30",
-      "time_estimated": "09:21",
-      "flight_no": "SK1629",
-      "airline": "Scandinavian Airlines",
-      "city": "Kopenhagen",
-      "country": "Dänemark",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793781000.0,
       "time_scheduled": "09:30",
@@ -480,7 +461,7 @@
     {
       "dt": 1793788500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:41",
+      "time_estimated": "11:35",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -491,10 +472,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1793788800.0,
@@ -510,8 +491,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +518,7 @@
     {
       "dt": 1793790000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:08",
+      "time_estimated": "12:03",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -551,7 +532,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1793791200.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793793900.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:04",
+      "time_estimated": "13:05",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -776,8 +757,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1012,7 +993,7 @@
     {
       "dt": 1793797200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:59",
+      "time_estimated": "14:14",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -1023,10 +1004,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1793797500.0,
@@ -1069,7 +1050,7 @@
     {
       "dt": 1793798400.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:06",
+      "time_estimated": "14:12",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1080,8 +1061,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1126,7 +1107,7 @@
     {
       "dt": 1793799300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:35",
+      "time_estimated": "14:34",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1381,6 +1362,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793805900.0,
+      "time_scheduled": "16:25",
+      "time_estimated": "16:25",
+      "flight_no": "EW9543",
+      "airline": "Eurowings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793806200.0,
+      "time_scheduled": "16:30",
+      "time_estimated": "16:30",
+      "flight_no": "AF1406",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
