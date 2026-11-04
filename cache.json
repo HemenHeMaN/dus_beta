@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 10:35",
+  "updated_at": "04.11.2026 10:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793778600.0,
-      "time_scheduled": "08:50",
-      "time_estimated": "08:38",
-      "flight_no": "AF1306",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793778600.0,
       "time_scheduled": "08:50",
@@ -442,7 +423,7 @@
     {
       "dt": 1793785200.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:43",
+      "time_estimated": "10:37",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -452,11 +433,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793785500.0,
@@ -537,7 +518,7 @@
     {
       "dt": 1793786100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:58",
+      "time_estimated": "11:04",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -547,11 +528,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 9
     },
     {
       "dt": 1793786700.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793796900.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:55",
+      "time_estimated": "13:51",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1156,8 +1137,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
