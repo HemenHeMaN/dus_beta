@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 19:30",
+  "updated_at": "04.11.2026 19:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,25 +53,6 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793811300.0,
-      "time_scheduled": "17:55",
-      "time_estimated": "17:32",
-      "flight_no": "AY1395",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -153,25 +134,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1793811600.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "17:35",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793811600.0,
@@ -366,7 +328,7 @@
     {
       "dt": 1793814900.0,
       "time_scheduled": "18:55",
-      "time_estimated": "19:37",
+      "time_estimated": "19:31",
       "flight_no": "PC1005",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -376,11 +338,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 43
+      "delay": 37
     },
     {
       "dt": 1793814900.0,
@@ -523,11 +485,11 @@
       "airline": "Eurowings",
       "city": "Pristina",
       "country": "Kosovo",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -575,7 +537,7 @@
     {
       "dt": 1793817900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:38",
+      "time_estimated": "19:33",
       "flight_no": "EW8046",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -585,9 +547,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -604,9 +566,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -662,8 +624,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +708,7 @@
     {
       "dt": 1793819400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:15",
+      "time_estimated": "20:10",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -760,7 +722,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793819700.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1793826300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:12",
+      "time_estimated": "22:10",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1194,10 +1156,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 6
     },
     {
       "dt": 1793826300.0,
@@ -1316,7 +1278,7 @@
     {
       "dt": 1793826900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:01",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1330,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793826900.0,
@@ -1411,7 +1373,7 @@
     {
       "dt": 1793827800.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:33",
+      "time_estimated": "22:39",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1425,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 9
     },
     {
       "dt": 1793827800.0,
@@ -1487,7 +1449,7 @@
     {
       "dt": 1793828100.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:22",
+      "time_estimated": "22:26",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -1520,7 +1482,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     }
   ]
 }
