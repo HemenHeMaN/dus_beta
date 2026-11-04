@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 10:30",
+  "updated_at": "04.11.2026 10:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793778000.0,
-      "time_scheduled": "08:40",
-      "time_estimated": "08:33",
-      "flight_no": "LH2004",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793778600.0,
       "time_scheduled": "08:50",
@@ -461,7 +442,7 @@
     {
       "dt": 1793785200.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:50",
+      "time_estimated": "10:43",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -475,7 +456,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 4
     },
     {
       "dt": 1793785500.0,
@@ -537,7 +518,7 @@
     {
       "dt": 1793786100.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:56",
+      "time_estimated": "10:33",
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
@@ -547,11 +528,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793786100.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793791800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "13:04",
+      "time_estimated": "13:14",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -855,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 34
+      "delay": 44
     },
     {
       "dt": 1793792100.0,
@@ -1183,7 +1164,7 @@
     {
       "dt": 1793797200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:00",
+      "time_estimated": "13:59",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1197,7 +1178,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793797200.0,
@@ -1438,6 +1419,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793802900.0,
+      "time_scheduled": "15:35",
+      "time_estimated": "15:35",
+      "flight_no": "VF027",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
