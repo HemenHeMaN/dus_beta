@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 13:35",
+  "updated_at": "04.11.2026 13:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -366,7 +366,7 @@
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:56",
+      "time_estimated": "13:36",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -376,11 +376,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 0
     },
     {
       "dt": 1793796300.0,
@@ -434,8 +434,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 13
     },
@@ -453,15 +453,15 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793797200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:59",
+      "time_estimated": "13:54",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -469,11 +469,11 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
+      "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -618,11 +618,11 @@
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -632,7 +632,7 @@
     {
       "dt": 1793799600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:50",
+      "time_estimated": "14:48",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -643,15 +643,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 10
+      "delay": 8
     },
     {
       "dt": 1793799900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:43",
+      "time_estimated": "14:41",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -662,8 +662,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +765,7 @@
     {
       "dt": 1793804400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "16:45",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 46
     },
     {
       "dt": 1793804700.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793807100.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:53",
+      "time_estimated": "16:52",
       "flight_no": "EW9989",
       "airline": "Eurowings",
       "city": "Kairo",
@@ -950,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 7
     },
     {
       "dt": 1793807100.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1793807400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:50",
+      "time_estimated": "16:43",
       "flight_no": "GQ590",
       "airline": "Sky Express",
       "city": "Thessaloniki",
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793807700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "16:47",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793808600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:10",
+      "time_estimated": "16:45",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
