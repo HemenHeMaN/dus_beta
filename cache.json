@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 05:35",
+  "updated_at": "04.11.2026 05:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -15,9 +15,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1793778000.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:40",
+      "time_estimated": "08:43",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793778600.0,
@@ -290,7 +290,7 @@
     {
       "dt": 1793779800.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:10",
+      "time_estimated": "08:42",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -621,6 +621,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793785200.0,
+      "time_scheduled": "10:40",
+      "time_estimated": "10:40",
+      "flight_no": "EW6894",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
