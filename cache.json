@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 14:35",
+  "updated_at": "04.11.2026 14:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1793799000.0,
       "time_scheduled": "14:30",
-      "time_estimated": "14:50",
+      "time_estimated": "14:36",
       "flight_no": "EW9569",
       "airline": "Eurowings",
       "city": "Sevilla",
@@ -433,11 +433,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 21
+      "delay": 6
     },
     {
       "dt": 1793799000.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793799900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:42",
+      "time_estimated": "14:37",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -509,9 +509,9 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -528,9 +528,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793804400.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:45",
+      "time_estimated": "16:58",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -624,10 +624,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 46
+      "delay": 59
     },
     {
       "dt": 1793804700.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1793805600.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:31",
+      "time_estimated": "16:25",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 6
     },
     {
       "dt": 1793805900.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1793808900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:40",
       "flight_no": "EW9343",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 26
     },
     {
       "dt": 1793808900.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793809200.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:20",
+      "time_estimated": "17:40",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793809200.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793810100.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:35",
+      "time_estimated": "17:42",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -1064,12 +1064,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793810700.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:45",
+      "time_estimated": "17:42",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793813700.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:35",
+      "time_estimated": "18:19",
       "flight_no": "DE139",
       "airline": "Condor",
       "city": "Agadir",
@@ -1308,8 +1308,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1571,6 +1571,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793817600.0,
+      "time_scheduled": "19:40",
+      "time_estimated": "19:40",
+      "flight_no": "JU362",
+      "airline": "Air Serbia",
+      "city": "Belgrad",
+      "country": "Serbien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
