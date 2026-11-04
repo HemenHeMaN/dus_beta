@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 18:20",
+  "updated_at": "04.11.2026 18:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -575,7 +575,7 @@
     {
       "dt": 1793813100.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:56",
+      "time_estimated": "18:22",
       "flight_no": "EW9045",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -585,11 +585,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 31
+      "delay": 0
     },
     {
       "dt": 1793813700.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1793814600.0,
       "time_scheduled": "18:50",
-      "time_estimated": "18:43",
+      "time_estimated": "18:34",
       "flight_no": "IB755",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -643,8 +643,8 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -718,9 +718,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -737,16 +737,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793815200.0,
       "time_scheduled": "19:00",
-      "time_estimated": "18:55",
+      "time_estimated": "18:50",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -841,7 +841,7 @@
     {
       "dt": 1793816400.0,
       "time_scheduled": "19:20",
-      "time_estimated": "20:26",
+      "time_estimated": "20:20",
       "flight_no": "EW9925",
       "airline": "Eurowings",
       "city": "Pristina",
@@ -855,7 +855,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 66
+      "delay": 61
     },
     {
       "dt": 1793817000.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793818200.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:45",
+      "time_estimated": "19:44",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793819400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:13",
+      "time_estimated": "20:18",
       "flight_no": "DE069",
       "airline": "Condor",
       "city": "Hurghada",
@@ -1045,7 +1045,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 8
     },
     {
       "dt": 1793819400.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793824500.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:34",
+      "time_estimated": "21:33",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
