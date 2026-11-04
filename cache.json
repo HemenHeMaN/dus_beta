@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 07:55",
+  "updated_at": "04.11.2026 08:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793773800.0,
       "time_scheduled": "07:30",
-      "time_estimated": "08:00",
+      "time_estimated": "07:56",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -110,11 +110,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 30
+      "delay": 26
     },
     {
       "dt": 1793774400.0,
@@ -157,7 +157,7 @@
     {
       "dt": 1793776500.0,
       "time_scheduled": "08:15",
-      "time_estimated": "08:10",
+      "time_estimated": "08:05",
       "flight_no": "EW4200",
       "airline": "Eurowings",
       "city": "Prag",
@@ -168,8 +168,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1793781300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:21",
+      "time_estimated": "09:23",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -396,8 +396,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1077,6 +1077,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793793600.0,
+      "time_scheduled": "13:00",
+      "time_estimated": "13:00",
+      "flight_no": "NE720",
+      "airline": "Nesma Airlines",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
