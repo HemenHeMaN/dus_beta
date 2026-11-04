@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 07:35",
+  "updated_at": "04.11.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793773800.0,
       "time_scheduled": "07:30",
-      "time_estimated": "08:06",
+      "time_estimated": "08:00",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -110,11 +110,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 36
+      "delay": 30
     },
     {
       "dt": 1793774400.0,
@@ -138,7 +138,7 @@
     {
       "dt": 1793775300.0,
       "time_scheduled": "07:55",
-      "time_estimated": "07:46",
+      "time_estimated": "07:49",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -214,7 +214,7 @@
     {
       "dt": 1793778600.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:49",
+      "time_estimated": "08:52",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -228,7 +228,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793779200.0,
@@ -271,7 +271,7 @@
     {
       "dt": 1793779500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:58",
+      "time_estimated": "08:55",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -282,8 +282,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1793784300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:42",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -570,12 +570,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 18
     },
     {
       "dt": 1793784300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:43",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 18
     },
     {
       "dt": 1793784600.0,
@@ -665,12 +665,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793785500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:32",
+      "time_estimated": "10:26",
       "flight_no": "AT696",
       "airline": "Royal Air Maroc",
       "city": "Nador",
@@ -681,8 +681,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
