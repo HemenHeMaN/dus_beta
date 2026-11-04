@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 09:15",
+  "updated_at": "04.11.2026 09:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793781000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:22",
+      "time_estimated": "09:27",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -290,7 +290,7 @@
     {
       "dt": 1793781300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:18",
+      "time_estimated": "09:19",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -300,9 +300,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -319,9 +319,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1793784300.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:42",
+      "time_estimated": "10:23",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -475,7 +475,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 0
     },
     {
       "dt": 1793784300.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1793785200.0,
       "time_scheduled": "10:40",
-      "time_estimated": "10:56",
+      "time_estimated": "10:50",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -551,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 11
     },
     {
       "dt": 1793785500.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1793787000.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:15",
+      "time_estimated": "11:14",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1793787300.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1793790000.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:09",
+      "time_estimated": "12:08",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -917,7 +917,7 @@
     {
       "dt": 1793791800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:24",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1340,6 +1340,25 @@
       "airline": "Austrian Airlines",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793798400.0,
+      "time_scheduled": "14:20",
+      "time_estimated": "14:20",
+      "flight_no": "EW9643",
+      "airline": "Eurowings",
+      "city": "Faro",
+      "country": "Portugal",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
