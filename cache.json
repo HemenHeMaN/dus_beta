@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 08:50",
+  "updated_at": "04.11.2026 08:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,7 +138,7 @@
     {
       "dt": 1793779200.0,
       "time_scheduled": "09:00",
-      "time_estimated": "08:57",
+      "time_estimated": "09:03",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -152,7 +152,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793779200.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1793779800.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:56",
+      "time_estimated": "08:53",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -205,9 +205,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -244,8 +244,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -309,21 +309,21 @@
     {
       "dt": 1793781300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:41",
+      "time_estimated": "09:45",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 10
     },
     {
       "dt": 1793781600.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793784600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:17",
+      "time_estimated": "10:11",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -765,7 +765,7 @@
     {
       "dt": 1793788500.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:42",
+      "time_estimated": "11:46",
       "flight_no": "X32815",
       "airline": "Tuifly",
       "city": "Faro",
@@ -776,10 +776,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 11
     },
     {
       "dt": 1793788800.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793789700.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:44",
+      "time_estimated": "12:14",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793790000.0,
@@ -1093,11 +1093,11 @@
       "airline": "Qatar Airways",
       "city": "Doha",
       "country": "Katar",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1226,6 +1226,25 @@
       "airline": "KLM",
       "city": "Amsterdam",
       "country": "Niederlande",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793796900.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:55",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
