@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 14:15",
+  "updated_at": "04.11.2026 14:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,21 +43,21 @@
     {
       "dt": 1793791800.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:16",
-      "flight_no": "EK055",
-      "airline": "Emirates",
-      "city": "Dubai",
-      "country": "VAE",
+      "time_estimated": "13:10",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 41
     },
     {
       "dt": 1793791800.0,
@@ -77,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1793791800.0,
-      "time_scheduled": "12:30",
-      "time_estimated": "13:10",
-      "flight_no": "IV8220",
-      "airline": "GP Aviation",
-      "city": "Pristina",
-      "country": "Kosovo",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 41
     },
     {
       "dt": 1793792100.0,
@@ -157,7 +138,7 @@
     {
       "dt": 1793793600.0,
       "time_scheduled": "13:00",
-      "time_estimated": "14:19",
+      "time_estimated": "14:17",
       "flight_no": "NE720",
       "airline": "Nesma Airlines",
       "city": "Hurghada",
@@ -167,11 +148,11 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 79
+      "delay": 78
     },
     {
       "dt": 1793793900.0,
@@ -594,7 +575,7 @@
     {
       "dt": 1793799600.0,
       "time_scheduled": "14:40",
-      "time_estimated": "14:48",
+      "time_estimated": "14:53",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -608,7 +589,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 13
     },
     {
       "dt": 1793799900.0,
@@ -623,9 +604,9 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1793804700.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:06",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -760,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793805300.0,
@@ -803,7 +784,7 @@
     {
       "dt": 1793805300.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:05",
+      "time_estimated": "16:11",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -936,7 +917,7 @@
     {
       "dt": 1793807400.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:56",
+      "time_estimated": "16:54",
       "flight_no": "GQ590",
       "airline": "Sky Express",
       "city": "Thessaloniki",
@@ -947,10 +928,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1793807700.0,
@@ -1647,6 +1628,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793816400.0,
+      "time_scheduled": "19:20",
+      "time_estimated": "19:20",
+      "flight_no": "EW9925",
+      "airline": "Eurowings",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
