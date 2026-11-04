@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 19:20",
+  "updated_at": "04.11.2026 19:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,25 +138,6 @@
     {
       "dt": 1793811600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:01",
-      "flight_no": "XQ1348",
-      "airline": "Sun Express",
-      "city": "Balikesir / Edremit",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
-    {
-      "dt": 1793811600.0,
-      "time_scheduled": "18:00",
       "time_estimated": "18:08",
       "flight_no": "BA936",
       "airline": "British Airways",
@@ -191,6 +172,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793811600.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:01",
+      "flight_no": "XQ1348",
+      "airline": "Sun Express",
+      "city": "Balikesir / Edremit",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 2
     },
     {
       "dt": 1793811600.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793815500.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:25",
+      "time_estimated": "19:20",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -509,11 +509,11 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 20
+      "delay": 16
     },
     {
       "dt": 1793815800.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793817900.0,
       "time_scheduled": "19:45",
-      "time_estimated": "19:38",
+      "time_estimated": "19:32",
       "flight_no": "EW8046",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -624,8 +624,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1793818200.0,
       "time_scheduled": "19:50",
-      "time_estimated": "19:46",
+      "time_estimated": "19:41",
       "flight_no": "BA938",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -661,9 +661,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -680,9 +680,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793824800.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:41",
+      "time_estimated": "21:35",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793824800.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793826300.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:08",
+      "time_estimated": "22:12",
       "flight_no": "EW9537",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1235,7 +1235,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 8
     },
     {
       "dt": 1793826300.0,
@@ -1278,7 +1278,7 @@
     {
       "dt": 1793826600.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:29",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -1292,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 19
     },
     {
       "dt": 1793826600.0,
@@ -1316,7 +1316,7 @@
     {
       "dt": 1793826900.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:08",
+      "time_estimated": "22:03",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1430,7 +1430,7 @@
     {
       "dt": 1793827500.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:42",
+      "time_estimated": "22:38",
       "flight_no": "X36753",
       "airline": "Tuifly",
       "city": "Sharm El Sheikh",
@@ -1444,7 +1444,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 13
     },
     {
       "dt": 1793827800.0,
