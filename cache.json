@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 07:40",
+  "updated_at": "04.11.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -111,15 +111,15 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 30
     },
     {
       "dt": 1793774400.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:46",
+      "time_estimated": "07:51",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -133,12 +133,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 11
     },
     {
       "dt": 1793775300.0,
       "time_scheduled": "07:55",
-      "time_estimated": "07:49",
+      "time_estimated": "07:44",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -148,9 +148,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -423,7 +423,7 @@
     {
       "dt": 1793781600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:35",
+      "time_estimated": "09:22",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -504,11 +504,11 @@
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
       "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Airline",
+      "type": "Linie",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
