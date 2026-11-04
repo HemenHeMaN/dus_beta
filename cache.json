@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 12:40",
+  "updated_at": "04.11.2026 12:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -366,7 +366,7 @@
     {
       "dt": 1793793000.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:43",
+      "time_estimated": "12:44",
       "flight_no": "GQ890",
       "airline": "Sky Express",
       "city": "Athen",
@@ -376,9 +376,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -414,9 +414,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -452,9 +452,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -567,8 +567,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 6
     },
@@ -936,7 +936,7 @@
     {
       "dt": 1793803500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:45",
+      "time_estimated": "15:49",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -950,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793804400.0,
@@ -1397,6 +1397,25 @@
       "airline": "Eurowings",
       "city": "Bilbao",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793810700.0,
+      "time_scheduled": "17:45",
+      "time_estimated": "17:45",
+      "flight_no": "LX1024",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
