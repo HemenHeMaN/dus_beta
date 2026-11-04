@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 19:10",
+  "updated_at": "04.11.2026 19:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793807700.0,
-      "time_scheduled": "16:55",
-      "time_estimated": "17:13",
-      "flight_no": "BJ206",
-      "airline": "Nouvelair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 18
-    },
     {
       "dt": 1793808600.0,
       "time_scheduled": "17:10",
@@ -43,25 +24,6 @@
     {
       "dt": 1793808900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
-      "flight_no": "EW9539",
-      "airline": "Eurowings",
-      "city": "Valencia",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
-    },
-    {
-      "dt": 1793808900.0,
-      "time_scheduled": "17:15",
       "time_estimated": "18:25",
       "flight_no": "KK491",
       "airline": "LEAV Aviation",
@@ -77,6 +39,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 71
+    },
+    {
+      "dt": 1793808900.0,
+      "time_scheduled": "17:15",
+      "time_estimated": "17:15",
+      "flight_no": "EW9539",
+      "airline": "Eurowings",
+      "city": "Valencia",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 1
     },
     {
       "dt": 1793809200.0,
@@ -176,6 +157,25 @@
     {
       "dt": 1793811600.0,
       "time_scheduled": "18:00",
+      "time_estimated": "18:01",
+      "flight_no": "XQ1348",
+      "airline": "Sun Express",
+      "city": "Balikesir / Edremit",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 2
+    },
+    {
+      "dt": 1793811600.0,
+      "time_scheduled": "18:00",
       "time_estimated": "18:08",
       "flight_no": "BA936",
       "airline": "British Airways",
@@ -210,25 +210,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1793811600.0,
-      "time_scheduled": "18:00",
-      "time_estimated": "18:01",
-      "flight_no": "XQ1348",
-      "airline": "Sun Express",
-      "city": "Balikesir / Edremit",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1793811600.0,
@@ -452,30 +433,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 43
-    },
-    {
-      "dt": 1793814900.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:38",
-      "flight_no": "EW4676",
-      "airline": "Eurowings",
-      "city": "Stockholm-Arlanda",
-      "country": "Schweden",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793814900.0,
@@ -489,6 +451,25 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793814900.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:38",
+      "flight_no": "EW4676",
+      "airline": "Eurowings",
+      "city": "Stockholm-Arlanda",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -537,7 +518,7 @@
     {
       "dt": 1793815500.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:22",
+      "time_estimated": "19:17",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -551,7 +532,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1793815800.0,
@@ -632,7 +613,7 @@
     {
       "dt": 1793817600.0,
       "time_scheduled": "19:40",
-      "time_estimated": "19:43",
+      "time_estimated": "19:36",
       "flight_no": "JU362",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -642,11 +623,11 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793817900.0,
@@ -822,7 +803,7 @@
     {
       "dt": 1793819400.0,
       "time_scheduled": "20:10",
-      "time_estimated": "20:21",
+      "time_estimated": "20:14",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -836,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 5
     },
     {
       "dt": 1793819700.0,
@@ -993,7 +974,7 @@
     {
       "dt": 1793823900.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:16",
+      "time_estimated": "21:22",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -1004,8 +985,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1793824800.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:06",
+      "time_estimated": "21:12",
       "flight_no": "EW9631",
       "airline": "Eurowings",
       "city": "Rhodos",
@@ -1406,7 +1387,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793826900.0,
