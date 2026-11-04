@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 10:40",
+  "updated_at": "04.11.2026 10:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793778600.0,
-      "time_scheduled": "08:50",
-      "time_estimated": "08:44",
-      "flight_no": "LX1016",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793779200.0,
       "time_scheduled": "09:00",
@@ -529,8 +510,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -566,9 +547,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -917,7 +898,7 @@
     {
       "dt": 1793793900.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:05",
+      "time_estimated": "13:08",
       "flight_no": "EW9815",
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
@@ -928,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793793900.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:45",
+      "time_estimated": "13:47",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1064,12 +1045,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:45",
+      "time_estimated": "13:46",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -1083,7 +1064,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793796300.0,
@@ -1419,6 +1400,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793803500.0,
+      "time_scheduled": "15:45",
+      "time_estimated": "15:45",
+      "flight_no": "EW4338",
+      "airline": "Eurowings",
+      "city": "Salzburg",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
