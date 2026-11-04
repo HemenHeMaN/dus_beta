@@ -1,26 +1,7 @@
 {
-  "updated_at": "04.11.2026 14:30",
+  "updated_at": "04.11.2026 14:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793791800.0,
-      "time_scheduled": "12:30",
-      "time_estimated": "12:32",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
-    },
     {
       "dt": 1793791800.0,
       "time_scheduled": "12:30",
@@ -138,25 +119,6 @@
     {
       "dt": 1793794200.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:08",
-      "flight_no": "VL2016",
-      "airline": "Lufthansa City Airlines",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793794200.0,
-      "time_scheduled": "13:10",
       "time_estimated": "13:23",
       "flight_no": "QR085",
       "airline": "Qatar Airways",
@@ -172,6 +134,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 14
+    },
+    {
+      "dt": 1793794200.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:08",
+      "flight_no": "VL2016",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "4",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793794500.0,
@@ -233,25 +214,6 @@
     {
       "dt": 1793796300.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:36",
-      "flight_no": "LX1018",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793796300.0,
-      "time_scheduled": "13:45",
       "time_estimated": "13:32",
       "flight_no": "EW9581",
       "airline": "Eurowings",
@@ -286,6 +248,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 1
+    },
+    {
+      "dt": 1793796300.0,
+      "time_scheduled": "13:45",
+      "time_estimated": "13:36",
+      "flight_no": "LX1018",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "2",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793796600.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793799900.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:36",
+      "time_estimated": "14:42",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -613,7 +594,7 @@
     {
       "dt": 1793803500.0,
       "time_scheduled": "15:45",
-      "time_estimated": "15:49",
+      "time_estimated": "15:42",
       "flight_no": "EW4338",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -624,10 +605,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793804400.0,
@@ -936,7 +917,7 @@
     {
       "dt": 1793808600.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:55",
+      "time_estimated": "16:45",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1012,7 +993,7 @@
     {
       "dt": 1793808900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "18:37",
+      "time_estimated": "18:31",
       "flight_no": "KK491",
       "airline": "LEAV Aviation",
       "city": "Damaskus",
@@ -1026,7 +1007,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 83
+      "delay": 76
     },
     {
       "dt": 1793809200.0,
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793809200.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:16",
+      "time_estimated": "17:17",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1202,7 +1183,7 @@
     {
       "dt": 1793811600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:37",
+      "time_estimated": "17:36",
       "flight_no": "XQ182",
       "airline": "Sun Express",
       "city": "Antalya",
