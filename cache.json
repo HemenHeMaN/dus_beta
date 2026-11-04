@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 07:25",
+  "updated_at": "04.11.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1793774400.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:54",
+      "time_estimated": "07:46",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -129,11 +129,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 6
     },
     {
       "dt": 1793775300.0,
@@ -148,9 +148,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -271,7 +271,7 @@
     {
       "dt": 1793779500.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:03",
+      "time_estimated": "08:58",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -309,7 +309,7 @@
     {
       "dt": 1793779800.0,
       "time_scheduled": "09:10",
-      "time_estimated": "09:20",
+      "time_estimated": "09:13",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 3
     },
     {
       "dt": 1793780400.0,
@@ -347,7 +347,7 @@
     {
       "dt": 1793781000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:36",
+      "time_estimated": "09:27",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -361,12 +361,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793781000.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:41",
+      "time_estimated": "09:29",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -380,7 +380,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 0
     },
     {
       "dt": 1793781300.0,
@@ -404,7 +404,7 @@
     {
       "dt": 1793781300.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:50",
+      "time_estimated": "09:41",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -418,12 +418,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 6
     },
     {
       "dt": 1793781600.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:33",
+      "time_estimated": "09:35",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -456,12 +456,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 11
     },
     {
       "dt": 1793782200.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:58",
+      "time_estimated": "09:54",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 4
     },
     {
       "dt": 1793782200.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793784600.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:32",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793784600.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793785500.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:32",
       "flight_no": "AT696",
       "airline": "Royal Air Maroc",
       "city": "Nador",
@@ -963,6 +963,63 @@
       "type": "Charter",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793791800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:28",
+      "flight_no": "EK055",
+      "airline": "Emirates",
+      "city": "Dubai",
+      "country": "VAE",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793791800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793791800.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
