@@ -1,5 +1,5 @@
 {
-  "updated_at": "04.11.2026 15:00",
+  "updated_at": "04.11.2026 15:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -58,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1793793900.0,
-      "time_scheduled": "13:05",
-      "time_estimated": "13:00",
-      "flight_no": "EW9883",
-      "airline": "Eurowings",
-      "city": "Rom-Fiumicino",
-      "country": "Italien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793794200.0,
@@ -290,25 +271,6 @@
     {
       "dt": 1793797200.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:58",
-      "flight_no": "EW9571",
-      "airline": "Eurowings",
-      "city": "Jerez de la Frontera",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793797200.0,
-      "time_scheduled": "14:00",
       "time_estimated": "13:29",
       "flight_no": "VY1096",
       "airline": "Vueling",
@@ -319,6 +281,25 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793797200.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "13:58",
+      "flight_no": "EW9571",
+      "airline": "Eurowings",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "3",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -423,7 +404,7 @@
     {
       "dt": 1793799300.0,
       "time_scheduled": "14:35",
-      "time_estimated": "15:18",
+      "time_estimated": "15:11",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -437,7 +418,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 44
+      "delay": 37
     },
     {
       "dt": 1793799600.0,
@@ -518,7 +499,7 @@
     {
       "dt": 1793801700.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:24",
+      "time_estimated": "15:04",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -528,11 +509,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 0
     },
     {
       "dt": 1793802900.0,
@@ -542,14 +523,14 @@
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +651,7 @@
     {
       "dt": 1793805600.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:13",
+      "time_estimated": "16:20",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -684,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793805900.0,
@@ -803,7 +784,7 @@
     {
       "dt": 1793807700.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:10",
+      "time_estimated": "17:04",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -817,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 10
     },
     {
       "dt": 1793807700.0,
@@ -917,7 +898,7 @@
     {
       "dt": 1793808900.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:17",
+      "time_estimated": "17:29",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -931,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 14
     },
     {
       "dt": 1793808900.0,
@@ -1126,7 +1107,7 @@
     {
       "dt": 1793811600.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:05",
+      "time_estimated": "18:04",
       "flight_no": "XQ1348",
       "airline": "Sun Express",
       "city": "Balikesir / Edremit",
@@ -1137,10 +1118,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 5
     },
     {
       "dt": 1793811600.0,
@@ -1202,7 +1183,7 @@
     {
       "dt": 1793811900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:05",
+      "time_estimated": "18:10",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1216,12 +1197,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793811900.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:05",
+      "time_estimated": "18:06",
       "flight_no": "EW9811",
       "airline": "Eurowings",
       "city": "Venedig-Tessera",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793813100.0,
