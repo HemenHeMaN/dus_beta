@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 06:40",
+  "updated_at": "05.11.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1793859000.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:07",
+      "time_estimated": "06:43",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -53,9 +53,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -81,7 +81,7 @@
     {
       "dt": 1793860800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:48",
+      "time_estimated": "07:42",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -95,7 +95,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1793861100.0,
@@ -271,7 +271,7 @@
     {
       "dt": 1793866200.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:44",
+      "time_estimated": "08:47",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -282,8 +282,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1793869200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:50",
+      "time_estimated": "09:48",
       "flight_no": "4M496",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -832,6 +832,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793875500.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "BQ1952",
+      "airline": "Sky Alps",
+      "city": "Bozen",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
