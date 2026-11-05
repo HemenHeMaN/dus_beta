@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 10:00",
+  "updated_at": "05.11.2026 10:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -301,8 +301,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 42
     },
@@ -423,7 +423,7 @@
     {
       "dt": 1793871000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "11:50",
+      "time_estimated": "11:57",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -437,12 +437,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 81
+      "delay": 88
     },
     {
       "dt": 1793871000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:04",
+      "time_estimated": "10:03",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -452,9 +452,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1793873100.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:10",
+      "time_estimated": "11:07",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -513,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 3
     },
     {
       "dt": 1793873100.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1793873700.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:15",
+      "time_estimated": "11:13",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793874000.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1793879400.0,
       "time_scheduled": "12:50",
-      "time_estimated": "12:49",
+      "time_estimated": "13:19",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 30
     },
     {
       "dt": 1793879400.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793880900.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:10",
+      "time_estimated": "13:11",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
       "city": "Hurghada",
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793881200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:25",
+      "time_estimated": "13:19",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -1102,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793882100.0,
@@ -1362,6 +1362,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793887500.0,
+      "time_scheduled": "15:05",
+      "time_estimated": "15:05",
+      "flight_no": "IB1321",
+      "airline": "Iberia",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793887500.0,
+      "time_scheduled": "15:05",
+      "time_estimated": "15:05",
+      "flight_no": "EW9463",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
