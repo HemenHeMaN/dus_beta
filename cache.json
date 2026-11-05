@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 13:30",
+  "updated_at": "05.11.2026 13:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -499,7 +499,7 @@
     {
       "dt": 1793882700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:47",
+      "time_estimated": "13:41",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -510,10 +510,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793883000.0,
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +594,7 @@
     {
       "dt": 1793883300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:37",
+      "time_estimated": "13:42",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -613,7 +613,7 @@
     {
       "dt": 1793883600.0,
       "time_scheduled": "14:00",
-      "time_estimated": "13:50",
+      "time_estimated": "13:41",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -670,7 +670,7 @@
     {
       "dt": 1793883900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:10",
+      "time_estimated": "14:25",
       "flight_no": "EW242D",
       "airline": "Eurowings",
       "city": "Köln-Bonn",
@@ -681,10 +681,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 21
     },
     {
       "dt": 1793884500.0,
@@ -727,7 +727,7 @@
     {
       "dt": 1793886300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:43",
+      "time_estimated": "14:45",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793887500.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793887500.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:05",
+      "time_estimated": "15:02",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -803,7 +803,7 @@
     {
       "dt": 1793888400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:27",
+      "time_estimated": "15:15",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793889300.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793893200.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:40",
+      "time_estimated": "16:51",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -1045,7 +1045,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793893500.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793896200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:35",
+      "time_estimated": "17:30",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1254,7 +1254,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 1
     },
     {
       "dt": 1793896200.0,
@@ -1590,6 +1590,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793900100.0,
+      "time_scheduled": "18:35",
+      "time_estimated": "18:29",
+      "flight_no": "EW9979",
+      "airline": "Eurowings",
+      "city": "Erbil",
+      "country": "Irak",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
