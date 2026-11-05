@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 16:25",
+  "updated_at": "05.11.2026 16:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -271,7 +271,7 @@
     {
       "dt": 1793892600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:31",
+      "time_estimated": "16:25",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -281,16 +281,16 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793892900.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:33",
+      "time_estimated": "16:39",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -304,12 +304,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793893200.0,
       "time_scheduled": "16:40",
-      "time_estimated": "16:32",
+      "time_estimated": "16:27",
       "flight_no": "TP542",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -319,9 +319,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -338,16 +338,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 16
     },
     {
       "dt": 1793893500.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:41",
+      "time_estimated": "16:42",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -358,8 +358,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -376,9 +376,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -395,9 +395,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -452,16 +452,16 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793895300.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:14",
+      "time_estimated": "17:13",
       "flight_no": "EW9343",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -594,7 +594,7 @@
     {
       "dt": 1793896800.0,
       "time_scheduled": "17:40",
-      "time_estimated": "17:40",
+      "time_estimated": "17:38",
       "flight_no": "LH2024",
       "airline": "Lufthansa",
       "city": "München",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793897100.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793897700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:54",
+      "time_estimated": "17:58",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793898000.0,
@@ -765,7 +765,7 @@
     {
       "dt": 1793898300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:24",
+      "time_estimated": "18:20",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 16
     },
     {
       "dt": 1793898600.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793902200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "18:54",
+      "time_estimated": "19:00",
       "flight_no": "BT233",
       "airline": "Air Baltic",
       "city": "Riga",
