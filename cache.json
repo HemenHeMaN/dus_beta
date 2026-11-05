@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 13:15",
+  "updated_at": "05.11.2026 13:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 86
-    },
-    {
-      "dt": 1793873400.0,
-      "time_scheduled": "11:10",
-      "time_estimated": "11:19",
-      "flight_no": "SK818",
-      "airline": "Scandinavian Airlines",
-      "city": "Oslo - Gardermoen",
-      "country": "Norwegen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 10
     },
     {
       "dt": 1793874900.0,
@@ -176,15 +157,15 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:07",
-      "flight_no": "XC102",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
+      "time_estimated": "12:19",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "20",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -195,15 +176,15 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:19",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
+      "time_estimated": "12:07",
+      "flight_no": "XC102",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
+      "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -328,7 +309,7 @@
     {
       "dt": 1793880300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:14",
+      "time_estimated": "13:17",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -338,11 +319,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 12
     },
     {
       "dt": 1793880300.0,
@@ -510,8 +491,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -642,9 +623,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1793883900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:08",
+      "time_estimated": "14:07",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -700,10 +681,10 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 3
     },
     {
       "dt": 1793884500.0,
@@ -1012,7 +993,7 @@
     {
       "dt": 1793892600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:30",
+      "time_estimated": "16:46",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1026,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 17
     },
     {
       "dt": 1793892900.0,
@@ -1145,7 +1126,7 @@
     {
       "dt": 1793894700.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:05",
+      "time_estimated": "17:13",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1156,10 +1137,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793894700.0,
@@ -1573,6 +1554,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793899200.0,
+      "time_scheduled": "18:20",
+      "time_estimated": "18:20",
+      "flight_no": "DE1429",
+      "airline": "Condor",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
