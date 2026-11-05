@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 08:55",
+  "updated_at": "05.11.2026 09:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,7 +195,7 @@
     {
       "dt": 1793865900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:21",
+      "time_estimated": "09:16",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -206,10 +206,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 12
     },
     {
       "dt": 1793866200.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1793867100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:05",
+      "time_estimated": "08:59",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -262,9 +262,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -529,8 +529,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +746,7 @@
     {
       "dt": 1793875200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:21",
+      "time_estimated": "11:30",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -765,7 +765,7 @@
     {
       "dt": 1793875200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:52",
+      "time_estimated": "11:58",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -779,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 18
     },
     {
       "dt": 1793875500.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793876400.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:00",
+      "time_estimated": "12:03",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -817,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793877600.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:03",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -917,7 +917,7 @@
     {
       "dt": 1793878500.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:02",
+      "time_estimated": "12:01",
       "flight_no": "XQ184",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1329,6 +1329,44 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793883600.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:00",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793883600.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:00",
+      "flight_no": "VY1096",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
