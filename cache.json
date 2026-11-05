@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 16:15",
+  "updated_at": "05.11.2026 16:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793891400.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:23",
+      "time_estimated": "16:17",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -186,11 +186,11 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 14
+      "delay": 7
     },
     {
       "dt": 1793891700.0,
@@ -319,9 +319,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -339,8 +339,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -366,7 +366,7 @@
     {
       "dt": 1793893500.0,
       "time_scheduled": "16:45",
-      "time_estimated": "16:52",
+      "time_estimated": "16:41",
       "flight_no": "EW9519",
       "airline": "Eurowings",
       "city": "Bilbao",
@@ -380,12 +380,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793894100.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:02",
+      "time_estimated": "16:57",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -399,7 +399,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 2
     },
     {
       "dt": 1793894400.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793895600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:39",
+      "time_estimated": "17:37",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -529,10 +529,10 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 19
+      "delay": 17
     },
     {
       "dt": 1793896200.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1793898600.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:24",
+      "time_estimated": "18:46",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -833,10 +833,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 36
     },
     {
       "dt": 1793898600.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793903400.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:30",
+      "time_estimated": "19:24",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
