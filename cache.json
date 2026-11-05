@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 09:10",
+  "updated_at": "05.11.2026 09:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -205,9 +205,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 6
     },
@@ -282,8 +282,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -328,7 +328,7 @@
     {
       "dt": 1793867700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:44",
+      "time_estimated": "09:38",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -338,11 +338,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 9
+      "delay": 3
     },
     {
       "dt": 1793868600.0,
@@ -366,7 +366,7 @@
     {
       "dt": 1793868600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:23",
+      "time_estimated": "10:30",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -380,7 +380,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 34
+      "delay": 41
     },
     {
       "dt": 1793869200.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793870700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:40",
+      "time_estimated": "10:30",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -434,15 +434,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 6
     },
     {
       "dt": 1793870700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:27",
+      "time_estimated": "10:34",
       "flight_no": "EW9341",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 10
     },
     {
       "dt": 1793870700.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1793875200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:30",
+      "time_estimated": "11:36",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -757,8 +757,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:25",
+      "time_estimated": "12:27",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -898,7 +898,7 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:22",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
       "city": "Pristina",
@@ -1164,7 +1164,7 @@
     {
       "dt": 1793881200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:20",
+      "time_estimated": "13:25",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -1175,10 +1175,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793882100.0,
@@ -1381,6 +1381,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793884500.0,
+      "time_scheduled": "14:15",
+      "time_estimated": "14:15",
+      "flight_no": "OS163",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
