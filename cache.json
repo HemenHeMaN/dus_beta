@@ -1,26 +1,7 @@
 {
-  "updated_at": "05.11.2026 14:15",
+  "updated_at": "05.11.2026 14:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793878200.0,
-      "time_scheduled": "12:30",
-      "time_estimated": "12:19",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793879100.0,
       "time_scheduled": "12:45",
@@ -157,25 +138,6 @@
     {
       "dt": 1793880600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "12:59",
-      "flight_no": "LH2016",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793880600.0,
-      "time_scheduled": "13:10",
       "time_estimated": "13:52",
       "flight_no": "EW9537",
       "airline": "Eurowings",
@@ -191,6 +153,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 42
+    },
+    {
+      "dt": 1793880600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "12:59",
+      "flight_no": "LH2016",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1793880900.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1793887500.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:02",
+      "time_estimated": "14:57",
       "flight_no": "IB1321",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -594,7 +575,7 @@
     {
       "dt": 1793888100.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:21",
+      "time_estimated": "15:20",
       "flight_no": "VL2020",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -605,10 +586,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1793888400.0,
@@ -624,8 +605,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 3
     },
@@ -651,7 +632,7 @@
     {
       "dt": 1793890500.0,
       "time_scheduled": "15:55",
-      "time_estimated": "15:43",
+      "time_estimated": "15:39",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -689,7 +670,7 @@
     {
       "dt": 1793891400.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:16",
+      "time_estimated": "16:18",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -703,7 +684,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1793891700.0,
@@ -765,7 +746,7 @@
     {
       "dt": 1793892000.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:28",
+      "time_estimated": "16:29",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -779,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 9
     },
     {
       "dt": 1793892600.0,
@@ -803,7 +784,7 @@
     {
       "dt": 1793892600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:43",
+      "time_estimated": "16:44",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -817,12 +798,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 13
+      "delay": 14
     },
     {
       "dt": 1793892900.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:27",
+      "time_estimated": "16:28",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -1050,7 +1031,7 @@
     {
       "dt": 1793896200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:27",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1064,12 +1045,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793896200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:22",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -1088,7 +1069,7 @@
     {
       "dt": 1793896500.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:35",
+      "time_estimated": "17:25",
       "flight_no": "BT931",
       "airline": "Air Baltic",
       "city": "Vilnius",
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793896500.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:35",
+      "time_estimated": "17:37",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -1121,7 +1102,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793896800.0,
