@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 13:20",
+  "updated_at": "05.11.2026 13:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -252,7 +252,7 @@
     {
       "dt": 1793879400.0,
       "time_scheduled": "12:50",
-      "time_estimated": "13:36",
+      "time_estimated": "13:23",
       "flight_no": "X32253",
       "airline": "Tuifly",
       "city": "Jerez de la Frontera",
@@ -262,11 +262,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 47
+      "delay": 34
     },
     {
       "dt": 1793879400.0,
@@ -480,7 +480,7 @@
     {
       "dt": 1793882100.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:39",
+      "time_estimated": "13:25",
       "flight_no": "EW9845",
       "airline": "Eurowings",
       "city": "Olbia (Sardinien)",
@@ -490,11 +490,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793882700.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793883300.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:43",
+      "time_estimated": "13:37",
       "flight_no": "SM2926",
       "airline": "Air Cairo",
       "city": "Marsa Alam",
@@ -624,8 +624,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -642,9 +642,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -685,6 +685,25 @@
       "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 3
+    },
+    {
+      "dt": 1793883900.0,
+      "time_scheduled": "14:05",
+      "time_estimated": "14:10",
+      "flight_no": "EW242D",
+      "airline": "Eurowings",
+      "city": "Köln-Bonn",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 5
     },
     {
       "dt": 1793884500.0,
@@ -803,7 +822,7 @@
     {
       "dt": 1793888400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:21",
+      "time_estimated": "15:23",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -817,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793889300.0,
@@ -955,7 +974,7 @@
     {
       "dt": 1793892000.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:20",
+      "time_estimated": "16:28",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -969,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793892600.0,
@@ -1012,7 +1031,7 @@
     {
       "dt": 1793892900.0,
       "time_scheduled": "16:35",
-      "time_estimated": "16:36",
+      "time_estimated": "16:33",
       "flight_no": "EW9975",
       "airline": "Eurowings",
       "city": "Tel Aviv-Ben Gurion",
@@ -1026,7 +1045,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793893200.0,
@@ -1240,7 +1259,7 @@
     {
       "dt": 1793896200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:35",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1251,10 +1270,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793896200.0,
@@ -1573,6 +1592,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793899500.0,
+      "time_scheduled": "18:25",
+      "time_estimated": "18:25",
+      "flight_no": "EW9035",
+      "airline": "Eurowings",
+      "city": "Hamburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
