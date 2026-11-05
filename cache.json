@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 06:20",
+  "updated_at": "05.11.2026 06:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1793860200.0,
       "time_scheduled": "07:30",
-      "time_estimated": "07:29",
+      "time_estimated": "07:34",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -76,7 +76,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793860800.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793867100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:25",
+      "time_estimated": "09:32",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793867400.0,
@@ -347,7 +347,7 @@
     {
       "dt": 1793867400.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:30",
+      "time_estimated": "09:27",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -366,7 +366,7 @@
     {
       "dt": 1793867700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:26",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -442,7 +442,7 @@
     {
       "dt": 1793869200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "09:50",
       "flight_no": "4M496",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -453,8 +453,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -754,6 +754,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793874300.0,
+      "time_scheduled": "11:25",
+      "time_estimated": "11:25",
+      "flight_no": "PC1001",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
