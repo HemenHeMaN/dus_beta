@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 17:15",
+  "updated_at": "05.11.2026 17:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1793895600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:37",
+      "time_estimated": "17:27",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -399,12 +399,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 17
+      "delay": 7
     },
     {
       "dt": 1793896200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:32",
+      "time_estimated": "17:17",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -414,16 +414,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793896200.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:21",
+      "time_estimated": "17:19",
       "flight_no": "EW9735",
       "airline": "Eurowings",
       "city": "Warschau",
@@ -433,9 +433,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -491,8 +491,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -567,29 +567,29 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793898000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:02",
+      "time_estimated": "18:04",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
       "country": "Deutschland",
-      "type": "Linie",
+      "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793898000.0,
@@ -602,7 +602,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "20",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "Im Anflug",
@@ -651,7 +651,7 @@
     {
       "dt": 1793898300.0,
       "time_scheduled": "18:05",
-      "time_estimated": "18:44",
+      "time_estimated": "18:40",
       "flight_no": "EW9467",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 40
+      "delay": 36
     },
     {
       "dt": 1793898600.0,
@@ -680,9 +680,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -792,8 +792,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
+      "baggage": "20",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -898,7 +898,7 @@
     {
       "dt": 1793901900.0,
       "time_scheduled": "19:05",
-      "time_estimated": "18:58",
+      "time_estimated": "19:08",
       "flight_no": "LO407",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -912,7 +912,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793902200.0,
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793904600.0,
       "time_scheduled": "19:50",
-      "time_estimated": "20:19",
+      "time_estimated": "20:23",
       "flight_no": "UD437",
       "airline": "UR Airlines",
       "city": "Erbil",
@@ -1064,7 +1064,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 34
     },
     {
       "dt": 1793904900.0,
@@ -1742,6 +1742,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793913600.0,
+      "time_scheduled": "22:20",
+      "time_estimated": "22:20",
+      "flight_no": "BA940",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
