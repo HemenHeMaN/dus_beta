@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 14:40",
+  "updated_at": "05.11.2026 14:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,25 +100,6 @@
     {
       "dt": 1793880600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:52",
-      "flight_no": "EW9537",
-      "airline": "Eurowings",
-      "city": "Malaga",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 42
-    },
-    {
-      "dt": 1793880600.0,
-      "time_scheduled": "13:10",
       "time_estimated": "12:53",
       "flight_no": "BA932",
       "airline": "British Airways",
@@ -153,6 +134,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793880600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:52",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 42
     },
     {
       "dt": 1793880900.0,
@@ -290,6 +290,25 @@
     {
       "dt": 1793883000.0,
       "time_scheduled": "13:50",
+      "time_estimated": "13:48",
+      "flight_no": "LX1018",
+      "airline": "Swiss",
+      "city": "Zürich",
+      "country": "Schweiz",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793883000.0,
+      "time_scheduled": "13:50",
       "time_estimated": "13:55",
       "flight_no": "EW9681",
       "airline": "Eurowings",
@@ -343,25 +362,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 8
-    },
-    {
-      "dt": 1793883000.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:48",
-      "flight_no": "LX1018",
-      "airline": "Swiss",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793883300.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793886300.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:49",
+      "time_estimated": "14:54",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -513,12 +513,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 10
     },
     {
       "dt": 1793887500.0,
       "time_scheduled": "15:05",
-      "time_estimated": "14:57",
+      "time_estimated": "14:56",
       "flight_no": "IB1321",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -632,7 +632,7 @@
     {
       "dt": 1793891100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:00",
+      "time_estimated": "15:51",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -651,7 +651,7 @@
     {
       "dt": 1793891400.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:17",
+      "time_estimated": "16:16",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 6
     },
     {
       "dt": 1793891700.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1793891700.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:07",
+      "time_estimated": "16:10",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -1140,7 +1140,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793897700.0,
@@ -1568,6 +1568,44 @@
       "airline": "Eurowings",
       "city": "Prag",
       "country": "Tschechien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793904300.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "BA938",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793904300.0,
+      "time_scheduled": "19:45",
+      "time_estimated": "19:45",
+      "flight_no": "EW8046",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
