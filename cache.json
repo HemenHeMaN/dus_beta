@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 06:35",
+  "updated_at": "05.11.2026 06:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,7 +43,7 @@
     {
       "dt": 1793859000.0,
       "time_scheduled": "07:10",
-      "time_estimated": "06:44",
+      "time_estimated": "07:07",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -100,7 +100,7 @@
     {
       "dt": 1793861100.0,
       "time_scheduled": "07:45",
-      "time_estimated": "07:47",
+      "time_estimated": "07:46",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -111,15 +111,15 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 3
+      "delay": 2
     },
     {
       "dt": 1793864100.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:26",
+      "time_estimated": "08:11",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -157,7 +157,7 @@
     {
       "dt": 1793864700.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:24",
+      "time_estimated": "08:32",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -385,7 +385,7 @@
     {
       "dt": 1793867700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:35",
+      "time_estimated": "09:41",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -399,7 +399,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793868600.0,
@@ -792,6 +792,44 @@
       "type": "Charter",
       "type_source": "Flugtyp",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793875200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793875200.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:40",
+      "flight_no": "X32113",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
