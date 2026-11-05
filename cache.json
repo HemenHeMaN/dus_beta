@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 17:40",
+  "updated_at": "05.11.2026 17:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -490,9 +490,9 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 20
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1793897700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:44",
+      "time_estimated": "17:42",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -528,16 +528,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793897700.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:45",
+      "time_estimated": "17:43",
       "flight_no": "KL1803",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -547,16 +547,16 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793898000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:51",
+      "time_estimated": "18:02",
       "flight_no": "LH076",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -570,7 +570,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793898000.0,
@@ -624,8 +624,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -643,8 +643,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 42
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1793901300.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:51",
+      "time_estimated": "18:59",
       "flight_no": "SK627",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -836,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793901300.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793901900.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:04",
+      "time_estimated": "19:17",
       "flight_no": "LX1026",
       "airline": "Swiss",
       "city": "Zürich",
@@ -874,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1793901900.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793908500.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:55",
+      "time_estimated": "20:47",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
