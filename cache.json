@@ -1,45 +1,7 @@
 {
-  "updated_at": "05.11.2026 15:55",
+  "updated_at": "05.11.2026 16:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793883000.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:55",
-      "flight_no": "EW9681",
-      "airline": "Eurowings",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 5
-    },
-    {
-      "dt": 1793883000.0,
-      "time_scheduled": "13:50",
-      "time_estimated": "13:58",
-      "flight_no": "KL1801",
-      "airline": "KLM",
-      "city": "Amsterdam",
-      "country": "Niederlande",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 8
-    },
     {
       "dt": 1793883600.0,
       "time_scheduled": "14:00",
@@ -282,8 +244,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -328,7 +290,7 @@
     {
       "dt": 1793891700.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:07",
+      "time_estimated": "16:16",
       "flight_no": "EW9753",
       "airline": "Eurowings",
       "city": "Wien",
@@ -342,7 +304,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793891700.0,
@@ -357,16 +319,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793892000.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:02",
+      "time_estimated": "15:56",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -376,9 +338,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -404,7 +366,7 @@
     {
       "dt": 1793892600.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:44",
+      "time_estimated": "16:38",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -418,7 +380,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 8
     },
     {
       "dt": 1793892900.0,
@@ -461,7 +423,7 @@
     {
       "dt": 1793893500.0,
       "time_scheduled": "16:45",
-      "time_estimated": "17:03",
+      "time_estimated": "17:01",
       "flight_no": "VL2022",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -472,10 +434,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 16
     },
     {
       "dt": 1793893500.0,
@@ -594,7 +556,7 @@
     {
       "dt": 1793895300.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:12",
+      "time_estimated": "17:14",
       "flight_no": "EW9343",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -605,15 +567,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793895600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:18",
+      "time_estimated": "17:17",
       "flight_no": "OS165",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -624,15 +586,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793895600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:25",
+      "time_estimated": "17:41",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -646,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 21
     },
     {
       "dt": 1793896200.0,
@@ -993,7 +955,7 @@
     {
       "dt": 1793899500.0,
       "time_scheduled": "18:25",
-      "time_estimated": "18:33",
+      "time_estimated": "18:41",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1007,12 +969,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 16
     },
     {
       "dt": 1793900100.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:03",
+      "time_estimated": "19:01",
       "flight_no": "EW9979",
       "airline": "Eurowings",
       "city": "Erbil",
@@ -1026,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 28
+      "delay": 27
     },
     {
       "dt": 1793901000.0,
@@ -1183,7 +1145,7 @@
     {
       "dt": 1793902200.0,
       "time_scheduled": "19:10",
-      "time_estimated": "19:10",
+      "time_estimated": "19:03",
       "flight_no": "OS167",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -1511,6 +1473,25 @@
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793908800.0,
+      "time_scheduled": "21:00",
+      "time_estimated": "21:00",
+      "flight_no": "EW9085",
+      "airline": "Eurowings",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
