@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 20:30",
+  "updated_at": "05.11.2026 20:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 35
-    },
-    {
-      "dt": 1793898600.0,
-      "time_scheduled": "18:10",
-      "time_estimated": "18:31",
-      "flight_no": "EW9641",
-      "airline": "Eurowings",
-      "city": "Porto",
-      "country": "Portugal",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 21
     },
     {
       "dt": 1793900100.0,
@@ -490,9 +471,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 6
     },
@@ -594,7 +575,7 @@
     {
       "dt": 1793911200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "22:12",
+      "time_estimated": "22:22",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -608,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 33
+      "delay": 43
     },
     {
       "dt": 1793911200.0,
@@ -708,7 +689,7 @@
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:46",
+      "time_estimated": "21:49",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -719,10 +700,10 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 4
     },
     {
       "dt": 1793911500.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1793913300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:00",
+      "time_estimated": "21:59",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -966,8 +947,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
