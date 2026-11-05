@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 21:30",
+  "updated_at": "05.11.2026 21:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -110,25 +110,6 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793904900.0,
-      "time_scheduled": "19:55",
-      "time_estimated": "19:33",
-      "flight_no": "X36533",
-      "airline": "Tuifly",
-      "city": "Luxor",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -271,15 +252,15 @@
     {
       "dt": 1793908500.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:49",
-      "flight_no": "EW9511",
+      "time_estimated": "20:40",
+      "flight_no": "EW9023",
       "airline": "Eurowings",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
+      "city": "Dresden",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
+      "terminal": "B",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -290,15 +271,15 @@
     {
       "dt": 1793908500.0,
       "time_scheduled": "20:55",
-      "time_estimated": "20:40",
-      "flight_no": "EW9023",
+      "time_estimated": "20:49",
+      "flight_no": "EW9511",
       "airline": "Eurowings",
-      "city": "Dresden",
-      "country": "Deutschland",
+      "city": "Madrid-Barajas",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
+      "terminal": "A",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -328,7 +309,7 @@
     {
       "dt": 1793909700.0,
       "time_scheduled": "21:15",
-      "time_estimated": "21:37",
+      "time_estimated": "21:31",
       "flight_no": "DE1435",
       "airline": "Condor",
       "city": "Gran Canaria",
@@ -338,11 +319,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 23
+      "delay": 16
     },
     {
       "dt": 1793910300.0,
@@ -366,7 +347,7 @@
     {
       "dt": 1793911200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "22:19",
+      "time_estimated": "22:22",
       "flight_no": "AF1106",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -377,15 +358,15 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 40
+      "delay": 43
     },
     {
       "dt": 1793911200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:35",
+      "time_estimated": "21:41",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -399,7 +380,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793911500.0,
@@ -453,15 +434,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:44",
+      "time_estimated": "21:39",
       "flight_no": "EW9037",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -472,8 +453,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +499,7 @@
     {
       "dt": 1793911800.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:34",
+      "time_estimated": "21:32",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -528,9 +509,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1793912100.0,
       "time_scheduled": "21:55",
-      "time_estimated": "21:39",
+      "time_estimated": "21:34",
       "flight_no": "EW9443",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -566,9 +547,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1793913000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:40",
+      "time_estimated": "22:36",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -703,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 26
     },
     {
       "dt": 1793913300.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1793913600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:48",
+      "time_estimated": "22:29",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -798,7 +779,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 10
     },
     {
       "dt": 1793914200.0,
