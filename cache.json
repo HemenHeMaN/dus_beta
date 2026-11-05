@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 18:25",
+  "updated_at": "05.11.2026 18:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 22
     },
     {
-      "dt": 1793892600.0,
-      "time_scheduled": "16:30",
-      "time_estimated": "16:25",
-      "flight_no": "EW9531",
-      "airline": "Eurowings",
-      "city": "Alicante",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793892900.0,
       "time_scheduled": "16:35",
       "time_estimated": "16:34",
@@ -53,25 +34,6 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793893200.0,
-      "time_scheduled": "16:40",
-      "time_estimated": "16:27",
-      "flight_no": "TP542",
-      "airline": "TAP Portugal",
-      "city": "Lissabon",
-      "country": "Portugal",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -461,25 +423,6 @@
     {
       "dt": 1793898000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "17:32",
-      "flight_no": "XQ182",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793898000.0,
-      "time_scheduled": "18:00",
       "time_estimated": "17:50",
       "flight_no": "EW9365",
       "airline": "Eurowings",
@@ -490,6 +433,25 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793898000.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "17:32",
+      "flight_no": "XQ182",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -529,8 +491,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 35
     },
@@ -556,7 +518,7 @@
     {
       "dt": 1793898600.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:47",
+      "time_estimated": "18:37",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -570,7 +532,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 37
+      "delay": 27
     },
     {
       "dt": 1793898600.0,
@@ -680,9 +642,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -822,7 +784,7 @@
     {
       "dt": 1793903400.0,
       "time_scheduled": "19:30",
-      "time_estimated": "19:25",
+      "time_estimated": "19:28",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -833,8 +795,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1240,7 +1202,7 @@
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:45",
+      "time_estimated": "22:19",
       "flight_no": "DE1421",
       "airline": "Condor",
       "city": "Lanzarote-Arrecife",
@@ -1251,10 +1213,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 34
     },
     {
       "dt": 1793911500.0,
