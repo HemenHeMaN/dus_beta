@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 20:25",
+  "updated_at": "05.11.2026 20:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -442,7 +442,7 @@
     {
       "dt": 1793907300.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:29",
+      "time_estimated": "20:26",
       "flight_no": "EW7066",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -452,16 +452,16 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793907600.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:28",
+      "time_estimated": "20:25",
       "flight_no": "EW9725",
       "airline": "Eurowings",
       "city": "Graz",
@@ -471,9 +471,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -510,8 +510,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793911200.0,
       "time_scheduled": "21:40",
-      "time_estimated": "21:39",
+      "time_estimated": "21:40",
       "flight_no": "EW9755",
       "airline": "Eurowings",
       "city": "Wien",
@@ -624,8 +624,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:46",
+      "time_estimated": "21:33",
       "flight_no": "EW9047",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793911500.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:36",
+      "time_estimated": "21:46",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -722,12 +722,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "21:29",
+      "time_estimated": "21:30",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -738,15 +738,15 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793911800.0,
       "time_scheduled": "21:50",
-      "time_estimated": "21:57",
+      "time_estimated": "21:42",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -760,7 +760,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793912100.0,
@@ -803,7 +803,7 @@
     {
       "dt": 1793912400.0,
       "time_scheduled": "22:00",
-      "time_estimated": "21:53",
+      "time_estimated": "21:57",
       "flight_no": "EW9413",
       "airline": "Eurowings",
       "city": "Lyon",
@@ -879,7 +879,7 @@
     {
       "dt": 1793912700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:02",
+      "time_estimated": "22:12",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -890,10 +890,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793913000.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793913300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:08",
+      "time_estimated": "21:59",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793913600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:21",
+      "time_estimated": "22:17",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1026,7 +1026,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793914200.0,
