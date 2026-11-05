@@ -1,26 +1,7 @@
 {
-  "updated_at": "05.11.2026 16:10",
+  "updated_at": "05.11.2026 16:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793883900.0,
-      "time_scheduled": "14:05",
-      "time_estimated": "14:12",
-      "flight_no": "EW242D",
-      "airline": "Eurowings",
-      "city": "Köln-Bonn",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 7
-    },
     {
       "dt": 1793885400.0,
       "time_scheduled": "14:30",
@@ -195,7 +176,7 @@
     {
       "dt": 1793891400.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:29",
+      "time_estimated": "16:23",
       "flight_no": "XR504",
       "airline": "Corendon Airlines Europe",
       "city": "Gran Canaria",
@@ -209,7 +190,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 19
+      "delay": 14
     },
     {
       "dt": 1793891700.0,
@@ -319,9 +300,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -357,9 +338,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1793898000.0,
       "time_scheduled": "18:00",
-      "time_estimated": "18:08",
+      "time_estimated": "17:59",
       "flight_no": "EW9365",
       "airline": "Eurowings",
       "city": "Edinburgh",
@@ -779,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1793898000.0,
@@ -841,7 +822,7 @@
     {
       "dt": 1793898600.0,
       "time_scheduled": "18:10",
-      "time_estimated": "18:34",
+      "time_estimated": "18:24",
       "flight_no": "EW9641",
       "airline": "Eurowings",
       "city": "Porto",
@@ -855,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 14
     },
     {
       "dt": 1793898600.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1793904900.0,
       "time_scheduled": "19:55",
-      "time_estimated": "19:52",
+      "time_estimated": "19:46",
       "flight_no": "X36533",
       "airline": "Tuifly",
       "city": "Luxor",
@@ -1440,6 +1421,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793909700.0,
+      "time_scheduled": "21:15",
+      "time_estimated": "21:15",
+      "flight_no": "DE1435",
+      "airline": "Condor",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
