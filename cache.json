@@ -1,26 +1,7 @@
 {
-  "updated_at": "05.11.2026 22:15",
+  "updated_at": "05.11.2026 22:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793904600.0,
-      "time_scheduled": "19:50",
-      "time_estimated": "20:17",
-      "flight_no": "UD437",
-      "airline": "UR Airlines",
-      "city": "Erbil",
-      "country": "Irak",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 27
-    },
     {
       "dt": 1793907300.0,
       "time_scheduled": "20:35",
@@ -214,7 +195,7 @@
     {
       "dt": 1793911500.0,
       "time_scheduled": "21:45",
-      "time_estimated": "22:32",
+      "time_estimated": "22:18",
       "flight_no": "DE1421",
       "airline": "Condor",
       "city": "Lanzarote-Arrecife",
@@ -224,11 +205,11 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 48
+      "delay": 34
     },
     {
       "dt": 1793911500.0,
@@ -480,7 +461,7 @@
     {
       "dt": 1793913000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:19",
+      "time_estimated": "22:15",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -490,11 +471,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 5
     },
     {
       "dt": 1793913000.0,
@@ -575,7 +556,7 @@
     {
       "dt": 1793913300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:22",
+      "time_estimated": "22:54",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -589,12 +570,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 39
     },
     {
       "dt": 1793913600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:25",
+      "time_estimated": "22:17",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -604,11 +585,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793914200.0,
@@ -661,9 +642,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1793914500.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:37",
+      "time_estimated": "22:30",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -700,15 +681,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793914800.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:31",
+      "time_estimated": "22:25",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -719,8 +700,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
