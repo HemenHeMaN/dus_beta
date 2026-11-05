@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 07:15",
+  "updated_at": "05.11.2026 07:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1793860200.0,
       "time_scheduled": "07:30",
-      "time_estimated": "07:34",
+      "time_estimated": "07:25",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -76,7 +76,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793860800.0,
@@ -110,9 +110,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -138,7 +138,7 @@
     {
       "dt": 1793864400.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:41",
+      "time_estimated": "08:51",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -152,7 +152,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 12
     },
     {
       "dt": 1793864700.0,
@@ -195,7 +195,7 @@
     {
       "dt": 1793865000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:54",
+      "time_estimated": "08:45",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -209,7 +209,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793865300.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1793870700.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:25",
+      "time_estimated": "10:20",
       "flight_no": "EW9041",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -865,6 +865,25 @@
       "airline": "Eurowings",
       "city": "Barcelona",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793877600.0,
+      "time_scheduled": "12:20",
+      "time_estimated": "12:20",
+      "flight_no": "TP540",
+      "airline": "TAP Portugal",
+      "city": "Lissabon",
+      "country": "Portugal",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
