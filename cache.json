@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 15:10",
+  "updated_at": "05.11.2026 15:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -41,25 +41,6 @@
       "delay": 12
     },
     {
-      "dt": 1793880300.0,
-      "time_scheduled": "13:05",
-      "time_estimated": "13:13",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 8
-    },
-    {
       "dt": 1793880600.0,
       "time_scheduled": "13:10",
       "time_estimated": "13:52",
@@ -77,25 +58,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 42
-    },
-    {
-      "dt": 1793881200.0,
-      "time_scheduled": "13:20",
-      "time_estimated": "13:15",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793882100.0,
@@ -442,7 +404,7 @@
     {
       "dt": 1793888400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:27",
+      "time_estimated": "15:13",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -452,11 +414,11 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 0
     },
     {
       "dt": 1793889300.0,
@@ -490,16 +452,16 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793891100.0,
       "time_scheduled": "16:05",
-      "time_estimated": "16:05",
+      "time_estimated": "16:11",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -513,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793891400.0,
@@ -860,7 +822,7 @@
     {
       "dt": 1793895600.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:27",
+      "time_estimated": "17:25",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -874,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 6
     },
     {
       "dt": 1793896200.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793896500.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:37",
+      "time_estimated": "17:32",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -950,7 +912,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793896800.0,
@@ -1240,7 +1202,7 @@
     {
       "dt": 1793900100.0,
       "time_scheduled": "18:35",
-      "time_estimated": "19:08",
+      "time_estimated": "19:03",
       "flight_no": "EW9979",
       "airline": "Eurowings",
       "city": "Erbil",
@@ -1254,7 +1216,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 34
+      "delay": 28
     },
     {
       "dt": 1793901000.0,
@@ -1599,9 +1561,47 @@
       "delay": 0
     },
     {
+      "dt": 1793906100.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:15",
+      "flight_no": "EJU3949",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793906100.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:15",
+      "flight_no": "EW4676",
+      "airline": "Eurowings",
+      "city": "Stockholm-Arlanda",
+      "country": "Schweden",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
       "dt": 1793906700.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:07",
+      "time_estimated": "20:12",
       "flight_no": "XR6442",
       "airline": "Corendon Airlines Europe",
       "city": "Marsa Alam",
