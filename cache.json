@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 07:25",
+  "updated_at": "05.11.2026 07:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1793860200.0,
       "time_scheduled": "07:30",
-      "time_estimated": "07:46",
+      "time_estimated": "07:25",
       "flight_no": "EY133",
       "airline": "Etihad Airways",
       "city": "Abu Dhabi",
@@ -72,11 +72,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 0
     },
     {
       "dt": 1793860800.0,
@@ -100,7 +100,7 @@
     {
       "dt": 1793861100.0,
       "time_scheduled": "07:45",
-      "time_estimated": "07:41",
+      "time_estimated": "07:36",
       "flight_no": "EW4334",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -195,7 +195,7 @@
     {
       "dt": 1793865000.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:45",
+      "time_estimated": "08:47",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -252,7 +252,7 @@
     {
       "dt": 1793865900.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:59",
+      "time_estimated": "09:07",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -266,7 +266,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793866200.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793867100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:27",
+      "time_estimated": "09:19",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793867400.0,
@@ -911,6 +911,63 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793878200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "XC102",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793878200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793878200.0,
+      "time_scheduled": "12:30",
+      "time_estimated": "12:30",
+      "flight_no": "IV8220",
+      "airline": "GP Aviation",
+      "city": "Pristina",
+      "country": "Kosovo",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
