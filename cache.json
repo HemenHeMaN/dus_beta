@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 12:05",
+  "updated_at": "05.11.2026 12:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -461,7 +461,7 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:13",
+      "time_estimated": "12:07",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -471,9 +471,9 @@
       "terminal": "C",
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +537,7 @@
     {
       "dt": 1793879100.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:50",
+      "time_estimated": "12:52",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -551,7 +551,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 8
     },
     {
       "dt": 1793879400.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1793883900.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:12",
+      "time_estimated": "14:22",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -988,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 18
     },
     {
       "dt": 1793884500.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793887500.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:05",
+      "time_estimated": "15:10",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793888100.0,
@@ -1459,6 +1459,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793895000.0,
+      "time_scheduled": "17:10",
+      "time_estimated": "17:10",
+      "flight_no": "XQ988",
+      "airline": "Sun Express",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
