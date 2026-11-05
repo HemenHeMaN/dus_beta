@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 13:10",
+  "updated_at": "05.11.2026 13:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,25 +24,6 @@
     {
       "dt": 1793873400.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:13",
-      "flight_no": "A3840",
-      "airline": "Aegean Airlines",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
-    },
-    {
-      "dt": 1793873400.0,
-      "time_scheduled": "11:10",
       "time_estimated": "11:19",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 10
-    },
-    {
-      "dt": 1793874300.0,
-      "time_scheduled": "11:25",
-      "time_estimated": "11:11",
-      "flight_no": "PC1001",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793874900.0,
@@ -320,8 +282,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 47
     },
@@ -366,7 +328,7 @@
     {
       "dt": 1793880300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:16",
+      "time_estimated": "13:14",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -380,12 +342,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 10
     },
     {
       "dt": 1793880300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:29",
+      "time_estimated": "13:13",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -395,11 +357,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 8
     },
     {
       "dt": 1793880600.0,
@@ -518,7 +480,7 @@
     {
       "dt": 1793881200.0,
       "time_scheduled": "13:20",
-      "time_estimated": "13:16",
+      "time_estimated": "13:15",
       "flight_no": "MS733",
       "airline": "Egypt Air",
       "city": "Kairo",
@@ -528,9 +490,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -547,9 +509,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 5
     },
@@ -575,7 +537,7 @@
     {
       "dt": 1793882700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:59",
+      "time_estimated": "13:55",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -586,10 +548,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 11
     },
     {
       "dt": 1793883000.0,
@@ -822,7 +784,7 @@
     {
       "dt": 1793887500.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:10",
+      "time_estimated": "15:05",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -836,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793888100.0,
