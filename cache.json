@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 07:45",
+  "updated_at": "05.11.2026 07:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -81,7 +81,7 @@
     {
       "dt": 1793860800.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:56",
+      "time_estimated": "07:48",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -91,11 +91,11 @@
       "terminal": "B",
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 17
+      "delay": 9
     },
     {
       "dt": 1793861100.0,
@@ -129,9 +129,9 @@
       "terminal": "B",
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -366,7 +366,7 @@
     {
       "dt": 1793867700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:31",
+      "time_estimated": "09:54",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -380,7 +380,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 20
     },
     {
       "dt": 1793867700.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793868600.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:05",
+      "time_estimated": "10:30",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -437,7 +437,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 41
     },
     {
       "dt": 1793869200.0,
@@ -556,7 +556,7 @@
     {
       "dt": 1793871000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:35",
+      "time_estimated": "11:53",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -570,7 +570,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 84
     },
     {
       "dt": 1793871000.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793872500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:55",
+      "time_estimated": "10:54",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1001,6 +1001,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793879400.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "X32253",
+      "airline": "Tuifly",
+      "city": "Jerez de la Frontera",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793879400.0,
+      "time_scheduled": "12:50",
+      "time_estimated": "12:50",
+      "flight_no": "GQ890",
+      "airline": "Sky Express",
+      "city": "Athen",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
