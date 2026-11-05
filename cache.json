@@ -1,26 +1,7 @@
 {
-  "updated_at": "05.11.2026 12:10",
+  "updated_at": "05.11.2026 12:15",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793868600.0,
-      "time_scheduled": "09:50",
-      "time_estimated": "10:12",
-      "flight_no": "EW9761",
-      "airline": "Eurowings",
-      "city": "Zürich",
-      "country": "Schweiz",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "4",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 22
-    },
     {
       "dt": 1793870100.0,
       "time_scheduled": "10:15",
@@ -442,7 +423,7 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:18",
+      "time_estimated": "12:14",
       "flight_no": "EK055",
       "airline": "Emirates",
       "city": "Dubai",
@@ -452,9 +433,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -480,7 +461,7 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:18",
+      "time_estimated": "12:24",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -594,7 +575,7 @@
     {
       "dt": 1793880300.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:45",
+      "time_estimated": "12:46",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -670,7 +651,7 @@
     {
       "dt": 1793880600.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:14",
+      "time_estimated": "13:13",
       "flight_no": "LH2016",
       "airline": "Lufthansa",
       "city": "München",
@@ -681,10 +662,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 5
+      "delay": 4
     },
     {
       "dt": 1793880600.0,
@@ -1478,6 +1459,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793895300.0,
+      "time_scheduled": "17:15",
+      "time_estimated": "17:15",
+      "flight_no": "EW9343",
+      "airline": "Eurowings",
+      "city": "Manchester",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
