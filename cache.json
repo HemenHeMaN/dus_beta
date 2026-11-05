@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 11:40",
+  "updated_at": "05.11.2026 11:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -168,8 +168,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 93
     },
@@ -385,7 +385,7 @@
     {
       "dt": 1793874900.0,
       "time_scheduled": "11:35",
-      "time_estimated": "11:48",
+      "time_estimated": "11:53",
       "flight_no": "MI7160",
       "airline": "Freebird Airlines Europe",
       "city": "Skopje",
@@ -399,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 13
+      "delay": 18
     },
     {
       "dt": 1793875200.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1793875200.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:02",
+      "time_estimated": "11:53",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -437,12 +437,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 22
+      "delay": 14
     },
     {
       "dt": 1793875500.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:47",
+      "time_estimated": "11:44",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -452,11 +452,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1793876400.0,
@@ -585,9 +585,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -955,7 +955,7 @@
     {
       "dt": 1793883000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:00",
+      "time_estimated": "14:05",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -969,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 16
     },
     {
       "dt": 1793883300.0,
@@ -1400,6 +1400,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793893500.0,
+      "time_scheduled": "16:45",
+      "time_estimated": "16:45",
+      "flight_no": "VL2022",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793893500.0,
+      "time_scheduled": "16:45",
+      "time_estimated": "16:45",
+      "flight_no": "EW9519",
+      "airline": "Eurowings",
+      "city": "Bilbao",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
