@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 09:30",
+  "updated_at": "05.11.2026 09:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 9
-    },
-    {
-      "dt": 1793861100.0,
-      "time_scheduled": "07:45",
-      "time_estimated": "07:35",
-      "flight_no": "EW4334",
-      "airline": "Eurowings",
-      "city": "Salzburg",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793864100.0,
@@ -300,16 +281,16 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 15
     },
     {
       "dt": 1793867700.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:32",
+      "time_estimated": "09:30",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -319,9 +300,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -338,9 +319,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -385,7 +366,7 @@
     {
       "dt": 1793870100.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:44",
+      "time_estimated": "10:39",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -396,10 +377,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 24
     },
     {
       "dt": 1793870700.0,
@@ -537,7 +518,7 @@
     {
       "dt": 1793872500.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:54",
+      "time_estimated": "10:59",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -551,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793873100.0,
@@ -575,7 +556,7 @@
     {
       "dt": 1793873100.0,
       "time_scheduled": "11:05",
-      "time_estimated": "10:59",
+      "time_estimated": "10:57",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -803,7 +784,7 @@
     {
       "dt": 1793877600.0,
       "time_scheduled": "12:20",
-      "time_estimated": "12:09",
+      "time_estimated": "12:11",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -814,8 +795,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
