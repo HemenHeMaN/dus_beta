@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 13:25",
+  "updated_at": "05.11.2026 13:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 16
-    },
-    {
-      "dt": 1793875200.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:30",
-      "flight_no": "A3540",
-      "airline": "Aegean Airlines",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793875200.0,
@@ -157,15 +138,15 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:19",
-      "flight_no": "VF025",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
+      "time_estimated": "12:07",
+      "flight_no": "XC102",
+      "airline": "Corendon Airlines",
+      "city": "Antalya",
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
+      "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -176,15 +157,15 @@
     {
       "dt": 1793878200.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:07",
-      "flight_no": "XC102",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
+      "time_estimated": "12:19",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "20",
+      "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -509,16 +490,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 11
     },
     {
       "dt": 1793882700.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:55",
+      "time_estimated": "13:47",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -528,11 +509,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 3
     },
     {
       "dt": 1793883000.0,
@@ -594,7 +575,7 @@
     {
       "dt": 1793883000.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:03",
+      "time_estimated": "14:09",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -605,10 +586,10 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 14
+      "delay": 20
     },
     {
       "dt": 1793883300.0,
@@ -643,8 +624,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -696,7 +677,7 @@
       "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -822,7 +803,7 @@
     {
       "dt": 1793888400.0,
       "time_scheduled": "15:20",
-      "time_estimated": "15:23",
+      "time_estimated": "15:27",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -836,7 +817,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 8
     },
     {
       "dt": 1793889300.0,
@@ -1126,7 +1107,7 @@
     {
       "dt": 1793894400.0,
       "time_scheduled": "17:00",
-      "time_estimated": "17:00",
+      "time_estimated": "16:34",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
