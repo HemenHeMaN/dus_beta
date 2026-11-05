@@ -1,26 +1,7 @@
 {
-  "updated_at": "05.11.2026 08:05",
+  "updated_at": "05.11.2026 08:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793856900.0,
-      "time_scheduled": "06:35",
-      "time_estimated": "06:09",
-      "flight_no": "XQ188",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793859000.0,
       "time_scheduled": "07:10",
@@ -290,7 +271,7 @@
     {
       "dt": 1793867100.0,
       "time_scheduled": "09:25",
-      "time_estimated": "09:19",
+      "time_estimated": "09:17",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -301,8 +282,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -423,7 +404,7 @@
     {
       "dt": 1793869200.0,
       "time_scheduled": "10:00",
-      "time_estimated": "09:48",
+      "time_estimated": "09:42",
       "flight_no": "4M496",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -537,7 +518,7 @@
     {
       "dt": 1793871000.0,
       "time_scheduled": "10:30",
-      "time_estimated": "11:53",
+      "time_estimated": "11:54",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -551,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 84
+      "delay": 85
     },
     {
       "dt": 1793871000.0,
@@ -613,7 +594,7 @@
     {
       "dt": 1793873100.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:05",
+      "time_estimated": "11:15",
       "flight_no": "EW7060",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -627,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793873100.0,
@@ -651,7 +632,7 @@
     {
       "dt": 1793873400.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:10",
+      "time_estimated": "11:14",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -665,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793873400.0,
@@ -746,7 +727,7 @@
     {
       "dt": 1793874300.0,
       "time_scheduled": "11:25",
-      "time_estimated": "11:25",
+      "time_estimated": "11:13",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1077,6 +1058,63 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793880600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "BA932",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793880600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "LH2016",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793880600.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "EW9537",
+      "airline": "Eurowings",
+      "city": "Malaga",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
