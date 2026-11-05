@@ -1,5 +1,5 @@
 {
-  "updated_at": "05.11.2026 19:10",
+  "updated_at": "05.11.2026 19:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -53,25 +53,6 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793896500.0,
-      "time_scheduled": "17:35",
-      "time_estimated": "17:11",
-      "flight_no": "BT931",
-      "airline": "Air Baltic",
-      "city": "Vilnius",
-      "country": "Litauen",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -586,8 +567,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -604,9 +585,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -738,8 +719,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 3
     },
@@ -1221,7 +1202,7 @@
     {
       "dt": 1793912700.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:05",
+      "time_estimated": "22:14",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1235,7 +1216,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793912700.0,
@@ -1278,7 +1259,7 @@
     {
       "dt": 1793913000.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:10",
+      "time_estimated": "22:21",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1292,12 +1273,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793913300.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:15",
+      "time_estimated": "22:17",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -1311,7 +1292,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 3
     },
     {
       "dt": 1793913300.0,
@@ -1373,7 +1354,7 @@
     {
       "dt": 1793913600.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:20",
+      "time_estimated": "22:21",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1387,7 +1368,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793914200.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793914200.0,
       "time_scheduled": "22:30",
-      "time_estimated": "22:30",
+      "time_estimated": "22:18",
       "flight_no": "LO405",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
