@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 18:10",
+  "updated_at": "06.11.2026 18:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 93
-    },
-    {
-      "dt": 1793977200.0,
-      "time_scheduled": "16:00",
-      "time_estimated": "16:12",
-      "flight_no": "TU526",
-      "airline": "Tunisair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 13
     },
     {
       "dt": 1793978100.0,
@@ -347,7 +328,7 @@
     {
       "dt": 1793981700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "18:14",
+      "time_estimated": "18:15",
       "flight_no": "KK491",
       "airline": "LEAV Aviation",
       "city": "Damaskus",
@@ -357,9 +338,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 60
     },
@@ -491,8 +472,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 56
     },
@@ -699,9 +680,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1793987700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:31",
+      "time_estimated": "18:26",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
@@ -776,8 +757,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1107,7 +1088,7 @@
     {
       "dt": 1793991900.0,
       "time_scheduled": "20:05",
-      "time_estimated": "20:18",
+      "time_estimated": "19:46",
       "flight_no": "EJU3949",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -1121,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 0
     },
     {
       "dt": 1793992200.0,
@@ -1240,7 +1221,7 @@
     {
       "dt": 1793993700.0,
       "time_scheduled": "20:35",
-      "time_estimated": "20:50",
+      "time_estimated": "20:45",
       "flight_no": "DE1457",
       "airline": "Condor",
       "city": "Fuerteventura",
@@ -1254,12 +1235,12 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 10
     },
     {
       "dt": 1793994000.0,
       "time_scheduled": "20:40",
-      "time_estimated": "20:51",
+      "time_estimated": "21:02",
       "flight_no": "EW9035",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -1273,7 +1254,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 22
     },
     {
       "dt": 1793994900.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793997300.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:19",
+      "time_estimated": "21:18",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -2000,7 +1981,7 @@
     {
       "dt": 1794001800.0,
       "time_scheduled": "22:50",
-      "time_estimated": "22:50",
+      "time_estimated": "23:10",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -2011,10 +1992,10 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 20
     }
   ]
 }
