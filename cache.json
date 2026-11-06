@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 15:10",
+  "updated_at": "06.11.2026 15:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 71
     },
     {
-      "dt": 1793965200.0,
-      "time_scheduled": "12:40",
-      "time_estimated": "13:12",
-      "flight_no": "EW9793",
-      "airline": "Eurowings",
-      "city": "Bukarest-Otopeni",
-      "country": "Rumänien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 32
-    },
-    {
       "dt": 1793966700.0,
       "time_scheduled": "13:05",
       "time_estimated": "13:16",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 12
-    },
-    {
-      "dt": 1793967000.0,
-      "time_scheduled": "13:10",
-      "time_estimated": "13:14",
-      "flight_no": "QR085",
-      "airline": "Qatar Airways",
-      "city": "Doha",
-      "country": "Katar",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 4
     },
     {
       "dt": 1793967300.0,
@@ -415,8 +377,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 24
     },
@@ -490,9 +452,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -509,9 +471,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -599,11 +561,11 @@
       "airline": "Pegasus Airlines",
       "city": "Ankara-Esenboğa",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "17",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -670,7 +632,7 @@
     {
       "dt": 1793979000.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:30",
+      "time_estimated": "16:27",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -784,7 +746,7 @@
     {
       "dt": 1793980500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:15",
+      "time_estimated": "17:09",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -798,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 15
     },
     {
       "dt": 1793981100.0,
@@ -955,7 +917,7 @@
     {
       "dt": 1793982000.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:51",
+      "time_estimated": "17:43",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -969,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 32
+      "delay": 24
     },
     {
       "dt": 1793982000.0,
@@ -1259,7 +1221,7 @@
     {
       "dt": 1793985300.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:06",
+      "time_estimated": "18:05",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -1270,8 +1232,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1704,6 +1666,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793992500.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:15",
+      "flight_no": "XR506",
+      "airline": "Corendon Airlines Europe",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793992500.0,
+      "time_scheduled": "20:15",
+      "time_estimated": "20:15",
+      "flight_no": "VY1096",
+      "airline": "Vueling",
+      "city": "Barcelona",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
