@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 11:45",
+  "updated_at": "06.11.2026 11:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -442,7 +442,7 @@
     {
       "dt": 1793961900.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:52",
+      "time_estimated": "11:45",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -452,11 +452,11 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 1
     },
     {
       "dt": 1793962800.0,
@@ -547,9 +547,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1297,7 +1297,7 @@
     {
       "dt": 1793977200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:06",
+      "time_estimated": "15:57",
       "flight_no": "EW9981",
       "airline": "Eurowings",
       "city": "Beirut",
@@ -1311,7 +1311,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793977800.0,
@@ -1476,6 +1476,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793980200.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:50",
+      "flight_no": "EW9531",
+      "airline": "Eurowings",
+      "city": "Alicante",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793980200.0,
+      "time_scheduled": "16:50",
+      "time_estimated": "16:50",
+      "flight_no": "GQ590",
+      "airline": "Sky Express",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
