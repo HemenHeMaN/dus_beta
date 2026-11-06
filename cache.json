@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 22:15",
+  "updated_at": "06.11.2026 22:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -537,7 +537,7 @@
     {
       "dt": 1793999400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:39",
+      "time_estimated": "22:45",
       "flight_no": "EW9337",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -547,16 +547,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 30
+      "delay": 35
     },
     {
       "dt": 1793999400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:18",
+      "time_estimated": "22:16",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -566,11 +566,11 @@
       "terminal": "B",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 8
+      "delay": 6
     },
     {
       "dt": 1793999400.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:22",
+      "time_estimated": "22:17",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -623,16 +623,16 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:49",
+      "time_estimated": "22:57",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -646,7 +646,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 35
+      "delay": 43
     },
     {
       "dt": 1793999700.0,
@@ -661,16 +661,16 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 22
     },
     {
       "dt": 1794000000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:31",
+      "time_estimated": "22:19",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -680,11 +680,11 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 11
+      "delay": 0
     },
     {
       "dt": 1794000000.0,
@@ -700,8 +700,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1794001200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:39",
+      "time_estimated": "22:32",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -833,8 +833,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
