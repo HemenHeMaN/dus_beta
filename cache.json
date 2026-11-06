@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 14:00",
+  "updated_at": "06.11.2026 14:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -385,7 +385,7 @@
     {
       "dt": 1793967300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "14:15",
+      "time_estimated": "14:10",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -399,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 61
+      "delay": 56
     },
     {
       "dt": 1793967600.0,
@@ -518,7 +518,7 @@
     {
       "dt": 1793969400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:00",
+      "time_estimated": "14:01",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -528,16 +528,16 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 11
     },
     {
       "dt": 1793969400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "14:09",
+      "time_estimated": "14:03",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -547,11 +547,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 14
     },
     {
       "dt": 1793969700.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1793977200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:09",
+      "time_estimated": "16:21",
       "flight_no": "TU526",
       "airline": "Tunisair",
       "city": "Tunis",
@@ -852,10 +852,10 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 9
+      "delay": 21
     },
     {
       "dt": 1793977200.0,
@@ -1088,7 +1088,7 @@
     {
       "dt": 1793980500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "16:55",
+      "time_estimated": "17:05",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -1102,12 +1102,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 10
     },
     {
       "dt": 1793981100.0,
       "time_scheduled": "17:05",
-      "time_estimated": "14:25",
+      "time_estimated": "17:42",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1121,7 +1121,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 37
     },
     {
       "dt": 1793981100.0,
@@ -1725,6 +1725,82 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793988300.0,
+      "time_scheduled": "19:05",
+      "time_estimated": "19:05",
+      "flight_no": "EW9425",
+      "airline": "Eurowings",
+      "city": "Marseille",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793988300.0,
+      "time_scheduled": "19:05",
+      "time_estimated": "19:05",
+      "flight_no": "LO407",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793988300.0,
+      "time_scheduled": "19:05",
+      "time_estimated": "19:05",
+      "flight_no": "XQ794",
+      "airline": "Sun Express",
+      "city": "Ankara-Esenboğa",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793988300.0,
+      "time_scheduled": "19:05",
+      "time_estimated": "19:05",
+      "flight_no": "EW8046",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
