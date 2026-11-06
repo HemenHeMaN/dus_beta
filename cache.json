@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 16:40",
+  "updated_at": "06.11.2026 16:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793969100.0,
-      "time_scheduled": "13:45",
-      "time_estimated": "14:42",
-      "flight_no": "EW9581",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 57
-    },
     {
       "dt": 1793971200.0,
       "time_scheduled": "14:20",
@@ -300,9 +281,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 46
     },
@@ -366,7 +347,7 @@
     {
       "dt": 1793979300.0,
       "time_scheduled": "16:35",
-      "time_estimated": "17:01",
+      "time_estimated": "16:52",
       "flight_no": "EW9421",
       "airline": "Eurowings",
       "city": "Nizza",
@@ -380,7 +361,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 27
+      "delay": 18
     },
     {
       "dt": 1793979600.0,
@@ -442,7 +423,7 @@
     {
       "dt": 1793980500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:10",
+      "time_estimated": "17:00",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -452,11 +433,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 15
+      "delay": 5
     },
     {
       "dt": 1793981100.0,
@@ -472,8 +453,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -518,7 +499,7 @@
     {
       "dt": 1793981400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:47",
+      "time_estimated": "16:42",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -528,9 +509,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -689,7 +670,7 @@
     {
       "dt": 1793982900.0,
       "time_scheduled": "17:35",
-      "time_estimated": "17:40",
+      "time_estimated": "17:47",
       "flight_no": "EW9045",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -703,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 12
     },
     {
       "dt": 1793983200.0,
@@ -1088,7 +1069,7 @@
     {
       "dt": 1793988300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:14",
+      "time_estimated": "19:13",
       "flight_no": "EW9425",
       "airline": "Eurowings",
       "city": "Marseille",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1793988300.0,
@@ -1411,7 +1392,7 @@
     {
       "dt": 1793992800.0,
       "time_scheduled": "20:20",
-      "time_estimated": "19:24",
+      "time_estimated": "19:30",
       "flight_no": "XR6814",
       "airline": "Corendon Airlines Europe",
       "city": "Sharm El Sheikh",
@@ -1682,6 +1663,44 @@
       "airline": "Eurowings",
       "city": "Wien",
       "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793997900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9717",
+      "airline": "Eurowings",
+      "city": "Salzburg",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793997900.0,
+      "time_scheduled": "21:45",
+      "time_estimated": "21:45",
+      "flight_no": "EW9671",
+      "airline": "Eurowings",
+      "city": "Heraklion (Kreta)",
+      "country": "Griechenland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
