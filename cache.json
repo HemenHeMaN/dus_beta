@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 13:50",
+  "updated_at": "06.11.2026 13:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -480,7 +480,7 @@
     {
       "dt": 1793968800.0,
       "time_scheduled": "13:40",
-      "time_estimated": "14:02",
+      "time_estimated": "13:52",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -490,11 +490,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 23
+      "delay": 12
     },
     {
       "dt": 1793969100.0,
@@ -528,11 +528,11 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 5
+      "delay": 6
     },
     {
       "dt": 1793969400.0,
@@ -548,8 +548,8 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -567,8 +567,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 19
     },
@@ -784,7 +784,7 @@
     {
       "dt": 1793975400.0,
       "time_scheduled": "15:30",
-      "time_estimated": "15:35",
+      "time_estimated": "15:28",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -798,7 +798,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 0
     },
     {
       "dt": 1793975700.0,
@@ -1069,7 +1069,7 @@
     {
       "dt": 1793980200.0,
       "time_scheduled": "16:50",
-      "time_estimated": "16:50",
+      "time_estimated": "16:58",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1083,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 8
     },
     {
       "dt": 1793980200.0,
@@ -1202,7 +1202,7 @@
     {
       "dt": 1793981400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:40",
+      "time_estimated": "16:47",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
@@ -1213,8 +1213,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793981700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "16:57",
       "flight_no": "EW9739",
       "airline": "Eurowings",
       "city": "Tallinn",
@@ -1392,7 +1392,7 @@
     {
       "dt": 1793983200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "18:04",
+      "time_estimated": "18:14",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1406,7 +1406,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 34
     },
     {
       "dt": 1793983500.0,
@@ -1671,6 +1671,63 @@
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793987700.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "SK627",
+      "airline": "Scandinavian Airlines",
+      "city": "Kopenhagen",
+      "country": "Dänemark",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793987700.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "PC1005",
+      "airline": "Pegasus Airlines",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793987700.0,
+      "time_scheduled": "18:55",
+      "time_estimated": "18:55",
+      "flight_no": "LH2028",
+      "airline": "Lufthansa",
+      "city": "München",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
       "remark": "",
       "delay": 0
     }
