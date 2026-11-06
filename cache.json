@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 14:20",
+  "updated_at": "06.11.2026 14:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793961600.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "12:23",
-      "flight_no": "A3540",
-      "airline": "Aegean Airlines",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 43
-    },
     {
       "dt": 1793962800.0,
       "time_scheduled": "12:00",
@@ -252,25 +233,6 @@
     {
       "dt": 1793967300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "14:05",
-      "flight_no": "EW6894",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 51
-    },
-    {
-      "dt": 1793967300.0,
-      "time_scheduled": "13:15",
       "time_estimated": "12:57",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
@@ -324,6 +286,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793967300.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "14:05",
+      "flight_no": "EW6894",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 51
     },
     {
       "dt": 1793967600.0,
@@ -414,9 +395,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 63
     },
@@ -632,7 +613,7 @@
     {
       "dt": 1793973900.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:35",
+      "time_estimated": "15:29",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -643,10 +624,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 24
     },
     {
       "dt": 1793974500.0,
@@ -670,7 +651,7 @@
     {
       "dt": 1793975100.0,
       "time_scheduled": "15:25",
-      "time_estimated": "15:16",
+      "time_estimated": "15:18",
       "flight_no": "EW8044",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -746,7 +727,7 @@
     {
       "dt": 1793976300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:27",
+      "time_estimated": "16:19",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -760,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 42
+      "delay": 34
     },
     {
       "dt": 1793977200.0,
@@ -879,7 +860,7 @@
     {
       "dt": 1793978400.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:23",
+      "time_estimated": "16:17",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -893,7 +874,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1793979000.0,
@@ -1221,7 +1202,7 @@
     {
       "dt": 1793982000.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:44",
+      "time_estimated": "17:46",
       "flight_no": "EW9559",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -1235,7 +1216,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 24
+      "delay": 26
     },
     {
       "dt": 1793982300.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1793982600.0,
       "time_scheduled": "17:30",
-      "time_estimated": "17:30",
+      "time_estimated": "17:24",
       "flight_no": "EW4204",
       "airline": "Eurowings",
       "city": "Prag",
@@ -1297,7 +1278,7 @@
     {
       "dt": 1793983200.0,
       "time_scheduled": "17:40",
-      "time_estimated": "18:25",
+      "time_estimated": "18:27",
       "flight_no": "EW9543",
       "airline": "Eurowings",
       "city": "Gran Canaria",
@@ -1311,7 +1292,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 46
+      "delay": 48
     },
     {
       "dt": 1793983500.0,
