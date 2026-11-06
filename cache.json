@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 05:40",
+  "updated_at": "06.11.2026 05:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793950800.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:40",
+      "time_estimated": "08:45",
       "flight_no": "VL2004",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793951100.0,
@@ -233,7 +233,7 @@
     {
       "dt": 1793951400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:50",
+      "time_estimated": "08:49",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -328,7 +328,7 @@
     {
       "dt": 1793952900.0,
       "time_scheduled": "09:15",
-      "time_estimated": "09:15",
+      "time_estimated": "08:48",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -697,6 +697,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793958300.0,
+      "time_scheduled": "10:45",
+      "time_estimated": "10:45",
+      "flight_no": "AF1606",
+      "airline": "Air France",
+      "city": "Paris-Charles de Gaulle",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793958300.0,
+      "time_scheduled": "10:45",
+      "time_estimated": "10:45",
+      "flight_no": "AT696",
+      "airline": "Royal Air Maroc",
+      "city": "Nador",
+      "country": "Marokko",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
