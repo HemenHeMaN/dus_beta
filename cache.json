@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 13:40",
+  "updated_at": "06.11.2026 13:45",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793959500.0,
-      "time_scheduled": "11:05",
-      "time_estimated": "11:42",
-      "flight_no": "EW9751",
-      "airline": "Eurowings",
-      "city": "Wien",
-      "country": "Österreich",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "3",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 37
-    },
     {
       "dt": 1793961600.0,
       "time_scheduled": "11:40",
@@ -221,7 +202,7 @@
       "country": "Italien",
       "type": "Charter",
       "type_source": "Ausgang",
-      "terminal": "B",
+      "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
@@ -442,21 +423,21 @@
     {
       "dt": 1793967300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "14:14",
+      "time_estimated": "14:15",
       "flight_no": "EW6894",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 60
+      "delay": 61
     },
     {
       "dt": 1793967600.0,
@@ -480,7 +461,7 @@
     {
       "dt": 1793968500.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:56",
+      "time_estimated": "13:50",
       "flight_no": "EW9571",
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
@@ -494,12 +475,12 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 21
+      "delay": 15
     },
     {
       "dt": 1793968500.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:53",
+      "time_estimated": "13:44",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -509,11 +490,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 9
     },
     {
       "dt": 1793968800.0,
@@ -529,8 +510,8 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1793969100.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:55",
+      "time_estimated": "13:50",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -570,7 +551,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 5
     },
     {
       "dt": 1793969400.0,
@@ -642,9 +623,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -727,7 +708,7 @@
     {
       "dt": 1793972700.0,
       "time_scheduled": "14:45",
-      "time_estimated": "14:41",
+      "time_estimated": "14:46",
       "flight_no": "SK1621",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -738,15 +719,15 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1793973300.0,
       "time_scheduled": "14:55",
-      "time_estimated": "15:09",
+      "time_estimated": "15:07",
       "flight_no": "EW9339",
       "airline": "Eurowings",
       "city": "Newcastle",
@@ -757,10 +738,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 13
     },
     {
       "dt": 1793973900.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1793978100.0,
       "time_scheduled": "16:15",
-      "time_estimated": "16:45",
+      "time_estimated": "16:44",
       "flight_no": "PC1687",
       "airline": "Pegasus Airlines",
       "city": "Ankara-Esenboğa",
@@ -969,7 +950,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 29
     },
     {
       "dt": 1793978100.0,
@@ -1259,7 +1240,7 @@
     {
       "dt": 1793981700.0,
       "time_scheduled": "17:15",
-      "time_estimated": "17:15",
+      "time_estimated": "17:22",
       "flight_no": "PC5011",
       "airline": "Pegasus Airlines",
       "city": "Antalya",
@@ -1270,10 +1251,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793981700.0,
@@ -1628,6 +1609,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793987100.0,
+      "time_scheduled": "18:45",
+      "time_estimated": "18:45",
+      "flight_no": "DE1429",
+      "airline": "Condor",
+      "city": "Teneriffa Süd",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793987100.0,
+      "time_scheduled": "18:45",
+      "time_estimated": "18:45",
+      "flight_no": "EW9009",
+      "airline": "Eurowings",
+      "city": "Sylt (Westerland)",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
