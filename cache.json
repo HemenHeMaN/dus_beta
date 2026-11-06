@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 15:30",
+  "updated_at": "06.11.2026 15:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -442,7 +442,7 @@
     {
       "dt": 1793976300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:55",
+      "time_estimated": "16:49",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -456,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 70
+      "delay": 64
     },
     {
       "dt": 1793977200.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793977800.0,
       "time_scheduled": "16:10",
-      "time_estimated": "16:20",
+      "time_estimated": "16:13",
       "flight_no": "EW7066",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -510,10 +510,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 3
     },
     {
       "dt": 1793978100.0,
@@ -643,8 +643,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 27
     },
@@ -708,7 +708,7 @@
     {
       "dt": 1793980500.0,
       "time_scheduled": "16:55",
-      "time_estimated": "17:09",
+      "time_estimated": "17:15",
       "flight_no": "EW9763",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 21
     },
     {
       "dt": 1793981100.0,
@@ -879,7 +879,7 @@
     {
       "dt": 1793982000.0,
       "time_scheduled": "17:20",
-      "time_estimated": "17:43",
+      "time_estimated": "17:53",
       "flight_no": "EW9823",
       "airline": "Eurowings",
       "city": "Mailand-Malpensa",
@@ -893,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 24
+      "delay": 33
     },
     {
       "dt": 1793982000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793983500.0,
       "time_scheduled": "17:45",
-      "time_estimated": "17:48",
+      "time_estimated": "17:56",
       "flight_no": "LX1024",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1007,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 12
     },
     {
       "dt": 1793983500.0,
@@ -1031,7 +1031,7 @@
     {
       "dt": 1793984100.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:36",
+      "time_estimated": "17:39",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -1392,7 +1392,7 @@
     {
       "dt": 1793988300.0,
       "time_scheduled": "19:05",
-      "time_estimated": "19:05",
+      "time_estimated": "18:54",
       "flight_no": "XQ794",
       "airline": "Sun Express",
       "city": "Ankara-Esenboğa",
@@ -1696,7 +1696,7 @@
     {
       "dt": 1793993100.0,
       "time_scheduled": "20:25",
-      "time_estimated": "20:26",
+      "time_estimated": "20:27",
       "flight_no": "EW9983",
       "airline": "Eurowings",
       "city": "Hurghada",
@@ -1707,10 +1707,48 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
+      "remark": "",
+      "delay": 3
+    },
+    {
+      "dt": 1793993700.0,
+      "time_scheduled": "20:35",
+      "time_estimated": "20:35",
+      "flight_no": "EW9757",
+      "airline": "Eurowings",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
+    },
+    {
+      "dt": 1793993700.0,
+      "time_scheduled": "20:35",
+      "time_estimated": "20:35",
+      "flight_no": "DE1457",
+      "airline": "Condor",
+      "city": "Fuerteventura",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
     }
   ]
 }
