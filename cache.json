@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 09:05",
+  "updated_at": "06.11.2026 09:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,7 +176,7 @@
     {
       "dt": 1793952000.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:27",
+      "time_estimated": "09:06",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -186,30 +186,11 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
-      "remark": "",
-      "delay": 28
-    },
-    {
-      "dt": 1793952300.0,
-      "time_scheduled": "09:05",
-      "time_estimated": "08:41",
-      "flight_no": "BA930",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
       "remark": "",
-      "delay": 0
+      "delay": 7
     },
     {
       "dt": 1793952300.0,
@@ -224,6 +205,25 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793952300.0,
+      "time_scheduled": "09:05",
+      "time_estimated": "08:41",
+      "flight_no": "BA930",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -271,7 +271,7 @@
     {
       "dt": 1793953800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:24",
+      "time_estimated": "09:19",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -282,8 +282,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -300,16 +300,16 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
     {
       "dt": 1793954100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:42",
+      "time_estimated": "09:45",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -320,10 +320,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 7
+      "delay": 10
     },
     {
       "dt": 1793954400.0,
@@ -338,9 +338,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1793957400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:30",
+      "time_estimated": "10:28",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793957400.0,
@@ -613,14 +613,14 @@
     {
       "dt": 1793957400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:19",
+      "time_estimated": "10:20",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
       "country": "Italien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
+      "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
@@ -670,7 +670,7 @@
     {
       "dt": 1793959500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:07",
+      "time_estimated": "11:21",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -684,7 +684,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 17
     },
     {
       "dt": 1793959500.0,
@@ -841,21 +841,21 @@
     {
       "dt": 1793961600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:01",
+      "time_estimated": "11:51",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 21
+      "delay": 12
     },
     {
       "dt": 1793961600.0,
@@ -936,7 +936,7 @@
     {
       "dt": 1793964300.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:16",
+      "time_estimated": "12:14",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -947,8 +947,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -974,7 +974,7 @@
     {
       "dt": 1793964600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:30",
+      "time_estimated": "12:11",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1331,6 +1331,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 25
+    },
+    {
+      "dt": 1793968800.0,
+      "time_scheduled": "13:40",
+      "time_estimated": "14:06",
+      "flight_no": "EW9501",
+      "airline": "Eurowings",
+      "city": "Ibiza",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 26
     },
     {
       "dt": 1793969100.0,
