@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 22:10",
+  "updated_at": "06.11.2026 22:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -480,7 +480,7 @@
     {
       "dt": 1793999100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:15",
+      "time_estimated": "22:11",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -490,11 +490,11 @@
       "terminal": "A",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 10
+      "delay": 6
     },
     {
       "dt": 1793999100.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:28",
+      "time_estimated": "22:22",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -627,7 +627,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 14
+      "delay": 7
     },
     {
       "dt": 1793999700.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:43",
+      "time_estimated": "22:37",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 22
     },
     {
       "dt": 1794000000.0,
@@ -678,7 +678,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "18",
+      "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
       "status_text": "im Anflug",
@@ -727,7 +727,7 @@
     {
       "dt": 1794000300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:34",
+      "time_estimated": "22:29",
       "flight_no": "X3117",
       "airline": "Tuifly",
       "city": "Dalaman",
@@ -738,15 +738,15 @@
       "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 9
+      "delay": 4
     },
     {
       "dt": 1794000300.0,
       "time_scheduled": "22:25",
-      "time_estimated": "22:13",
+      "time_estimated": "22:14",
       "flight_no": "EW9023",
       "airline": "Eurowings",
       "city": "Dresden",
@@ -756,9 +756,9 @@
       "terminal": "B",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -776,8 +776,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1794000900.0,
       "time_scheduled": "22:35",
-      "time_estimated": "22:15",
+      "time_estimated": "22:13",
       "flight_no": "IB1325",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -813,9 +813,9 @@
       "terminal": "B",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -832,9 +832,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
