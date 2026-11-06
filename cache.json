@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 10:00",
+  "updated_at": "06.11.2026 10:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -339,8 +339,8 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 39
     },
@@ -396,8 +396,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 18
     },
@@ -433,9 +433,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -529,8 +529,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -757,8 +757,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 96
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1793962800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:54",
+      "time_estimated": "12:48",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -836,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 54
+      "delay": 48
     },
     {
       "dt": 1793964000.0,
@@ -860,7 +860,7 @@
     {
       "dt": 1793964300.0,
       "time_scheduled": "12:25",
-      "time_estimated": "12:14",
+      "time_estimated": "12:08",
       "flight_no": "XR402",
       "airline": "Corendon Airlines Europe",
       "city": "Heraklion (Kreta)",
@@ -1050,7 +1050,7 @@
     {
       "dt": 1793966700.0,
       "time_scheduled": "13:05",
-      "time_estimated": "12:52",
+      "time_estimated": "12:51",
       "flight_no": "TK1525",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -1061,8 +1061,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1491,6 +1491,25 @@
       "flight_no": "EW9339",
       "airline": "Eurowings",
       "city": "Newcastle",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793973900.0,
+      "time_scheduled": "15:05",
+      "time_estimated": "15:05",
+      "flight_no": "EW9463",
+      "airline": "Eurowings",
+      "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
       "type_source": "Airline",
