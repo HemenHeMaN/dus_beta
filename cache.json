@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 06:40",
+  "updated_at": "06.11.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1793949300.0,
       "time_scheduled": "08:15",
-      "time_estimated": "07:57",
+      "time_estimated": "08:00",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -130,8 +130,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -157,7 +157,7 @@
     {
       "dt": 1793949600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:22",
+      "time_estimated": "08:35",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -171,7 +171,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 16
     },
     {
       "dt": 1793950800.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793952600.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:45",
+      "time_estimated": "08:48",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -320,8 +320,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -372,9 +372,9 @@
       "city": "München",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -385,7 +385,7 @@
     {
       "dt": 1793954100.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:42",
+      "time_estimated": "09:36",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -399,7 +399,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 1
     },
     {
       "dt": 1793954400.0,
@@ -461,7 +461,7 @@
     {
       "dt": 1793955000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "09:47",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -499,7 +499,7 @@
     {
       "dt": 1793955300.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:35",
+      "time_estimated": "09:34",
       "flight_no": "VF029",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -510,8 +510,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -946,6 +946,25 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793961900.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "BQ1952",
+      "airline": "Sky Alps",
+      "city": "Bozen",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
