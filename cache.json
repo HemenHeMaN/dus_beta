@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 10:05",
+  "updated_at": "06.11.2026 10:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -328,7 +328,7 @@
     {
       "dt": 1793955000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:29",
+      "time_estimated": "10:21",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -342,7 +342,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 39
+      "delay": 31
     },
     {
       "dt": 1793955300.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1793955600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:17",
+      "time_estimated": "10:12",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -399,7 +399,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 18
+      "delay": 12
     },
     {
       "dt": 1793955900.0,
@@ -414,9 +414,9 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1793956800.0,
       "time_scheduled": "10:20",
-      "time_estimated": "11:03",
+      "time_estimated": "11:11",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -453,10 +453,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 44
+      "delay": 52
     },
     {
       "dt": 1793957100.0,
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 4
     },
@@ -585,9 +585,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -993,7 +993,7 @@
     {
       "dt": 1793965500.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:34",
+      "time_estimated": "12:40",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
@@ -1107,7 +1107,7 @@
     {
       "dt": 1793967000.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:10",
+      "time_estimated": "13:09",
       "flight_no": "EW9043",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -1226,11 +1226,11 @@
       "airline": "Eurowings",
       "city": "Jerez de la Frontera",
       "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
