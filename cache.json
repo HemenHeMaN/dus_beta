@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 14:10",
+  "updated_at": "06.11.2026 14:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -22,25 +22,6 @@
       "delay": 43
     },
     {
-      "dt": 1793961600.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "12:12",
-      "flight_no": "X32113",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 32
-    },
-    {
       "dt": 1793962800.0,
       "time_scheduled": "12:00",
       "time_estimated": "12:31",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 31
-    },
-    {
-      "dt": 1793964300.0,
-      "time_scheduled": "12:25",
-      "time_estimated": "12:14",
-      "flight_no": "XR402",
-      "airline": "Corendon Airlines Europe",
-      "city": "Heraklion (Kreta)",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793964600.0,
@@ -290,44 +252,6 @@
     {
       "dt": 1793967300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:55",
-      "flight_no": "XQ186",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793967300.0,
-      "time_scheduled": "13:15",
-      "time_estimated": "14:05",
-      "flight_no": "EW6894",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 51
-    },
-    {
-      "dt": 1793967300.0,
-      "time_scheduled": "13:15",
       "time_estimated": "12:57",
       "flight_no": "SM2928",
       "airline": "Air Cairo",
@@ -362,6 +286,44 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1793967300.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "12:55",
+      "flight_no": "XQ186",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793967300.0,
+      "time_scheduled": "13:15",
+      "time_estimated": "14:05",
+      "flight_no": "EW6894",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "6",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 51
     },
     {
       "dt": 1793967600.0,
@@ -566,9 +528,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 28
     },
@@ -727,7 +689,7 @@
     {
       "dt": 1793975400.0,
       "time_scheduled": "15:30",
-      "time_estimated": "15:19",
+      "time_estimated": "15:17",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -738,8 +700,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -784,7 +746,7 @@
     {
       "dt": 1793976300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:02",
+      "time_estimated": "16:01",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -798,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 17
+      "delay": 16
     },
     {
       "dt": 1793977200.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793980200.0,
       "time_scheduled": "16:50",
-      "time_estimated": "17:00",
+      "time_estimated": "16:53",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -1026,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 11
+      "delay": 4
     },
     {
       "dt": 1793980200.0,
