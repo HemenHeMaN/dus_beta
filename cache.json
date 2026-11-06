@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 22:40",
+  "updated_at": "06.11.2026 22:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -309,7 +309,7 @@
     {
       "dt": 1793998200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:46",
+      "time_estimated": "22:44",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -319,11 +319,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 57
+      "delay": 55
     },
     {
       "dt": 1793998500.0,
@@ -757,8 +757,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 42
     },
@@ -813,9 +813,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 22
     }
