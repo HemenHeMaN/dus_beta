@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 10:50",
+  "updated_at": "06.11.2026 10:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,6 +100,25 @@
     {
       "dt": 1793954400.0,
       "time_scheduled": "09:40",
+      "time_estimated": "09:37",
+      "flight_no": "BJ206",
+      "airline": "Nouvelair",
+      "city": "Tunis",
+      "country": "Tunesien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793954400.0,
+      "time_scheduled": "09:40",
       "time_estimated": "09:26",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
@@ -129,25 +148,6 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793954400.0,
-      "time_scheduled": "09:40",
-      "time_estimated": "09:37",
-      "flight_no": "BJ206",
-      "airline": "Nouvelair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -300,9 +300,9 @@
       "terminal": "A",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 52
     },
@@ -499,7 +499,7 @@
     {
       "dt": 1793959800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:21",
+      "time_estimated": "11:13",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -513,7 +513,7 @@
       "status_text": "Im Anflug",
       "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 11
+      "delay": 3
     },
     {
       "dt": 1793959800.0,
@@ -670,7 +670,7 @@
     {
       "dt": 1793962800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:49",
+      "time_estimated": "12:50",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -681,10 +681,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 49
+      "delay": 51
     },
     {
       "dt": 1793964000.0,
@@ -822,7 +822,7 @@
     {
       "dt": 1793965200.0,
       "time_scheduled": "12:40",
-      "time_estimated": "13:17",
+      "time_estimated": "13:11",
       "flight_no": "EW9793",
       "airline": "Eurowings",
       "city": "Bukarest-Otopeni",
@@ -833,10 +833,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 38
+      "delay": 31
     },
     {
       "dt": 1793965500.0,
@@ -1183,7 +1183,7 @@
     {
       "dt": 1793969400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:50",
+      "time_estimated": "13:59",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -1197,7 +1197,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1793969700.0,
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793970000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:02",
+      "time_estimated": "14:05",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1235,7 +1235,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 2
+      "delay": 5
     },
     {
       "dt": 1793970300.0,
