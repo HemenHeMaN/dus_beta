@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 20:55",
+  "updated_at": "06.11.2026 21:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793987700.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:58",
-      "flight_no": "LH2028",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 3
-    },
     {
       "dt": 1793988000.0,
       "time_scheduled": "19:00",
@@ -96,25 +77,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 3
-    },
-    {
-      "dt": 1793988600.0,
-      "time_scheduled": "19:10",
-      "time_estimated": "18:56",
-      "flight_no": "BT233",
-      "airline": "Air Baltic",
-      "city": "Riga",
-      "country": "Lettland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793988600.0,
@@ -290,7 +252,7 @@
     {
       "dt": 1793992200.0,
       "time_scheduled": "20:10",
-      "time_estimated": "21:20",
+      "time_estimated": "20:58",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -300,11 +262,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 70
+      "delay": 48
     },
     {
       "dt": 1793992500.0,
@@ -480,7 +442,7 @@
     {
       "dt": 1793995200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:11",
+      "time_estimated": "21:00",
       "flight_no": "X32115",
       "airline": "Tuifly",
       "city": "Gran Canaria",
@@ -490,11 +452,11 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 12
+      "delay": 1
     },
     {
       "dt": 1793995200.0,
@@ -529,8 +491,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -556,7 +518,7 @@
     {
       "dt": 1793996700.0,
       "time_scheduled": "21:25",
-      "time_estimated": "21:16",
+      "time_estimated": "21:11",
       "flight_no": "ENT6063",
       "airline": "Enter Air",
       "city": "Pristina",
@@ -575,7 +537,7 @@
     {
       "dt": 1793997300.0,
       "time_scheduled": "21:35",
-      "time_estimated": "21:18",
+      "time_estimated": "21:13",
       "flight_no": "X34105",
       "airline": "Tuifly",
       "city": "Heraklion (Kreta)",
@@ -586,8 +548,8 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +727,7 @@
     {
       "dt": 1793998500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:02",
+      "time_estimated": "22:08",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -779,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 14
     },
     {
       "dt": 1793998800.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:14",
+      "time_estimated": "22:15",
       "flight_no": "EW9847",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -947,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1793999700.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1794000000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:27",
+      "time_estimated": "22:34",
       "flight_no": "BA940",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -1026,12 +988,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 14
     },
     {
       "dt": 1794000000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:14",
+      "time_estimated": "22:24",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -1045,7 +1007,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1794000300.0,
