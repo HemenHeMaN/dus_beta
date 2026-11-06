@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 22:55",
+  "updated_at": "06.11.2026 23:00",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793992200.0,
-      "time_scheduled": "20:10",
-      "time_estimated": "20:58",
-      "flight_no": "LH2032",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 48
-    },
     {
       "dt": 1793993700.0,
       "time_scheduled": "20:35",
@@ -58,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 2
-    },
-    {
-      "dt": 1793995200.0,
-      "time_scheduled": "21:00",
-      "time_estimated": "21:00",
-      "flight_no": "X32115",
-      "airline": "Tuifly",
-      "city": "Gran Canaria",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 1
     },
     {
       "dt": 1793995800.0,
@@ -746,7 +708,7 @@
     {
       "dt": 1794001800.0,
       "time_scheduled": "22:50",
-      "time_estimated": "23:05",
+      "time_estimated": "22:59",
       "flight_no": "X36123",
       "airline": "Tuifly",
       "city": "Hurghada",
@@ -756,11 +718,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 9
     }
   ]
 }
