@@ -1,45 +1,7 @@
 {
-  "updated_at": "06.11.2026 11:30",
+  "updated_at": "06.11.2026 11:35",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793954100.0,
-      "time_scheduled": "09:35",
-      "time_estimated": "09:33",
-      "flight_no": "LH072",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793954400.0,
-      "time_scheduled": "09:40",
-      "time_estimated": "09:30",
-      "flight_no": "LH2006",
-      "airline": "Lufthansa",
-      "city": "München",
-      "country": "Deutschland",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "2",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793954400.0,
       "time_scheduled": "09:40",
@@ -53,25 +15,6 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793955000.0,
-      "time_scheduled": "09:50",
-      "time_estimated": "09:35",
-      "flight_no": "EI692",
-      "airline": "Aer Lingus",
-      "city": "Dublin",
-      "country": "Irland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -366,7 +309,7 @@
     {
       "dt": 1793959500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:45",
+      "time_estimated": "11:40",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -380,7 +323,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 40
+      "delay": 35
     },
     {
       "dt": 1793959500.0,
@@ -547,16 +490,16 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793961900.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:52",
+      "time_estimated": "11:47",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
@@ -567,10 +510,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 7
+      "delay": 2
     },
     {
       "dt": 1793962800.0,
@@ -708,7 +651,7 @@
     {
       "dt": 1793964900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "13:30",
+      "time_estimated": "13:35",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -722,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 56
+      "delay": 61
     },
     {
       "dt": 1793965200.0,
@@ -1012,7 +955,7 @@
     {
       "dt": 1793968800.0,
       "time_scheduled": "13:40",
-      "time_estimated": "14:07",
+      "time_estimated": "14:05",
       "flight_no": "EW9501",
       "airline": "Eurowings",
       "city": "Ibiza",
@@ -1026,7 +969,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 28
+      "delay": 26
     },
     {
       "dt": 1793969100.0,
@@ -1183,7 +1126,7 @@
     {
       "dt": 1793971200.0,
       "time_scheduled": "14:20",
-      "time_estimated": "14:50",
+      "time_estimated": "14:56",
       "flight_no": "EW9643",
       "airline": "Eurowings",
       "city": "Faro",
@@ -1197,12 +1140,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 37
     },
     {
       "dt": 1793972100.0,
       "time_scheduled": "14:35",
-      "time_estimated": "14:35",
+      "time_estimated": "14:39",
       "flight_no": "PC1003",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -1216,7 +1159,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1793972700.0,
@@ -1533,6 +1476,44 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793979300.0,
+      "time_scheduled": "16:35",
+      "time_estimated": "16:35",
+      "flight_no": "PC5305",
+      "airline": "Pegasus Airlines",
+      "city": "Izmir",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793979300.0,
+      "time_scheduled": "16:35",
+      "time_estimated": "16:35",
+      "flight_no": "EW9421",
+      "airline": "Eurowings",
+      "city": "Nizza",
+      "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
