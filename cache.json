@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 20:35",
+  "updated_at": "06.11.2026 20:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -33,25 +33,6 @@
       "type_source": "Ausgang",
       "terminal": "A",
       "baggage": "6",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793987400.0,
-      "time_scheduled": "18:50",
-      "time_estimated": "18:36",
-      "flight_no": "IB755",
-      "airline": "Iberia",
-      "city": "Madrid-Barajas",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -548,8 +529,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -566,9 +547,9 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 7
     },
@@ -1069,7 +1050,7 @@
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:16",
+      "time_estimated": "22:18",
       "flight_no": "EW9785",
       "airline": "Eurowings",
       "city": "Budapest",
@@ -1083,12 +1064,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 4
     },
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:35",
+      "time_estimated": "22:45",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 20
+      "delay": 30
     },
     {
       "dt": 1793999700.0,
