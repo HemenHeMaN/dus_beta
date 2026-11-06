@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 22:25",
+  "updated_at": "06.11.2026 22:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -338,9 +338,9 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 63
     },
@@ -670,7 +670,7 @@
     {
       "dt": 1794000000.0,
       "time_scheduled": "22:20",
-      "time_estimated": "22:27",
+      "time_estimated": "22:26",
       "flight_no": "EW9247",
       "airline": "Eurowings",
       "city": "Kopenhagen",
@@ -680,9 +680,9 @@
       "terminal": "A",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 7
     },
@@ -803,7 +803,7 @@
     {
       "dt": 1794001200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:32",
+      "time_estimated": "22:29",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -813,9 +813,9 @@
       "terminal": "B",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
