@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 09:15",
+  "updated_at": "06.11.2026 09:20",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793946600.0,
-      "time_scheduled": "07:30",
-      "time_estimated": "07:15",
-      "flight_no": "EY133",
-      "airline": "Etihad Airways",
-      "city": "Abu Dhabi",
-      "country": "VAE",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793947200.0,
       "time_scheduled": "07:40",
@@ -195,25 +176,6 @@
     {
       "dt": 1793952300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:41",
-      "flight_no": "BA930",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793952300.0,
-      "time_scheduled": "09:05",
       "time_estimated": "09:03",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
@@ -224,6 +186,25 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793952300.0,
+      "time_scheduled": "09:05",
+      "time_estimated": "08:41",
+      "flight_no": "BA930",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -271,7 +252,7 @@
     {
       "dt": 1793953800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:19",
+      "time_estimated": "09:25",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -319,9 +300,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 1
     },
@@ -347,7 +328,7 @@
     {
       "dt": 1793954400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:38",
+      "time_estimated": "09:31",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -376,9 +357,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 12
     },
@@ -395,16 +376,16 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793955000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:26",
+      "time_estimated": "10:34",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -418,7 +399,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 44
     },
     {
       "dt": 1793955300.0,
@@ -433,9 +414,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -452,9 +433,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -746,7 +727,7 @@
     {
       "dt": 1793959800.0,
       "time_scheduled": "11:10",
-      "time_estimated": "11:18",
+      "time_estimated": "11:17",
       "flight_no": "SK818",
       "airline": "Scandinavian Airlines",
       "city": "Oslo - Gardermoen",
@@ -760,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 8
     },
     {
       "dt": 1793960100.0,
@@ -822,7 +803,7 @@
     {
       "dt": 1793961600.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:35",
+      "time_estimated": "11:25",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
       "city": "Thessaloniki",
@@ -898,7 +879,7 @@
     {
       "dt": 1793962800.0,
       "time_scheduled": "12:00",
-      "time_estimated": "12:07",
+      "time_estimated": "12:17",
       "flight_no": "EW9441",
       "airline": "Eurowings",
       "city": "Barcelona",
@@ -912,7 +893,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 7
+      "delay": 17
     },
     {
       "dt": 1793964000.0,
@@ -1449,7 +1430,7 @@
     {
       "dt": 1793970000.0,
       "time_scheduled": "14:00",
-      "time_estimated": "14:11",
+      "time_estimated": "14:08",
       "flight_no": "RJ129",
       "airline": "Royal Jordanian",
       "city": "Amman-Queen Alia",
@@ -1460,10 +1441,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 11
+      "delay": 9
     },
     {
       "dt": 1793970300.0,
