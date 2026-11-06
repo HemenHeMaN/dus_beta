@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 15:20",
+  "updated_at": "06.11.2026 15:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 51
-    },
-    {
-      "dt": 1793967600.0,
-      "time_scheduled": "13:20",
-      "time_estimated": "13:22",
-      "flight_no": "MS733",
-      "airline": "Egypt Air",
-      "city": "Kairo",
-      "country": "Ägypten",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1793968500.0,
@@ -347,7 +328,7 @@
     {
       "dt": 1793973900.0,
       "time_scheduled": "15:05",
-      "time_estimated": "15:29",
+      "time_estimated": "15:23",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -357,11 +338,11 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 24
+      "delay": 18
     },
     {
       "dt": 1793974500.0,
@@ -461,7 +442,7 @@
     {
       "dt": 1793976300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:56",
+      "time_estimated": "16:58",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -475,7 +456,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 71
+      "delay": 73
     },
     {
       "dt": 1793977200.0,
@@ -600,9 +581,9 @@
       "city": "London-Heathrow",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -613,7 +594,7 @@
     {
       "dt": 1793979000.0,
       "time_scheduled": "16:30",
-      "time_estimated": "16:27",
+      "time_estimated": "16:23",
       "flight_no": "AF1406",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -624,8 +605,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1278,7 +1259,7 @@
     {
       "dt": 1793987700.0,
       "time_scheduled": "18:55",
-      "time_estimated": "18:27",
+      "time_estimated": "18:28",
       "flight_no": "EK057",
       "airline": "Emirates",
       "city": "Dubai",
