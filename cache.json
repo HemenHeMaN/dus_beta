@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 07:10",
+  "updated_at": "06.11.2026 07:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793947200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:37",
+      "time_estimated": "07:30",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -110,9 +110,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -157,7 +157,7 @@
     {
       "dt": 1793949600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:35",
+      "time_estimated": "08:28",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -171,7 +171,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 16
+      "delay": 9
     },
     {
       "dt": 1793950800.0,
@@ -317,7 +317,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -562,9 +562,9 @@
       "city": "Salzburg",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
