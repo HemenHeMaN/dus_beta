@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 06:50",
+  "updated_at": "06.11.2026 06:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1793947200.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:45",
+      "time_estimated": "07:41",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -114,7 +114,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 5
+      "delay": 1
     },
     {
       "dt": 1793949300.0,
@@ -176,7 +176,7 @@
     {
       "dt": 1793950800.0,
       "time_scheduled": "08:40",
-      "time_estimated": "08:45",
+      "time_estimated": "08:47",
       "flight_no": "VL2004",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 7
     },
     {
       "dt": 1793951100.0,
@@ -391,9 +391,9 @@
       "city": "Frankfurt",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -410,9 +410,9 @@
       "city": "Warschau",
       "country": "Polen",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -447,11 +447,11 @@
       "airline": "Nouvelair",
       "city": "Tunis",
       "country": "Tunesien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "18",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
