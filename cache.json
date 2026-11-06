@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 09:25",
+  "updated_at": "06.11.2026 09:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -176,25 +176,6 @@
     {
       "dt": 1793952300.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:41",
-      "flight_no": "BA930",
-      "airline": "British Airways",
-      "city": "London-Heathrow",
-      "country": "Großbritannien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793952300.0,
-      "time_scheduled": "09:05",
       "time_estimated": "09:03",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
@@ -205,6 +186,25 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793952300.0,
+      "time_scheduled": "09:05",
+      "time_estimated": "08:41",
+      "flight_no": "BA930",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "C",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -271,7 +271,7 @@
     {
       "dt": 1793953800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:32",
+      "time_estimated": "09:28",
       "flight_no": "EW9081",
       "airline": "Eurowings",
       "city": "München",
@@ -281,11 +281,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793954100.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1793954400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:59",
+      "time_estimated": "09:26",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -319,11 +319,11 @@
       "terminal": "B",
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 19
+      "delay": 0
     },
     {
       "dt": 1793954400.0,
@@ -347,7 +347,7 @@
     {
       "dt": 1793954400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:52",
+      "time_estimated": "09:58",
       "flight_no": "BJ206",
       "airline": "Nouvelair",
       "city": "Tunis",
@@ -358,10 +358,10 @@
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 12
+      "delay": 19
     },
     {
       "dt": 1793955000.0,
@@ -385,7 +385,7 @@
     {
       "dt": 1793955000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "10:34",
+      "time_estimated": "10:35",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -396,10 +396,10 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 44
+      "delay": 45
     },
     {
       "dt": 1793955300.0,
@@ -415,8 +415,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -434,15 +434,15 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793955600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:22",
+      "time_estimated": "10:25",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -456,12 +456,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 23
+      "delay": 26
     },
     {
       "dt": 1793955900.0,
       "time_scheduled": "10:05",
-      "time_estimated": "10:31",
+      "time_estimated": "10:26",
       "flight_no": "EW9713",
       "airline": "Eurowings",
       "city": "Salzburg",
@@ -472,10 +472,10 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 26
+      "delay": 21
     },
     {
       "dt": 1793956500.0,
@@ -499,7 +499,7 @@
     {
       "dt": 1793956800.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:52",
+      "time_estimated": "11:03",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -513,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 33
+      "delay": 44
     },
     {
       "dt": 1793957100.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1793957100.0,
       "time_scheduled": "10:25",
-      "time_estimated": "10:40",
+      "time_estimated": "10:46",
       "flight_no": "EW9331",
       "airline": "Eurowings",
       "city": "Birmingham",
@@ -548,10 +548,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 16
+      "delay": 21
     },
     {
       "dt": 1793957400.0,
@@ -621,7 +621,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "10",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
@@ -651,7 +651,7 @@
     {
       "dt": 1793959500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:23",
+      "time_estimated": "11:17",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 19
+      "delay": 13
     },
     {
       "dt": 1793959500.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1793960100.0,
       "time_scheduled": "11:15",
-      "time_estimated": "11:16",
+      "time_estimated": "11:26",
       "flight_no": "LH2012",
       "airline": "Lufthansa",
       "city": "München",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 12
     },
     {
       "dt": 1793960100.0,
@@ -811,7 +811,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "9",
+      "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
@@ -868,7 +868,7 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "10",
+      "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
@@ -974,7 +974,7 @@
     {
       "dt": 1793964600.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:31",
+      "time_estimated": "13:00",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -988,7 +988,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 1
+      "delay": 30
     },
     {
       "dt": 1793964900.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793964900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "12:35",
+      "time_estimated": "12:30",
       "flight_no": "EW9885",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -1050,16 +1050,16 @@
     {
       "dt": 1793965500.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:45",
+      "time_estimated": "12:34",
       "flight_no": "EW9655",
       "airline": "Eurowings",
       "city": "Thessaloniki",
       "country": "Griechenland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "9",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -1221,7 +1221,7 @@
     {
       "dt": 1793967300.0,
       "time_scheduled": "13:15",
-      "time_estimated": "13:15",
+      "time_estimated": "13:01",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1232,8 +1232,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
