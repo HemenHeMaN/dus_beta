@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 11:35",
+  "updated_at": "06.11.2026 11:40",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793954400.0,
-      "time_scheduled": "09:40",
-      "time_estimated": "09:37",
-      "flight_no": "BJ206",
-      "airline": "Nouvelair",
-      "city": "Tunis",
-      "country": "Tunesien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "19",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793955000.0,
       "time_scheduled": "09:50",
@@ -39,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 25
-    },
-    {
-      "dt": 1793955300.0,
-      "time_scheduled": "09:55",
-      "time_estimated": "09:39",
-      "flight_no": "VF029",
-      "airline": "A Jet",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793955600.0,
@@ -309,7 +271,7 @@
     {
       "dt": 1793959500.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:40",
+      "time_estimated": "12:07",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -323,7 +285,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 35
+      "delay": 62
     },
     {
       "dt": 1793959500.0,
@@ -642,9 +604,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -936,7 +898,7 @@
     {
       "dt": 1793968500.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:57",
+      "time_estimated": "13:59",
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
@@ -947,10 +909,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 22
+      "delay": 24
     },
     {
       "dt": 1793968800.0,
@@ -1012,7 +974,7 @@
     {
       "dt": 1793969400.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:46",
+      "time_estimated": "14:01",
       "flight_no": "LX1018",
       "airline": "Swiss",
       "city": "Zürich",
@@ -1026,7 +988,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 11
     },
     {
       "dt": 1793969400.0,
@@ -1246,9 +1208,9 @@
       "city": "Berlin-Brandenburg",
       "country": "Deutschland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1265,9 +1227,9 @@
       "city": "London-Gatwick",
       "country": "Großbritannien",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
@@ -1354,7 +1316,7 @@
     {
       "dt": 1793977200.0,
       "time_scheduled": "16:00",
-      "time_estimated": "16:00",
+      "time_estimated": "16:06",
       "flight_no": "EW9981",
       "airline": "Eurowings",
       "city": "Beirut",
@@ -1365,10 +1327,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1793977800.0,
@@ -1511,6 +1473,25 @@
       "airline": "Eurowings",
       "city": "Nizza",
       "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793979600.0,
+      "time_scheduled": "16:40",
+      "time_estimated": "16:40",
+      "flight_no": "VL2022",
+      "airline": "Lufthansa City Airlines",
+      "city": "München",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
