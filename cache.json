@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 20:50",
+  "updated_at": "06.11.2026 20:55",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793987700.0,
-      "time_scheduled": "18:55",
-      "time_estimated": "18:53",
-      "flight_no": "PC1005",
-      "airline": "Pegasus Airlines",
-      "city": "Istanbul-Sabiha Gökçen",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793987700.0,
       "time_scheduled": "18:55",
@@ -71,25 +52,6 @@
       "type_source": "Ausgang",
       "terminal": "B",
       "baggage": "5",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793988300.0,
-      "time_scheduled": "19:05",
-      "time_estimated": "18:51",
-      "flight_no": "LO407",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -328,7 +290,7 @@
     {
       "dt": 1793992200.0,
       "time_scheduled": "20:10",
-      "time_estimated": "21:01",
+      "time_estimated": "21:20",
       "flight_no": "LH2032",
       "airline": "Lufthansa",
       "city": "München",
@@ -342,7 +304,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 51
+      "delay": 70
     },
     {
       "dt": 1793992500.0,
@@ -480,7 +442,7 @@
     {
       "dt": 1793994900.0,
       "time_scheduled": "20:55",
-      "time_estimated": "21:02",
+      "time_estimated": "20:52",
       "flight_no": "EW9511",
       "airline": "Eurowings",
       "city": "Madrid-Barajas",
@@ -490,11 +452,11 @@
       "terminal": "B",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 7
+      "delay": 0
     },
     {
       "dt": 1793995200.0,
@@ -529,15 +491,15 @@
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 12
     },
     {
       "dt": 1793995200.0,
       "time_scheduled": "21:00",
-      "time_estimated": "21:06",
+      "time_estimated": "20:54",
       "flight_no": "EW9555",
       "airline": "Eurowings",
       "city": "Lanzarote-Arrecife",
@@ -547,11 +509,11 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1793995800.0,
@@ -566,9 +528,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 10
     },
@@ -604,9 +566,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -623,9 +585,9 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -803,7 +765,7 @@
     {
       "dt": 1793998500.0,
       "time_scheduled": "21:55",
-      "time_estimated": "22:12",
+      "time_estimated": "22:02",
       "flight_no": "EW9469",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -817,7 +779,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 8
     },
     {
       "dt": 1793998800.0,
@@ -879,7 +841,7 @@
     {
       "dt": 1793999100.0,
       "time_scheduled": "22:05",
-      "time_estimated": "22:13",
+      "time_estimated": "22:16",
       "flight_no": "EW9765",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -893,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 8
+      "delay": 12
     },
     {
       "dt": 1793999100.0,
@@ -936,7 +898,7 @@
     {
       "dt": 1793999400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:07",
+      "time_estimated": "22:35",
       "flight_no": "KL1805",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -950,12 +912,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 25
     },
     {
       "dt": 1793999400.0,
       "time_scheduled": "22:10",
-      "time_estimated": "22:07",
+      "time_estimated": "22:06",
       "flight_no": "EW9221",
       "airline": "Eurowings",
       "city": "Göteborg-Landvetter",
@@ -966,8 +928,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1202,7 +1164,7 @@
     {
       "dt": 1794001200.0,
       "time_scheduled": "22:40",
-      "time_estimated": "22:37",
+      "time_estimated": "22:44",
       "flight_no": "LH2040",
       "airline": "Lufthansa",
       "city": "München",
@@ -1216,7 +1178,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 5
     },
     {
       "dt": 1794001800.0,
