@@ -1,26 +1,7 @@
 {
-  "updated_at": "06.11.2026 08:05",
+  "updated_at": "06.11.2026 08:10",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1793941800.0,
-      "time_scheduled": "06:10",
-      "time_estimated": "06:07",
-      "flight_no": "PC1663",
-      "airline": "Pegasus Airlines",
-      "city": "Samsun",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1793943600.0,
       "time_scheduled": "06:40",
@@ -309,7 +290,7 @@
     {
       "dt": 1793953800.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:27",
+      "time_estimated": "09:23",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -423,7 +404,7 @@
     {
       "dt": 1793955000.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:47",
+      "time_estimated": "09:37",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -434,8 +415,8 @@
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +537,7 @@
     {
       "dt": 1793956800.0,
       "time_scheduled": "10:20",
-      "time_estimated": "10:21",
+      "time_estimated": "10:51",
       "flight_no": "EW9771",
       "airline": "Eurowings",
       "city": "Prag",
@@ -570,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 32
     },
     {
       "dt": 1793957100.0,
@@ -1188,6 +1169,25 @@
       "airline": "Eurowings",
       "city": "Catania (Sizilien)",
       "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793967000.0,
+      "time_scheduled": "13:10",
+      "time_estimated": "13:10",
+      "flight_no": "EW9043",
+      "airline": "Eurowings",
+      "city": "Berlin-Brandenburg",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
