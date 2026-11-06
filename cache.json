@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 15:00",
+  "updated_at": "06.11.2026 15:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -423,7 +423,7 @@
     {
       "dt": 1793974500.0,
       "time_scheduled": "15:15",
-      "time_estimated": "15:08",
+      "time_estimated": "15:04",
       "flight_no": "LH2020",
       "airline": "Lufthansa",
       "city": "München",
@@ -433,9 +433,9 @@
       "terminal": "A",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1793975400.0,
       "time_scheduled": "15:30",
-      "time_estimated": "15:07",
+      "time_estimated": "15:12",
       "flight_no": "EZY8649",
       "airline": "Easy Jet",
       "city": "London-Gatwick",
@@ -518,7 +518,7 @@
     {
       "dt": 1793976300.0,
       "time_scheduled": "15:45",
-      "time_estimated": "16:34",
+      "time_estimated": "16:42",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -532,7 +532,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 49
+      "delay": 57
     },
     {
       "dt": 1793977200.0,
@@ -651,7 +651,7 @@
     {
       "dt": 1793978400.0,
       "time_scheduled": "16:20",
-      "time_estimated": "16:11",
+      "time_estimated": "16:23",
       "flight_no": "EW9465",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -665,7 +665,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1793979000.0,
@@ -993,7 +993,7 @@
     {
       "dt": 1793982300.0,
       "time_scheduled": "17:25",
-      "time_estimated": "17:43",
+      "time_estimated": "17:46",
       "flight_no": "EW9603",
       "airline": "Eurowings",
       "city": "Lissabon",
@@ -1004,10 +1004,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 18
+      "delay": 21
     },
     {
       "dt": 1793982600.0,
@@ -1259,7 +1259,7 @@
     {
       "dt": 1793985300.0,
       "time_scheduled": "18:15",
-      "time_estimated": "18:15",
+      "time_estimated": "18:06",
       "flight_no": "BM560",
       "airline": "Medsky Airways",
       "city": "Tripolis-Mitiga",
@@ -1663,6 +1663,25 @@
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
       "country": "Frankreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793991900.0,
+      "time_scheduled": "20:05",
+      "time_estimated": "20:05",
+      "flight_no": "EJU3949",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
