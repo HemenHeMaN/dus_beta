@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 08:50",
+  "updated_at": "06.11.2026 08:55",
   "source": "Dus.com",
   "flights": [
     {
@@ -187,8 +187,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -225,8 +225,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 2
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793957400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:17",
+      "time_estimated": "10:19",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -624,15 +624,15 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
     {
       "dt": 1793958300.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:39",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -646,7 +646,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 1
+      "delay": 0
     },
     {
       "dt": 1793958300.0,
@@ -1012,7 +1012,7 @@
     {
       "dt": 1793964900.0,
       "time_scheduled": "12:35",
-      "time_estimated": "11:59",
+      "time_estimated": "11:57",
       "flight_no": "XQ184",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -1314,44 +1314,6 @@
       "delay": 0
     },
     {
-      "dt": 1793968500.0,
-      "time_scheduled": "13:35",
-      "time_estimated": "13:35",
-      "flight_no": "EW9539",
-      "airline": "Eurowings",
-      "city": "Valencia",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793968800.0,
-      "time_scheduled": "13:40",
-      "time_estimated": "13:40",
-      "flight_no": "EW9501",
-      "airline": "Eurowings",
-      "city": "Ibiza",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Airline",
-      "terminal": "A",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1793969100.0,
       "time_scheduled": "13:45",
       "time_estimated": "13:45",
@@ -1419,6 +1381,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793969700.0,
+      "time_scheduled": "13:55",
+      "time_estimated": "13:55",
+      "flight_no": "KK321",
+      "airline": "LEAV Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
