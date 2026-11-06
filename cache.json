@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 13:35",
+  "updated_at": "06.11.2026 13:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -225,8 +225,8 @@
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 73
     },
@@ -491,8 +491,8 @@
       "baggage": "10",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 21
     },
@@ -528,9 +528,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 23
     },
@@ -567,8 +567,8 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 11
     },
@@ -613,7 +613,7 @@
     {
       "dt": 1793969700.0,
       "time_scheduled": "13:55",
-      "time_estimated": "13:44",
+      "time_estimated": "13:36",
       "flight_no": "KK321",
       "airline": "LEAV Aviation",
       "city": "Antalya",
@@ -623,9 +623,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1793970300.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:36",
+      "time_estimated": "14:33",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -662,10 +662,10 @@
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 31
+      "delay": 28
     },
     {
       "dt": 1793970900.0,
@@ -716,8 +716,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "19",
+      "gate": "Ausgang 6 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -887,8 +887,8 @@
       "type": "Charter",
       "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
@@ -922,11 +922,11 @@
       "airline": "Eurowings",
       "city": "Beirut",
       "country": "Libanon",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1164,7 +1164,7 @@
     {
       "dt": 1793981100.0,
       "time_scheduled": "17:05",
-      "time_estimated": "17:35",
+      "time_estimated": "17:39",
       "flight_no": "EW9547",
       "airline": "Eurowings",
       "city": "Fuerteventura",
@@ -1175,10 +1175,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 30
+      "delay": 35
     },
     {
       "dt": 1793981100.0,
@@ -1240,7 +1240,7 @@
     {
       "dt": 1793981400.0,
       "time_scheduled": "17:10",
-      "time_estimated": "17:10",
+      "time_estimated": "16:40",
       "flight_no": "XQ988",
       "airline": "Sun Express",
       "city": "Izmir",
