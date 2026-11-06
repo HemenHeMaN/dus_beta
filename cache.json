@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 08:35",
+  "updated_at": "06.11.2026 08:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -43,25 +43,6 @@
     {
       "dt": 1793949300.0,
       "time_scheduled": "08:15",
-      "time_estimated": "07:41",
-      "flight_no": "EJU3947",
-      "airline": "Easy Jet Europe",
-      "city": "Mailand-Malpensa",
-      "country": "Italien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1793949300.0,
-      "time_scheduled": "08:15",
       "time_estimated": "07:40",
       "flight_no": "XQ1320",
       "airline": "Sun Express",
@@ -79,9 +60,28 @@
       "delay": 0
     },
     {
+      "dt": 1793949300.0,
+      "time_scheduled": "08:15",
+      "time_estimated": "07:41",
+      "flight_no": "EJU3947",
+      "airline": "Easy Jet Europe",
+      "city": "Mailand-Malpensa",
+      "country": "Italien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
       "dt": 1793949600.0,
       "time_scheduled": "08:20",
-      "time_estimated": "08:39",
+      "time_estimated": "09:09",
       "flight_no": "EW8040",
       "airline": "Eurowings",
       "city": "Berlin-Brandenburg",
@@ -95,7 +95,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 20
+      "delay": 50
     },
     {
       "dt": 1793950800.0,
@@ -157,7 +157,7 @@
     {
       "dt": 1793951400.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:39",
+      "time_estimated": "08:37",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -167,9 +167,9 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -233,7 +233,7 @@
     {
       "dt": 1793952600.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:48",
+      "time_estimated": "08:43",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -263,8 +263,8 @@
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -328,7 +328,7 @@
     {
       "dt": 1793954400.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:36",
+      "time_estimated": "09:30",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -461,7 +461,7 @@
     {
       "dt": 1793955600.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:29",
+      "time_estimated": "10:22",
       "flight_no": "EW9031",
       "airline": "Eurowings",
       "city": "Hamburg",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 30
+      "delay": 23
     },
     {
       "dt": 1793955900.0,
@@ -613,7 +613,7 @@
     {
       "dt": 1793957400.0,
       "time_scheduled": "10:30",
-      "time_estimated": "10:31",
+      "time_estimated": "10:19",
       "flight_no": "EW9841",
       "airline": "Eurowings",
       "city": "Mailand-Linate",
@@ -627,7 +627,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1793958300.0,
@@ -1320,6 +1320,25 @@
       "flight_no": "EW9539",
       "airline": "Eurowings",
       "city": "Valencia",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1793968800.0,
+      "time_scheduled": "13:40",
+      "time_estimated": "13:40",
+      "flight_no": "EW9501",
+      "airline": "Eurowings",
+      "city": "Ibiza",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
