@@ -1,5 +1,5 @@
 {
-  "updated_at": "06.11.2026 22:30",
+  "updated_at": "06.11.2026 22:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 61
-    },
-    {
-      "dt": 1793993700.0,
-      "time_scheduled": "20:35",
-      "time_estimated": "20:32",
-      "flight_no": "DE1457",
-      "airline": "Condor",
-      "city": "Fuerteventura",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1793994000.0,
@@ -328,7 +309,7 @@
     {
       "dt": 1793998200.0,
       "time_scheduled": "21:50",
-      "time_estimated": "22:52",
+      "time_estimated": "22:46",
       "flight_no": "EW9835",
       "airline": "Eurowings",
       "city": "Bologna",
@@ -339,10 +320,10 @@
       "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
-      "delay": 63
+      "delay": 57
     },
     {
       "dt": 1793998500.0,
@@ -377,8 +358,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 124
     },
@@ -613,7 +594,7 @@
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:57",
+      "time_estimated": "22:50",
       "flight_no": "EW9345",
       "airline": "Eurowings",
       "city": "Manchester",
@@ -623,16 +604,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 43
+      "delay": 36
     },
     {
       "dt": 1793999700.0,
       "time_scheduled": "22:15",
-      "time_estimated": "22:37",
+      "time_estimated": "22:31",
       "flight_no": "LH078",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -642,11 +623,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 22
+      "delay": 16
     },
     {
       "dt": 1794000000.0,
