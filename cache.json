@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 10:35",
+  "updated_at": "07.11.2026 10:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -195,15 +195,15 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:21",
-      "flight_no": "LO403",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
+      "time_estimated": "09:31",
+      "flight_no": "LH072",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "6",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -214,15 +214,15 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:31",
-      "flight_no": "LH072",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
+      "time_estimated": "09:21",
+      "flight_no": "LO403",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -461,7 +461,7 @@
     {
       "dt": 1794045300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:47",
+      "time_estimated": "10:38",
       "flight_no": "BJ214",
       "airline": "Nouvelair",
       "city": "Monastir",
@@ -471,9 +471,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -518,7 +518,7 @@
     {
       "dt": 1794045900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:00",
+      "time_estimated": "11:04",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -529,8 +529,8 @@
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -585,9 +585,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -651,7 +651,7 @@
     {
       "dt": 1794048000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "12:19",
+      "time_estimated": "12:07",
       "flight_no": "X32113",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -665,7 +665,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 39
+      "delay": 28
     },
     {
       "dt": 1794048300.0,
@@ -689,7 +689,7 @@
     {
       "dt": 1794048900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "11:59",
+      "time_estimated": "11:53",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -703,7 +703,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1794049200.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1794049500.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:32",
+      "time_estimated": "12:33",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 27
+      "delay": 28
     },
     {
       "dt": 1794051000.0,
@@ -1362,6 +1362,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794062400.0,
+      "time_scheduled": "15:40",
+      "time_estimated": "15:40",
+      "flight_no": "EW9601",
+      "airline": "Eurowings",
+      "city": "Funchal (Madeira)",
+      "country": "Portugal",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
