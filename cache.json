@@ -1,26 +1,7 @@
 {
-  "updated_at": "07.11.2026 08:20",
+  "updated_at": "07.11.2026 08:25",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1794029700.0,
-      "time_scheduled": "06:35",
-      "time_estimated": "06:20",
-      "flight_no": "XQ188",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1794030000.0,
       "time_scheduled": "06:40",
@@ -119,7 +100,7 @@
     {
       "dt": 1794036900.0,
       "time_scheduled": "08:35",
-      "time_estimated": "08:30",
+      "time_estimated": "08:24",
       "flight_no": "LH2004",
       "airline": "Lufthansa",
       "city": "München",
@@ -129,9 +110,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -319,9 +300,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -347,7 +328,7 @@
     {
       "dt": 1794040200.0,
       "time_scheduled": "09:30",
-      "time_estimated": "09:21",
+      "time_estimated": "09:24",
       "flight_no": "SK1629",
       "airline": "Scandinavian Airlines",
       "city": "Kopenhagen",
@@ -358,8 +339,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -537,7 +518,7 @@
     {
       "dt": 1794042300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "09:47",
+      "time_estimated": "09:46",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -613,7 +594,7 @@
     {
       "dt": 1794044700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:46",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -627,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1794045300.0,
@@ -689,7 +670,7 @@
     {
       "dt": 1794045900.0,
       "time_scheduled": "11:05",
-      "time_estimated": "11:01",
+      "time_estimated": "11:00",
       "flight_no": "KL1799",
       "airline": "KLM",
       "city": "Amsterdam",
