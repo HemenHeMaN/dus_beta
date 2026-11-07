@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 08:25",
+  "updated_at": "07.11.2026 08:30",
   "source": "Dus.com",
   "flights": [
     {
@@ -157,7 +157,7 @@
     {
       "dt": 1794037500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:33",
+      "time_estimated": "08:28",
       "flight_no": "JU360",
       "airline": "Air Serbia",
       "city": "Belgrad",
@@ -167,9 +167,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -186,9 +186,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 3
     },
@@ -214,7 +214,7 @@
     {
       "dt": 1794038700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "09:34",
+      "time_estimated": "09:19",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -228,7 +228,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 29
+      "delay": 14
     },
     {
       "dt": 1794038700.0,
@@ -276,11 +276,11 @@
       "airline": "Finnair",
       "city": "Helsinki",
       "country": "Finnland",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "10",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -314,11 +314,11 @@
       "airline": "Turkish Airlines",
       "city": "Istanbul",
       "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "13",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -518,7 +518,7 @@
     {
       "dt": 1794042300.0,
       "time_scheduled": "10:05",
-      "time_estimated": "09:46",
+      "time_estimated": "09:50",
       "flight_no": "EJU3947",
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
@@ -784,7 +784,7 @@
     {
       "dt": 1794048000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:40",
+      "time_estimated": "11:31",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -822,7 +822,7 @@
     {
       "dt": 1794048300.0,
       "time_scheduled": "11:45",
-      "time_estimated": "11:45",
+      "time_estimated": "11:31",
       "flight_no": "BQ1952",
       "airline": "Sky Alps",
       "city": "Bozen",
