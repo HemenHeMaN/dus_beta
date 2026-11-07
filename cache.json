@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 07:30",
+  "updated_at": "07.11.2026 07:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -100,7 +100,7 @@
     {
       "dt": 1794033300.0,
       "time_scheduled": "07:35",
-      "time_estimated": "07:38",
+      "time_estimated": "07:30",
       "flight_no": "DE3843",
       "airline": "Condor",
       "city": "La Romana",
@@ -110,11 +110,11 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1794033600.0,
@@ -214,7 +214,7 @@
     {
       "dt": 1794037800.0,
       "time_scheduled": "08:50",
-      "time_estimated": "08:36",
+      "time_estimated": "08:39",
       "flight_no": "AF1306",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -328,7 +328,7 @@
     {
       "dt": 1794039600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "08:30",
+      "time_estimated": "08:37",
       "flight_no": "4M681",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -981,6 +981,25 @@
       "country": "Kosovo",
       "type": "Charter",
       "type_source": "Flugtyp",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794051300.0,
+      "time_scheduled": "12:35",
+      "time_estimated": "12:35",
+      "flight_no": "XQ184",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
