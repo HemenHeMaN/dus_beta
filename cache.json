@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 06:10",
+  "updated_at": "07.11.2026 06:15",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1794029700.0,
       "time_scheduled": "06:35",
-      "time_estimated": "06:24",
+      "time_estimated": "06:23",
       "flight_no": "XQ188",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -176,7 +176,7 @@
     {
       "dt": 1794037500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:47",
+      "time_estimated": "08:48",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 4
     },
     {
       "dt": 1794037500.0,
@@ -309,7 +309,7 @@
     {
       "dt": 1794039000.0,
       "time_scheduled": "09:10",
-      "time_estimated": "08:56",
+      "time_estimated": "09:12",
       "flight_no": "AY1391",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -323,7 +323,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 2
     },
     {
       "dt": 1794039600.0,
@@ -537,7 +537,7 @@
     {
       "dt": 1794042000.0,
       "time_scheduled": "10:00",
-      "time_estimated": "10:00",
+      "time_estimated": "09:36",
       "flight_no": "4M696",
       "airline": "Mavi Gök Aviation",
       "city": "Antalya",
@@ -548,8 +548,8 @@
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -735,6 +735,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794046500.0,
+      "time_scheduled": "11:15",
+      "time_estimated": "11:15",
+      "flight_no": "BJ2640",
+      "airline": "Nouvelair",
+      "city": "Djerba",
+      "country": "Tunesien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
