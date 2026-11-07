@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 12:45",
+  "updated_at": "07.11.2026 12:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -138,6 +138,25 @@
     {
       "dt": 1794048000.0,
       "time_scheduled": "11:40",
+      "time_estimated": "11:55",
+      "flight_no": "X32113",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 16
+    },
+    {
+      "dt": 1794048000.0,
+      "time_scheduled": "11:40",
       "time_estimated": "11:36",
       "flight_no": "A3540",
       "airline": "Aegean Airlines",
@@ -191,25 +210,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1794048000.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:55",
-      "flight_no": "X32113",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
     },
     {
       "dt": 1794048300.0,
@@ -423,7 +423,7 @@
     {
       "dt": 1794051900.0,
       "time_scheduled": "12:45",
-      "time_estimated": "12:59",
+      "time_estimated": "12:47",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -433,11 +433,11 @@
       "terminal": "B",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 15
+      "delay": 2
     },
     {
       "dt": 1794052500.0,
@@ -509,9 +509,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 9
     },
@@ -528,9 +528,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1794053700.0,
       "time_scheduled": "13:15",
-      "time_estimated": "12:52",
+      "time_estimated": "12:48",
       "flight_no": "XQ186",
       "airline": "Sun Express",
       "city": "Antalya",
@@ -566,9 +566,9 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -727,7 +727,7 @@
     {
       "dt": 1794055800.0,
       "time_scheduled": "13:50",
-      "time_estimated": "13:54",
+      "time_estimated": "14:04",
       "flight_no": "KL1801",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -741,7 +741,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 14
     },
     {
       "dt": 1794056100.0,
@@ -1149,6 +1149,25 @@
       "flight_no": "EW9545",
       "airline": "Eurowings",
       "city": "La Palma",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794070200.0,
+      "time_scheduled": "17:50",
+      "time_estimated": "17:50",
+      "flight_no": "EW9547",
+      "airline": "Eurowings",
+      "city": "Fuerteventura",
       "country": "Spanien",
       "type": "Linie",
       "type_source": "Airline",
