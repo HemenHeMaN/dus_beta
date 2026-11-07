@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 09:15",
+  "updated_at": "07.11.2026 09:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -233,25 +233,6 @@
     {
       "dt": 1794039600.0,
       "time_scheduled": "09:20",
-      "time_estimated": "08:35",
-      "flight_no": "4M681",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1794039600.0,
-      "time_scheduled": "09:20",
       "time_estimated": "09:08",
       "flight_no": "TK1523",
       "airline": "Turkish Airlines",
@@ -262,6 +243,25 @@
       "terminal": "C",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794039600.0,
+      "time_scheduled": "09:20",
+      "time_estimated": "08:35",
+      "flight_no": "4M681",
+      "airline": "Mavi Gök Aviation",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Ausgang",
+      "terminal": "A",
+      "baggage": "1",
+      "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
       "status_detail": "gelandet",
@@ -290,7 +290,7 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:26",
+      "time_estimated": "09:25",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -309,7 +309,7 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:41",
+      "time_estimated": "09:35",
       "flight_no": "LH072",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -319,16 +319,16 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1794040800.0,
       "time_scheduled": "09:40",
-      "time_estimated": "09:40",
+      "time_estimated": "09:41",
       "flight_no": "LH2006",
       "airline": "Lufthansa",
       "city": "München",
@@ -338,16 +338,16 @@
       "terminal": "A",
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
-      "delay": 1
+      "delay": 2
     },
     {
       "dt": 1794041400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:39",
+      "time_estimated": "09:33",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -357,9 +357,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -410,9 +410,9 @@
       "city": "Stockholm-Arlanda",
       "country": "Schweden",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -537,7 +537,7 @@
     {
       "dt": 1794044700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:45",
+      "time_estimated": "10:54",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -551,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1794045300.0,
@@ -594,7 +594,7 @@
     {
       "dt": 1794045600.0,
       "time_scheduled": "11:00",
-      "time_estimated": "11:13",
+      "time_estimated": "11:16",
       "flight_no": "EW9751",
       "airline": "Eurowings",
       "city": "Wien",
@@ -608,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 13
+      "delay": 16
     },
     {
       "dt": 1794045900.0,
@@ -632,7 +632,7 @@
     {
       "dt": 1794046200.0,
       "time_scheduled": "11:10",
-      "time_estimated": "10:57",
+      "time_estimated": "11:03",
       "flight_no": "A3840",
       "airline": "Aegean Airlines",
       "city": "Athen",
@@ -708,7 +708,7 @@
     {
       "dt": 1794048000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:49",
+      "time_estimated": "11:43",
       "flight_no": "X32323",
       "airline": "Tuifly",
       "city": "Palma de Mallorca",
@@ -722,7 +722,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 10
+      "delay": 4
     },
     {
       "dt": 1794048000.0,
@@ -784,7 +784,7 @@
     {
       "dt": 1794048900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:01",
+      "time_estimated": "11:59",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -795,10 +795,10 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 4
     },
     {
       "dt": 1794049200.0,
@@ -1367,6 +1367,25 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794057900.0,
+      "time_scheduled": "14:25",
+      "time_estimated": "14:20",
+      "flight_no": "SM2926",
+      "airline": "Air Cairo",
+      "city": "Marsa Alam",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
