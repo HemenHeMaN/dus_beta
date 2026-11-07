@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 14:45",
+  "updated_at": "07.11.2026 14:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -20,25 +20,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 41
-    },
-    {
-      "dt": 1794051900.0,
-      "time_scheduled": "12:45",
-      "time_estimated": "12:47",
-      "flight_no": "EW9583",
-      "airline": "Eurowings",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 2
     },
     {
       "dt": 1794052500.0,
@@ -136,28 +117,9 @@
       "delay": 0
     },
     {
-      "dt": 1794053700.0,
-      "time_scheduled": "13:15",
-      "time_estimated": "12:48",
-      "flight_no": "XQ186",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "14",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1794054000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "15:54",
+      "time_estimated": "16:03",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -171,7 +133,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 154
+      "delay": 163
     },
     {
       "dt": 1794054000.0,
@@ -366,7 +328,7 @@
     {
       "dt": 1794056700.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:49",
+      "time_estimated": "14:46",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -376,11 +338,11 @@
       "terminal": "B",
       "baggage": "8",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 44
+      "delay": 41
     },
     {
       "dt": 1794057300.0,
@@ -537,7 +499,7 @@
     {
       "dt": 1794063000.0,
       "time_scheduled": "15:50",
-      "time_estimated": "16:44",
+      "time_estimated": "16:53",
       "flight_no": "BA934",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -551,7 +513,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 55
+      "delay": 64
     },
     {
       "dt": 1794065700.0,
@@ -632,7 +594,7 @@
     {
       "dt": 1794067200.0,
       "time_scheduled": "17:00",
-      "time_estimated": "17:15",
+      "time_estimated": "17:16",
       "flight_no": "EW9581",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -646,7 +608,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 16
     },
     {
       "dt": 1794067500.0,
@@ -784,7 +746,7 @@
     {
       "dt": 1794070500.0,
       "time_scheduled": "17:55",
-      "time_estimated": "17:39",
+      "time_estimated": "17:45",
       "flight_no": "AY1395",
       "airline": "Finnair",
       "city": "Helsinki",
@@ -955,7 +917,7 @@
     {
       "dt": 1794072900.0,
       "time_scheduled": "18:35",
-      "time_estimated": "18:35",
+      "time_estimated": "19:01",
       "flight_no": "EW9561",
       "airline": "Eurowings",
       "city": "Teneriffa Süd",
@@ -966,10 +928,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 0
+      "delay": 27
     },
     {
       "dt": 1794073800.0,
@@ -1193,6 +1155,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794077400.0,
+      "time_scheduled": "19:50",
+      "time_estimated": "19:50",
+      "flight_no": "XQ180",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
