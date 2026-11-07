@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 14:05",
+  "updated_at": "07.11.2026 14:10",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,25 +62,6 @@
     {
       "dt": 1794051000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:08",
-      "flight_no": "XC102",
-      "airline": "Corendon Airlines",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "18",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1794051000.0,
-      "time_scheduled": "12:30",
       "time_estimated": "12:12",
       "flight_no": "IV8220",
       "airline": "GP Aviation",
@@ -90,25 +71,6 @@
       "type_source": "Ausgang",
       "terminal": "C",
       "baggage": "17",
-      "gate": "Ausgang 6 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1794051300.0,
-      "time_scheduled": "12:35",
-      "time_estimated": "12:10",
-      "flight_no": "XQ184",
-      "airline": "Sun Express",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "20",
       "gate": "Ausgang 6 (Charter)",
       "status": "landed",
       "status_text": "gelandet",
@@ -537,7 +499,7 @@
     {
       "dt": 1794057300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:14",
+      "time_estimated": "14:07",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -547,9 +509,9 @@
       "terminal": "A",
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -594,7 +556,7 @@
     {
       "dt": 1794058800.0,
       "time_scheduled": "14:40",
-      "time_estimated": "16:56",
+      "time_estimated": "17:13",
       "flight_no": "EW9463",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -608,7 +570,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 136
+      "delay": 153
     },
     {
       "dt": 1794059100.0,
@@ -822,7 +784,7 @@
     {
       "dt": 1794067800.0,
       "time_scheduled": "17:10",
-      "time_estimated": "16:43",
+      "time_estimated": "16:44",
       "flight_no": "TK1527",
       "airline": "Turkish Airlines",
       "city": "Istanbul",
@@ -833,8 +795,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1234,6 +1196,44 @@
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794075000.0,
+      "time_scheduled": "19:10",
+      "time_estimated": "19:10",
+      "flight_no": "OS167",
+      "airline": "Austrian Airlines",
+      "city": "Wien",
+      "country": "Österreich",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794075000.0,
+      "time_scheduled": "19:10",
+      "time_estimated": "19:05",
+      "flight_no": "EW9983",
+      "airline": "Eurowings",
+      "city": "Hurghada",
+      "country": "Ägypten",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     }
