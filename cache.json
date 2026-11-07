@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 12:40",
+  "updated_at": "07.11.2026 12:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -471,9 +471,9 @@
       "terminal": "C",
       "baggage": "19",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -486,9 +486,9 @@
       "city": "Malta",
       "country": "Malta",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -548,8 +548,8 @@
       "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1794054000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "15:36",
+      "time_estimated": "15:25",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 136
+      "delay": 125
     },
     {
       "dt": 1794054000.0,
@@ -638,9 +638,9 @@
       "city": "Heraklion (Kreta)",
       "country": "Griechenland",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -803,21 +803,21 @@
     {
       "dt": 1794057300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:13",
+      "time_estimated": "14:18",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
       "country": "Österreich",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 4
     },
     {
       "dt": 1794057900.0,
@@ -827,11 +827,11 @@
       "airline": "Air Cairo",
       "city": "Marsa Alam",
       "country": "Ägypten",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "C",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "14",
+      "gate": "Ausgang 5 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -1010,6 +1010,25 @@
       "delay": 0
     },
     {
+      "dt": 1794066000.0,
+      "time_scheduled": "16:40",
+      "time_estimated": "17:41",
+      "flight_no": "EW5431",
+      "airline": "Eurowings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Flugtyp",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 61
+    },
+    {
       "dt": 1794066600.0,
       "time_scheduled": "16:50",
       "time_estimated": "16:50",
@@ -1122,6 +1141,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 11
+    },
+    {
+      "dt": 1794069900.0,
+      "time_scheduled": "17:45",
+      "time_estimated": "17:45",
+      "flight_no": "EW9545",
+      "airline": "Eurowings",
+      "city": "La Palma",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
     }
   ]
 }
