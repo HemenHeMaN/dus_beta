@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 08:55",
+  "updated_at": "07.11.2026 09:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1794037500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "09:09",
+      "time_estimated": "08:59",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -129,11 +129,11 @@
       "terminal": "A",
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 25
+      "delay": 15
     },
     {
       "dt": 1794037500.0,
@@ -176,7 +176,7 @@
     {
       "dt": 1794038400.0,
       "time_scheduled": "09:00",
-      "time_estimated": "09:01",
+      "time_estimated": "08:55",
       "flight_no": "PC1007",
       "airline": "Pegasus Airlines",
       "city": "Istanbul-Sabiha Gökçen",
@@ -186,11 +186,11 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 2
+      "delay": 0
     },
     {
       "dt": 1794038700.0,
@@ -206,8 +206,8 @@
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -301,8 +301,8 @@
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
       "status": "active",
-      "status_text": "Im Anflug",
-      "status_detail": "Im Anflug",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -404,21 +404,21 @@
     {
       "dt": 1794041400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:56",
+      "time_estimated": "09:48",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
       "country": "Schweiz",
       "type": "Linie",
-      "type_source": "Airline",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 0
     },
     {
       "dt": 1794041700.0,
@@ -467,9 +467,9 @@
       "city": "Palma de Mallorca",
       "country": "Spanien",
       "type": "Charter",
-      "type_source": "Flugtyp",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
+      "baggage": "11",
       "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
@@ -504,11 +504,11 @@
       "airline": "Easy Jet Europe",
       "city": "Mailand-Malpensa",
       "country": "Italien",
-      "type": "Linie",
-      "type_source": "Airline",
+      "type": "Charter",
+      "type_source": "Ausgang",
       "terminal": "B",
-      "baggage": "",
-      "gate": "Ausgang 1 (Linie)",
+      "baggage": "7",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
@@ -575,7 +575,7 @@
     {
       "dt": 1794044700.0,
       "time_scheduled": "10:45",
-      "time_estimated": "10:54",
+      "time_estimated": "10:45",
       "flight_no": "AF1606",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -589,7 +589,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1794045300.0,
@@ -708,7 +708,7 @@
     {
       "dt": 1794046800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:02",
+      "time_estimated": "11:00",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -719,8 +719,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -822,7 +822,7 @@
     {
       "dt": 1794048900.0,
       "time_scheduled": "11:55",
-      "time_estimated": "12:10",
+      "time_estimated": "12:01",
       "flight_no": "TP540",
       "airline": "TAP Portugal",
       "city": "Lissabon",
@@ -836,7 +836,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 15
+      "delay": 6
     },
     {
       "dt": 1794049200.0,
@@ -917,7 +917,7 @@
     {
       "dt": 1794051000.0,
       "time_scheduled": "12:30",
-      "time_estimated": "12:19",
+      "time_estimated": "12:13",
       "flight_no": "XC102",
       "airline": "Corendon Airlines",
       "city": "Antalya",
@@ -1340,6 +1340,25 @@
       "airline": "LEAV Aviation",
       "city": "Antalya",
       "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794056400.0,
+      "time_scheduled": "14:00",
+      "time_estimated": "14:00",
+      "flight_no": "RJ129",
+      "airline": "Royal Jordanian",
+      "city": "Amman-Queen Alia",
+      "country": "Jordanien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
