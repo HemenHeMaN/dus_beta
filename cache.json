@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 06:40",
+  "updated_at": "07.11.2026 06:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1794033600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:43",
+      "time_estimated": "07:35",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -133,7 +133,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1794036900.0,
@@ -176,7 +176,7 @@
     {
       "dt": 1794037500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:48",
+      "time_estimated": "08:40",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 4
+      "delay": 0
     },
     {
       "dt": 1794037500.0,
@@ -442,7 +442,7 @@
     {
       "dt": 1794041400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:44",
+      "time_estimated": "09:45",
       "flight_no": "EI692",
       "airline": "Aer Lingus",
       "city": "Dublin",
@@ -480,7 +480,7 @@
     {
       "dt": 1794041700.0,
       "time_scheduled": "09:55",
-      "time_estimated": "09:36",
+      "time_estimated": "09:39",
       "flight_no": "VF029",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -491,8 +491,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -575,7 +575,7 @@
     {
       "dt": 1794042600.0,
       "time_scheduled": "10:10",
-      "time_estimated": "09:43",
+      "time_estimated": "09:45",
       "flight_no": "NP855",
       "airline": "Nile Air",
       "city": "Hurghada",
@@ -851,6 +851,25 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794048300.0,
+      "time_scheduled": "11:45",
+      "time_estimated": "11:45",
+      "flight_no": "BQ1952",
+      "airline": "Sky Alps",
+      "city": "Bozen",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
