@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 10:30",
+  "updated_at": "07.11.2026 10:35",
   "source": "Dus.com",
   "flights": [
     {
@@ -174,25 +174,6 @@
       "delay": 0
     },
     {
-      "dt": 1794039600.0,
-      "time_scheduled": "09:20",
-      "time_estimated": "08:35",
-      "flight_no": "4M681",
-      "airline": "Mavi Gök Aviation",
-      "city": "Antalya",
-      "country": "Türkei",
-      "type": "Linie",
-      "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
-      "gate": "Ausgang 1 (Linie)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1794040200.0,
       "time_scheduled": "09:30",
       "time_estimated": "09:20",
@@ -214,15 +195,15 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:31",
-      "flight_no": "LH072",
-      "airline": "Lufthansa",
-      "city": "Frankfurt",
-      "country": "Deutschland",
+      "time_estimated": "09:21",
+      "flight_no": "LO403",
+      "airline": "LOT Polish Airlines",
+      "city": "Warschau",
+      "country": "Polen",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "2",
+      "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -233,15 +214,15 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:21",
-      "flight_no": "LO403",
-      "airline": "LOT Polish Airlines",
-      "city": "Warschau",
-      "country": "Polen",
+      "time_estimated": "09:31",
+      "flight_no": "LH072",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
       "type": "Linie",
       "type_source": "Ausgang",
       "terminal": "A",
-      "baggage": "6",
+      "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -499,7 +480,7 @@
     {
       "dt": 1794045300.0,
       "time_scheduled": "10:55",
-      "time_estimated": "10:33",
+      "time_estimated": "10:32",
       "flight_no": "FH1193",
       "airline": "Freebird Airlines",
       "city": "Antalya",
@@ -509,9 +490,9 @@
       "terminal": "C",
       "baggage": "17",
       "gate": "Ausgang 6 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -898,7 +879,7 @@
     {
       "dt": 1794051900.0,
       "time_scheduled": "12:45",
-      "time_estimated": "13:03",
+      "time_estimated": "13:01",
       "flight_no": "EW9583",
       "airline": "Eurowings",
       "city": "Palma de Mallorca",
@@ -912,12 +893,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 18
+      "delay": 16
     },
     {
       "dt": 1794052500.0,
       "time_scheduled": "12:55",
-      "time_estimated": "13:01",
+      "time_estimated": "12:58",
       "flight_no": "EW9531",
       "airline": "Eurowings",
       "city": "Alicante",
@@ -928,10 +909,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 3
     },
     {
       "dt": 1794053100.0,
@@ -955,7 +936,7 @@
     {
       "dt": 1794053100.0,
       "time_scheduled": "13:05",
-      "time_estimated": "13:04",
+      "time_estimated": "13:14",
       "flight_no": "EW9691",
       "airline": "Eurowings",
       "city": "Malta",
@@ -969,7 +950,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 9
     },
     {
       "dt": 1794053400.0,
@@ -1088,7 +1069,7 @@
     {
       "dt": 1794054900.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:35",
+      "time_estimated": "13:46",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1102,7 +1083,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 12
     },
     {
       "dt": 1794054900.0,
@@ -1140,7 +1121,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 1
     },
     {
       "dt": 1794055500.0,
@@ -1358,6 +1339,25 @@
       "flight_no": "PC1619",
       "airline": "Pegasus Airlines",
       "city": "Kayseri",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794062100.0,
+      "time_scheduled": "15:35",
+      "time_estimated": "15:35",
+      "flight_no": "VF027",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
       "country": "Türkei",
       "type": "Linie",
       "type_source": "Airline",
