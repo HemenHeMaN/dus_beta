@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 10:45",
+  "updated_at": "07.11.2026 10:50",
   "source": "Dus.com",
   "flights": [
     {
@@ -39,25 +39,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 15
-    },
-    {
-      "dt": 1794037800.0,
-      "time_scheduled": "08:50",
-      "time_estimated": "08:46",
-      "flight_no": "AF1306",
-      "airline": "Air France",
-      "city": "Paris-Charles de Gaulle",
-      "country": "Frankreich",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "7",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
     },
     {
       "dt": 1794038400.0,
@@ -114,25 +95,6 @@
       "status_text": "annulliert",
       "status_detail": "annulliert, annulliert",
       "remark": "annulliert",
-      "delay": 0
-    },
-    {
-      "dt": 1794039000.0,
-      "time_scheduled": "09:10",
-      "time_estimated": "08:49",
-      "flight_no": "AY1391",
-      "airline": "Finnair",
-      "city": "Helsinki",
-      "country": "Finnland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "10",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
       "delay": 0
     },
     {
@@ -433,9 +395,9 @@
       "terminal": "B",
       "baggage": "7",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 24
     },
@@ -490,9 +452,9 @@
       "terminal": "B",
       "baggage": "14",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 8
     },
@@ -528,9 +490,9 @@
       "terminal": "B",
       "baggage": "9",
       "gate": "Ausgang 4 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -547,9 +509,9 @@
       "terminal": "C",
       "baggage": "18",
       "gate": "Ausgang 6 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "Im Anflug",
+      "status_detail": "Im Anflug",
       "remark": "",
       "delay": 0
     },
@@ -1050,7 +1012,7 @@
     {
       "dt": 1794054900.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:46",
+      "time_estimated": "13:40",
       "flight_no": "EW9535",
       "airline": "Eurowings",
       "city": "Malaga",
@@ -1064,12 +1026,12 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 6
     },
     {
       "dt": 1794054900.0,
       "time_scheduled": "13:35",
-      "time_estimated": "13:50",
+      "time_estimated": "13:51",
       "flight_no": "EW9671",
       "airline": "Eurowings",
       "city": "Heraklion (Kreta)",
@@ -1080,10 +1042,10 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 15
+      "delay": 17
     },
     {
       "dt": 1794054900.0,
@@ -1126,7 +1088,7 @@
     {
       "dt": 1794055500.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:45",
+      "time_estimated": "13:51",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -1140,7 +1102,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 6
     },
     {
       "dt": 1794055800.0,
@@ -1362,6 +1324,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794063000.0,
+      "time_scheduled": "15:50",
+      "time_estimated": "15:50",
+      "flight_no": "BA934",
+      "airline": "British Airways",
+      "city": "London-Heathrow",
+      "country": "Großbritannien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
