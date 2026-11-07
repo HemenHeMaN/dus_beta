@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 12:15",
+  "updated_at": "07.11.2026 12:20",
   "source": "Dus.com",
   "flights": [
     {
@@ -24,7 +24,7 @@
     {
       "dt": 1794043800.0,
       "time_scheduled": "10:30",
-      "time_estimated": "13:30",
+      "time_estimated": "13:27",
       "flight_no": "EW9461",
       "airline": "Eurowings",
       "city": "London-Heathrow",
@@ -35,10 +35,10 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 181
+      "delay": 178
     },
     {
       "dt": 1794044700.0,
@@ -195,44 +195,6 @@
     {
       "dt": 1794048000.0,
       "time_scheduled": "11:40",
-      "time_estimated": "11:36",
-      "flight_no": "A3540",
-      "airline": "Aegean Airlines",
-      "city": "Thessaloniki",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "8",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1794048000.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:29",
-      "flight_no": "X32323",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "12",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
-      "dt": 1794048000.0,
-      "time_scheduled": "11:40",
       "time_estimated": "11:34",
       "flight_no": "PC1001",
       "airline": "Pegasus Airlines",
@@ -267,6 +229,44 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 16
+    },
+    {
+      "dt": 1794048000.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:36",
+      "flight_no": "A3540",
+      "airline": "Aegean Airlines",
+      "city": "Thessaloniki",
+      "country": "Griechenland",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "8",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794048000.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:29",
+      "flight_no": "X32323",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "12",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 0
     },
     {
       "dt": 1794048300.0,
@@ -309,15 +309,15 @@
     {
       "dt": 1794049200.0,
       "time_scheduled": "12:00",
-      "time_estimated": "11:27",
-      "flight_no": "EW9867",
+      "time_estimated": "11:57",
+      "flight_no": "EW9441",
       "airline": "Eurowings",
-      "city": "Salerno",
-      "country": "Italien",
+      "city": "Barcelona",
+      "country": "Spanien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "5",
+      "terminal": "A",
+      "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -328,15 +328,15 @@
     {
       "dt": 1794049200.0,
       "time_scheduled": "12:00",
-      "time_estimated": "11:57",
-      "flight_no": "EW9441",
+      "time_estimated": "11:27",
+      "flight_no": "EW9867",
       "airline": "Eurowings",
-      "city": "Barcelona",
-      "country": "Spanien",
+      "city": "Salerno",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Ausgang",
-      "terminal": "A",
-      "baggage": "1",
+      "terminal": "B",
+      "baggage": "5",
       "gate": "Ausgang 1 (Linie)",
       "status": "landed",
       "status_text": "gelandet",
@@ -357,9 +357,9 @@
       "terminal": "A",
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 29
     },
@@ -556,7 +556,7 @@
     {
       "dt": 1794053400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:15",
+      "time_estimated": "13:18",
       "flight_no": "VL2016",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -567,10 +567,10 @@
       "baggage": "3",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 6
+      "delay": 9
     },
     {
       "dt": 1794053700.0,
@@ -746,7 +746,7 @@
     {
       "dt": 1794055500.0,
       "time_scheduled": "13:45",
-      "time_estimated": "13:51",
+      "time_estimated": "13:46",
       "flight_no": "LH074",
       "airline": "Lufthansa",
       "city": "Frankfurt",
@@ -760,7 +760,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 2
     },
     {
       "dt": 1794055800.0,
@@ -841,7 +841,7 @@
     {
       "dt": 1794056700.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:11",
+      "time_estimated": "14:41",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 6
+      "delay": 36
     },
     {
       "dt": 1794057300.0,
