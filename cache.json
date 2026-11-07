@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 12:55",
+  "updated_at": "07.11.2026 13:00",
   "source": "Dus.com",
   "flights": [
     {
@@ -79,25 +79,6 @@
       "delay": 0
     },
     {
-      "dt": 1794046200.0,
-      "time_scheduled": "11:10",
-      "time_estimated": "10:58",
-      "flight_no": "A3840",
-      "airline": "Aegean Airlines",
-      "city": "Athen",
-      "country": "Griechenland",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "9",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
-    {
       "dt": 1794046500.0,
       "time_scheduled": "11:15",
       "time_estimated": "11:05",
@@ -115,25 +96,6 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
-    },
-    {
-      "dt": 1794048000.0,
-      "time_scheduled": "11:40",
-      "time_estimated": "11:55",
-      "flight_no": "X32113",
-      "airline": "Tuifly",
-      "city": "Palma de Mallorca",
-      "country": "Spanien",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "B",
-      "baggage": "11",
-      "gate": "Ausgang 4 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 16
     },
     {
       "dt": 1794048000.0,
@@ -191,6 +153,25 @@
       "status_detail": "gelandet",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1794048000.0,
+      "time_scheduled": "11:40",
+      "time_estimated": "11:55",
+      "flight_no": "X32113",
+      "airline": "Tuifly",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Charter",
+      "type_source": "Ausgang",
+      "terminal": "B",
+      "baggage": "11",
+      "gate": "Ausgang 4 (Charter)",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
+      "remark": "",
+      "delay": 16
     },
     {
       "dt": 1794048300.0,
@@ -480,7 +461,7 @@
     {
       "dt": 1794053400.0,
       "time_scheduled": "13:10",
-      "time_estimated": "13:18",
+      "time_estimated": "13:07",
       "flight_no": "VL2016",
       "airline": "Lufthansa City Airlines",
       "city": "München",
@@ -494,7 +475,7 @@
       "status_text": "im Anflug",
       "status_detail": "im Anflug",
       "remark": "",
-      "delay": 9
+      "delay": 0
     },
     {
       "dt": 1794053700.0,
@@ -556,7 +537,7 @@
     {
       "dt": 1794054000.0,
       "time_scheduled": "13:20",
-      "time_estimated": "15:25",
+      "time_estimated": "15:34",
       "flight_no": "BA932",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -570,7 +551,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 125
+      "delay": 134
     },
     {
       "dt": 1794054000.0,
@@ -784,7 +765,7 @@
     {
       "dt": 1794057300.0,
       "time_scheduled": "14:15",
-      "time_estimated": "14:18",
+      "time_estimated": "14:19",
       "flight_no": "OS163",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -795,10 +776,10 @@
       "baggage": "1",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 4
+      "delay": 5
     },
     {
       "dt": 1794057900.0,
@@ -1231,6 +1212,44 @@
       "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794070800.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:00",
+      "flight_no": "LH076",
+      "airline": "Lufthansa",
+      "city": "Frankfurt",
+      "country": "Deutschland",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794070800.0,
+      "time_scheduled": "18:00",
+      "time_estimated": "18:00",
+      "flight_no": "XQ182",
+      "airline": "Sun Express",
+      "city": "Antalya",
+      "country": "Türkei",
+      "type": "Charter",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 4 (Charter)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
