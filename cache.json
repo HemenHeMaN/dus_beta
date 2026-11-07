@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 07:35",
+  "updated_at": "07.11.2026 07:40",
   "source": "Dus.com",
   "flights": [
     {
@@ -119,7 +119,7 @@
     {
       "dt": 1794033600.0,
       "time_scheduled": "07:40",
-      "time_estimated": "07:42",
+      "time_estimated": "07:36",
       "flight_no": "KL1797",
       "airline": "KLM",
       "city": "Amsterdam",
@@ -129,11 +129,11 @@
       "terminal": "B",
       "baggage": "6",
       "gate": "Ausgang 1 (Linie)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
-      "delay": 3
+      "delay": 0
     },
     {
       "dt": 1794036900.0,
@@ -271,7 +271,7 @@
     {
       "dt": 1794038700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:59",
+      "time_estimated": "08:55",
       "flight_no": "OS161",
       "airline": "Austrian Airlines",
       "city": "Wien",
@@ -282,8 +282,8 @@
       "baggage": "4",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1003,6 +1003,25 @@
       "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 4 (Charter)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794051600.0,
+      "time_scheduled": "12:40",
+      "time_estimated": "12:40",
+      "flight_no": "VF025",
+      "airline": "A Jet",
+      "city": "Istanbul-Sabiha Gökçen",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
       "status_text": "",
       "status_detail": "",
