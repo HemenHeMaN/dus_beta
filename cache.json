@@ -1,26 +1,7 @@
 {
-  "updated_at": "07.11.2026 08:00",
+  "updated_at": "07.11.2026 08:05",
   "source": "Dus.com",
   "flights": [
-    {
-      "dt": 1794028800.0,
-      "time_scheduled": "06:20",
-      "time_estimated": "06:04",
-      "flight_no": "PC1591",
-      "airline": "Pegasus Airlines",
-      "city": "Mersin-Çukurova",
-      "country": "Türkei",
-      "type": "Charter",
-      "type_source": "Ausgang",
-      "terminal": "C",
-      "baggage": "13",
-      "gate": "Ausgang 5 (Charter)",
-      "status": "landed",
-      "status_text": "gelandet",
-      "status_detail": "gelandet",
-      "remark": "",
-      "delay": 0
-    },
     {
       "dt": 1794029700.0,
       "time_scheduled": "06:35",
@@ -385,7 +366,7 @@
     {
       "dt": 1794040500.0,
       "time_scheduled": "09:35",
-      "time_estimated": "09:31",
+      "time_estimated": "09:32",
       "flight_no": "LO403",
       "airline": "LOT Polish Airlines",
       "city": "Warschau",
@@ -396,8 +377,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -765,7 +746,7 @@
     {
       "dt": 1794046800.0,
       "time_scheduled": "11:20",
-      "time_estimated": "11:20",
+      "time_estimated": "11:04",
       "flight_no": "IB1319",
       "airline": "Iberia",
       "city": "Madrid-Barajas",
@@ -936,7 +917,7 @@
     {
       "dt": 1794049500.0,
       "time_scheduled": "12:05",
-      "time_estimated": "12:05",
+      "time_estimated": "12:18",
       "flight_no": "EW9883",
       "airline": "Eurowings",
       "city": "Rom-Fiumicino",
@@ -950,7 +931,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 13
     },
     {
       "dt": 1794051000.0,
@@ -1050,6 +1031,25 @@
     {
       "dt": 1794051900.0,
       "time_scheduled": "12:45",
+      "time_estimated": "13:01",
+      "flight_no": "EW9853",
+      "airline": "Eurowings",
+      "city": "Lamezia Terme (Kalabrien)",
+      "country": "Italien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 16
+    },
+    {
+      "dt": 1794051900.0,
+      "time_scheduled": "12:45",
       "time_estimated": "12:45",
       "flight_no": "EW9583",
       "airline": "Eurowings",
@@ -1077,6 +1077,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794053100.0,
+      "time_scheduled": "13:05",
+      "time_estimated": "13:05",
+      "flight_no": "TK1525",
+      "airline": "Turkish Airlines",
+      "city": "Istanbul",
+      "country": "Türkei",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "C",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
