@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 07:40",
+  "updated_at": "07.11.2026 07:45",
   "source": "Dus.com",
   "flights": [
     {
@@ -149,8 +149,8 @@
       "baggage": "2",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 2
     },
@@ -176,7 +176,7 @@
     {
       "dt": 1794037500.0,
       "time_scheduled": "08:45",
-      "time_estimated": "08:56",
+      "time_estimated": "09:06",
       "flight_no": "LX1016",
       "airline": "Swiss",
       "city": "Zürich",
@@ -190,7 +190,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 12
+      "delay": 22
     },
     {
       "dt": 1794037500.0,
@@ -252,7 +252,7 @@
     {
       "dt": 1794038700.0,
       "time_scheduled": "09:05",
-      "time_estimated": "08:55",
+      "time_estimated": "09:03",
       "flight_no": "BA930",
       "airline": "British Airways",
       "city": "London-Heathrow",
@@ -594,7 +594,7 @@
     {
       "dt": 1794042900.0,
       "time_scheduled": "10:15",
-      "time_estimated": "10:31",
+      "time_estimated": "10:37",
       "flight_no": "ME247",
       "airline": "Middle East Airlines",
       "city": "Beirut",
@@ -608,7 +608,7 @@
       "status_text": "Vorhafen verlassen",
       "status_detail": "Vorhafen verlassen",
       "remark": "",
-      "delay": 17
+      "delay": 23
     },
     {
       "dt": 1794043800.0,
@@ -1020,6 +1020,25 @@
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "C",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794051900.0,
+      "time_scheduled": "12:45",
+      "time_estimated": "12:45",
+      "flight_no": "EW9583",
+      "airline": "Eurowings",
+      "city": "Palma de Mallorca",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
