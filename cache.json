@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 12:20",
+  "updated_at": "07.11.2026 12:25",
   "source": "Dus.com",
   "flights": [
     {
@@ -376,9 +376,9 @@
       "terminal": "C",
       "baggage": "13",
       "gate": "Ausgang 5 (Charter)",
-      "status": "scheduled",
-      "status_text": "Vorhafen verlassen",
-      "status_detail": "Vorhafen verlassen",
+      "status": "active",
+      "status_text": "im Anflug",
+      "status_detail": "im Anflug",
       "remark": "",
       "delay": 14
     },
@@ -442,7 +442,7 @@
     {
       "dt": 1794051600.0,
       "time_scheduled": "12:40",
-      "time_estimated": "12:25",
+      "time_estimated": "12:22",
       "flight_no": "VF025",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -452,9 +452,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -841,7 +841,7 @@
     {
       "dt": 1794056700.0,
       "time_scheduled": "14:05",
-      "time_estimated": "14:41",
+      "time_estimated": "14:51",
       "flight_no": "AF1506",
       "airline": "Air France",
       "city": "Paris-Charles de Gaulle",
@@ -855,7 +855,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 36
+      "delay": 46
     },
     {
       "dt": 1794057300.0,
@@ -974,7 +974,7 @@
     {
       "dt": 1794062100.0,
       "time_scheduled": "15:35",
-      "time_estimated": "15:10",
+      "time_estimated": "15:09",
       "flight_no": "VF027",
       "airline": "A Jet",
       "city": "Istanbul-Sabiha Gökçen",
@@ -985,8 +985,8 @@
       "baggage": "",
       "gate": "Ausgang 1 (Linie)",
       "status": "scheduled",
-      "status_text": "",
-      "status_detail": "",
+      "status_text": "Vorhafen verlassen",
+      "status_detail": "Vorhafen verlassen",
       "remark": "",
       "delay": 0
     },
@@ -1160,6 +1160,25 @@
       "status_detail": "",
       "remark": "",
       "delay": 0
+    },
+    {
+      "dt": 1794067800.0,
+      "time_scheduled": "17:10",
+      "time_estimated": "17:21",
+      "flight_no": "EW9549",
+      "airline": "Eurowings",
+      "city": "Gran Canaria",
+      "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "B",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 11
     }
   ]
 }
