@@ -1,5 +1,5 @@
 {
-  "updated_at": "07.11.2026 07:00",
+  "updated_at": "07.11.2026 07:05",
   "source": "Dus.com",
   "flights": [
     {
@@ -62,7 +62,7 @@
     {
       "dt": 1794031800.0,
       "time_scheduled": "07:10",
-      "time_estimated": "07:08",
+      "time_estimated": "07:03",
       "flight_no": "QR087",
       "airline": "Qatar Airways",
       "city": "Doha",
@@ -72,9 +72,9 @@
       "terminal": "C",
       "baggage": "12",
       "gate": "Ausgang 4 (Charter)",
-      "status": "active",
-      "status_text": "im Anflug",
-      "status_detail": "im Anflug",
+      "status": "landed",
+      "status_text": "gelandet",
+      "status_detail": "gelandet",
       "remark": "",
       "delay": 0
     },
@@ -461,7 +461,7 @@
     {
       "dt": 1794041400.0,
       "time_scheduled": "09:50",
-      "time_estimated": "09:50",
+      "time_estimated": "10:04",
       "flight_no": "EW9761",
       "airline": "Eurowings",
       "city": "Zürich",
@@ -475,7 +475,7 @@
       "status_text": "",
       "status_detail": "",
       "remark": "",
-      "delay": 0
+      "delay": 14
     },
     {
       "dt": 1794041700.0,
@@ -922,6 +922,25 @@
       "airline": "Eurowings",
       "city": "Barcelona",
       "country": "Spanien",
+      "type": "Linie",
+      "type_source": "Airline",
+      "terminal": "A",
+      "baggage": "",
+      "gate": "Ausgang 1 (Linie)",
+      "status": "scheduled",
+      "status_text": "",
+      "status_detail": "",
+      "remark": "",
+      "delay": 0
+    },
+    {
+      "dt": 1794049500.0,
+      "time_scheduled": "12:05",
+      "time_estimated": "12:05",
+      "flight_no": "EW9883",
+      "airline": "Eurowings",
+      "city": "Rom-Fiumicino",
+      "country": "Italien",
       "type": "Linie",
       "type_source": "Airline",
       "terminal": "A",
